@@ -1,0 +1,143 @@
+{
+  "grammar_name": "there be句型-否定和疑问",
+  "level": "小学五年级",
+  "category": "基础语法",
+  "difficulty": "easy",
+  "description": "学习there be句型的否定形式和疑问形式",
+  "explanation": {
+    "negative_form": "There + be + not + 名词 + 地点",
+    "question_form": "Be + there + 名词 + 地点?",
+    "basic_rules": [
+      "否定形式：There isn't/aren't + 名词 + 地点",
+      "疑问形式：Is/Are + there + 名词 + 地点?",
+      "单数用isn't/Is，复数用aren't/Are",
+      "回答用Yes, there is/are. 或 No, there isn't/aren't."
+    ],
+    "usage_cases": [
+      "否定：There isn't a book on the desk.",
+      "疑问：Is there a book on the desk?",
+      "回答：Yes, there is. / No, there isn't.",
+      "复数疑问：Are there any books on the desk?"
+    ],
+    "common_errors": [
+      "There not is a book on the desk. (错误) → There isn't a book on the desk. (正确)",
+      "Is there a book on the desk? (错误) → Is there a book on the desk? (正确)",
+      "Yes, there are. (错误) → Yes, there is. (正确)"
+    ],
+    "usage_tips": [
+      "否定形式将not放在be动词后面",
+      "疑问形式将be动词提前",
+      "回答要与问句中的be动词保持一致",
+      "注意单复数的区别"
+    ]
+  },
+  "examples": {
+    "negative_singular": [
+      "There isn't a book on the desk.",
+      "There isn't a cat in the garden.",
+      "There isn't any water in the bottle.",
+      "There isn't a student in the classroom.",
+      "There isn't a car in the garage."
+    ],
+    "negative_plural": [
+      "There aren't any books on the desk.",
+      "There aren't any cats in the garden.",
+      "There aren't any students in the classroom.",
+      "There aren't any cars in the garage.",
+      "There aren't any apples on the table."
+    ],
+    "questions_singular": [
+      "Is there a book on the desk?",
+      "Is there a cat in the garden?",
+      "Is there any water in the bottle?",
+      "Is there a student in the classroom?",
+      "Is there a car in the garage?"
+    ],
+    "questions_plural": [
+      "Are there any books on the desk?",
+      "Are there any cats in the garden?",
+      "Are there any students in the classroom?",
+      "Are there any cars in the garage?",
+      "Are there any apples on the table?"
+    ],
+    "answers": [
+      "Yes, there is. / No, there isn't.",
+      "Yes, there are. / No, there aren't.",
+      "Yes, there is a book on the desk.",
+      "No, there aren't any students in the classroom."
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "There _____ a book on the desk.",
+          "correct": "isn't",
+          "wrong_options": ["aren't", "not is", "not are"],
+          "explanation": "单数否定用isn't"
+        },
+        {
+          "question": "_____ there any books on the desk?",
+          "correct": "Are",
+          "wrong_options": ["Is", "Do", "Does"],
+          "explanation": "复数疑问用Are"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "There _____ any cats in the garden.",
+          "answer": "aren't",
+          "explanation": "复数否定用aren't"
+        },
+        {
+          "question": "_____ there a student in the classroom?",
+          "answer": "Is",
+          "explanation": "单数疑问用Is"
+        }
+      ]
+    },
+    "transformation": {
+      "templates": [
+        {
+          "question": "将陈述句变为疑问句：There is a book on the desk.",
+          "answer": "Is there a book on the desk?",
+          "explanation": "疑问句将be动词提前"
+        },
+        {
+          "question": "将陈述句变为否定句：There are many books on the desk.",
+          "answer": "There aren't many books on the desk.",
+          "explanation": "否定句在be动词后加not"
+        }
+      ]
+    },
+    "error_correction": {
+      "templates": [
+        {
+          "sentence": "There not is a book on the desk.",
+          "error": "not is",
+          "correction": "isn't",
+          "explanation": "否定形式将not放在be动词后面"
+        },
+        {
+          "sentence": "Is there a book on the desk? Yes, there are.",
+          "error": "there are",
+          "correction": "there is",
+          "explanation": "回答要与问句中的be动词保持一致"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握there be句型的否定形式",
+    "掌握there be句型的疑问形式",
+    "能够正确回答there be句型的疑问句"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用there be句型的否定和疑问形式，无语法错误",
+    "good": "基本掌握there be句型的否定和疑问形式，偶有错误",
+    "satisfactory": "了解there be句型的否定和疑问形式，需要加强练习",
+    "needs_improvement": "对there be句型的否定和疑问形式不熟悉，需要重新学习"
+  }
+}

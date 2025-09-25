@@ -1,0 +1,165 @@
+{
+  "grammar_name": "人称代词",
+  "level": "小学四年级",
+  "category": "基础语法",
+  "difficulty": "easy",
+  "description": "人称代词用来代替人或事物，分为主格和宾格",
+  "explanation": {
+    "basic_rules": {
+      "subjective_case": [
+        "I 我 (作主语)",
+        "You 你/你们 (作主语)",
+        "He 他 (作主语)",
+        "She 她 (作主语)",
+        "It 它 (作主语)",
+        "We 我们 (作主语)",
+        "They 他们/她们/它们 (作主语)"
+      ],
+      "objective_case": [
+        "me 我 (作宾语)",
+        "you 你/你们 (作宾语)",
+        "him 他 (作宾语)",
+        "her 她 (作宾语)",
+        "it 它 (作宾语)",
+        "us 我们 (作宾语)",
+        "them 他们/她们/它们 (作宾语)"
+      ]
+    },
+    "usage_rules": [
+      "主格 + 动词 + 宾格",
+      "介词 + 宾格",
+      "动词 + 宾格 + 动词原形"
+    ],
+    "common_errors": [
+      "Please give I the book. (错误) → Please give me the book. (正确)",
+      "Him is my friend. (错误) → He is my friend. (正确)",
+      "I and he are students. (错误) → He and I are students. (正确)"
+    ],
+    "usage_tips": [
+      "作主语时用主格",
+      "作宾语时用宾格",
+      "礼貌用语中，别人在前，自己在后"
+    ]
+  },
+  "examples": {
+    "subjective_usage": [
+      "I like apples.",
+      "You are my friend.",
+      "He plays football.",
+      "She sings well.",
+      "It is a cat.",
+      "We study together.",
+      "They are students."
+    ],
+    "objective_usage": [
+      "Please help me.",
+      "I tell you a secret.",
+      "I give him a book.",
+      "I see her every day.",
+      "I love it.",
+      "They teach us English.",
+      "I know them well."
+    ],
+    "mixed_usage": [
+      "I love him.",
+      "She helps me.",
+      "We watch them play.",
+      "They give us presents.",
+      "He tells her the truth.",
+      "I show it to you."
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "Please give _____ the book.",
+          "correct": "me",
+          "wrong_options": ["I", "my", "mine"],
+          "explanation": "作宾语用宾格me"
+        },
+        {
+          "question": "_____ is my teacher.",
+          "correct": "He",
+          "wrong_options": ["Him", "His", "Himself"],
+          "explanation": "作主语用主格He"
+        },
+        {
+          "question": "I help _____ with homework.",
+          "correct": "them",
+          "wrong_options": ["they", "their", "theirs"],
+          "explanation": "作宾语用宾格them"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "Please help _____.",
+          "answer": "me",
+          "explanation": "作宾语用宾格me"
+        },
+        {
+          "question": "_____ is my friend.",
+          "answer": "She",
+          "explanation": "作主语用主格She"
+        },
+        {
+          "question": "I give _____ a present.",
+          "answer": "him",
+          "explanation": "作宾语用宾格him"
+        }
+      ]
+    },
+    "error_correction": {
+      "templates": [
+        {
+          "sentence": "Please give the book to he.",
+          "error": "he",
+          "correction": "him",
+          "explanation": "作宾语用宾格him，不用主格he"
+        },
+        {
+          "sentence": "Him is my brother.",
+          "error": "Him",
+          "correction": "He",
+          "explanation": "作主语用主格He，不用宾格Him"
+        },
+        {
+          "sentence": "I and she are friends.",
+          "error": "I and she",
+          "correction": "She and I",
+          "explanation": "礼貌用语中，别人在前，自己在后"
+        }
+      ]
+    },
+    "replacement": {
+      "templates": [
+        {
+          "sentence": "I gave the book to John.",
+          "target": "John",
+          "replacement": "him",
+          "explanation": "John是第三人称单数，作宾语用him"
+        },
+        {
+          "sentence": "Mary is my sister.",
+          "target": "Mary",
+          "replacement": "She",
+          "explanation": "Mary是第三人称单数女性，作主语用She"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握人称代词的主格和宾格形式",
+    "能够正确使用主格和宾格",
+    "了解人称代词的礼貌用法",
+    "能够在实际语境中正确使用人称代词"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用人称代词的各种形式，无语法错误",
+    "good": "基本掌握人称代词用法，偶有错误",
+    "satisfactory": "了解人称代词基本用法，需要加强练习",
+    "needs_improvement": "对人称代词用法不熟悉，需要重新学习"
+  }
+}

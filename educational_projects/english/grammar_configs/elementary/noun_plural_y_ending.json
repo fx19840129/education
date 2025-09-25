@@ -1,0 +1,121 @@
+{
+  "grammar_name": "名词单复数-y结尾",
+  "level": "小学三年级",
+  "category": "基础语法",
+  "difficulty": "medium",
+  "description": "学习以y结尾的名词复数变化：辅音+y变i加es，元音+y直接加s",
+  "explanation": {
+    "basic_rules": [
+      "以辅音+y结尾，变y为i加-es：baby → babies, city → cities",
+      "以元音+y结尾，直接加-s：boy → boys, toy → toys",
+      "元音字母：a, e, i, o, u",
+      "辅音字母：除了a, e, i, o, u以外的字母"
+    ],
+    "memory_tips": [
+      "辅音+y：变y为i加es（辅音需要帮助）",
+      "元音+y：直接加s（元音很独立）",
+      "记住：辅音需要帮助，元音很独立"
+    ],
+    "common_errors": [
+      "I have three baby. (错误) → I have three babies. (正确)",
+      "The boy are playing. (错误) → The boys are playing. (正确)",
+      "I see many city. (错误) → I see many cities. (正确)"
+    ]
+  },
+  "examples": {
+    "consonant_y": [
+      "baby → babies",
+      "city → cities",
+      "lady → ladies",
+      "story → stories",
+      "family → families",
+      "party → parties",
+      "country → countries",
+      "dictionary → dictionaries"
+    ],
+    "vowel_y": [
+      "boy → boys",
+      "toy → toys",
+      "day → days",
+      "key → keys",
+      "monkey → monkeys",
+      "valley → valleys",
+      "donkey → donkeys",
+      "journey → journeys"
+    ],
+    "sentences": [
+      "I have one baby. → I have three babies.",
+      "The boy is playing. → The boys are playing.",
+      "This is a city. → These are cities.",
+      "I see a toy. → I see many toys."
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "I have three _____.",
+          "correct": "babies",
+          "wrong_options": ["baby", "babys", "babyes"],
+          "explanation": "以辅音+y结尾，变y为i加es"
+        },
+        {
+          "question": "The _____ are playing.",
+          "correct": "boys",
+          "wrong_options": ["boy", "boies", "boyes"],
+          "explanation": "以元音+y结尾，直接加s"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "I see many _____ in the city.",
+          "answer": "cities",
+          "explanation": "以辅音+y结尾，变y为i加es"
+        },
+        {
+          "question": "The _____ are happy.",
+          "answer": "boys",
+          "explanation": "以元音+y结尾，直接加s"
+        }
+      ]
+    },
+    "classification": {
+      "templates": [
+        {
+          "question": "将下列单词按复数变化分类：baby, boy, city, toy, lady, day",
+          "answer": "变y为i加es：baby, city, lady；直接加s：boy, toy, day",
+          "explanation": "辅音+y变i加es，元音+y直接加s"
+        }
+      ]
+    },
+    "error_correction": {
+      "templates": [
+        {
+          "sentence": "I have three babys.",
+          "error": "babys",
+          "correction": "babies",
+          "explanation": "以辅音+y结尾，变y为i加es"
+        },
+        {
+          "sentence": "The boys are playing.",
+          "error": "boys",
+          "correction": "boys",
+          "explanation": "以元音+y结尾，直接加s（这个是对的）"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握以y结尾的名词复数变化规则",
+    "能够区分辅音+y和元音+y的变化",
+    "了解元音和辅音的概念"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用y结尾规则，无语法错误",
+    "good": "基本掌握y结尾规则，偶有错误",
+    "satisfactory": "了解y结尾规则，需要加强练习",
+    "needs_improvement": "对y结尾规则不熟悉，需要重新学习"
+  }
+}

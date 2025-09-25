@@ -1,0 +1,111 @@
+{
+  "grammar_name": "条件句-基础用法",
+  "level": "初中三年级",
+  "category": "进阶语法",
+  "difficulty": "medium",
+  "description": "学习条件句的基础用法：表示假设和结果的关系",
+  "explanation": {
+    "basic_structure": "If + 条件句, 主句",
+    "basic_rules": [
+      "条件句表示假设和结果的关系",
+      "If引导条件句，主句表示结果",
+      "条件句和主句的位置可以互换",
+      "条件句用一般现在时，主句用一般将来时"
+    ],
+    "usage_cases": [
+      "表示可能实现的条件：If it rains tomorrow, I will stay at home. (如果明天下雨，我就待在家里)",
+      "表示建议：If you study hard, you will pass the exam. (如果你努力学习，你就会通过考试)",
+      "表示警告：If you don't hurry, you will be late. (如果你不快点，你就会迟到)"
+    ],
+    "common_errors": [
+      "If it will rain tomorrow, I will stay at home. (错误) → If it rains tomorrow, I will stay at home. (正确)",
+      "If you will study hard, you will pass the exam. (错误) → If you study hard, you will pass the exam. (正确)",
+      "If it rain tomorrow, I will stay at home. (错误) → If it rains tomorrow, I will stay at home. (正确)"
+    ],
+    "usage_tips": [
+      "条件句用一般现在时，主句用一般将来时",
+      "注意主谓一致",
+      "条件句和主句的位置可以互换"
+    ]
+  },
+  "examples": {
+    "basic_conditional": [
+      "If it rains tomorrow, I will stay at home.",
+      "If you study hard, you will pass the exam.",
+      "If he comes, I will tell him the news.",
+      "If she is free, she will help us.",
+      "If they arrive early, we will start the meeting."
+    ],
+    "reversed_order": [
+      "I will stay at home if it rains tomorrow.",
+      "You will pass the exam if you study hard.",
+      "I will tell him the news if he comes.",
+      "She will help us if she is free.",
+      "We will start the meeting if they arrive early."
+    ],
+    "negative_conditional": [
+      "If you don't study hard, you won't pass the exam.",
+      "If he doesn't come, I won't tell him the news.",
+      "If she isn't free, she won't help us.",
+      "If they don't arrive early, we won't start the meeting.",
+      "If it doesn't rain tomorrow, I won't stay at home."
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "If it _____ tomorrow, I will stay at home.",
+          "correct": "rains",
+          "wrong_options": ["will rain", "rain", "is raining"],
+          "explanation": "条件句用一般现在时"
+        },
+        {
+          "question": "If you study hard, you _____ pass the exam.",
+          "correct": "will",
+          "wrong_options": ["would", "can", "may"],
+          "explanation": "主句用一般将来时"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "If it _____ tomorrow, I will stay at home.",
+          "answer": "rains",
+          "explanation": "条件句用一般现在时"
+        },
+        {
+          "question": "If you study hard, you _____ pass the exam.",
+          "answer": "will",
+          "explanation": "主句用一般将来时"
+        }
+      ]
+    },
+    "sentence_creation": {
+      "templates": [
+        {
+          "requirement": "用条件句造句：如果明天下雨，我就待在家里",
+          "example": "If it rains tomorrow, I will stay at home.",
+          "explanation": "条件句用一般现在时，主句用一般将来时"
+        },
+        {
+          "requirement": "用条件句造句：如果你努力学习，你就会通过考试",
+          "example": "If you study hard, you will pass the exam.",
+          "explanation": "条件句用一般现在时，主句用一般将来时"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握条件句的基本用法",
+    "能够正确使用If + 条件句, 主句结构",
+    "了解条件句表示假设和结果的关系"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用条件句，无语法错误",
+    "good": "基本掌握条件句用法，偶有错误",
+    "satisfactory": "了解条件句基本用法，需要加强练习",
+    "needs_improvement": "对条件句用法不熟悉，需要重新学习"
+  }
+}

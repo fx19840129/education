@@ -1,0 +1,145 @@
+{
+  "grammar_name": "形容词最高级-基础用法",
+  "level": "小学六年级",
+  "category": "基础语法",
+  "difficulty": "medium",
+  "description": "学习形容词最高级的基础用法：表示三个或三个以上事物中程度最高的",
+  "explanation": {
+    "basic_structure": "A + be + the + 形容词最高级 + (in/of) + 范围",
+    "basic_rules": [
+      "最高级用来表示三个或三个以上事物中程度最高的",
+      "最高级前要加the",
+      "单音节和部分双音节形容词用-est",
+      "多音节形容词用most"
+    ],
+    "usage_cases": [
+      "比较身高：Tom is the tallest in the class.",
+      "比较年龄：Mary is the oldest in the family.",
+      "比较大小：This book is the biggest of all.",
+      "比较价格：This car is the most expensive in the shop."
+    ],
+    "common_errors": [
+      "Tom is tallest in the class. (错误) → Tom is the tallest in the class. (正确)",
+      "This book is most interesting of all. (错误) → This book is the most interesting of all. (正确)",
+      "He is best student. (错误) → He is the best student. (正确)"
+    ],
+    "usage_tips": [
+      "最高级前要加the",
+      "单音节和部分双音节形容词用-est",
+      "多音节形容词用most",
+      "注意不规则形容词的变化"
+    ]
+  },
+  "examples": {
+    "single_syllable": [
+      "tall → tallest",
+      "short → shortest",
+      "long → longest",
+      "big → biggest",
+      "small → smallest",
+      "hot → hottest",
+      "cold → coldest"
+    ],
+    "two_syllable": [
+      "happy → happiest",
+      "easy → easiest",
+      "heavy → heaviest",
+      "busy → busiest",
+      "lazy → laziest"
+    ],
+    "multi_syllable": [
+      "beautiful → most beautiful",
+      "interesting → most interesting",
+      "expensive → most expensive",
+      "difficult → most difficult",
+      "important → most important"
+    ],
+    "irregular": [
+      "good → best",
+      "bad → worst",
+      "many/much → most",
+      "little → least",
+      "far → farthest/furthest"
+    ],
+    "sentences": [
+      "Tom is the tallest in the class.",
+      "This book is the most interesting of all.",
+      "He is the best student in the school.",
+      "This car is the most expensive in the shop.",
+      "She is the happiest girl in the family."
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "Tom is the _____ in the class.",
+          "correct": "tallest",
+          "wrong_options": ["tall", "taller", "most tall"],
+          "explanation": "单音节形容词用-est形式"
+        },
+        {
+          "question": "This book is the _____ of all.",
+          "correct": "most interesting",
+          "wrong_options": ["interesting", "more interesting", "interestinger"],
+          "explanation": "多音节形容词用most"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "This car is the _____ in the shop.",
+          "answer": "most expensive",
+          "explanation": "多音节形容词用most"
+        },
+        {
+          "question": "He is the _____ student in the school.",
+          "answer": "best",
+          "explanation": "good的最高级是best"
+        }
+      ]
+    },
+    "transformation": {
+      "templates": [
+        {
+          "question": "将形容词变为最高级：tall",
+          "answer": "tallest",
+          "explanation": "单音节形容词加-est"
+        },
+        {
+          "question": "将形容词变为最高级：beautiful",
+          "answer": "most beautiful",
+          "explanation": "多音节形容词用most"
+        }
+      ]
+    },
+    "error_correction": {
+      "templates": [
+        {
+          "sentence": "Tom is tallest in the class.",
+          "error": "tallest",
+          "correction": "the tallest",
+          "explanation": "最高级前要加the"
+        },
+        {
+          "sentence": "He is best student.",
+          "error": "best",
+          "correction": "the best",
+          "explanation": "最高级前要加the"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握形容词最高级的基本用法",
+    "能够正确使用-est和most",
+    "了解最高级表示\"最...\""
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用最高级，无语法错误",
+    "good": "基本掌握最高级用法，偶有错误",
+    "satisfactory": "了解最高级基本用法，需要加强练习",
+    "needs_improvement": "对最高级用法不熟悉，需要重新学习"
+  }
+}

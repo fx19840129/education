@@ -1,0 +1,129 @@
+{
+  "grammar_name": "现在进行时-基础用法",
+  "level": "小学五年级",
+  "category": "基础语法",
+  "difficulty": "easy",
+  "description": "学习现在进行时的基本用法：表示现在正在进行的动作",
+  "explanation": {
+    "basic_structure": "主语 + am/is/are + 动词-ing + ...",
+    "basic_rules": [
+      "现在进行时表示现在正在进行的动作",
+      "I 用 am",
+      "You/We/They 用 are",
+      "He/She/It 用 is"
+    ],
+    "usage_cases": [
+      "表示正在进行的动作：I am reading a book now.",
+      "表示现在正在发生的事情：It is raining outside.",
+      "表示临时性的动作：He is living in Beijing now."
+    ],
+    "common_errors": [
+      "I am go to school. (错误) → I am going to school. (正确)",
+      "He is play football. (错误) → He is playing football. (正确)",
+      "She is read a book. (错误) → She is reading a book. (正确)"
+    ],
+    "usage_tips": [
+      "现在进行时表示正在进行的动作",
+      "be动词要根据主语选择正确形式",
+      "动词要用-ing形式"
+    ]
+  },
+  "examples": {
+    "first_person": [
+      "I am reading a book now.",
+      "I am playing football.",
+      "I am studying English.",
+      "I am watching TV.",
+      "I am cooking dinner."
+    ],
+    "second_person": [
+      "You are playing football.",
+      "You are studying hard.",
+      "You are watching TV.",
+      "You are cooking dinner.",
+      "You are reading a book."
+    ],
+    "third_person_singular": [
+      "He is watching TV.",
+      "She is cooking dinner.",
+      "It is raining outside.",
+      "He is playing football.",
+      "She is reading a book."
+    ],
+    "third_person_plural": [
+      "We are studying English.",
+      "They are playing games.",
+      "We are watching TV.",
+      "They are cooking dinner.",
+      "We are reading books."
+    ],
+    "sentences": [
+      "I am reading a book now.",
+      "You are playing football.",
+      "He is watching TV.",
+      "She is cooking dinner.",
+      "It is raining outside.",
+      "We are studying English.",
+      "They are playing games."
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "I _____ reading a book now.",
+          "correct": "am",
+          "wrong_options": ["is", "are", "be"],
+          "explanation": "第一人称用am"
+        },
+        {
+          "question": "He _____ playing football.",
+          "correct": "is",
+          "wrong_options": ["am", "are", "be"],
+          "explanation": "第三人称单数用is"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "I am _____ a book.",
+          "answer": "reading",
+          "explanation": "动词-ing形式"
+        },
+        {
+          "question": "She is _____ dinner.",
+          "answer": "cooking",
+          "explanation": "动词-ing形式"
+        }
+      ]
+    },
+    "error_correction": {
+      "templates": [
+        {
+          "sentence": "I am go to school.",
+          "error": "go",
+          "correction": "going",
+          "explanation": "现在进行时用动词-ing形式"
+        },
+        {
+          "sentence": "He is play football.",
+          "error": "play",
+          "correction": "playing",
+          "explanation": "现在进行时用动词-ing形式"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握现在进行时的基本用法",
+    "能够正确使用am/is/are + 动词-ing",
+    "了解现在进行时表示正在进行的动作"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用现在进行时基本用法，无语法错误",
+    "good": "基本掌握现在进行时基本用法，偶有错误",
+    "satisfactory": "了解现在进行时基本用法，需要加强练习",
+    "needs_improvement": "对现在进行时基本用法不熟悉，需要重新学习"
+  }
+}

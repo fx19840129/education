@@ -1,0 +1,121 @@
+{
+  "grammar_name": "情态动词-基础用法",
+  "level": "初中二年级",
+  "category": "进阶语法",
+  "difficulty": "medium",
+  "description": "学习情态动词的基础用法：表示能力、可能性、必要性等",
+  "explanation": {
+    "basic_structure": "主语 + 情态动词 + 动词原形 + ...",
+    "basic_rules": [
+      "情态动词表示说话人的态度、情感或判断",
+      "情态动词后接动词原形",
+      "情态动词没有人称和数的变化",
+      "常用情态动词：can, could, may, might, must, should, will, would"
+    ],
+    "usage_cases": [
+      "表示能力：I can speak English. (我能说英语)",
+      "表示可能性：It may rain tomorrow. (明天可能下雨)",
+      "表示必要性：You must finish your homework. (你必须完成作业)",
+      "表示建议：You should study hard. (你应该努力学习)"
+    ],
+    "common_errors": [
+      "I can to speak English. (错误) → I can speak English. (正确)",
+      "He can speaks English. (错误) → He can speak English. (正确)",
+      "You must to finish your homework. (错误) → You must finish your homework. (正确)"
+    ],
+    "usage_tips": [
+      "情态动词后接动词原形",
+      "情态动词没有人称和数的变化",
+      "注意不同情态动词的含义"
+    ]
+  },
+  "examples": {
+    "can_ability": [
+      "I can speak English.",
+      "She can play the piano.",
+      "He can swim very well.",
+      "We can solve this problem.",
+      "They can help you."
+    ],
+    "may_possibility": [
+      "It may rain tomorrow.",
+      "She may come to the party.",
+      "He may be right.",
+      "We may go to Beijing next week.",
+      "They may not arrive on time."
+    ],
+    "must_necessity": [
+      "You must finish your homework.",
+      "She must be careful.",
+      "He must study hard.",
+      "We must arrive on time.",
+      "They must follow the rules."
+    ],
+    "should_advice": [
+      "You should study hard.",
+      "She should eat more vegetables.",
+      "He should get up early.",
+      "We should help each other.",
+      "They should be more careful."
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "I _____ speak English.",
+          "correct": "can",
+          "wrong_options": ["can to", "can speaks", "can speaking"],
+          "explanation": "情态动词后接动词原形"
+        },
+        {
+          "question": "You _____ finish your homework.",
+          "correct": "must",
+          "wrong_options": ["must to", "must finishes", "must finishing"],
+          "explanation": "情态动词后接动词原形"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "I _____ speak English.",
+          "answer": "can",
+          "explanation": "表示能力用can"
+        },
+        {
+          "question": "You _____ study hard.",
+          "answer": "should",
+          "explanation": "表示建议用should"
+        }
+      ]
+    },
+    "error_correction": {
+      "templates": [
+        {
+          "sentence": "I can to speak English.",
+          "error": "can to",
+          "correction": "can",
+          "explanation": "情态动词后接动词原形，不加to"
+        },
+        {
+          "sentence": "He can speaks English.",
+          "error": "can speaks",
+          "correction": "can speak",
+          "explanation": "情态动词后接动词原形，不加s"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握情态动词的基本用法",
+    "能够正确使用常见情态动词",
+    "了解情态动词表示说话人的态度"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用情态动词，无语法错误",
+    "good": "基本掌握情态动词用法，偶有错误",
+    "satisfactory": "了解情态动词基本用法，需要加强练习",
+    "needs_improvement": "对情态动词用法不熟悉，需要重新学习"
+  }
+}

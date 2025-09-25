@@ -1,0 +1,137 @@
+{
+  "grammar_name": "一般现在时-疑问形式",
+  "level": "小学四年级",
+  "category": "基础语法",
+  "difficulty": "easy",
+  "description": "学习一般现在时的疑问形式：Do/Does + 主语 + 动词原形 + ...?",
+  "explanation": {
+    "basic_structure": "Do/Does + 主语 + 动词原形 + ...?",
+    "basic_rules": [
+      "第一人称（I, we）用Do",
+      "第二人称（you）用Do",
+      "第三人称单数（he, she, it）用Does",
+      "第三人称复数（they）用Do",
+      "疑问句中动词用原形"
+    ],
+    "memory_tips": [
+      "第三人称单数用Does，其他都用Do",
+      "疑问句中动词用原形，不加s或es",
+      "记住：Does后面动词要还原"
+    ],
+    "common_errors": [
+      "Do he like music? (错误) → Does he like music? (正确)",
+      "Does you speak English? (错误) → Do you speak English? (正确)",
+      "Does he likes music? (错误) → Does he like music? (正确)"
+    ]
+  },
+  "examples": {
+    "first_person": [
+      "Do I like apples?",
+      "Do I play football?",
+      "Do I study hard?",
+      "Do we live here?",
+      "Do we speak English?"
+    ],
+    "second_person": [
+      "Do you like pizza?",
+      "Do you play the piano?",
+      "Do you study hard?",
+      "Do you live in Beijing?",
+      "Do you speak Chinese?"
+    ],
+    "third_person_singular": [
+      "Does he like music?",
+      "Does she play football?",
+      "Does it rain in summer?",
+      "Does he work here?",
+      "Does she study English?"
+    ],
+    "third_person_plural": [
+      "Do they like coffee?",
+      "Do they play basketball?",
+      "Do they study hard?",
+      "Do they live here?",
+      "Do they speak English?"
+    ],
+    "sentences": [
+      "Do you like pizza?",
+      "Does she play the piano?",
+      "Do they live in Beijing?",
+      "Does he work on weekends?",
+      "Do we have class today?"
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "_____ you speak English?",
+          "correct": "Do",
+          "wrong_options": ["Does", "Are", "Is"],
+          "explanation": "第二人称用Do"
+        },
+        {
+          "question": "_____ he like music?",
+          "correct": "Does",
+          "wrong_options": ["Do", "Are", "Is"],
+          "explanation": "第三人称单数用Does"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "_____ she play the piano?",
+          "answer": "Does",
+          "explanation": "第三人称单数用Does"
+        },
+        {
+          "question": "_____ they live here?",
+          "answer": "Do",
+          "explanation": "第三人称复数用Do"
+        }
+      ]
+    },
+    "transformation": {
+      "templates": [
+        {
+          "question": "将陈述句变为疑问句：I like apples.",
+          "answer": "Do I like apples?",
+          "explanation": "第一人称用Do"
+        },
+        {
+          "question": "将陈述句变为疑问句：She likes apples.",
+          "answer": "Does she like apples?",
+          "explanation": "第三人称单数用Does"
+        }
+      ]
+    },
+    "error_correction": {
+      "templates": [
+        {
+          "sentence": "Do he like music?",
+          "error": "Do",
+          "correction": "Does",
+          "explanation": "第三人称单数用Does"
+        },
+        {
+          "sentence": "Does he likes music?",
+          "error": "likes",
+          "correction": "like",
+          "explanation": "疑问句中动词用原形"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握一般现在时的疑问形式",
+    "能够正确使用Do和Does",
+    "了解疑问句中动词用原形"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用疑问形式，无语法错误",
+    "good": "基本掌握疑问形式，偶有错误",
+    "satisfactory": "了解疑问形式，需要加强练习",
+    "needs_improvement": "对疑问形式不熟悉，需要重新学习"
+  }
+}

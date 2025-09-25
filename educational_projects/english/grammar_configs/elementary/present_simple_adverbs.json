@@ -1,0 +1,135 @@
+{
+  "grammar_name": "一般现在时-频率副词",
+  "level": "小学四年级",
+  "category": "基础语法",
+  "difficulty": "medium",
+  "description": "学习一般现在时中频率副词的用法和位置",
+  "explanation": {
+    "basic_rules": [
+      "频率副词表示动作发生的频率",
+      "常用的频率副词：always, usually, often, sometimes, never",
+      "频率副词通常放在动词前面",
+      "be动词后面，实义动词前面"
+    ],
+    "adverb_order": [
+      "always - 总是（100%）",
+      "usually - 通常（80%）",
+      "often - 经常（60%）",
+      "sometimes - 有时（40%）",
+      "never - 从不（0%）"
+    ],
+    "position_rules": [
+      "be动词 + 频率副词：He is always happy.",
+      "频率副词 + 实义动词：He always plays football.",
+      "频率副词 + don't/doesn't：He never doesn't study."
+    ],
+    "common_errors": [
+      "He always is happy. (错误) → He is always happy. (正确)",
+      "He plays always football. (错误) → He always plays football. (正确)",
+      "He never studies. (错误) → He never studies. (正确)"
+    ]
+  },
+  "examples": {
+    "with_be_verb": [
+      "He is always happy.",
+      "She is usually busy.",
+      "It is often sunny.",
+      "They are sometimes late.",
+      "We are never tired."
+    ],
+    "with_action_verb": [
+      "I always eat breakfast.",
+      "She usually goes to bed at 10:00.",
+      "He often plays football after school.",
+      "They sometimes visit their grandparents.",
+      "We never watch TV during dinner."
+    ],
+    "with_negative": [
+      "I never eat meat.",
+      "She doesn't usually watch TV.",
+      "He never plays video games.",
+      "They don't often go out.",
+      "We never study on Sundays."
+    ],
+    "sentences": [
+      "I always eat breakfast at home.",
+      "She usually goes to bed at 10:00.",
+      "He often plays football after school.",
+      "They sometimes visit their grandparents.",
+      "We never watch TV during dinner."
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "He _____ plays football.",
+          "correct": "always",
+          "wrong_options": ["never", "sometimes", "usually"],
+          "explanation": "always表示总是，频率最高"
+        },
+        {
+          "question": "She is _____ busy.",
+          "correct": "usually",
+          "wrong_options": ["always", "often", "sometimes"],
+          "explanation": "usually表示通常，频率较高"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "I _____ eat breakfast at home.",
+          "answer": "always",
+          "explanation": "always表示总是"
+        },
+        {
+          "question": "He _____ plays video games.",
+          "answer": "never",
+          "explanation": "never表示从不"
+        }
+      ]
+    },
+    "sentence_creation": {
+      "templates": [
+        {
+          "requirement": "用频率副词'usually'造句",
+          "example": "I usually get up at 7:00.",
+          "explanation": "usually表示通常"
+        },
+        {
+          "requirement": "用频率副词'never'造句",
+          "example": "He never eats meat.",
+          "explanation": "never表示从不"
+        }
+      ]
+    },
+    "error_correction": {
+      "templates": [
+        {
+          "sentence": "He always is happy.",
+          "error": "always is",
+          "correction": "is always",
+          "explanation": "be动词后面，实义动词前面"
+        },
+        {
+          "sentence": "He plays always football.",
+          "error": "plays always",
+          "correction": "always plays",
+          "explanation": "频率副词放在实义动词前面"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握频率副词的用法和位置",
+    "能够正确使用各种频率副词",
+    "了解频率副词在句子中的位置规则"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用频率副词，无语法错误",
+    "good": "基本掌握频率副词用法，偶有错误",
+    "satisfactory": "了解频率副词用法，需要加强练习",
+    "needs_improvement": "对频率副词用法不熟悉，需要重新学习"
+  }
+}

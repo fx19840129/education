@@ -1,0 +1,169 @@
+{
+  "grammar_name": "过去进行时",
+  "level": "初中一年级",
+  "category": "进阶语法",
+  "difficulty": "medium",
+  "description": "过去进行时表示过去某个时间点正在进行的动作",
+  "explanation": {
+    "basic_structure": "主语 + was/were + 动词-ing + ...",
+    "basic_rules": [
+      "I/He/She/It 用 was",
+      "You/We/They 用 were",
+      "动词-ing变化规则与现在进行时相同"
+    ],
+    "usage_cases": [
+      "表示过去某个时间点正在进行的动作：I was reading a book at 8:00 last night.",
+      "表示过去某个时间段正在进行的动作：They were playing football all afternoon yesterday.",
+      "表示故事发生的背景：The sun was shining. Birds were singing."
+    ],
+    "time_adverbs": [
+      "at + 具体时间点：at 7:00 yesterday, at that moment",
+      "when + 一般过去时：when I arrived, when the phone rang",
+      "while + 过去进行时：while I was doing homework",
+      "all morning, the whole day等"
+    ],
+    "common_errors": [
+      "I was read a book. (错误) → I was reading a book. (正确)",
+      "They were play football. (错误) → They were playing football. (正确)",
+      "He was not watch TV. (错误) → He was not watching TV. (正确)"
+    ],
+    "usage_tips": [
+      "过去进行时强调动作的进行性",
+      "常与一般过去时连用，表示一个动作发生时另一个动作正在进行",
+      "注意be动词的过去式形式"
+    ]
+  },
+  "examples": {
+    "basic_usage": [
+      "I was doing my homework when the phone rang.",
+      "She was cooking dinner at 6:00 yesterday.",
+      "They were playing basketball all afternoon.",
+      "What were you doing at this time yesterday?",
+      "He wasn't watching TV when I called him.",
+      "We were having dinner while they were studying.",
+      "The children were sleeping when their parents came home.",
+      "It was raining when I left the office.",
+      "She was writing a letter all morning.",
+      "Were you listening to the teacher when he asked the question?"
+    ],
+    "with_time_expressions": [
+      "I was studying at 8:00 last night.",
+      "She was working all day yesterday.",
+      "They were playing football the whole afternoon.",
+      "We were watching TV when the power went out.",
+      "He was reading a book at that moment."
+    ],
+    "with_when_while": [
+      "I was reading when you called.",
+      "While I was cooking, the phone rang.",
+      "She was sleeping when I arrived.",
+      "While they were playing, it started to rain.",
+      "He was working when the boss came in."
+    ],
+    "negative_sentences": [
+      "I wasn't watching TV at 8:00.",
+      "She wasn't working yesterday.",
+      "They weren't playing football.",
+      "We weren't studying at that time.",
+      "He wasn't sleeping when I called."
+    ],
+    "questions": [
+      "What were you doing at 8:00?",
+      "Were you watching TV?",
+      "Where were you going?",
+      "Why were you crying?",
+      "How were you feeling?"
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "I _____ TV when you called.",
+          "correct": "was watching",
+          "wrong_options": ["watched", "am watching", "watch"],
+          "explanation": "过去进行时：was/were + 动词ing"
+        },
+        {
+          "question": "They _____ football all afternoon.",
+          "correct": "were playing",
+          "wrong_options": ["played", "are playing", "play"],
+          "explanation": "复数主语用were + 动词ing"
+        },
+        {
+          "question": "_____ you sleeping when I arrived?",
+          "correct": "Were",
+          "wrong_options": ["Did", "Do", "Are"],
+          "explanation": "过去进行时疑问句用Were开头"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "I _____ (read) a book at 8:00 last night.",
+          "answer": "was reading",
+          "explanation": "过去进行时：was + 动词ing"
+        },
+        {
+          "question": "They _____ (play) football all afternoon.",
+          "answer": "were playing",
+          "explanation": "复数主语用were + 动词ing"
+        },
+        {
+          "question": "_____ you _____ (study) when I called?",
+          "answer": "Were, studying",
+          "explanation": "过去进行时疑问句：Were + 主语 + 动词ing"
+        }
+      ]
+    },
+    "error_correction": {
+      "templates": [
+        {
+          "sentence": "I was read a book.",
+          "error": "read",
+          "correction": "reading",
+          "explanation": "过去进行时用动词ing形式"
+        },
+        {
+          "sentence": "They were play football.",
+          "error": "play",
+          "correction": "playing",
+          "explanation": "过去进行时用动词ing形式"
+        },
+        {
+          "sentence": "He was not watch TV.",
+          "error": "watch",
+          "correction": "watching",
+          "explanation": "过去进行时用动词ing形式"
+        }
+      ]
+    },
+    "sentence_creation": {
+      "templates": [
+        {
+          "requirement": "用过去进行时和时间状语'at 8:00 yesterday'造句",
+          "example": "I was studying at 8:00 yesterday.",
+          "explanation": "过去进行时表示过去某个时间点正在进行的动作"
+        },
+        {
+          "requirement": "用过去进行时和连词'when'造句",
+          "example": "I was reading when you called.",
+          "explanation": "过去进行时与一般过去时连用"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握过去进行时的基本构成和用法",
+    "能够正确使用was/were + 动词ing",
+    "了解过去进行时与一般过去时的区别",
+    "能够在实际语境中正确使用过去进行时"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用过去进行时的各种形式，无语法错误",
+    "good": "基本掌握过去进行时用法，偶有错误",
+    "satisfactory": "了解过去进行时基本用法，需要加强练习",
+    "needs_improvement": "对过去进行时用法不熟悉，需要重新学习"
+  }
+}

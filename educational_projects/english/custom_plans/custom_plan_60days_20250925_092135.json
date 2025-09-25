@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "plan_name": "综合阶段60天学习计划",
+    "total_days": 60,
+    "daily_minutes": 30,
+    "template_name": "标准学习",
+    "stage_name": "综合阶段",
+    "generation_time": "2025-09-25T09:21:35.718637",
+    "start_date": "2025-09-25",
+    "end_date": "2025-11-23"
+  },
+  "stage_info": {
+    "name": "综合阶段",
+    "description": "全面复习巩固，综合运用所有知识点",
+    "difficulty": "mixed",
+    "learning_goals": [
+      "全面复习已学内容",
+      "查漏补缺薄弱环节",
+      "提高综合应用能力",
+      "准备进阶学习"
+    ]
+  },
+  "learning_config": {
+    "daily_words": 10,
+    "daily_grammar": 1,
+    "daily_exercises": 20,
+    "study_time_per_day": 30,
+    "description": "平衡的学习强度，适合大多数学习者"
+  },
+  "statistics": {
+    "total_words": 600,
+    "total_grammar_points": 60,
+    "total_exercises": 1200,
+    "total_study_time_minutes": 1800,
+    "total_study_time_hours": 30.0,
+    "average_words_per_day": 10,
+    "average_grammar_per_day": 1,
+    "average_exercises_per_day": 20
+  },
+  "distribution": {
+    "grammar": {
+      "elementary": {
+        "count": 23,
+        "topics": [
+          "be动词用法-基础用法",
+          "一般现在时-基础用法",
+          "名词单复数-基础规则",
+          "形容词-基础用法",
+          "there_be-基础用法",
+          "现在进行时-基础用法",
+          "过去时-基础用法",
+          "形容词比较级-基础规则",
+          "情态动词-基础用法"
+        ]
+      },
+      "middle_school": {
+        "count": 37,
+        "topics": [
+          "现在完成时-基础用法",
+          "被动语态-基础用法",
+          "定语从句-基础用法",
+          "条件句-基础用法",
+          "过去进行时-基础用法",
+          "间接引语-基础用法",
+          "现在完成时-持续用法",
+          "被动语态-时态变化",
+          "定语从句-关系代词",
+          "条件句-虚拟语气",
+          "非谓语动词-基础用法",
+          "倒装句-基础用法",
+          "强调句-基础用法",
+          "主谓一致-复杂情况",
+          "虚拟语气-完整体系"
+        ]
+      }
+    },
+    "words": {
+      "elementary": {
+        "count": 240,
+        "percentage": 40.0
+      },
+      "middle_school": {
+        "count": 360,
+        "percentage": 60.0
+      }
+    }
+  },
+  "weekly_breakdown": [
+    {
+      "week": 1,
+      "days": 7,
+      "words": 60,
+      "grammar": 7,
+      "exercises": 120
+    },
+    {
+      "week": 2,
+      "days": 7,
+      "words": 60,
+      "grammar": 7,
+      "exercises": 120
+    },
+    {
+      "week": 3,
+      "days": 7,
+      "words": 60,
+      "grammar": 7,
+      "exercises": 120
+    },
+    {
+      "week": 4,
+      "days": 7,
+      "words": 60,
+      "grammar": 7,
+      "exercises": 120
+    },
+    {
+      "week": 5,
+      "days": 7,
+      "words": 60,
+      "grammar": 7,
+      "exercises": 120
+    },
+    {
+      "week": 6,
+      "days": 7,
+      "words": 60,
+      "grammar": 7,
+      "exercises": 120
+    },
+    {
+      "week": 7,
+      "days": 7,
+      "words": 60,
+      "grammar": 7,
+      "exercises": 120
+    },
+    {
+      "week": 8,
+      "days": 7,
+      "words": 60,
+      "grammar": 7,
+      "exercises": 120
+    },
+    {
+      "week": 9,
+      "days": 4,
+      "words": 40,
+      "grammar": 4,
+      "exercises": 80
+    }
+  ]
+}

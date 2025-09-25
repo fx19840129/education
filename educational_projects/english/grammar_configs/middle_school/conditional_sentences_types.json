@@ -1,0 +1,118 @@
+{
+  "grammar_name": "条件句-类型用法",
+  "level": "初中三年级",
+  "category": "进阶语法",
+  "difficulty": "hard",
+  "description": "学习不同类型条件句的用法：零条件句、第一条件句、第二条件句、第三条件句",
+  "explanation": {
+    "basic_rules": [
+      "零条件句：If + 一般现在时, 一般现在时 (表示客观事实)",
+      "第一条件句：If + 一般现在时, 一般将来时 (表示可能实现的条件)",
+      "第二条件句：If + 一般过去时, would + 动词原形 (表示不太可能实现的条件)",
+      "第三条件句：If + 过去完成时, would have + 过去分词 (表示与过去事实相反)"
+    ],
+    "usage_cases": [
+      "零条件句：If you heat water, it boils. (如果你加热水，它就会沸腾)",
+      "第一条件句：If it rains tomorrow, I will stay at home. (如果明天下雨，我就待在家里)",
+      "第二条件句：If I were you, I would study hard. (如果我是你，我会努力学习)",
+      "第三条件句：If I had studied hard, I would have passed the exam. (如果我努力学习，我就会通过考试)"
+    ],
+    "common_errors": [
+      "If I was you, I would study hard. (错误) → If I were you, I would study hard. (正确)",
+      "If I had studied hard, I would pass the exam. (错误) → If I had studied hard, I would have passed the exam. (正确)",
+      "If it will rain tomorrow, I will stay at home. (错误) → If it rains tomorrow, I will stay at home. (正确)"
+    ],
+    "usage_tips": [
+      "注意不同类型条件句的时态搭配",
+      "第二条件句中be动词用were",
+      "第三条件句表示与过去事实相反"
+    ]
+  },
+  "examples": {
+    "zero_conditional": [
+      "If you heat water, it boils.",
+      "If you don't water plants, they die.",
+      "If you mix red and blue, you get purple.",
+      "If you press this button, the machine starts.",
+      "If you don't eat, you get hungry."
+    ],
+    "first_conditional": [
+      "If it rains tomorrow, I will stay at home.",
+      "If you study hard, you will pass the exam.",
+      "If he comes, I will tell him the news.",
+      "If she is free, she will help us.",
+      "If they arrive early, we will start the meeting."
+    ],
+    "second_conditional": [
+      "If I were you, I would study hard.",
+      "If I had a lot of money, I would travel around the world.",
+      "If it were sunny, we would go to the beach.",
+      "If she were here, she would help us.",
+      "If they were free, they would come to the party."
+    ],
+    "third_conditional": [
+      "If I had studied hard, I would have passed the exam.",
+      "If I had known, I would have told you.",
+      "If it had rained, we would have stayed at home.",
+      "If she had been here, she would have helped us.",
+      "If they had arrived early, we would have started the meeting."
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "If I _____ you, I would study hard.",
+          "correct": "were",
+          "wrong_options": ["was", "am", "is"],
+          "explanation": "第二条件句中be动词用were"
+        },
+        {
+          "question": "If I had studied hard, I _____ have passed the exam.",
+          "correct": "would",
+          "wrong_options": ["will", "can", "may"],
+          "explanation": "第三条件句用would have + 过去分词"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "If I _____ you, I would study hard.",
+          "answer": "were",
+          "explanation": "第二条件句中be动词用were"
+        },
+        {
+          "question": "If I had studied hard, I _____ have passed the exam.",
+          "answer": "would",
+          "explanation": "第三条件句用would have + 过去分词"
+        }
+      ]
+    },
+    "type_identification": {
+      "templates": [
+        {
+          "question": "识别条件句类型：If it rains tomorrow, I will stay at home.",
+          "answer": "第一条件句",
+          "explanation": "If + 一般现在时, 一般将来时"
+        },
+        {
+          "question": "识别条件句类型：If I were you, I would study hard.",
+          "answer": "第二条件句",
+          "explanation": "If + 一般过去时, would + 动词原形"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握不同类型条件句的用法",
+    "能够正确使用各种时态搭配",
+    "了解条件句表示不同的假设情况"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用各种类型条件句，无语法错误",
+    "good": "基本掌握各种类型条件句，偶有错误",
+    "satisfactory": "了解各种类型条件句，需要加强练习",
+    "needs_improvement": "对各种类型条件句不熟悉，需要重新学习"
+  }
+}

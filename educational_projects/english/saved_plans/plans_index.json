@@ -1,0 +1,113 @@
+{
+  "plan_20250925_094318": {
+    "id": "plan_20250925_094318",
+    "name": "我的90天计划",
+    "created_time": "2025-09-25T09:43:18.521396",
+    "total_days": 60,
+    "daily_minutes": 15,
+    "stage": "beginner",
+    "start_date": "2025-09-25",
+    "end_date": "2025-11-23",
+    "files": {
+      "json_file": "saved_plans/custom_plan_60days_20250925_094318.json",
+      "word_file": "saved_plans/custom_plan_60days_20250925_094318.docx",
+      "txt_file": "saved_plans/custom_plan_60days_20250925_094318_summary.txt"
+    },
+    "statistics": {
+      "total_words": 1200,
+      "total_grammar_points": 120,
+      "total_exercises": 900,
+      "total_study_time_minutes": 900,
+      "total_study_time_hours": 15.0,
+      "average_words_per_day": 20,
+      "average_grammar_per_day": 2,
+      "average_exercises_per_day": 15
+    },
+    "stage_info": {
+      "name": "初学者阶段",
+      "description": "英语学习入门，重点掌握基础词汇和语法",
+      "difficulty": "easy",
+      "learning_goals": [
+        "掌握基础词汇500-800个",
+        "学会基本语法结构",
+        "建立英语学习兴趣",
+        "培养学习习惯"
+      ]
+    },
+    "detail_file": "saved_plans/plan_20250925_094318_detail.json"
+  },
+  "plan_20250925_095031": {
+    "id": "plan_20250925_095031",
+    "name": "测试词库计划",
+    "created_time": "2025-09-25T09:50:31.426628",
+    "total_days": 5,
+    "daily_minutes": 20,
+    "stage": "beginner",
+    "start_date": "2025-09-25",
+    "end_date": "2025-09-29",
+    "files": {
+      "json_file": "saved_plans/custom_plan_5days_20250925_095031.json",
+      "word_file": "saved_plans/custom_plan_5days_20250925_095031.docx",
+      "txt_file": "saved_plans/custom_plan_5days_20250925_095031_summary.txt"
+    },
+    "statistics": {
+      "total_words": 25,
+      "total_grammar_points": 5,
+      "total_exercises": 50,
+      "total_study_time_minutes": 100,
+      "total_study_time_hours": 1.7,
+      "average_words_per_day": 5,
+      "average_grammar_per_day": 1,
+      "average_exercises_per_day": 10
+    },
+    "stage_info": {
+      "name": "初学者阶段",
+      "description": "英语学习入门，重点掌握基础词汇和语法",
+      "difficulty": "easy",
+      "learning_goals": [
+        "掌握基础词汇500-800个",
+        "学会基本语法结构",
+        "建立英语学习兴趣",
+        "培养学习习惯"
+      ]
+    },
+    "detail_file": "saved_plans/plan_20250925_095031_detail.json"
+  },
+  "plan_20250925_110206": {
+    "id": "plan_20250925_110206",
+    "name": "我的90天计划",
+    "created_time": "2025-09-25T11:02:06.889696",
+    "total_days": 60,
+    "daily_minutes": 15,
+    "stage": "beginner",
+    "start_date": "2025-09-25",
+    "end_date": "2025-11-23",
+    "files": {
+      "json_file": "saved_plans/custom_plan_60days_20250925_110206.json",
+      "word_file": "saved_plans/custom_plan_60days_20250925_110206.docx",
+      "txt_file": "saved_plans/custom_plan_60days_20250925_110206_summary.txt"
+    },
+    "statistics": {
+      "total_words": 1200,
+      "total_grammar_points": 120,
+      "total_exercises": 600,
+      "total_study_time_minutes": 900,
+      "total_study_time_hours": 15.0,
+      "average_words_per_day": 20,
+      "average_grammar_per_day": 2,
+      "average_exercises_per_day": 10
+    },
+    "stage_info": {
+      "name": "初学者阶段",
+      "description": "英语学习入门，重点掌握基础词汇和语法",
+      "difficulty": "easy",
+      "learning_goals": [
+        "掌握基础词汇500-800个",
+        "学会基本语法结构",
+        "建立英语学习兴趣",
+        "培养学习习惯"
+      ]
+    },
+    "detail_file": "saved_plans/plan_20250925_110206_detail.json"
+  }
+}

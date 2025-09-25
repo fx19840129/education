@@ -1,0 +1,175 @@
+{
+  "grammar_name": "名词单复数",
+  "level": "小学三年级",
+  "category": "基础语法",
+  "difficulty": "easy",
+  "description": "名词有单数和复数两种形式，表示数量的多少",
+  "explanation": {
+    "basic_rules": [
+      "一般情况加-s：book → books, pen → pens",
+      "以s, x, ch, sh结尾加-es：bus → buses, box → boxes",
+      "以辅音+y结尾，变y为i加-es：baby → babies, city → cities",
+      "以元音+y结尾，直接加-s：boy → boys, toy → toys",
+      "以f或fe结尾，变f/fe为v加-es：leaf → leaves, knife → knives",
+      "不规则变化：man → men, woman → women, child → children"
+    ],
+    "special_cases": [
+      "有些名词只有复数形式：clothes, pants, glasses",
+      "有些名词单复数同形：sheep, deer, fish",
+      "有些名词只有单数形式：news, information, advice"
+    ],
+    "common_errors": [
+      "I have three book. (错误) → I have three books. (正确)",
+      "The childs are playing. (错误) → The children are playing. (正确)",
+      "There are many sheeps. (错误) → There are many sheep. (正确)"
+    ],
+    "usage_tips": [
+      "复数名词通常与复数动词搭配",
+      "数量词后通常用复数名词",
+      "注意不规则变化的名词"
+    ]
+  },
+  "examples": {
+    "regular_plural": [
+      "book → books",
+      "pen → pens",
+      "cat → cats",
+      "dog → dogs",
+      "car → cars",
+      "house → houses"
+    ],
+    "es_ending": [
+      "bus → buses",
+      "box → boxes",
+      "watch → watches",
+      "dish → dishes",
+      "class → classes",
+      "fox → foxes"
+    ],
+    "y_ending": [
+      "baby → babies",
+      "city → cities",
+      "lady → ladies",
+      "boy → boys",
+      "toy → toys",
+      "day → days"
+    ],
+    "f_fe_ending": [
+      "leaf → leaves",
+      "knife → knives",
+      "wife → wives",
+      "life → lives",
+      "half → halves",
+      "wolf → wolves"
+    ],
+    "irregular": [
+      "man → men",
+      "woman → women",
+      "child → children",
+      "foot → feet",
+      "tooth → teeth",
+      "mouse → mice"
+    ],
+    "same_form": [
+      "sheep → sheep",
+      "deer → deer",
+      "fish → fish",
+      "aircraft → aircraft",
+      "species → species"
+    ],
+    "only_plural": [
+      "clothes",
+      "pants",
+      "glasses",
+      "scissors",
+      "trousers",
+      "shorts"
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "I have three _____.",
+          "correct": "books",
+          "wrong_options": ["book", "bookes", "bookses"],
+          "explanation": "一般情况加-s"
+        },
+        {
+          "question": "There are many _____ in the park.",
+          "correct": "children",
+          "wrong_options": ["childs", "child", "childrens"],
+          "explanation": "child的复数是不规则变化children"
+        },
+        {
+          "question": "I see two _____ in the field.",
+          "correct": "sheep",
+          "wrong_options": ["sheeps", "sheepes", "sheepies"],
+          "explanation": "sheep单复数同形"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "I have two _____.",
+          "answer": "boxes",
+          "explanation": "以x结尾的名词复数加es"
+        },
+        {
+          "question": "The _____ are playing.",
+          "answer": "babies",
+          "explanation": "以辅音+y结尾，变y为i加es"
+        },
+        {
+          "question": "I see many _____ in the tree.",
+          "answer": "leaves",
+          "explanation": "以f结尾，变f为v加es"
+        }
+      ]
+    },
+    "error_correction": {
+      "templates": [
+        {
+          "sentence": "I have three childs.",
+          "error": "childs",
+          "correction": "children",
+          "explanation": "child的复数是不规则变化children"
+        },
+        {
+          "sentence": "There are many sheeps.",
+          "error": "sheeps",
+          "correction": "sheep",
+          "explanation": "sheep单复数同形"
+        },
+        {
+          "sentence": "I have two boxs.",
+          "error": "boxs",
+          "correction": "boxes",
+          "explanation": "以x结尾的名词复数加es"
+        }
+      ]
+    },
+    "classification": {
+      "templates": [
+        {
+          "question": "将下列单词分为单数和复数：book, books, child, children, box, boxes",
+          "answer": "单数：book, child, box；复数：books, children, boxes",
+          "explanation": "单数名词表示一个，复数名词表示多个"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握名词单复数的基本变化规则",
+    "能够正确使用规则变化和不规则变化",
+    "了解特殊名词的单复数形式",
+    "能够在实际语境中正确使用名词单复数"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用各种名词单复数形式，无语法错误",
+    "good": "基本掌握名词单复数用法，偶有错误",
+    "satisfactory": "了解名词单复数基本规则，需要加强练习",
+    "needs_improvement": "对名词单复数用法不熟悉，需要重新学习"
+  }
+}

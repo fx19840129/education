@@ -1,0 +1,138 @@
+{
+  "grammar_name": "现在进行时-动词ing变化",
+  "level": "小学五年级",
+  "category": "基础语法",
+  "difficulty": "easy",
+  "description": "学习现在进行时中动词-ing的变化规则",
+  "explanation": {
+    "basic_rules": [
+      "一般情况加-ing：play → playing, read → reading",
+      "以e结尾去e加-ing：make → making, take → taking",
+      "以辅音+y结尾直接加-ing：study → studying, play → playing",
+      "以重读闭音节结尾，双写最后一个辅音字母加-ing：run → running, swim → swimming"
+    ],
+    "memory_tips": [
+      "一般情况直接加-ing",
+      "以e结尾去e加-ing",
+      "辅音+y直接加-ing",
+      "重读闭音节双写辅音加-ing"
+    ],
+    "common_errors": [
+      "He is makeing a cake. (错误) → He is making a cake. (正确)",
+      "She is runing in the park. (错误) → She is running in the park. (正确)",
+      "I am studyying English. (错误) → I am studying English. (正确)"
+    ]
+  },
+  "examples": {
+    "add_ing": [
+      "play → playing",
+      "read → reading",
+      "watch → watching",
+      "listen → listening",
+      "work → working",
+      "study → studying",
+      "play → playing",
+      "enjoy → enjoying"
+    ],
+    "drop_e_add_ing": [
+      "make → making",
+      "take → taking",
+      "come → coming",
+      "write → writing",
+      "ride → riding",
+      "dance → dancing",
+      "live → living",
+      "move → moving"
+    ],
+    "double_consonant_add_ing": [
+      "run → running",
+      "swim → swimming",
+      "sit → sitting",
+      "get → getting",
+      "put → putting",
+      "cut → cutting",
+      "hit → hitting",
+      "stop → stopping"
+    ],
+    "sentences": [
+      "I am playing football.",
+      "She is making a cake.",
+      "He is running in the park.",
+      "We are studying English.",
+      "They are swimming in the pool."
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "He is _____ a cake.",
+          "correct": "making",
+          "wrong_options": ["makeing", "make", "maked"],
+          "explanation": "以e结尾去e加-ing"
+        },
+        {
+          "question": "She is _____ in the park.",
+          "correct": "running",
+          "wrong_options": ["runing", "run", "runned"],
+          "explanation": "重读闭音节双写辅音加-ing"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "I am _____ English.",
+          "answer": "studying",
+          "explanation": "以辅音+y结尾直接加-ing"
+        },
+        {
+          "question": "He is _____ a book.",
+          "answer": "reading",
+          "explanation": "一般情况加-ing"
+        }
+      ]
+    },
+    "transformation": {
+      "templates": [
+        {
+          "question": "将动词变为-ing形式：play",
+          "answer": "playing",
+          "explanation": "一般情况加-ing"
+        },
+        {
+          "question": "将动词变为-ing形式：make",
+          "answer": "making",
+          "explanation": "以e结尾去e加-ing"
+        }
+      ]
+    },
+    "error_correction": {
+      "templates": [
+        {
+          "sentence": "He is makeing a cake.",
+          "error": "makeing",
+          "correction": "making",
+          "explanation": "以e结尾去e加-ing"
+        },
+        {
+          "sentence": "She is runing in the park.",
+          "error": "runing",
+          "correction": "running",
+          "explanation": "重读闭音节双写辅音加-ing"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握动词-ing的变化规则",
+    "能够正确将动词变为-ing形式",
+    "了解各种变化规则的应用"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用动词-ing变化，无语法错误",
+    "good": "基本掌握动词-ing变化，偶有错误",
+    "satisfactory": "了解动词-ing变化，需要加强练习",
+    "needs_improvement": "对动词-ing变化不熟悉，需要重新学习"
+  }
+}

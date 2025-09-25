@@ -1,0 +1,168 @@
+{
+  "grammar_name": "现在完成时",
+  "level": "初中一年级",
+  "category": "进阶语法",
+  "difficulty": "medium",
+  "description": "现在完成时表示过去发生的动作对现在造成的影响或结果，或表示从过去开始持续到现在的动作或状态",
+  "explanation": {
+    "basic_structure": "主语 + have/has + 过去分词 + ...",
+    "formation_rules": [
+      "规则动词与过去式相同：work → worked, play → played",
+      "不规则动词需要记忆：go → gone, see → seen, do → done, eat → eaten",
+      "第一人称单数用have，第三人称单数用has"
+    ],
+    "usage_cases": [
+      "表示过去发生对现在的影响：I have finished my homework. (作业写完了，现在可以玩了)",
+      "表示从过去持续到现在的动作：She has lived here for ten years. (她在这里住了十年，现在还住着)",
+      "表示经历：I have been to Beijing. (我去过北京，有这个经历)"
+    ],
+    "time_adverbs": [
+      "already, yet, just, ever, never, before",
+      "for + 时间段, since + 时间点",
+      "recently, lately, so far, up to now"
+    ],
+    "negative_form": "主语 + haven't/hasn't + 过去分词 + ...",
+    "question_form": "Have/Has + 主语 + 过去分词 + ...?",
+    "common_errors": [
+      "I have went to Beijing. (错误) → I have gone to Beijing. (正确)",
+      "She has lived here since ten years. (错误) → She has lived here for ten years. (正确)",
+      "I have finished my homework yesterday. (错误) → I finished my homework yesterday. (正确)"
+    ],
+    "usage_tips": [
+      "现在完成时不能与表示过去具体时间的状语连用",
+      "for + 时间段，since + 时间点",
+      "注意区分现在完成时和一般过去时"
+    ]
+  },
+  "examples": {
+    "basic_usage": [
+      "I have already finished my homework.",
+      "She has lived in London since 2010.",
+      "We have known each other for five years.",
+      "Have you ever been to Japan?",
+      "He hasn't seen this movie yet.",
+      "They have just arrived home.",
+      "I have never seen such a beautiful sunset.",
+      "She has worked here for three years.",
+      "We have studied English since primary school.",
+      "Have you finished your report yet?"
+    ],
+    "with_time_adverbs": [
+      "I have already eaten breakfast.",
+      "She hasn't finished her homework yet.",
+      "They have just left the office.",
+      "Have you ever been to Paris?",
+      "I have never seen such a beautiful flower.",
+      "We have known each other for ten years.",
+      "She has lived here since 2015.",
+      "I have recently started learning French.",
+      "He has lately been very busy.",
+      "So far, I have completed three projects."
+    ],
+    "negative_sentences": [
+      "I haven't finished my homework yet.",
+      "She hasn't been to Japan before.",
+      "They haven't seen the movie yet.",
+      "We haven't met each other for a long time.",
+      "He hasn't called me recently."
+    ],
+    "questions": [
+      "Have you finished your homework?",
+      "Has she been to Beijing?",
+      "Have they seen the movie?",
+      "How long have you lived here?",
+      "What have you done today?"
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "I _____ my homework already.",
+          "correct": "have finished",
+          "wrong_options": ["finish", "finished", "am finishing"],
+          "explanation": "现在完成时：have + 过去分词"
+        },
+        {
+          "question": "She _____ in this city for five years.",
+          "correct": "has lived",
+          "wrong_options": ["lives", "lived", "is living"],
+          "explanation": "表示从过去持续到现在的动作用现在完成时"
+        },
+        {
+          "question": "_____ you ever been to Japan?",
+          "correct": "Have",
+          "wrong_options": ["Did", "Do", "Are"],
+          "explanation": "现在完成时的疑问句用Have/Has开头"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "I _____ (finish) my homework.",
+          "answer": "have finished",
+          "explanation": "现在完成时：have + 过去分词"
+        },
+        {
+          "question": "She _____ (live) here for ten years.",
+          "answer": "has lived",
+          "explanation": "第三人称单数用has + 过去分词"
+        },
+        {
+          "question": "_____ you ever _____ (be) to Beijing?",
+          "answer": "Have, been",
+          "explanation": "现在完成时疑问句：Have + 主语 + 过去分词"
+        }
+      ]
+    },
+    "error_correction": {
+      "templates": [
+        {
+          "sentence": "I have went to Beijing.",
+          "error": "went",
+          "correction": "gone",
+          "explanation": "现在完成时用过去分词gone，不用过去式went"
+        },
+        {
+          "sentence": "She has lived here since ten years.",
+          "error": "since ten years",
+          "correction": "for ten years",
+          "explanation": "for + 时间段，since + 时间点"
+        },
+        {
+          "sentence": "I have finished my homework yesterday.",
+          "error": "have finished",
+          "correction": "finished",
+          "explanation": "现在完成时不能与表示过去具体时间的状语连用"
+        }
+      ]
+    },
+    "tense_transformation": {
+      "templates": [
+        {
+          "original": "I finished my homework.",
+          "transformed": "I have finished my homework.",
+          "explanation": "一般过去时变为现在完成时，强调对现在的影响"
+        },
+        {
+          "original": "She lived here for five years.",
+          "transformed": "She has lived here for five years.",
+          "explanation": "表示从过去持续到现在的动作用现在完成时"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握现在完成时的基本构成和用法",
+    "能够正确使用have/has + 过去分词",
+    "了解现在完成时与一般过去时的区别",
+    "能够在实际语境中正确使用现在完成时"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用现在完成时的各种形式，无语法错误",
+    "good": "基本掌握现在完成时用法，偶有错误",
+    "satisfactory": "了解现在完成时基本用法，需要加强练习",
+    "needs_improvement": "对现在完成时用法不熟悉，需要重新学习"
+  }
+}

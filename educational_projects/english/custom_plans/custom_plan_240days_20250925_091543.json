@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "plan_name": "自定义240天学习计划",
+    "total_days": 240,
+    "daily_minutes": 15,
+    "template_name": "轻松学习",
+    "generation_time": "2025-09-25T09:15:43.509970",
+    "start_date": "2025-09-25",
+    "end_date": "2026-05-22"
+  },
+  "learning_config": {
+    "daily_words": 5,
+    "daily_grammar": 1,
+    "daily_exercises": 10,
+    "study_time_per_day": 15,
+    "description": "轻松的学习节奏，适合时间有限的学习者"
+  },
+  "statistics": {
+    "total_words": 1200,
+    "total_grammar_points": 240,
+    "total_exercises": 2400,
+    "total_study_time_minutes": 3600,
+    "total_study_time_hours": 60.0,
+    "average_words_per_day": 5,
+    "average_grammar_per_day": 1,
+    "average_exercises_per_day": 10
+  },
+  "distribution": {
+    "grammar": {
+      "elementary": {
+        "count": 160,
+        "topics": [
+          "be动词用法-基础用法",
+          "一般现在时-基础用法",
+          "名词单复数-基础规则",
+          "形容词-基础用法",
+          "there_be-基础用法",
+          "现在进行时-基础用法",
+          "过去时-基础用法",
+          "形容词比较级-基础规则",
+          "情态动词-基础用法"
+        ]
+      },
+      "middle_school": {
+        "count": 80,
+        "topics": [
+          "现在完成时-基础用法",
+          "被动语态-基础用法",
+          "定语从句-基础用法",
+          "条件句-基础用法",
+          "过去进行时-基础用法",
+          "间接引语-基础用法",
+          "现在完成时-持续用法",
+          "被动语态-时态变化",
+          "定语从句-关系代词",
+          "条件句-虚拟语气",
+          "非谓语动词-基础用法",
+          "倒装句-基础用法",
+          "强调句-基础用法",
+          "主谓一致-复杂情况",
+          "虚拟语气-完整体系"
+        ]
+      }
+    },
+    "words": {
+      "elementary": {
+        "count": 300,
+        "percentage": 25.0
+      },
+      "middle_school": {
+        "count": 900,
+        "percentage": 75.0
+      }
+    }
+  },
+  "weekly_breakdown": [
+    {
+      "week": 1,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 2,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 3,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 4,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 5,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 6,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 7,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 8,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 9,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 10,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 11,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 12,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 13,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 14,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 15,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 16,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 17,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 18,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 19,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 20,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 21,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 22,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 23,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 24,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 25,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 26,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 27,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 28,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 29,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 30,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 31,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 32,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 33,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 34,
+      "days": 7,
+      "words": 29,
+      "grammar": 7,
+      "exercises": 60
+    },
+    {
+      "week": 35,
+      "days": 2,
+      "words": 10,
+      "grammar": 2,
+      "exercises": 20
+    }
+  ]
+}

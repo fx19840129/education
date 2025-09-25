@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-09-24T20:57:42.665209",
+  "statistics": {
+    "total_entries": 1,
+    "cache_hits": 2,
+    "cache_misses": 0,
+    "cache_hit_rate": 1.0,
+    "total_size_bytes": 246,
+    "avg_response_time_ms": 0.03707408905029297,
+    "cost_saved_estimate": 0.0
+  },
+  "cache_entries": [],
+  "top_accessed_content": [
+    {
+      "key": "acddece70bc9eb30...",
+      "content_type": "unknown",
+      "access_count": 2,
+      "created_at": "2025-09-24T20:57:42.664922",
+      "last_accessed": "2025-09-24T20:57:42.665172"
+    }
+  ],
+  "content_type_distribution": {
+    "unknown": 1
+  }
+}

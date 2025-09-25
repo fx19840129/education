@@ -1,0 +1,118 @@
+{
+  "grammar_name": "过去进行时-基础用法",
+  "level": "初中一年级",
+  "category": "进阶语法",
+  "difficulty": "medium",
+  "description": "学习过去进行时的基本用法：表示过去某个时间正在进行的动作",
+  "explanation": {
+    "basic_structure": "主语 + was/were + 动词-ing + ...",
+    "basic_rules": [
+      "过去进行时表示过去某个时间正在进行的动作",
+      "I/He/She/It 用 was",
+      "You/We/They 用 were",
+      "动词用-ing形式"
+    ],
+    "usage_cases": [
+      "表示过去某个时间正在进行的动作：I was reading a book at 8 o'clock yesterday. (昨天8点我正在读书)",
+      "表示过去某个时间段正在进行的动作：He was playing football from 3 to 5 yesterday. (昨天3点到5点他正在踢足球)",
+      "表示过去某个动作发生时另一个动作正在进行：When I arrived, he was sleeping. (当我到达时，他正在睡觉)"
+    ],
+    "time_expressions": [
+      "at + 具体时间：at 8 o'clock, at this time yesterday",
+      "from...to...：from 3 to 5, from morning to evening",
+      "when, while, as：When I arrived, While he was sleeping"
+    ],
+    "common_errors": [
+      "I was read a book yesterday. (错误) → I was reading a book yesterday. (正确)",
+      "He were playing football. (错误) → He was playing football. (正确)",
+      "She was go to school at 8. (错误) → She was going to school at 8. (正确)"
+    ],
+    "usage_tips": [
+      "过去进行时表示过去正在进行的动作",
+      "注意was/were的选择",
+      "动词要用-ing形式"
+    ]
+  },
+  "examples": {
+    "basic_usage": [
+      "I was reading a book at 8 o'clock yesterday.",
+      "He was playing football from 3 to 5 yesterday.",
+      "She was cooking dinner when I arrived.",
+      "We were studying English at this time yesterday.",
+      "They were watching TV when the phone rang."
+    ],
+    "with_time_expressions": [
+      "I was reading a book at 8 o'clock yesterday.",
+      "He was playing football from 3 to 5 yesterday.",
+      "She was cooking dinner when I arrived.",
+      "We were studying English at this time yesterday.",
+      "They were watching TV when the phone rang."
+    ],
+    "sentences": [
+      "I was reading a book at 8 o'clock yesterday.",
+      "He was playing football from 3 to 5 yesterday.",
+      "She was cooking dinner when I arrived.",
+      "We were studying English at this time yesterday.",
+      "They were watching TV when the phone rang."
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "I _____ reading a book at 8 o'clock yesterday.",
+          "correct": "was",
+          "wrong_options": ["were", "am", "is"],
+          "explanation": "第一人称用was"
+        },
+        {
+          "question": "He _____ playing football yesterday.",
+          "correct": "was",
+          "wrong_options": ["were", "am", "is"],
+          "explanation": "第三人称单数用was"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "I was _____ a book at 8 o'clock yesterday.",
+          "answer": "reading",
+          "explanation": "过去进行时用动词-ing形式"
+        },
+        {
+          "question": "He was _____ football yesterday.",
+          "answer": "playing",
+          "explanation": "过去进行时用动词-ing形式"
+        }
+      ]
+    },
+    "error_correction": {
+      "templates": [
+        {
+          "sentence": "I was read a book yesterday.",
+          "error": "read",
+          "correction": "reading",
+          "explanation": "过去进行时用动词-ing形式"
+        },
+        {
+          "sentence": "He were playing football.",
+          "error": "were",
+          "correction": "was",
+          "explanation": "第三人称单数用was"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握过去进行时的基本用法",
+    "能够正确使用was/were + 动词-ing",
+    "了解过去进行时表示过去正在进行的动作"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用过去进行时基本用法，无语法错误",
+    "good": "基本掌握过去进行时基本用法，偶有错误",
+    "satisfactory": "了解过去进行时基本用法，需要加强练习",
+    "needs_improvement": "对过去进行时基本用法不熟悉，需要重新学习"
+  }
+}

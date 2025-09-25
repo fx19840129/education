@@ -1,0 +1,188 @@
+{
+  "grammar_name": "情态动词",
+  "level": "初中二年级",
+  "category": "进阶语法",
+  "difficulty": "medium",
+  "description": "情态动词表示说话人的态度、情感或语气，不能单独作谓语，必须与动词原形连用",
+  "explanation": {
+    "basic_rules": [
+      "情态动词 + 动词原形",
+      "情态动词没有人称和数的变化",
+      "情态动词的否定形式：情态动词 + not",
+      "情态动词的疑问形式：情态动词 + 主语 + 动词原形 + ...?"
+    ],
+    "main_modal_verbs": [
+      "can/could - 能力、许可",
+      "may/might - 许可、可能性",
+      "must - 必须、肯定推测",
+      "should/ought to - 应该",
+      "will/would - 愿意、意志"
+    ],
+    "usage_cases": {
+      "can_could": [
+        "表示能力：I can swim. (我会游泳)",
+        "表示许可：You can go now. (你现在可以走了)",
+        "could是can的过去式，也可表示更委婉的请求"
+      ],
+      "may_might": [
+        "表示许可：You may leave now. (你现在可以离开了)",
+        "表示可能性：It may rain tomorrow. (明天可能会下雨)",
+        "might是may的过去式，表示可能性更小"
+      ],
+      "must": [
+        "表示必须：You must finish your homework. (你必须完成作业)",
+        "表示肯定推测：He must be at home. (他肯定在家)"
+      ],
+      "should_ought_to": [
+        "表示建议或义务：You should study hard. (你应该努力学习)"
+      ],
+      "will_would": [
+        "表示意愿：I will help you. (我愿意帮助你)",
+        "would是will的过去式，表示更委婉"
+      ]
+    },
+    "common_errors": [
+      "I can to swim. (错误) → I can swim. (正确)",
+      "He musts finish his homework. (错误) → He must finish his homework. (正确)",
+      "You should to study hard. (错误) → You should study hard. (正确)"
+    ],
+    "usage_tips": [
+      "情态动词后必须跟动词原形",
+      "情态动词没有人称和数的变化",
+      "注意情态动词的否定和疑问形式"
+    ]
+  },
+  "examples": {
+    "can_could": [
+      "I can speak English fluently.",
+      "Can you swim across the river?",
+      "Could you help me with this bag?",
+      "She can play the piano very well.",
+      "We can't go out in this weather."
+    ],
+    "may_might": [
+      "You may use my computer.",
+      "It may rain this afternoon.",
+      "Might I ask you a question?",
+      "She might be late for the meeting.",
+      "May I leave early today?"
+    ],
+    "must": [
+      "Students must wear uniforms at school.",
+      "You mustn't smoke in public places.",
+      "He must be at home now.",
+      "We must finish this project today.",
+      "You must be tired after the long journey."
+    ],
+    "should_ought_to": [
+      "You should get up early.",
+      "Should we invite John to the party?",
+      "You ought to apologize to her.",
+      "We should protect the environment.",
+      "You should see a doctor if you feel sick."
+    ],
+    "will_would": [
+      "I will do my best.",
+      "Will you help me with this?",
+      "Would you like some coffee?",
+      "He would always help others.",
+      "Would you mind opening the window?"
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "You _____ smoke in public places.",
+          "correct": "mustn't",
+          "wrong_options": ["don't have to", "shouldn't", "can't"],
+          "explanation": "mustn't表示禁止，不允许"
+        },
+        {
+          "question": "_____ I use your phone?",
+          "correct": "May",
+          "wrong_options": ["Can", "Must", "Should"],
+          "explanation": "May I...? 表示礼貌的请求"
+        },
+        {
+          "question": "You _____ study hard to pass the exam.",
+          "correct": "must",
+          "wrong_options": ["can", "may", "will"],
+          "explanation": "must表示必须，必要性"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "I _____ speak three languages.",
+          "answer": "can",
+          "explanation": "can表示能力"
+        },
+        {
+          "question": "You _____ finish your homework before watching TV.",
+          "answer": "must",
+          "explanation": "must表示必须"
+        },
+        {
+          "question": "_____ you help me with this problem?",
+          "answer": "Could",
+          "explanation": "Could you...? 表示礼貌的请求"
+        }
+      ]
+    },
+    "error_correction": {
+      "templates": [
+        {
+          "sentence": "I can to swim.",
+          "error": "can to",
+          "correction": "can",
+          "explanation": "情态动词后直接跟动词原形，不加to"
+        },
+        {
+          "sentence": "He musts finish his homework.",
+          "error": "musts",
+          "correction": "must",
+          "explanation": "情态动词没有人称和数的变化"
+        },
+        {
+          "sentence": "You should to study hard.",
+          "error": "should to",
+          "correction": "should",
+          "explanation": "情态动词后直接跟动词原形，不加to"
+        }
+      ]
+    },
+    "sentence_creation": {
+      "templates": [
+        {
+          "requirement": "用情态动词'must'造句表示必须",
+          "example": "You must wear a seatbelt when driving.",
+          "explanation": "must表示必须，必要性"
+        },
+        {
+          "requirement": "用情态动词'can'造句表示能力",
+          "example": "I can play the guitar.",
+          "explanation": "can表示能力"
+        },
+        {
+          "requirement": "用情态动词'should'造句表示建议",
+          "example": "You should eat more vegetables.",
+          "explanation": "should表示建议"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握主要情态动词的用法",
+    "能够正确使用情态动词表达不同的语气",
+    "学会情态动词的否定和疑问形式",
+    "能够在实际语境中正确使用情态动词"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用各种情态动词，无语法错误",
+    "good": "基本掌握情态动词用法，偶有错误",
+    "satisfactory": "了解情态动词基本用法，需要加强练习",
+    "needs_improvement": "对情态动词用法不熟悉，需要重新学习"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "grammar_name": "间接引语-时态变化",
+  "level": "初中三年级",
+  "category": "进阶语法",
+  "difficulty": "hard",
+  "description": "学习间接引语中时态变化的具体规则",
+  "explanation": {
+    "basic_rules": [
+      "一般现在时 → 一般过去时",
+      "一般过去时 → 过去完成时",
+      "现在完成时 → 过去完成时",
+      "一般将来时 → 过去将来时",
+      "情态动词也要相应变化"
+    ],
+    "tense_changes": [
+      "am/is/are → was/were",
+      "have/has → had",
+      "will → would",
+      "can → could",
+      "may → might",
+      "must → had to"
+    ],
+    "common_errors": [
+      "He said that he is happy. (错误) → He said that he was happy. (正确)",
+      "He said that he will come. (错误) → He said that he would come. (正确)",
+      "He said that he can swim. (错误) → He said that he could swim. (正确)"
+    ],
+    "usage_tips": [
+      "间接引语中时态要相应变化",
+      "注意情态动词的变化",
+      "时间状语也要相应变化"
+    ]
+  },
+  "examples": {
+    "present_to_past": [
+      "He said, \"I am happy.\" → He said that he was happy.",
+      "She said, \"I like apples.\" → She said that she liked apples.",
+      "He said, \"I have a car.\" → He said that he had a car.",
+      "She said, \"I can swim.\" → She said that she could swim.",
+      "He said, \"I will come.\" → He said that he would come."
+    ],
+    "past_to_past_perfect": [
+      "He said, \"I went to school.\" → He said that he had gone to school.",
+      "She said, \"I saw a movie.\" → She said that she had seen a movie.",
+      "He said, \"I finished my homework.\" → He said that he had finished his homework.",
+      "She said, \"I bought a book.\" → She said that she had bought a book.",
+      "He said, \"I played football.\" → He said that he had played football."
+    ],
+    "future_to_past_future": [
+      "He said, \"I will come.\" → He said that he would come.",
+      "She said, \"I will help you.\" → She said that she would help me.",
+      "He said, \"I will study hard.\" → He said that he would study hard.",
+      "She said, \"I will be there.\" → She said that she would be there.",
+      "He said, \"I will call you.\" → He said that he would call me."
+    ],
+    "modal_verbs": [
+      "He said, \"I can swim.\" → He said that he could swim.",
+      "She said, \"I may come.\" → She said that she might come.",
+      "He said, \"I must go.\" → He said that he had to go.",
+      "She said, \"I should study.\" → She said that she should study.",
+      "He said, \"I need help.\" → He said that he needed help."
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "He said that he _____ happy.",
+          "correct": "was",
+          "wrong_options": ["is", "am", "are"],
+          "explanation": "一般现在时变为一般过去时"
+        },
+        {
+          "question": "He said that he _____ come.",
+          "correct": "would",
+          "wrong_options": ["will", "can", "may"],
+          "explanation": "一般将来时变为过去将来时"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "He said that he _____ happy.",
+          "answer": "was",
+          "explanation": "一般现在时变为一般过去时"
+        },
+        {
+          "question": "He said that he _____ come.",
+          "answer": "would",
+          "explanation": "一般将来时变为过去将来时"
+        }
+      ]
+    },
+    "tense_transformation": {
+      "templates": [
+        {
+          "question": "将时态变化：He said, \"I am happy.\"",
+          "answer": "He said that he was happy.",
+          "explanation": "一般现在时变为一般过去时"
+        },
+        {
+          "question": "将时态变化：He said, \"I will come.\"",
+          "answer": "He said that he would come.",
+          "explanation": "一般将来时变为过去将来时"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握间接引语中时态变化的具体规则",
+    "能够正确进行各种时态变化",
+    "了解情态动词在间接引语中的变化"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练进行时态变化，无语法错误",
+    "good": "基本掌握时态变化，偶有错误",
+    "satisfactory": "了解时态变化，需要加强练习",
+    "needs_improvement": "对时态变化不熟悉，需要重新学习"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "grammar_name": "现在进行时",
+  "level": "小学五年级",
+  "category": "基础语法",
+  "difficulty": "easy",
+  "description": "现在进行时表示现在正在进行的动作",
+  "explanation": {
+    "basic_structure": "主语 + am/is/are + 动词-ing + ...",
+    "basic_rules": [
+      "I 用 am",
+      "You/We/They 用 are",
+      "He/She/It 用 is",
+      "动词-ing变化规则：一般情况加-ing，以e结尾去e加-ing，以辅音+y结尾直接加-ing"
+    ],
+    "negative_form": "am/is/are + not + 动词-ing",
+    "question_form": "Am/Is/Are + 主语 + 动词-ing + ...?",
+    "time_adverbs": [
+      "now, at the moment, at present",
+      "Look! Listen! 等表示提醒的词语"
+    ],
+    "common_errors": [
+      "I am go to school. (错误) → I am going to school. (正确)",
+      "He is play football. (错误) → He is playing football. (正确)",
+      "Are you study? (错误) → Are you studying? (正确)"
+    ],
+    "usage_tips": [
+      "现在进行时表示正在进行的动作",
+      "注意动词-ing的变化规则",
+      "be动词要根据主语选择正确形式"
+    ]
+  },
+  "examples": {
+    "basic": [
+      "I am reading a book now.",
+      "You are playing football.",
+      "He is watching TV.",
+      "She is cooking dinner.",
+      "It is raining outside.",
+      "We are studying English.",
+      "They are playing games."
+    ],
+    "negative": [
+      "I am not sleeping.",
+      "You are not working.",
+      "He is not playing.",
+      "She is not cooking.",
+      "It is not raining.",
+      "We are not studying.",
+      "They are not playing."
+    ],
+    "questions": [
+      "Am I reading?",
+      "Are you playing?",
+      "Is he watching?",
+      "Is she cooking?",
+      "Is it raining?",
+      "Are we studying?",
+      "Are they playing?"
+    ],
+    "with_time_expressions": [
+      "I am reading now.",
+      "Look! He is playing football.",
+      "Listen! She is singing.",
+      "We are studying at the moment.",
+      "They are playing games at present."
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "I _____ reading a book now.",
+          "correct": "am",
+          "wrong_options": ["is", "are", "be"],
+          "explanation": "第一人称用am"
+        },
+        {
+          "question": "He _____ playing football.",
+          "correct": "is",
+          "wrong_options": ["am", "are", "be"],
+          "explanation": "第三人称单数用is"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "I am _____ a book.",
+          "answer": "reading",
+          "explanation": "动词-ing形式"
+        },
+        {
+          "question": "She is _____ dinner.",
+          "answer": "cooking",
+          "explanation": "动词-ing形式"
+        }
+      ]
+    },
+    "error_correction": {
+      "templates": [
+        {
+          "sentence": "I am go to school.",
+          "error": "go",
+          "correction": "going",
+          "explanation": "现在进行时用动词-ing形式"
+        },
+        {
+          "sentence": "He is play football.",
+          "error": "play",
+          "correction": "playing",
+          "explanation": "现在进行时用动词-ing形式"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握现在进行时的基本构成和用法",
+    "能够正确使用am/is/are + 动词-ing",
+    "学会现在进行时的否定和疑问形式",
+    "能够在实际语境中正确使用现在进行时"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用现在进行时的各种形式，无语法错误",
+    "good": "基本掌握现在进行时用法，偶有错误",
+    "satisfactory": "了解现在进行时基本用法，需要加强练习",
+    "needs_improvement": "对现在进行时用法不熟悉，需要重新学习"
+  }
+}

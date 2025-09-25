@@ -1,0 +1,143 @@
+{
+  "grammar_name": "一般过去时-不规则动词",
+  "level": "小学六年级",
+  "category": "基础语法",
+  "difficulty": "medium",
+  "description": "学习一般过去时中不规则动词的过去式变化",
+  "explanation": {
+    "basic_rules": [
+      "不规则动词的过去式没有固定规律",
+      "需要逐个记忆",
+      "常见的不规则动词要重点掌握",
+      "多练习，熟能生巧"
+    ],
+    "common_irregular_verbs": [
+      "go → went",
+      "see → saw",
+      "do → did",
+      "have → had",
+      "be → was/were",
+      "come → came",
+      "get → got",
+      "give → gave",
+      "take → took",
+      "make → made"
+    ],
+    "memory_tips": [
+      "不规则动词需要逐个记忆",
+      "可以按组记忆，如go-went, see-saw",
+      "多读多写，加深印象",
+      "在实际使用中不断巩固"
+    ],
+    "common_errors": [
+      "I goed to school yesterday. (错误) → I went to school yesterday. (正确)",
+      "He seed a movie last night. (错误) → He saw a movie last night. (正确)",
+      "She doed her homework. (错误) → She did her homework. (正确)"
+    ]
+  },
+  "examples": {
+    "be_verb": [
+      "am/is → was",
+      "are → were",
+      "I was happy yesterday.",
+      "You were busy last week.",
+      "He was at home yesterday.",
+      "She was tired last night.",
+      "It was sunny yesterday.",
+      "We were at school yesterday.",
+      "They were playing football."
+    ],
+    "common_irregular": [
+      "go → went",
+      "see → saw",
+      "do → did",
+      "have → had",
+      "come → came",
+      "get → got",
+      "give → gave",
+      "take → took",
+      "make → made",
+      "say → said"
+    ],
+    "sentences": [
+      "I went to school yesterday.",
+      "He saw a movie last night.",
+      "She did her homework.",
+      "We had dinner together.",
+      "They came to visit us."
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "I _____ to school yesterday.",
+          "correct": "went",
+          "wrong_options": ["goed", "go", "going"],
+          "explanation": "go的过去式是went"
+        },
+        {
+          "question": "He _____ a movie last night.",
+          "correct": "saw",
+          "wrong_options": ["seed", "see", "seeing"],
+          "explanation": "see的过去式是saw"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "I _____ my homework yesterday.",
+          "answer": "did",
+          "explanation": "do的过去式是did"
+        },
+        {
+          "question": "She _____ dinner with us.",
+          "answer": "had",
+          "explanation": "have的过去式是had"
+        }
+      ]
+    },
+    "transformation": {
+      "templates": [
+        {
+          "question": "将动词变为过去式：go",
+          "answer": "went",
+          "explanation": "go的过去式是went"
+        },
+        {
+          "question": "将动词变为过去式：see",
+          "answer": "saw",
+          "explanation": "see的过去式是saw"
+        }
+      ]
+    },
+    "error_correction": {
+      "templates": [
+        {
+          "sentence": "I goed to school yesterday.",
+          "error": "goed",
+          "correction": "went",
+          "explanation": "go的过去式是went"
+        },
+        {
+          "sentence": "He seed a movie last night.",
+          "error": "seed",
+          "correction": "saw",
+          "explanation": "see的过去式是saw"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握常见不规则动词的过去式",
+    "能够正确使用不规则动词的过去式",
+    "了解不规则动词需要逐个记忆"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用不规则动词过去式，无语法错误",
+    "good": "基本掌握不规则动词过去式，偶有错误",
+    "satisfactory": "了解不规则动词过去式，需要加强练习",
+    "needs_improvement": "对不规则动词过去式不熟悉，需要重新学习"
+  }
+}

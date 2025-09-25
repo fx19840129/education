@@ -1,0 +1,100 @@
+{
+  "grammar_name": "名词单复数-基础规则",
+  "level": "小学三年级",
+  "category": "基础语法",
+  "difficulty": "easy",
+  "description": "学习名词单复数的基本规则：一般情况加-s",
+  "explanation": {
+    "basic_rules": [
+      "一般情况加-s：book → books, pen → pens",
+      "这是最常见的复数变化规则",
+      "适用于大多数名词"
+    ],
+    "usage_tips": [
+      "记住：一个名词加-s变成多个",
+      "复数名词通常与复数动词搭配",
+      "数量词后通常用复数名词"
+    ],
+    "common_errors": [
+      "I have three book. (错误) → I have three books. (正确)",
+      "The cat are sleeping. (错误) → The cats are sleeping. (正确)"
+    ]
+  },
+  "examples": {
+    "basic_plural": [
+      "book → books",
+      "pen → pens", 
+      "cat → cats",
+      "dog → dogs",
+      "car → cars",
+      "house → houses",
+      "tree → trees",
+      "flower → flowers",
+      "apple → apples",
+      "orange → oranges"
+    ],
+    "sentences": [
+      "I have one book. → I have three books.",
+      "The cat is sleeping. → The cats are sleeping.",
+      "This is a pen. → These are pens.",
+      "I see a dog. → I see many dogs."
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "I have three _____.",
+          "correct": "books",
+          "wrong_options": ["book", "bookes", "bookses"],
+          "explanation": "一般情况加-s"
+        },
+        {
+          "question": "The _____ are playing.",
+          "correct": "cats",
+          "wrong_options": ["cat", "cates", "caties"],
+          "explanation": "一般情况加-s"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "I have two _____.",
+          "answer": "pens",
+          "explanation": "一般情况加-s"
+        },
+        {
+          "question": "There are many _____ in the garden.",
+          "answer": "flowers",
+          "explanation": "一般情况加-s"
+        }
+      ]
+    },
+    "transformation": {
+      "templates": [
+        {
+          "question": "将单数变为复数：book",
+          "answer": "books",
+          "explanation": "一般情况加-s"
+        },
+        {
+          "question": "将单数变为复数：dog",
+          "answer": "dogs", 
+          "explanation": "一般情况加-s"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握名词单复数的基本规则：加-s",
+    "能够将单数名词变为复数",
+    "了解复数名词的基本用法"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用基本复数规则，无语法错误",
+    "good": "基本掌握复数规则，偶有错误",
+    "satisfactory": "了解复数基本规则，需要加强练习",
+    "needs_improvement": "对复数规则不熟悉，需要重新学习"
+  }
+}

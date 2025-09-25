@@ -1,0 +1,1700 @@
+{
+  "metadata": {
+    "title": "6个月英语学习计划",
+    "start_date": "2025-01-01",
+    "total_days": 168,
+    "total_weeks": 24,
+    "total_phases": 6,
+    "generation_time": "2025-09-24T23:33:01.819012",
+    "format": "word"
+  },
+  "phases": [
+    {
+      "name": "第一阶段 (第1-4周)",
+      "description": "基础语法和高频词汇",
+      "focus": "基础建立",
+      "weeks": 4,
+      "start_date": "2025-01-01",
+      "end_date": "2025-01-28",
+      "grammar_topics": [
+        "be动词用法-基础用法",
+        "一般现在时-基础用法",
+        "名词单复数-基础规则",
+        "形容词-基础用法",
+        "there_be-基础用法"
+      ],
+      "word_level": "elementary",
+      "daily_words": 8,
+      "exercises_per_day": 15,
+      "weeks_detail": [
+        {
+          "title": "第一阶段 (第1-4周) - 第1周",
+          "start_date": "2025-01-01",
+          "end_date": "2025-01-07",
+          "days": [
+            {
+              "date": "2025-01-01",
+              "day_name": "周一",
+              "grammar_topic": "be动词用法-基础用法",
+              "word_count": 8,
+              "exercise_count": 15,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-02",
+              "day_name": "周二",
+              "grammar_topic": "一般现在时-基础用法",
+              "word_count": 8,
+              "exercise_count": 15,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-03",
+              "day_name": "周三",
+              "grammar_topic": "名词单复数-基础规则",
+              "word_count": 8,
+              "exercise_count": 15,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-04",
+              "day_name": "周四",
+              "grammar_topic": "形容词-基础用法",
+              "word_count": 8,
+              "exercise_count": 15,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-05",
+              "day_name": "周五",
+              "grammar_topic": "there_be-基础用法",
+              "word_count": 8,
+              "exercise_count": 15,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-06",
+              "day_name": "周六",
+              "grammar_topic": "be动词用法-基础用法",
+              "word_count": 4,
+              "exercise_count": 7,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-07",
+              "day_name": "周日",
+              "grammar_topic": "一般现在时-基础用法",
+              "word_count": 4,
+              "exercise_count": 7,
+              "word_level": "elementary"
+            }
+          ],
+          "total_words": 48,
+          "total_exercises": 89
+        },
+        {
+          "title": "第一阶段 (第1-4周) - 第2周",
+          "start_date": "2025-01-08",
+          "end_date": "2025-01-14",
+          "days": [
+            {
+              "date": "2025-01-08",
+              "day_name": "周一",
+              "grammar_topic": "be动词用法-基础用法",
+              "word_count": 8,
+              "exercise_count": 15,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-09",
+              "day_name": "周二",
+              "grammar_topic": "一般现在时-基础用法",
+              "word_count": 8,
+              "exercise_count": 15,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-10",
+              "day_name": "周三",
+              "grammar_topic": "名词单复数-基础规则",
+              "word_count": 8,
+              "exercise_count": 15,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-11",
+              "day_name": "周四",
+              "grammar_topic": "形容词-基础用法",
+              "word_count": 8,
+              "exercise_count": 15,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-12",
+              "day_name": "周五",
+              "grammar_topic": "there_be-基础用法",
+              "word_count": 8,
+              "exercise_count": 15,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-13",
+              "day_name": "周六",
+              "grammar_topic": "be动词用法-基础用法",
+              "word_count": 4,
+              "exercise_count": 7,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-14",
+              "day_name": "周日",
+              "grammar_topic": "一般现在时-基础用法",
+              "word_count": 4,
+              "exercise_count": 7,
+              "word_level": "elementary"
+            }
+          ],
+          "total_words": 48,
+          "total_exercises": 89
+        },
+        {
+          "title": "第一阶段 (第1-4周) - 第3周",
+          "start_date": "2025-01-15",
+          "end_date": "2025-01-21",
+          "days": [
+            {
+              "date": "2025-01-15",
+              "day_name": "周一",
+              "grammar_topic": "be动词用法-基础用法",
+              "word_count": 8,
+              "exercise_count": 15,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-16",
+              "day_name": "周二",
+              "grammar_topic": "一般现在时-基础用法",
+              "word_count": 8,
+              "exercise_count": 15,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-17",
+              "day_name": "周三",
+              "grammar_topic": "名词单复数-基础规则",
+              "word_count": 8,
+              "exercise_count": 15,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-18",
+              "day_name": "周四",
+              "grammar_topic": "形容词-基础用法",
+              "word_count": 8,
+              "exercise_count": 15,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-19",
+              "day_name": "周五",
+              "grammar_topic": "there_be-基础用法",
+              "word_count": 8,
+              "exercise_count": 15,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-20",
+              "day_name": "周六",
+              "grammar_topic": "be动词用法-基础用法",
+              "word_count": 4,
+              "exercise_count": 7,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-21",
+              "day_name": "周日",
+              "grammar_topic": "一般现在时-基础用法",
+              "word_count": 4,
+              "exercise_count": 7,
+              "word_level": "elementary"
+            }
+          ],
+          "total_words": 48,
+          "total_exercises": 89
+        },
+        {
+          "title": "第一阶段 (第1-4周) - 第4周",
+          "start_date": "2025-01-22",
+          "end_date": "2025-01-28",
+          "days": [
+            {
+              "date": "2025-01-22",
+              "day_name": "周一",
+              "grammar_topic": "be动词用法-基础用法",
+              "word_count": 8,
+              "exercise_count": 15,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-23",
+              "day_name": "周二",
+              "grammar_topic": "一般现在时-基础用法",
+              "word_count": 8,
+              "exercise_count": 15,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-24",
+              "day_name": "周三",
+              "grammar_topic": "名词单复数-基础规则",
+              "word_count": 8,
+              "exercise_count": 15,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-25",
+              "day_name": "周四",
+              "grammar_topic": "形容词-基础用法",
+              "word_count": 8,
+              "exercise_count": 15,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-26",
+              "day_name": "周五",
+              "grammar_topic": "there_be-基础用法",
+              "word_count": 8,
+              "exercise_count": 15,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-27",
+              "day_name": "周六",
+              "grammar_topic": "be动词用法-基础用法",
+              "word_count": 4,
+              "exercise_count": 7,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-28",
+              "day_name": "周日",
+              "grammar_topic": "一般现在时-基础用法",
+              "word_count": 4,
+              "exercise_count": 7,
+              "word_level": "elementary"
+            }
+          ],
+          "total_words": 48,
+          "total_exercises": 89
+        }
+      ]
+    },
+    {
+      "name": "第二阶段 (第5-8周)",
+      "description": "进阶语法和词汇扩展",
+      "focus": "技能提升",
+      "weeks": 4,
+      "start_date": "2025-01-29",
+      "end_date": "2025-02-25",
+      "grammar_topics": [
+        "现在进行时-基础用法",
+        "过去时-基础用法",
+        "形容词比较级-基础规则",
+        "现在完成时-基础用法",
+        "情态动词-基础用法"
+      ],
+      "word_level": "elementary",
+      "daily_words": 10,
+      "exercises_per_day": 18,
+      "weeks_detail": [
+        {
+          "title": "第二阶段 (第5-8周) - 第1周",
+          "start_date": "2025-01-29",
+          "end_date": "2025-02-04",
+          "days": [
+            {
+              "date": "2025-01-29",
+              "day_name": "周一",
+              "grammar_topic": "现在进行时-基础用法",
+              "word_count": 10,
+              "exercise_count": 18,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-30",
+              "day_name": "周二",
+              "grammar_topic": "过去时-基础用法",
+              "word_count": 10,
+              "exercise_count": 18,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-01-31",
+              "day_name": "周三",
+              "grammar_topic": "形容词比较级-基础规则",
+              "word_count": 10,
+              "exercise_count": 18,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-01",
+              "day_name": "周四",
+              "grammar_topic": "现在完成时-基础用法",
+              "word_count": 10,
+              "exercise_count": 18,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-02",
+              "day_name": "周五",
+              "grammar_topic": "情态动词-基础用法",
+              "word_count": 10,
+              "exercise_count": 18,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-03",
+              "day_name": "周六",
+              "grammar_topic": "现在进行时-基础用法",
+              "word_count": 5,
+              "exercise_count": 9,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-04",
+              "day_name": "周日",
+              "grammar_topic": "过去时-基础用法",
+              "word_count": 5,
+              "exercise_count": 9,
+              "word_level": "elementary"
+            }
+          ],
+          "total_words": 60,
+          "total_exercises": 108
+        },
+        {
+          "title": "第二阶段 (第5-8周) - 第2周",
+          "start_date": "2025-02-05",
+          "end_date": "2025-02-11",
+          "days": [
+            {
+              "date": "2025-02-05",
+              "day_name": "周一",
+              "grammar_topic": "现在进行时-基础用法",
+              "word_count": 10,
+              "exercise_count": 18,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-06",
+              "day_name": "周二",
+              "grammar_topic": "过去时-基础用法",
+              "word_count": 10,
+              "exercise_count": 18,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-07",
+              "day_name": "周三",
+              "grammar_topic": "形容词比较级-基础规则",
+              "word_count": 10,
+              "exercise_count": 18,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-08",
+              "day_name": "周四",
+              "grammar_topic": "现在完成时-基础用法",
+              "word_count": 10,
+              "exercise_count": 18,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-09",
+              "day_name": "周五",
+              "grammar_topic": "情态动词-基础用法",
+              "word_count": 10,
+              "exercise_count": 18,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-10",
+              "day_name": "周六",
+              "grammar_topic": "现在进行时-基础用法",
+              "word_count": 5,
+              "exercise_count": 9,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-11",
+              "day_name": "周日",
+              "grammar_topic": "过去时-基础用法",
+              "word_count": 5,
+              "exercise_count": 9,
+              "word_level": "elementary"
+            }
+          ],
+          "total_words": 60,
+          "total_exercises": 108
+        },
+        {
+          "title": "第二阶段 (第5-8周) - 第3周",
+          "start_date": "2025-02-12",
+          "end_date": "2025-02-18",
+          "days": [
+            {
+              "date": "2025-02-12",
+              "day_name": "周一",
+              "grammar_topic": "现在进行时-基础用法",
+              "word_count": 10,
+              "exercise_count": 18,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-13",
+              "day_name": "周二",
+              "grammar_topic": "过去时-基础用法",
+              "word_count": 10,
+              "exercise_count": 18,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-14",
+              "day_name": "周三",
+              "grammar_topic": "形容词比较级-基础规则",
+              "word_count": 10,
+              "exercise_count": 18,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-15",
+              "day_name": "周四",
+              "grammar_topic": "现在完成时-基础用法",
+              "word_count": 10,
+              "exercise_count": 18,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-16",
+              "day_name": "周五",
+              "grammar_topic": "情态动词-基础用法",
+              "word_count": 10,
+              "exercise_count": 18,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-17",
+              "day_name": "周六",
+              "grammar_topic": "现在进行时-基础用法",
+              "word_count": 5,
+              "exercise_count": 9,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-18",
+              "day_name": "周日",
+              "grammar_topic": "过去时-基础用法",
+              "word_count": 5,
+              "exercise_count": 9,
+              "word_level": "elementary"
+            }
+          ],
+          "total_words": 60,
+          "total_exercises": 108
+        },
+        {
+          "title": "第二阶段 (第5-8周) - 第4周",
+          "start_date": "2025-02-19",
+          "end_date": "2025-02-25",
+          "days": [
+            {
+              "date": "2025-02-19",
+              "day_name": "周一",
+              "grammar_topic": "现在进行时-基础用法",
+              "word_count": 10,
+              "exercise_count": 18,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-20",
+              "day_name": "周二",
+              "grammar_topic": "过去时-基础用法",
+              "word_count": 10,
+              "exercise_count": 18,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-21",
+              "day_name": "周三",
+              "grammar_topic": "形容词比较级-基础规则",
+              "word_count": 10,
+              "exercise_count": 18,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-22",
+              "day_name": "周四",
+              "grammar_topic": "现在完成时-基础用法",
+              "word_count": 10,
+              "exercise_count": 18,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-23",
+              "day_name": "周五",
+              "grammar_topic": "情态动词-基础用法",
+              "word_count": 10,
+              "exercise_count": 18,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-24",
+              "day_name": "周六",
+              "grammar_topic": "现在进行时-基础用法",
+              "word_count": 5,
+              "exercise_count": 9,
+              "word_level": "elementary"
+            },
+            {
+              "date": "2025-02-25",
+              "day_name": "周日",
+              "grammar_topic": "过去时-基础用法",
+              "word_count": 5,
+              "exercise_count": 9,
+              "word_level": "elementary"
+            }
+          ],
+          "total_words": 60,
+          "total_exercises": 108
+        }
+      ]
+    },
+    {
+      "name": "第三阶段 (第9-12周)",
+      "description": "复杂语法结构",
+      "focus": "语法深化",
+      "weeks": 4,
+      "start_date": "2025-02-26",
+      "end_date": "2025-03-25",
+      "grammar_topics": [
+        "被动语态-基础用法",
+        "定语从句-基础用法",
+        "条件句-基础用法",
+        "过去进行时-基础用法",
+        "间接引语-基础用法"
+      ],
+      "word_level": "middle_school",
+      "daily_words": 8,
+      "exercises_per_day": 20,
+      "weeks_detail": [
+        {
+          "title": "第三阶段 (第9-12周) - 第1周",
+          "start_date": "2025-02-26",
+          "end_date": "2025-03-04",
+          "days": [
+            {
+              "date": "2025-02-26",
+              "day_name": "周一",
+              "grammar_topic": "被动语态-基础用法",
+              "word_count": 8,
+              "exercise_count": 20,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-02-27",
+              "day_name": "周二",
+              "grammar_topic": "定语从句-基础用法",
+              "word_count": 8,
+              "exercise_count": 20,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-02-28",
+              "day_name": "周三",
+              "grammar_topic": "条件句-基础用法",
+              "word_count": 8,
+              "exercise_count": 20,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-01",
+              "day_name": "周四",
+              "grammar_topic": "过去进行时-基础用法",
+              "word_count": 8,
+              "exercise_count": 20,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-02",
+              "day_name": "周五",
+              "grammar_topic": "间接引语-基础用法",
+              "word_count": 8,
+              "exercise_count": 20,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-03",
+              "day_name": "周六",
+              "grammar_topic": "被动语态-基础用法",
+              "word_count": 4,
+              "exercise_count": 10,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-04",
+              "day_name": "周日",
+              "grammar_topic": "定语从句-基础用法",
+              "word_count": 4,
+              "exercise_count": 10,
+              "word_level": "middle_school"
+            }
+          ],
+          "total_words": 48,
+          "total_exercises": 120
+        },
+        {
+          "title": "第三阶段 (第9-12周) - 第2周",
+          "start_date": "2025-03-05",
+          "end_date": "2025-03-11",
+          "days": [
+            {
+              "date": "2025-03-05",
+              "day_name": "周一",
+              "grammar_topic": "被动语态-基础用法",
+              "word_count": 8,
+              "exercise_count": 20,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-06",
+              "day_name": "周二",
+              "grammar_topic": "定语从句-基础用法",
+              "word_count": 8,
+              "exercise_count": 20,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-07",
+              "day_name": "周三",
+              "grammar_topic": "条件句-基础用法",
+              "word_count": 8,
+              "exercise_count": 20,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-08",
+              "day_name": "周四",
+              "grammar_topic": "过去进行时-基础用法",
+              "word_count": 8,
+              "exercise_count": 20,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-09",
+              "day_name": "周五",
+              "grammar_topic": "间接引语-基础用法",
+              "word_count": 8,
+              "exercise_count": 20,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-10",
+              "day_name": "周六",
+              "grammar_topic": "被动语态-基础用法",
+              "word_count": 4,
+              "exercise_count": 10,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-11",
+              "day_name": "周日",
+              "grammar_topic": "定语从句-基础用法",
+              "word_count": 4,
+              "exercise_count": 10,
+              "word_level": "middle_school"
+            }
+          ],
+          "total_words": 48,
+          "total_exercises": 120
+        },
+        {
+          "title": "第三阶段 (第9-12周) - 第3周",
+          "start_date": "2025-03-12",
+          "end_date": "2025-03-18",
+          "days": [
+            {
+              "date": "2025-03-12",
+              "day_name": "周一",
+              "grammar_topic": "被动语态-基础用法",
+              "word_count": 8,
+              "exercise_count": 20,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-13",
+              "day_name": "周二",
+              "grammar_topic": "定语从句-基础用法",
+              "word_count": 8,
+              "exercise_count": 20,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-14",
+              "day_name": "周三",
+              "grammar_topic": "条件句-基础用法",
+              "word_count": 8,
+              "exercise_count": 20,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-15",
+              "day_name": "周四",
+              "grammar_topic": "过去进行时-基础用法",
+              "word_count": 8,
+              "exercise_count": 20,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-16",
+              "day_name": "周五",
+              "grammar_topic": "间接引语-基础用法",
+              "word_count": 8,
+              "exercise_count": 20,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-17",
+              "day_name": "周六",
+              "grammar_topic": "被动语态-基础用法",
+              "word_count": 4,
+              "exercise_count": 10,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-18",
+              "day_name": "周日",
+              "grammar_topic": "定语从句-基础用法",
+              "word_count": 4,
+              "exercise_count": 10,
+              "word_level": "middle_school"
+            }
+          ],
+          "total_words": 48,
+          "total_exercises": 120
+        },
+        {
+          "title": "第三阶段 (第9-12周) - 第4周",
+          "start_date": "2025-03-19",
+          "end_date": "2025-03-25",
+          "days": [
+            {
+              "date": "2025-03-19",
+              "day_name": "周一",
+              "grammar_topic": "被动语态-基础用法",
+              "word_count": 8,
+              "exercise_count": 20,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-20",
+              "day_name": "周二",
+              "grammar_topic": "定语从句-基础用法",
+              "word_count": 8,
+              "exercise_count": 20,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-21",
+              "day_name": "周三",
+              "grammar_topic": "条件句-基础用法",
+              "word_count": 8,
+              "exercise_count": 20,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-22",
+              "day_name": "周四",
+              "grammar_topic": "过去进行时-基础用法",
+              "word_count": 8,
+              "exercise_count": 20,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-23",
+              "day_name": "周五",
+              "grammar_topic": "间接引语-基础用法",
+              "word_count": 8,
+              "exercise_count": 20,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-24",
+              "day_name": "周六",
+              "grammar_topic": "被动语态-基础用法",
+              "word_count": 4,
+              "exercise_count": 10,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-25",
+              "day_name": "周日",
+              "grammar_topic": "定语从句-基础用法",
+              "word_count": 4,
+              "exercise_count": 10,
+              "word_level": "middle_school"
+            }
+          ],
+          "total_words": 48,
+          "total_exercises": 120
+        }
+      ]
+    },
+    {
+      "name": "第四阶段 (第13-16周)",
+      "description": "中级词汇和语法综合",
+      "focus": "综合运用",
+      "weeks": 4,
+      "start_date": "2025-03-26",
+      "end_date": "2025-04-22",
+      "grammar_topics": [
+        "现在完成时-持续用法",
+        "被动语态-时态变化",
+        "定语从句-关系代词",
+        "条件句-虚拟语气",
+        "非谓语动词-基础用法"
+      ],
+      "word_level": "middle_school",
+      "daily_words": 10,
+      "exercises_per_day": 22,
+      "weeks_detail": [
+        {
+          "title": "第四阶段 (第13-16周) - 第1周",
+          "start_date": "2025-03-26",
+          "end_date": "2025-04-01",
+          "days": [
+            {
+              "date": "2025-03-26",
+              "day_name": "周一",
+              "grammar_topic": "现在完成时-持续用法",
+              "word_count": 10,
+              "exercise_count": 22,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-27",
+              "day_name": "周二",
+              "grammar_topic": "被动语态-时态变化",
+              "word_count": 10,
+              "exercise_count": 22,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-28",
+              "day_name": "周三",
+              "grammar_topic": "定语从句-关系代词",
+              "word_count": 10,
+              "exercise_count": 22,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-29",
+              "day_name": "周四",
+              "grammar_topic": "条件句-虚拟语气",
+              "word_count": 10,
+              "exercise_count": 22,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-30",
+              "day_name": "周五",
+              "grammar_topic": "非谓语动词-基础用法",
+              "word_count": 10,
+              "exercise_count": 22,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-03-31",
+              "day_name": "周六",
+              "grammar_topic": "现在完成时-持续用法",
+              "word_count": 5,
+              "exercise_count": 11,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-01",
+              "day_name": "周日",
+              "grammar_topic": "被动语态-时态变化",
+              "word_count": 5,
+              "exercise_count": 11,
+              "word_level": "middle_school"
+            }
+          ],
+          "total_words": 60,
+          "total_exercises": 132
+        },
+        {
+          "title": "第四阶段 (第13-16周) - 第2周",
+          "start_date": "2025-04-02",
+          "end_date": "2025-04-08",
+          "days": [
+            {
+              "date": "2025-04-02",
+              "day_name": "周一",
+              "grammar_topic": "现在完成时-持续用法",
+              "word_count": 10,
+              "exercise_count": 22,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-03",
+              "day_name": "周二",
+              "grammar_topic": "被动语态-时态变化",
+              "word_count": 10,
+              "exercise_count": 22,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-04",
+              "day_name": "周三",
+              "grammar_topic": "定语从句-关系代词",
+              "word_count": 10,
+              "exercise_count": 22,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-05",
+              "day_name": "周四",
+              "grammar_topic": "条件句-虚拟语气",
+              "word_count": 10,
+              "exercise_count": 22,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-06",
+              "day_name": "周五",
+              "grammar_topic": "非谓语动词-基础用法",
+              "word_count": 10,
+              "exercise_count": 22,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-07",
+              "day_name": "周六",
+              "grammar_topic": "现在完成时-持续用法",
+              "word_count": 5,
+              "exercise_count": 11,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-08",
+              "day_name": "周日",
+              "grammar_topic": "被动语态-时态变化",
+              "word_count": 5,
+              "exercise_count": 11,
+              "word_level": "middle_school"
+            }
+          ],
+          "total_words": 60,
+          "total_exercises": 132
+        },
+        {
+          "title": "第四阶段 (第13-16周) - 第3周",
+          "start_date": "2025-04-09",
+          "end_date": "2025-04-15",
+          "days": [
+            {
+              "date": "2025-04-09",
+              "day_name": "周一",
+              "grammar_topic": "现在完成时-持续用法",
+              "word_count": 10,
+              "exercise_count": 22,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-10",
+              "day_name": "周二",
+              "grammar_topic": "被动语态-时态变化",
+              "word_count": 10,
+              "exercise_count": 22,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-11",
+              "day_name": "周三",
+              "grammar_topic": "定语从句-关系代词",
+              "word_count": 10,
+              "exercise_count": 22,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-12",
+              "day_name": "周四",
+              "grammar_topic": "条件句-虚拟语气",
+              "word_count": 10,
+              "exercise_count": 22,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-13",
+              "day_name": "周五",
+              "grammar_topic": "非谓语动词-基础用法",
+              "word_count": 10,
+              "exercise_count": 22,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-14",
+              "day_name": "周六",
+              "grammar_topic": "现在完成时-持续用法",
+              "word_count": 5,
+              "exercise_count": 11,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-15",
+              "day_name": "周日",
+              "grammar_topic": "被动语态-时态变化",
+              "word_count": 5,
+              "exercise_count": 11,
+              "word_level": "middle_school"
+            }
+          ],
+          "total_words": 60,
+          "total_exercises": 132
+        },
+        {
+          "title": "第四阶段 (第13-16周) - 第4周",
+          "start_date": "2025-04-16",
+          "end_date": "2025-04-22",
+          "days": [
+            {
+              "date": "2025-04-16",
+              "day_name": "周一",
+              "grammar_topic": "现在完成时-持续用法",
+              "word_count": 10,
+              "exercise_count": 22,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-17",
+              "day_name": "周二",
+              "grammar_topic": "被动语态-时态变化",
+              "word_count": 10,
+              "exercise_count": 22,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-18",
+              "day_name": "周三",
+              "grammar_topic": "定语从句-关系代词",
+              "word_count": 10,
+              "exercise_count": 22,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-19",
+              "day_name": "周四",
+              "grammar_topic": "条件句-虚拟语气",
+              "word_count": 10,
+              "exercise_count": 22,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-20",
+              "day_name": "周五",
+              "grammar_topic": "非谓语动词-基础用法",
+              "word_count": 10,
+              "exercise_count": 22,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-21",
+              "day_name": "周六",
+              "grammar_topic": "现在完成时-持续用法",
+              "word_count": 5,
+              "exercise_count": 11,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-22",
+              "day_name": "周日",
+              "grammar_topic": "被动语态-时态变化",
+              "word_count": 5,
+              "exercise_count": 11,
+              "word_level": "middle_school"
+            }
+          ],
+          "total_words": 60,
+          "total_exercises": 132
+        }
+      ]
+    },
+    {
+      "name": "第五阶段 (第17-20周)",
+      "description": "高级语法和表达",
+      "focus": "表达提升",
+      "weeks": 4,
+      "start_date": "2025-04-23",
+      "end_date": "2025-05-20",
+      "grammar_topics": [
+        "倒装句-基础用法",
+        "强调句-基础用法",
+        "主谓一致-复杂情况",
+        "虚拟语气-完整体系",
+        "非谓语动词-高级用法"
+      ],
+      "word_level": "middle_school",
+      "daily_words": 12,
+      "exercises_per_day": 25,
+      "weeks_detail": [
+        {
+          "title": "第五阶段 (第17-20周) - 第1周",
+          "start_date": "2025-04-23",
+          "end_date": "2025-04-29",
+          "days": [
+            {
+              "date": "2025-04-23",
+              "day_name": "周一",
+              "grammar_topic": "倒装句-基础用法",
+              "word_count": 12,
+              "exercise_count": 25,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-24",
+              "day_name": "周二",
+              "grammar_topic": "强调句-基础用法",
+              "word_count": 12,
+              "exercise_count": 25,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-25",
+              "day_name": "周三",
+              "grammar_topic": "主谓一致-复杂情况",
+              "word_count": 12,
+              "exercise_count": 25,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-26",
+              "day_name": "周四",
+              "grammar_topic": "虚拟语气-完整体系",
+              "word_count": 12,
+              "exercise_count": 25,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-27",
+              "day_name": "周五",
+              "grammar_topic": "非谓语动词-高级用法",
+              "word_count": 12,
+              "exercise_count": 25,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-28",
+              "day_name": "周六",
+              "grammar_topic": "倒装句-基础用法",
+              "word_count": 6,
+              "exercise_count": 12,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-04-29",
+              "day_name": "周日",
+              "grammar_topic": "强调句-基础用法",
+              "word_count": 6,
+              "exercise_count": 12,
+              "word_level": "middle_school"
+            }
+          ],
+          "total_words": 72,
+          "total_exercises": 149
+        },
+        {
+          "title": "第五阶段 (第17-20周) - 第2周",
+          "start_date": "2025-04-30",
+          "end_date": "2025-05-06",
+          "days": [
+            {
+              "date": "2025-04-30",
+              "day_name": "周一",
+              "grammar_topic": "倒装句-基础用法",
+              "word_count": 12,
+              "exercise_count": 25,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-01",
+              "day_name": "周二",
+              "grammar_topic": "强调句-基础用法",
+              "word_count": 12,
+              "exercise_count": 25,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-02",
+              "day_name": "周三",
+              "grammar_topic": "主谓一致-复杂情况",
+              "word_count": 12,
+              "exercise_count": 25,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-03",
+              "day_name": "周四",
+              "grammar_topic": "虚拟语气-完整体系",
+              "word_count": 12,
+              "exercise_count": 25,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-04",
+              "day_name": "周五",
+              "grammar_topic": "非谓语动词-高级用法",
+              "word_count": 12,
+              "exercise_count": 25,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-05",
+              "day_name": "周六",
+              "grammar_topic": "倒装句-基础用法",
+              "word_count": 6,
+              "exercise_count": 12,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-06",
+              "day_name": "周日",
+              "grammar_topic": "强调句-基础用法",
+              "word_count": 6,
+              "exercise_count": 12,
+              "word_level": "middle_school"
+            }
+          ],
+          "total_words": 72,
+          "total_exercises": 149
+        },
+        {
+          "title": "第五阶段 (第17-20周) - 第3周",
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-13",
+          "days": [
+            {
+              "date": "2025-05-07",
+              "day_name": "周一",
+              "grammar_topic": "倒装句-基础用法",
+              "word_count": 12,
+              "exercise_count": 25,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-08",
+              "day_name": "周二",
+              "grammar_topic": "强调句-基础用法",
+              "word_count": 12,
+              "exercise_count": 25,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-09",
+              "day_name": "周三",
+              "grammar_topic": "主谓一致-复杂情况",
+              "word_count": 12,
+              "exercise_count": 25,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-10",
+              "day_name": "周四",
+              "grammar_topic": "虚拟语气-完整体系",
+              "word_count": 12,
+              "exercise_count": 25,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-11",
+              "day_name": "周五",
+              "grammar_topic": "非谓语动词-高级用法",
+              "word_count": 12,
+              "exercise_count": 25,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-12",
+              "day_name": "周六",
+              "grammar_topic": "倒装句-基础用法",
+              "word_count": 6,
+              "exercise_count": 12,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-13",
+              "day_name": "周日",
+              "grammar_topic": "强调句-基础用法",
+              "word_count": 6,
+              "exercise_count": 12,
+              "word_level": "middle_school"
+            }
+          ],
+          "total_words": 72,
+          "total_exercises": 149
+        },
+        {
+          "title": "第五阶段 (第17-20周) - 第4周",
+          "start_date": "2025-05-14",
+          "end_date": "2025-05-20",
+          "days": [
+            {
+              "date": "2025-05-14",
+              "day_name": "周一",
+              "grammar_topic": "倒装句-基础用法",
+              "word_count": 12,
+              "exercise_count": 25,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-15",
+              "day_name": "周二",
+              "grammar_topic": "强调句-基础用法",
+              "word_count": 12,
+              "exercise_count": 25,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-16",
+              "day_name": "周三",
+              "grammar_topic": "主谓一致-复杂情况",
+              "word_count": 12,
+              "exercise_count": 25,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-17",
+              "day_name": "周四",
+              "grammar_topic": "虚拟语气-完整体系",
+              "word_count": 12,
+              "exercise_count": 25,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-18",
+              "day_name": "周五",
+              "grammar_topic": "非谓语动词-高级用法",
+              "word_count": 12,
+              "exercise_count": 25,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-19",
+              "day_name": "周六",
+              "grammar_topic": "倒装句-基础用法",
+              "word_count": 6,
+              "exercise_count": 12,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-20",
+              "day_name": "周日",
+              "grammar_topic": "强调句-基础用法",
+              "word_count": 6,
+              "exercise_count": 12,
+              "word_level": "middle_school"
+            }
+          ],
+          "total_words": 72,
+          "total_exercises": 149
+        }
+      ]
+    },
+    {
+      "name": "第六阶段 (第21-24周)",
+      "description": "综合复习和应用",
+      "focus": "巩固提高",
+      "weeks": 4,
+      "start_date": "2025-05-21",
+      "end_date": "2025-06-17",
+      "grammar_topics": [
+        "语法综合复习",
+        "错误句型纠正",
+        "高级句型练习",
+        "写作语法应用",
+        "口语语法实践"
+      ],
+      "word_level": "middle_school",
+      "daily_words": 15,
+      "exercises_per_day": 30,
+      "weeks_detail": [
+        {
+          "title": "第六阶段 (第21-24周) - 第1周",
+          "start_date": "2025-05-21",
+          "end_date": "2025-05-27",
+          "days": [
+            {
+              "date": "2025-05-21",
+              "day_name": "周一",
+              "grammar_topic": "语法综合复习",
+              "word_count": 15,
+              "exercise_count": 30,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-22",
+              "day_name": "周二",
+              "grammar_topic": "错误句型纠正",
+              "word_count": 15,
+              "exercise_count": 30,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-23",
+              "day_name": "周三",
+              "grammar_topic": "高级句型练习",
+              "word_count": 15,
+              "exercise_count": 30,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-24",
+              "day_name": "周四",
+              "grammar_topic": "写作语法应用",
+              "word_count": 15,
+              "exercise_count": 30,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-25",
+              "day_name": "周五",
+              "grammar_topic": "口语语法实践",
+              "word_count": 15,
+              "exercise_count": 30,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-26",
+              "day_name": "周六",
+              "grammar_topic": "语法综合复习",
+              "word_count": 7,
+              "exercise_count": 15,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-27",
+              "day_name": "周日",
+              "grammar_topic": "错误句型纠正",
+              "word_count": 7,
+              "exercise_count": 15,
+              "word_level": "middle_school"
+            }
+          ],
+          "total_words": 89,
+          "total_exercises": 180
+        },
+        {
+          "title": "第六阶段 (第21-24周) - 第2周",
+          "start_date": "2025-05-28",
+          "end_date": "2025-06-03",
+          "days": [
+            {
+              "date": "2025-05-28",
+              "day_name": "周一",
+              "grammar_topic": "语法综合复习",
+              "word_count": 15,
+              "exercise_count": 30,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-29",
+              "day_name": "周二",
+              "grammar_topic": "错误句型纠正",
+              "word_count": 15,
+              "exercise_count": 30,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-30",
+              "day_name": "周三",
+              "grammar_topic": "高级句型练习",
+              "word_count": 15,
+              "exercise_count": 30,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-05-31",
+              "day_name": "周四",
+              "grammar_topic": "写作语法应用",
+              "word_count": 15,
+              "exercise_count": 30,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-06-01",
+              "day_name": "周五",
+              "grammar_topic": "口语语法实践",
+              "word_count": 15,
+              "exercise_count": 30,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-06-02",
+              "day_name": "周六",
+              "grammar_topic": "语法综合复习",
+              "word_count": 7,
+              "exercise_count": 15,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-06-03",
+              "day_name": "周日",
+              "grammar_topic": "错误句型纠正",
+              "word_count": 7,
+              "exercise_count": 15,
+              "word_level": "middle_school"
+            }
+          ],
+          "total_words": 89,
+          "total_exercises": 180
+        },
+        {
+          "title": "第六阶段 (第21-24周) - 第3周",
+          "start_date": "2025-06-04",
+          "end_date": "2025-06-10",
+          "days": [
+            {
+              "date": "2025-06-04",
+              "day_name": "周一",
+              "grammar_topic": "语法综合复习",
+              "word_count": 15,
+              "exercise_count": 30,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-06-05",
+              "day_name": "周二",
+              "grammar_topic": "错误句型纠正",
+              "word_count": 15,
+              "exercise_count": 30,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-06-06",
+              "day_name": "周三",
+              "grammar_topic": "高级句型练习",
+              "word_count": 15,
+              "exercise_count": 30,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-06-07",
+              "day_name": "周四",
+              "grammar_topic": "写作语法应用",
+              "word_count": 15,
+              "exercise_count": 30,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-06-08",
+              "day_name": "周五",
+              "grammar_topic": "口语语法实践",
+              "word_count": 15,
+              "exercise_count": 30,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-06-09",
+              "day_name": "周六",
+              "grammar_topic": "语法综合复习",
+              "word_count": 7,
+              "exercise_count": 15,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-06-10",
+              "day_name": "周日",
+              "grammar_topic": "错误句型纠正",
+              "word_count": 7,
+              "exercise_count": 15,
+              "word_level": "middle_school"
+            }
+          ],
+          "total_words": 89,
+          "total_exercises": 180
+        },
+        {
+          "title": "第六阶段 (第21-24周) - 第4周",
+          "start_date": "2025-06-11",
+          "end_date": "2025-06-17",
+          "days": [
+            {
+              "date": "2025-06-11",
+              "day_name": "周一",
+              "grammar_topic": "语法综合复习",
+              "word_count": 15,
+              "exercise_count": 30,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-06-12",
+              "day_name": "周二",
+              "grammar_topic": "错误句型纠正",
+              "word_count": 15,
+              "exercise_count": 30,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-06-13",
+              "day_name": "周三",
+              "grammar_topic": "高级句型练习",
+              "word_count": 15,
+              "exercise_count": 30,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-06-14",
+              "day_name": "周四",
+              "grammar_topic": "写作语法应用",
+              "word_count": 15,
+              "exercise_count": 30,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-06-15",
+              "day_name": "周五",
+              "grammar_topic": "口语语法实践",
+              "word_count": 15,
+              "exercise_count": 30,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-06-16",
+              "day_name": "周六",
+              "grammar_topic": "语法综合复习",
+              "word_count": 7,
+              "exercise_count": 15,
+              "word_level": "middle_school"
+            },
+            {
+              "date": "2025-06-17",
+              "day_name": "周日",
+              "grammar_topic": "错误句型纠正",
+              "word_count": 7,
+              "exercise_count": 15,
+              "word_level": "middle_school"
+            }
+          ],
+          "total_words": 89,
+          "total_exercises": 180
+        }
+      ]
+    }
+  ],
+  "weekly_summary": [],
+  "statistics": {
+    "total_words": 1508,
+    "total_exercises": 3112,
+    "average_words_per_day": 9.0,
+    "average_exercises_per_day": 18.5
+  }
+}

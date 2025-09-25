@@ -1,0 +1,145 @@
+{
+  "grammar_name": "形容词比较级-基础用法",
+  "level": "小学六年级",
+  "category": "基础语法",
+  "difficulty": "medium",
+  "description": "学习形容词比较级的基础用法：比较两个事物的性质、程度",
+  "explanation": {
+    "basic_structure": "A + be + 形容词比较级 + than + B",
+    "basic_rules": [
+      "比较级用来比较两个事物的性质、程度",
+      "比较级 + than 表示\"比...更...\"",
+      "单音节和部分双音节形容词用-er",
+      "多音节形容词用more"
+    ],
+    "usage_cases": [
+      "比较身高：Tom is taller than Jack.",
+      "比较年龄：Mary is older than Lucy.",
+      "比较大小：This book is bigger than that one.",
+      "比较价格：This car is more expensive than that one."
+    ],
+    "common_errors": [
+      "Tom is more tall than Jack. (错误) → Tom is taller than Jack. (正确)",
+      "This book is more big than that one. (错误) → This book is bigger than that one. (正确)",
+      "He is more good than me. (错误) → He is better than me. (正确)"
+    ],
+    "usage_tips": [
+      "单音节和部分双音节形容词用-er",
+      "多音节形容词用more",
+      "注意不规则形容词的变化",
+      "than后面用宾格"
+    ]
+  },
+  "examples": {
+    "single_syllable": [
+      "tall → taller",
+      "short → shorter",
+      "long → longer",
+      "big → bigger",
+      "small → smaller",
+      "hot → hotter",
+      "cold → colder"
+    ],
+    "two_syllable": [
+      "happy → happier",
+      "easy → easier",
+      "heavy → heavier",
+      "busy → busier",
+      "lazy → lazier"
+    ],
+    "multi_syllable": [
+      "beautiful → more beautiful",
+      "interesting → more interesting",
+      "expensive → more expensive",
+      "difficult → more difficult",
+      "important → more important"
+    ],
+    "irregular": [
+      "good → better",
+      "bad → worse",
+      "many/much → more",
+      "little → less",
+      "far → farther/further"
+    ],
+    "sentences": [
+      "Tom is taller than Jack.",
+      "This book is more interesting than that one.",
+      "He is better than me at English.",
+      "This car is more expensive than that one.",
+      "She is happier than her sister."
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "Tom is _____ than Jack.",
+          "correct": "taller",
+          "wrong_options": ["tall", "tallest", "more tall"],
+          "explanation": "单音节形容词用-er形式"
+        },
+        {
+          "question": "This book is _____ than that one.",
+          "correct": "more interesting",
+          "wrong_options": ["interesting", "most interesting", "interestinger"],
+          "explanation": "多音节形容词用more"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "This car is _____ than that one.",
+          "answer": "more expensive",
+          "explanation": "多音节形容词用more"
+        },
+        {
+          "question": "He is _____ than me at English.",
+          "answer": "better",
+          "explanation": "good的比较级是better"
+        }
+      ]
+    },
+    "transformation": {
+      "templates": [
+        {
+          "question": "将形容词变为比较级：tall",
+          "answer": "taller",
+          "explanation": "单音节形容词加-er"
+        },
+        {
+          "question": "将形容词变为比较级：beautiful",
+          "answer": "more beautiful",
+          "explanation": "多音节形容词用more"
+        }
+      ]
+    },
+    "error_correction": {
+      "templates": [
+        {
+          "sentence": "Tom is more tall than Jack.",
+          "error": "more tall",
+          "correction": "taller",
+          "explanation": "单音节形容词用-er形式"
+        },
+        {
+          "sentence": "He is more good than me.",
+          "error": "more good",
+          "correction": "better",
+          "explanation": "good的比较级是better"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握形容词比较级的基本用法",
+    "能够正确使用-er和more",
+    "了解比较级表示\"比...更...\""
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用比较级，无语法错误",
+    "good": "基本掌握比较级用法，偶有错误",
+    "satisfactory": "了解比较级基本用法，需要加强练习",
+    "needs_improvement": "对比较级用法不熟悉，需要重新学习"
+  }
+}

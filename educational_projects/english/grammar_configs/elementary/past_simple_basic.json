@@ -1,0 +1,115 @@
+{
+  "grammar_name": "一般过去时-基础用法",
+  "level": "小学六年级",
+  "category": "基础语法",
+  "difficulty": "medium",
+  "description": "学习一般过去时的基本用法：表示过去发生的动作或状态",
+  "explanation": {
+    "basic_structure": "主语 + 动词过去式 + ...",
+    "basic_rules": [
+      "一般过去时表示过去发生的动作或状态",
+      "动词要用过去式形式",
+      "过去式分为规则变化和不规则变化",
+      "常与表示过去的时间状语连用"
+    ],
+    "time_adverbs": [
+      "yesterday, last week, last month, last year",
+      "ago, in 2020, on Monday",
+      "this morning, this afternoon, this evening"
+    ],
+    "common_errors": [
+      "I go to school yesterday. (错误) → I went to school yesterday. (正确)",
+      "He play football last week. (错误) → He played football last week. (正确)",
+      "She watch TV last night. (错误) → She watched TV last night. (正确)"
+    ],
+    "usage_tips": [
+      "一般过去时表示过去发生的动作",
+      "动词要用过去式形式",
+      "常与表示过去的时间状语连用"
+    ]
+  },
+  "examples": {
+    "basic": [
+      "I went to school yesterday.",
+      "You played football last week.",
+      "He watched TV last night.",
+      "She studied English yesterday.",
+      "It rained yesterday.",
+      "We visited Beijing last year.",
+      "They played games yesterday."
+    ],
+    "with_time_expressions": [
+      "I went to school yesterday.",
+      "He played football last week.",
+      "She studied English last month.",
+      "We visited Beijing last year.",
+      "They played games two days ago."
+    ],
+    "sentences": [
+      "I went to school yesterday.",
+      "He played football last week.",
+      "She studied English yesterday.",
+      "We visited Beijing last year.",
+      "They played games yesterday."
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "I _____ to school yesterday.",
+          "correct": "went",
+          "wrong_options": ["go", "going", "goes"],
+          "explanation": "一般过去时用动词过去式"
+        },
+        {
+          "question": "He _____ football last week.",
+          "correct": "played",
+          "wrong_options": ["play", "playing", "plays"],
+          "explanation": "一般过去时用动词过去式"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "I _____ football last week.",
+          "answer": "played",
+          "explanation": "一般过去时用动词过去式"
+        },
+        {
+          "question": "She _____ English yesterday.",
+          "answer": "studied",
+          "explanation": "一般过去时用动词过去式"
+        }
+      ]
+    },
+    "error_correction": {
+      "templates": [
+        {
+          "sentence": "I go to school yesterday.",
+          "error": "go",
+          "correction": "went",
+          "explanation": "一般过去时用动词过去式"
+        },
+        {
+          "sentence": "He play football last week.",
+          "error": "play",
+          "correction": "played",
+          "explanation": "一般过去时用动词过去式"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握一般过去时的基本用法",
+    "了解一般过去时表示过去发生的动作",
+    "学会使用过去时间状语"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用一般过去时基本用法，无语法错误",
+    "good": "基本掌握一般过去时基本用法，偶有错误",
+    "satisfactory": "了解一般过去时基本用法，需要加强练习",
+    "needs_improvement": "对一般过去时基本用法不熟悉，需要重新学习"
+  }
+}

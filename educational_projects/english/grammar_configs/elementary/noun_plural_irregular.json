@@ -1,0 +1,122 @@
+{
+  "grammar_name": "名词单复数-不规则变化",
+  "level": "小学三年级",
+  "category": "基础语法",
+  "difficulty": "medium",
+  "description": "学习名词单复数的不规则变化，需要特别记忆",
+  "explanation": {
+    "basic_rules": [
+      "不规则变化：man → men, woman → women, child → children",
+      "foot → feet, tooth → teeth, mouse → mice",
+      "goose → geese, person → people",
+      "这些变化没有规律，需要特别记忆"
+    ],
+    "memory_tips": [
+      "不规则变化需要特别记忆",
+      "可以编成口诀帮助记忆",
+      "多读多练，熟能生巧"
+    ],
+    "common_errors": [
+      "I see three man. (错误) → I see three men. (正确)",
+      "The child are playing. (错误) → The children are playing. (正确)",
+      "I have two foot. (错误) → I have two feet. (正确)"
+    ]
+  },
+  "examples": {
+    "people": [
+      "man → men",
+      "woman → women",
+      "child → children",
+      "person → people"
+    ],
+    "body_parts": [
+      "foot → feet",
+      "tooth → teeth",
+      "goose → geese"
+    ],
+    "animals": [
+      "mouse → mice",
+      "louse → lice",
+      "ox → oxen"
+    ],
+    "sentences": [
+      "I see one man. → I see three men.",
+      "The child is playing. → The children are playing.",
+      "I have one foot. → I have two feet.",
+      "This is a mouse. → These are mice."
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "I see three _____.",
+          "correct": "men",
+          "wrong_options": ["man", "mans", "menes"],
+          "explanation": "man的复数是不规则变化men"
+        },
+        {
+          "question": "The _____ are playing.",
+          "correct": "children",
+          "wrong_options": ["child", "childs", "childrens"],
+          "explanation": "child的复数是不规则变化children"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "I have two _____.",
+          "answer": "feet",
+          "explanation": "foot的复数是不规则变化feet"
+        },
+        {
+          "question": "The _____ are white.",
+          "answer": "teeth",
+          "explanation": "tooth的复数是不规则变化teeth"
+        }
+      ]
+    },
+    "transformation": {
+      "templates": [
+        {
+          "question": "将单数变为复数：man",
+          "answer": "men",
+          "explanation": "man的复数是不规则变化men"
+        },
+        {
+          "question": "将单数变为复数：child",
+          "answer": "children",
+          "explanation": "child的复数是不规则变化children"
+        }
+      ]
+    },
+    "error_correction": {
+      "templates": [
+        {
+          "sentence": "I see three mans.",
+          "error": "mans",
+          "correction": "men",
+          "explanation": "man的复数是不规则变化men"
+        },
+        {
+          "sentence": "The childs are playing.",
+          "error": "childs",
+          "correction": "children",
+          "explanation": "child的复数是不规则变化children"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握常见名词的不规则复数变化",
+    "能够正确使用不规则复数形式",
+    "了解不规则变化需要特别记忆"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用不规则复数，无语法错误",
+    "good": "基本掌握不规则复数，偶有错误",
+    "satisfactory": "了解不规则复数，需要加强练习",
+    "needs_improvement": "对不规则复数不熟悉，需要重新学习"
+  }
+}

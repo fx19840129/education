@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "plan_name": "自定义7天学习计划",
+    "total_days": 7,
+    "daily_minutes": 30,
+    "template_name": "标准学习",
+    "generation_time": "2025-09-25T09:17:56.082169",
+    "start_date": "2025-09-25",
+    "end_date": "2025-10-01"
+  },
+  "learning_config": {
+    "daily_words": 10,
+    "daily_grammar": 1,
+    "daily_exercises": 20,
+    "study_time_per_day": 30,
+    "description": "平衡的学习强度，适合大多数学习者"
+  },
+  "statistics": {
+    "total_words": 70,
+    "total_grammar_points": 7,
+    "total_exercises": 140,
+    "total_study_time_minutes": 210,
+    "total_study_time_hours": 3.5,
+    "average_words_per_day": 10,
+    "average_grammar_per_day": 1,
+    "average_exercises_per_day": 20
+  },
+  "distribution": {
+    "grammar": {
+      "elementary": {
+        "count": 7,
+        "topics": [
+          "be动词用法-基础用法",
+          "一般现在时-基础用法",
+          "名词单复数-基础规则",
+          "形容词-基础用法",
+          "there_be-基础用法",
+          "现在进行时-基础用法",
+          "过去时-基础用法"
+        ]
+      },
+      "middle_school": {
+        "count": 0,
+        "topics": []
+      }
+    },
+    "words": {
+      "elementary": {
+        "count": 70,
+        "percentage": 100.0
+      },
+      "middle_school": {
+        "count": 0,
+        "percentage": 0.0
+      }
+    }
+  },
+  "weekly_breakdown": [
+    {
+      "week": 1,
+      "days": 7,
+      "words": 60,
+      "grammar": 7,
+      "exercises": 120
+    }
+  ]
+}

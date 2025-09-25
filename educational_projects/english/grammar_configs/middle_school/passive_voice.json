@@ -1,0 +1,172 @@
+{
+  "grammar_name": "被动语态",
+  "level": "初中二年级",
+  "category": "进阶语法",
+  "difficulty": "hard",
+  "description": "被动语态表示主语是动作的承受者，强调动作的对象",
+  "explanation": {
+    "basic_structure": "主语 + be动词 + 过去分词 + by + 动作执行者",
+    "basic_rules": [
+      "一般现在时：am/is/are + 过去分词",
+      "一般过去时：was/were + 过去分词",
+      "一般将来时：will be + 过去分词",
+      "现在进行时：am/is/are being + 过去分词",
+      "过去进行时：was/were being + 过去分词",
+      "现在完成时：have/has been + 过去分词",
+      "过去完成时：had been + 过去分词",
+      "情态动词被动：can/may/must/should + be + 过去分词"
+    ],
+    "usage_cases": [
+      "当动作执行者不明确或不重要时：My bike was stolen.",
+      "当强调动作的承受者时：The Great Wall was built by ancient Chinese people.",
+      "在正式文体中：Visitors are requested not to touch the exhibits."
+    ],
+    "common_errors": [
+      "The book is wrote by him. (错误) → The book is written by him. (正确)",
+      "The house was build last year. (错误) → The house was built last year. (正确)",
+      "English is speak all over the world. (错误) → English is spoken all over the world. (正确)"
+    ],
+    "usage_tips": [
+      "有些动词没有被动语态，如状态动词（seem, belong, have等）",
+      "被动语态中by短语可以省略",
+      "注意不规则动词的过去分词形式"
+    ]
+  },
+  "examples": {
+    "basic_usage": [
+      "English is spoken all over the world.",
+      "This book was written by a famous author.",
+      "The meeting will be held next Monday.",
+      "The house is being built now.",
+      "The work has been finished.",
+      "English must be learned well.",
+      "The window was broken by the boy.",
+      "Cars are made in this factory.",
+      "The letter has been sent.",
+      "The problem can be solved easily."
+    ],
+    "different_tenses": [
+      "The letter is written by Tom. (一般现在时)",
+      "The letter was written by Tom. (一般过去时)",
+      "The letter will be written by Tom. (一般将来时)",
+      "The letter is being written by Tom. (现在进行时)",
+      "The letter was being written by Tom. (过去进行时)",
+      "The letter has been written by Tom. (现在完成时)",
+      "The letter had been written by Tom. (过去完成时)"
+    ],
+    "with_modal_verbs": [
+      "The work must be finished today.",
+      "The door can be opened easily.",
+      "The problem should be solved quickly.",
+      "The meeting may be cancelled.",
+      "The book ought to be returned."
+    ],
+    "without_by_phrase": [
+      "The window was broken.",
+      "The letter has been sent.",
+      "The work will be finished soon.",
+      "The problem can be solved.",
+      "The house is being built."
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "Which sentence is in passive voice?",
+          "correct": "A letter is written by him.",
+          "wrong_options": [
+            "He writes a letter.",
+            "He is writing a letter.",
+            "He wrote a letter."
+          ],
+          "explanation": "被动语态：be + 过去分词"
+        },
+        {
+          "question": "The house _____ last year.",
+          "correct": "was built",
+          "wrong_options": ["built", "is built", "has built"],
+          "explanation": "一般过去时被动语态：was/were + 过去分词"
+        },
+        {
+          "question": "The work _____ by tomorrow.",
+          "correct": "will be finished",
+          "wrong_options": ["will finish", "is finished", "has finished"],
+          "explanation": "一般将来时被动语态：will be + 过去分词"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "The letter _____ (write) by Tom.",
+          "answer": "is written",
+          "explanation": "一般现在时被动语态：is/are + 过去分词"
+        },
+        {
+          "question": "The house _____ (build) last year.",
+          "answer": "was built",
+          "explanation": "一般过去时被动语态：was/were + 过去分词"
+        },
+        {
+          "question": "The work _____ (finish) by tomorrow.",
+          "answer": "will be finished",
+          "explanation": "一般将来时被动语态：will be + 过去分词"
+        }
+      ]
+    },
+    "error_correction": {
+      "templates": [
+        {
+          "sentence": "The book is wrote by him.",
+          "error": "wrote",
+          "correction": "written",
+          "explanation": "被动语态用过去分词written，不用过去式wrote"
+        },
+        {
+          "sentence": "The house was build last year.",
+          "error": "build",
+          "correction": "built",
+          "explanation": "被动语态用过去分词built，不用动词原形build"
+        },
+        {
+          "sentence": "English is speak all over the world.",
+          "error": "speak",
+          "correction": "spoken",
+          "explanation": "被动语态用过去分词spoken，不用动词原形speak"
+        }
+      ]
+    },
+    "active_passive_transformation": {
+      "templates": [
+        {
+          "active": "The teacher teaches us English.",
+          "passive": "We are taught English by the teacher.",
+          "explanation": "主动语态变被动语态：宾语变主语，动词变为be + 过去分词"
+        },
+        {
+          "active": "Tom wrote the letter.",
+          "passive": "The letter was written by Tom.",
+          "explanation": "一般过去时主动变被动：was/were + 过去分词"
+        },
+        {
+          "active": "They will build a new school.",
+          "passive": "A new school will be built by them.",
+          "explanation": "一般将来时主动变被动：will be + 过去分词"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握被动语态的基本构成和用法",
+    "能够正确使用各种时态的被动语态",
+    "学会主动语态和被动语态的转换",
+    "能够在实际语境中正确使用被动语态"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用各种时态的被动语态，无语法错误",
+    "good": "基本掌握被动语态用法，偶有错误",
+    "satisfactory": "了解被动语态基本用法，需要加强练习",
+    "needs_improvement": "对被动语态用法不熟悉，需要重新学习"
+  }
+}

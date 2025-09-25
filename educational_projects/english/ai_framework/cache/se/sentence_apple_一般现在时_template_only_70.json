@@ -1,0 +1,8 @@
+{
+  "content": "{\"content\": \"This is a apple.\", \"metadata\": {\"translation\": \"\\u8fd9\\u662f\\u4e00\\u4e2a\\u82f9\\u679c\\u3002\", \"template\": \"basic_sentence\", \"complexity\": \"simple\"}, \"quality_score\": 0.7, \"generation_mode\": \"template_only\", \"timestamp\": \"2025-09-24T21:23:25.474341\"}",
+  "content_type": "multi_mode_content",
+  "metadata": {},
+  "created_at": "2025-09-24T21:23:25.474360",
+  "tokens_used": 0,
+  "model": "unknown"
+}

@@ -1,0 +1,11 @@
+{
+  "content": "I like to eat an apple every day.",
+  "content_type": "sentences",
+  "metadata": {
+    "word": "apple",
+    "grammar": "一般现在时"
+  },
+  "created_at": "2025-09-24T20:57:42.664679",
+  "tokens_used": 0,
+  "model": "unknown"
+}

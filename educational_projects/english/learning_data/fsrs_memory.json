@@ -1,0 +1,3621 @@
+{
+  "desired_retention": 0.85,
+  "parameters": {
+    "w": [
+      0.2172,
+      1.1771,
+      3.2602,
+      16.1507,
+      7.0114,
+      0.57,
+      2.0966,
+      0.0069,
+      1.5261,
+      0.112,
+      1.0178,
+      1.849,
+      0.1133,
+      0.3127,
+      2.2934,
+      0.2191,
+      3.0004,
+      0.7536,
+      0.3332,
+      0.1437,
+      0.2
+    ]
+  },
+  "memory_cards": {
+    "off": {
+      "word": "off",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:28.102588",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.74125847413544
+    },
+    "lamp": {
+      "word": "lamp",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:28.102599",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.45367351421791
+    },
+    "deep": {
+      "word": "deep",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:28.102604",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.9342290781850275
+    },
+    "any": {
+      "word": "any",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:28.102608",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.4969179093908
+    },
+    "ball": {
+      "word": "ball",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:28.102611",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.044816238960355
+    },
+    "kid": {
+      "word": "kid",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:28.102614",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.823002201070184
+    },
+    "next": {
+      "word": "next",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:28.102616",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.847551168384579
+    },
+    "than": {
+      "word": "than",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:28.102618",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.660147195689788
+    },
+    "seed": {
+      "word": "seed",
+      "stability": 4341494054.757306,
+      "difficulty": 1.0,
+      "last_review": "2025-09-25T10:59:04.162050",
+      "review_count": 18,
+      "grade_history": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        3,
+        3,
+        4,
+        4
+      ],
+      "interval": 6715831727.663114
+    },
+    "must": {
+      "word": "must",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:28.103014",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.2332432708682415
+    },
+    "bike": {
+      "word": "bike",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:28.103017",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.59213578293928
+    },
+    "has": {
+      "word": "has",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:28.103020",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.37334641334014
+    },
+    "week": {
+      "word": "week",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:28.103022",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.905530463537307
+    },
+    "food": {
+      "word": "food",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:28.103024",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.64703089355342
+    },
+    "ant": {
+      "word": "ant",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:28.103027",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.662308972378257
+    },
+    "pet": {
+      "word": "pet",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:28.103029",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.183041313852243
+    },
+    "kind": {
+      "word": "kind",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:28.103304",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.072480064583968
+    },
+    "come": {
+      "word": "come",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:28.103306",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.97306706971665
+    },
+    "very": {
+      "word": "very",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:28.103309",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.43196333514564
+    },
+    "ship": {
+      "word": "ship",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:28.103311",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.44465179779796
+    },
+    "math": {
+      "word": "math",
+      "stability": 17367712816.651127,
+      "difficulty": 1.0,
+      "last_review": "2025-09-25T10:59:04.162047",
+      "review_count": 18,
+      "grade_history": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4
+      ],
+      "interval": 27911956616.69585
+    },
+    "swim": {
+      "word": "swim",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:28.103316",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.00339405122956
+    },
+    "have": {
+      "word": "have",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:28.103318",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.682407325440817
+    },
+    "lamb": {
+      "word": "lamb",
+      "stability": 1085264987.1906075,
+      "difficulty": 1.0,
+      "last_review": "2025-09-25T10:59:04.162052",
+      "review_count": 18,
+      "grade_history": [
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        4,
+        4,
+        3,
+        4,
+        4,
+        3,
+        4
+      ],
+      "interval": 1591573726.9092128
+    },
+    "fish": {
+      "word": "fish",
+      "stability": 271289117.8858633,
+      "difficulty": 1.0,
+      "last_review": "2025-09-25T10:59:04.162028",
+      "review_count": 19,
+      "grade_history": [
+        4,
+        4,
+        4,
+        3,
+        3,
+        4,
+        3,
+        4,
+        4,
+        4,
+        3,
+        4,
+        3,
+        4,
+        4,
+        4,
+        3,
+        4,
+        4
+      ],
+      "interval": 397767074.8419756
+    },
+    "left": {
+      "word": "left",
+      "stability": 1085264987.1906075,
+      "difficulty": 1.082671117246,
+      "last_review": "2025-09-25T10:59:04.162039",
+      "review_count": 18,
+      "grade_history": [
+        4,
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        3
+      ],
+      "interval": 1647709121.7310479
+    },
+    "miss": {
+      "word": "miss",
+      "stability": 271289117.8858633,
+      "difficulty": 1.0,
+      "last_review": "2025-09-25T10:59:04.162044",
+      "review_count": 18,
+      "grade_history": [
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        3,
+        4,
+        4,
+        3,
+        4,
+        4
+      ],
+      "interval": 430613655.4299327
+    },
+    "one": {
+      "word": "one",
+      "stability": 67815497.92167366,
+      "difficulty": 1.1235793465370025,
+      "last_review": "2025-09-25T10:59:04.162055",
+      "review_count": 18,
+      "grade_history": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        3,
+        3,
+        4,
+        4,
+        3,
+        3,
+        3
+      ],
+      "interval": 108865912.51259287
+    },
+    "best": {
+      "word": "best",
+      "stability": 271289117.8858633,
+      "difficulty": 1.04147866,
+      "last_review": "2025-09-25T10:59:04.162057",
+      "review_count": 18,
+      "grade_history": [
+        4,
+        4,
+        3,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        3
+      ],
+      "interval": 401872987.30011445
+    },
+    "baby": {
+      "word": "baby",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:33.950070",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.45102981722334
+    },
+    "pear": {
+      "word": "pear",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:33.950072",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.790385914852955
+    },
+    "ill": {
+      "word": "ill",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:33.950074",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.758622731292057
+    },
+    "near": {
+      "word": "near",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:36.777532",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.88676524324082
+    },
+    "soup": {
+      "word": "soup",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:36.777542",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.994822640632825
+    },
+    "west": {
+      "word": "west",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:36.777548",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.302191981942986
+    },
+    "rain": {
+      "word": "rain",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:36.777551",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.354469713458414
+    },
+    "pair": {
+      "word": "pair",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:36.777555",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.705137340887674
+    },
+    "too": {
+      "word": "too",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:36.777557",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.159840978374476
+    },
+    "sick": {
+      "word": "sick",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:36.777560",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.599902015201348
+    },
+    "shop": {
+      "word": "shop",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:36.777562",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.182111147709662
+    },
+    "look": {
+      "word": "look",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:55.176073",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.723739735391341
+    },
+    "arm": {
+      "word": "arm",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.176088",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.86118078267656
+    },
+    "tofu": {
+      "word": "tofu",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.176094",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.069507750294047
+    },
+    "pass": {
+      "word": "pass",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:55.176098",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.273876108569498
+    },
+    "last": {
+      "word": "last",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.176100",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.521275795173104
+    },
+    "face": {
+      "word": "face",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.176103",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.34115142459394
+    },
+    "size": {
+      "word": "size",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.176104",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.775111840124374
+    },
+    "talk": {
+      "word": "talk",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.176106",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.338132129016067
+    },
+    "fail": {
+      "word": "fail",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:55.223717",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.597669219132709
+    },
+    "take": {
+      "word": "take",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.223722",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.417041250512323
+    },
+    "put": {
+      "word": "put",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.223724",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.391195474549743
+    },
+    "buy": {
+      "word": "buy",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.223728",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.660291287571376
+    },
+    "hold": {
+      "word": "hold",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.223730",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.252437811652353
+    },
+    "feel": {
+      "word": "feel",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.223732",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.63581846023135
+    },
+    "sun": {
+      "word": "sun",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:55.223735",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.441600598233183
+    },
+    "yeah": {
+      "word": "yeah",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:55.223737",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.798010350635844
+    },
+    "old": {
+      "word": "old",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.267131",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.85592842905492
+    },
+    "able": {
+      "word": "able",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:55.267136",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.3164120049678205
+    },
+    "here": {
+      "word": "here",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.267139",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.911441574459534
+    },
+    "cool": {
+      "word": "cool",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.267141",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.59551429135692
+    },
+    "busy": {
+      "word": "busy",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.267143",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.4640461060264
+    },
+    "son": {
+      "word": "son",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.267145",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.071886083564344
+    },
+    "live": {
+      "word": "live",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.267146",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.14365222364613
+    },
+    "bus": {
+      "word": "bus",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.267148",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.778447131791875
+    },
+    "east": {
+      "word": "east",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.308488",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.711832692689754
+    },
+    "gym": {
+      "word": "gym",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.308492",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.84542677724814
+    },
+    "know": {
+      "word": "know",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.308496",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 26.109875718099424
+    },
+    "pork": {
+      "word": "pork",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.308498",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 26.12666612419817
+    },
+    "nine": {
+      "word": "nine",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:55.308502",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.15817798588313
+    },
+    "only": {
+      "word": "only",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:55.308504",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.744276906546532
+    },
+    "kite": {
+      "word": "kite",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.308507",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.634851301267396
+    },
+    "work": {
+      "word": "work",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.308509",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.10410237553572
+    },
+    "fan": {
+      "word": "fan",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.349889",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.17536669173669
+    },
+    "fun": {
+      "word": "fun",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.349892",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.591426836440906
+    },
+    "many": {
+      "word": "many",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.349895",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 23.68651038339029
+    },
+    "goal": {
+      "word": "goal",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.349897",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.33144053021458
+    },
+    "sing": {
+      "word": "sing",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.349899",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.698923214033744
+    },
+    "eye": {
+      "word": "eye",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.349901",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.630071416266127
+    },
+    "can": {
+      "word": "can",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.349902",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.022683293807276
+    },
+    "wait": {
+      "word": "wait",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:55.349905",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.521120916258756
+    },
+    "coke": {
+      "word": "coke",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:55.391851",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.174466709447433
+    },
+    "some": {
+      "word": "some",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:55.391856",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.958296408945044
+    },
+    "sore": {
+      "word": "sore",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T09:50:55.391858",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.802249889966719
+    },
+    "bank": {
+      "word": "bank",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.391861",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.217451813708923
+    },
+    "sour": {
+      "word": "sour",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.391864",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.561125616655822
+    },
+    "door": {
+      "word": "door",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.391867",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.735986743264903
+    },
+    "art": {
+      "word": "art",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.391869",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.78649588013212
+    },
+    "fly": {
+      "word": "fly",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.391871",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.9857902462681
+    },
+    "long": {
+      "word": "long",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.441084",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.44342650155851
+    },
+    "stay": {
+      "word": "stay",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.441089",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.64350911657555
+    },
+    "over": {
+      "word": "over",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.441093",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 26.116788258157932
+    },
+    "kick": {
+      "word": "kick",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.441096",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.89341872167005
+    },
+    "july": {
+      "word": "july",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.441098",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.224858105326934
+    },
+    "aunt": {
+      "word": "aunt",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.441100",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.323103587693534
+    },
+    "duck": {
+      "word": "duck",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.441103",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.04001789215151
+    },
+    "find": {
+      "word": "find",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T09:50:55.441105",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.2320323800256
+    },
+    "all": {
+      "word": "all",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:06:53.773806",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 26.012640444209566
+    },
+    "wash": {
+      "word": "wash",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:06:53.773815",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.362765918626582
+    },
+    "let": {
+      "word": "let",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:06:53.773820",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.665494700868333
+    },
+    "bird": {
+      "word": "bird",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:06:53.773824",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.4777701900353115
+    },
+    "she": {
+      "word": "she",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:06:53.773831",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.476770215661762
+    },
+    "goat": {
+      "word": "goat",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:06:53.773833",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.476077220407134
+    },
+    "desk": {
+      "word": "desk",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:06:53.773835",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.003733685670568
+    },
+    "same": {
+      "word": "same",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:06:53.773837",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.677246669668804
+    },
+    "wall": {
+      "word": "wall",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:09:42.033614",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.29571718462161
+    },
+    "jeep": {
+      "word": "jeep",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:09:42.033625",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.223828227328074
+    },
+    "way": {
+      "word": "way",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:09:42.033631",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.745673301264955
+    },
+    "leg": {
+      "word": "leg",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:09:42.033635",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 23.796744177535086
+    },
+    "high": {
+      "word": "high",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:09:42.033639",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 26.058477417647985
+    },
+    "ten": {
+      "word": "ten",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:09:42.033643",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.444853103891454
+    },
+    "name": {
+      "word": "name",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:09:42.033646",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.235617300908363
+    },
+    "air": {
+      "word": "air",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:09:42.033648",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.585103475002793
+    },
+    "eat": {
+      "word": "eat",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:11:23.812529",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.233779869400667
+    },
+    "show": {
+      "word": "show",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:11:23.812541",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.654163618316232
+    },
+    "does": {
+      "word": "does",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:11:23.812547",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.150868255861894
+    },
+    "lady": {
+      "word": "lady",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:11:23.812550",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.17748264662128
+    },
+    "get": {
+      "word": "get",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:11:23.812553",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.549196091669007
+    },
+    "date": {
+      "word": "date",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:11:23.812556",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.75931311733133
+    },
+    "boat": {
+      "word": "boat",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:11:23.812557",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.17739493606282
+    },
+    "use": {
+      "word": "use",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:11:23.812559",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.664671157736702
+    },
+    "city": {
+      "word": "city",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:12:57.867290",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.531052887640453
+    },
+    "want": {
+      "word": "want",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:12:57.867294",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.37551332400647
+    },
+    "from": {
+      "word": "from",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:12:57.867297",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.914287690433852
+    },
+    "cow": {
+      "word": "cow",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:12:57.867300",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 23.892404916486058
+    },
+    "for": {
+      "word": "for",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:12:57.867303",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.60438323359917
+    },
+    "man": {
+      "word": "man",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:12:57.867306",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.367326860952286
+    },
+    "wear": {
+      "word": "wear",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:12:57.867308",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 26.067868239928824
+    },
+    "each": {
+      "word": "each",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:12:57.867310",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 26.059292698722974
+    },
+    "book": {
+      "word": "book",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:14:57.123085",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.174143905981957
+    },
+    "post": {
+      "word": "post",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:14:57.123095",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.86964474491051
+    },
+    "room": {
+      "word": "room",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:14:57.123100",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.51610653093039
+    },
+    "seal": {
+      "word": "seal",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:14:57.123103",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.843478401940374
+    },
+    "nice": {
+      "word": "nice",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:14:57.123106",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.544592266442011
+    },
+    "drop": {
+      "word": "drop",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:14:57.123109",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.748282084766871
+    },
+    "cake": {
+      "word": "cake",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:14:57.123111",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.1658969207708
+    },
+    "sky": {
+      "word": "sky",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:14:57.123113",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.582848222927225
+    },
+    "tall": {
+      "word": "tall",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:15:41.122645",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.087148294297142
+    },
+    "end": {
+      "word": "end",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:15:41.122655",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 26.11707700114157
+    },
+    "rice": {
+      "word": "rice",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:15:41.122663",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.287833052483881
+    },
+    "say": {
+      "word": "say",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:15:41.122672",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.509268555658417
+    },
+    "deer": {
+      "word": "deer",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:15:41.122679",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.102319947094795
+    },
+    "open": {
+      "word": "open",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:15:41.122684",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.45647740295503
+    },
+    "soil": {
+      "word": "soil",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:15:41.122691",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.384395366857876
+    },
+    "try": {
+      "word": "try",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:15:41.122697",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.407003766853602
+    },
+    "bag": {
+      "word": "bag",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:24.416400",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.4175323860005
+    },
+    "meet": {
+      "word": "meet",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:24.416409",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.900097594995696
+    },
+    "two": {
+      "word": "two",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:24.416414",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.845513951458546
+    },
+    "lake": {
+      "word": "lake",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:24.416417",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 23.725865992302857
+    },
+    "soon": {
+      "word": "soon",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:24.416419",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.14429488301529
+    },
+    "boy": {
+      "word": "boy",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:24.416421",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.80753862819061
+    },
+    "see": {
+      "word": "see",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:17:24.416424",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.791145486471415
+    },
+    "far": {
+      "word": "far",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:17:24.416426",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.736016860995523
+    },
+    "play": {
+      "word": "play",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:24.420917",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.599796869813076
+    },
+    "tip": {
+      "word": "tip",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:24.420922",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 23.806349977355794
+    },
+    "tell": {
+      "word": "tell",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:17:24.420925",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.275856100688944
+    },
+    "noon": {
+      "word": "noon",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:24.420928",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.375535877615466
+    },
+    "bear": {
+      "word": "bear",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:24.420931",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.901268355836464
+    },
+    "taxi": {
+      "word": "taxi",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:24.420933",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.79122235697222
+    },
+    "pen": {
+      "word": "pen",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:17:24.420935",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.016642045003625
+    },
+    "menu": {
+      "word": "menu",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:24.420937",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.767248504678523
+    },
+    "fat": {
+      "word": "fat",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:24.424030",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.883388748751692
+    },
+    "nose": {
+      "word": "nose",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:24.424035",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.71051885586121
+    },
+    "tea": {
+      "word": "tea",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:24.424037",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.54173757449324
+    },
+    "shoe": {
+      "word": "shoe",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:24.424039",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.183028414015574
+    },
+    "set": {
+      "word": "set",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:24.424042",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.799676237001304
+    },
+    "fall": {
+      "word": "fall",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:17:24.424044",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.549135115902017
+    },
+    "ton": {
+      "word": "ton",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:24.424046",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.130093896668427
+    },
+    "road": {
+      "word": "road",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:24.424048",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.30442730261822
+    },
+    "sad": {
+      "word": "sad",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:28.617769",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.00580999191178
+    },
+    "farm": {
+      "word": "farm",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:17:28.617780",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.641257781493801
+    },
+    "key": {
+      "word": "key",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:28.617786",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.970081800738285
+    },
+    "row": {
+      "word": "row",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:28.617789",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.090378492673885
+    },
+    "run": {
+      "word": "run",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:28.617792",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.791019277951293
+    },
+    "ear": {
+      "word": "ear",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:28.617794",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.709699964858782
+    },
+    "wake": {
+      "word": "wake",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:28.617796",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.211084037311448
+    },
+    "tail": {
+      "word": "tail",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:17:28.617798",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.590268830366984
+    },
+    "girl": {
+      "word": "girl",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:18:24.428627",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.38110862502417
+    },
+    "new": {
+      "word": "new",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:18:24.428632",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.762735519376978
+    },
+    "zoo": {
+      "word": "zoo",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:18:24.428634",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.520038924738287
+    },
+    "six": {
+      "word": "six",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:18:24.428638",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.612847307692984
+    },
+    "day": {
+      "word": "day",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:18:24.428641",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.821130779419565
+    },
+    "dear": {
+      "word": "dear",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:18:24.428644",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.321139550560304
+    },
+    "home": {
+      "word": "home",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:18:24.428646",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.36766459679129
+    },
+    "twin": {
+      "word": "twin",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:18:24.428648",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.386815704412978
+    },
+    "pig": {
+      "word": "pig",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.189519",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.48664055345898
+    },
+    "blue": {
+      "word": "blue",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.189528",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.79753849880162
+    },
+    "hear": {
+      "word": "hear",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:19:56.189533",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.376384006369588
+    },
+    "flat": {
+      "word": "flat",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.189536",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.69896976775432
+    },
+    "just": {
+      "word": "just",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:19:56.189539",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.511368917616702
+    },
+    "side": {
+      "word": "side",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.189542",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.994152855624932
+    },
+    "egg": {
+      "word": "egg",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.189544",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 26.07122385566173
+    },
+    "fork": {
+      "word": "fork",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.189545",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.354353163325378
+    },
+    "wind": {
+      "word": "wind",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.194122",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 23.964691207365213
+    },
+    "trip": {
+      "word": "trip",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.194126",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.46373179500508
+    },
+    "now": {
+      "word": "now",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.194128",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 23.863475031461288
+    },
+    "june": {
+      "word": "june",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.194131",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.47214313555618
+    },
+    "time": {
+      "word": "time",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:19:56.194133",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.658133828369052
+    },
+    "stop": {
+      "word": "stop",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.194135",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.007211293430313
+    },
+    "easy": {
+      "word": "easy",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.194138",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.679795335156932
+    },
+    "four": {
+      "word": "four",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.194139",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.51308154960214
+    },
+    "tree": {
+      "word": "tree",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.197850",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.772210066543693
+    },
+    "warm": {
+      "word": "warm",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.197854",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.152089804679207
+    },
+    "mom": {
+      "word": "mom",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.197857",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.998896867314397
+    },
+    "hurt": {
+      "word": "hurt",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.197859",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.19124639920629
+    },
+    "beef": {
+      "word": "beef",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.197861",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.12107782804684
+    },
+    "help": {
+      "word": "help",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.197862",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 23.892128393668983
+    },
+    "hong": {
+      "word": "hong",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.197865",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.07373344421747
+    },
+    "game": {
+      "word": "game",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.197866",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.888838704712214
+    },
+    "send": {
+      "word": "send",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:19:56.201101",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.682526063238855
+    },
+    "pot": {
+      "word": "pot",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:19:56.201104",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.287180024148299
+    },
+    "win": {
+      "word": "win",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.201108",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.56695886703668
+    },
+    "jump": {
+      "word": "jump",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.201110",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.706113468927683
+    },
+    "they": {
+      "word": "they",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.201112",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.438687280703913
+    },
+    "into": {
+      "word": "into",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.201115",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 26.08534722489978
+    },
+    "read": {
+      "word": "read",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.201117",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.687501136550377
+    },
+    "doll": {
+      "word": "doll",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.201119",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.319870183599186
+    },
+    "snow": {
+      "word": "snow",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:19:56.204365",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.468476075162112
+    },
+    "ride": {
+      "word": "ride",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:19:56.204367",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.193161617126539
+    },
+    "even": {
+      "word": "even",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.204370",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.56706214901287
+    },
+    "turn": {
+      "word": "turn",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.204372",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.186600548526886
+    },
+    "body": {
+      "word": "body",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.204374",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.809189184440292
+    },
+    "mean": {
+      "word": "mean",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.204376",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.685237926323587
+    },
+    "seat": {
+      "word": "seat",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.204378",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.861619898415498
+    },
+    "like": {
+      "word": "like",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.204379",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.413916576422352
+    },
+    "head": {
+      "word": "head",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.207521",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.236853882650447
+    },
+    "pink": {
+      "word": "pink",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.207524",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.766122753271418
+    },
+    "make": {
+      "word": "make",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:19:56.207528",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.1953466387567175
+    },
+    "with": {
+      "word": "with",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:19:56.207530",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.1311230508388395
+    },
+    "path": {
+      "word": "path",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.207532",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.363234271145263
+    },
+    "five": {
+      "word": "five",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.207534",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 26.12798162954526
+    },
+    "sofa": {
+      "word": "sofa",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:19:56.207536",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.7977518404676625
+    },
+    "test": {
+      "word": "test",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.207538",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.789888813835258
+    },
+    "walk": {
+      "word": "walk",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.210894",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 23.768410119237263
+    },
+    "cook": {
+      "word": "cook",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:19:56.210899",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.975698595182473
+    },
+    "love": {
+      "word": "love",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.210901",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.212549669414578
+    },
+    "need": {
+      "word": "need",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.210903",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 23.806981758412025
+    },
+    "hen": {
+      "word": "hen",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.210905",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.683010677349237
+    },
+    "car": {
+      "word": "car",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.210908",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.94217098433087
+    },
+    "flu": {
+      "word": "flu",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.210910",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.51595800165105
+    },
+    "leaf": {
+      "word": "leaf",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:19:56.210912",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.89742936546201
+    },
+    "sure": {
+      "word": "sure",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:20:13.037672",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.33630151444519
+    },
+    "call": {
+      "word": "call",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:20:13.037682",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 26.025794845054836
+    },
+    "feet": {
+      "word": "feet",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:20:13.037687",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.386753114470174
+    },
+    "bed": {
+      "word": "bed",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:20:13.037691",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.2039681519643555
+    },
+    "not": {
+      "word": "not",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:20:13.037694",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.59576356561646
+    },
+    "park": {
+      "word": "park",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:20:13.037697",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.759918105817764
+    },
+    "dive": {
+      "word": "dive",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:20:13.037699",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.14554871493618
+    },
+    "may": {
+      "word": "may",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:20:13.037701",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.843017618980678
+    },
+    "then": {
+      "word": "then",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:21:41.592091",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.80032017965609
+    },
+    "gee": {
+      "word": "gee",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:21:41.592125",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.555448595041014
+    },
+    "thin": {
+      "word": "thin",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:21:41.592136",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.267886050189165
+    },
+    "else": {
+      "word": "else",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:21:41.592143",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.686798715764517
+    },
+    "foot": {
+      "word": "foot",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:21:41.592149",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.909445890467076
+    },
+    "own": {
+      "word": "own",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:21:41.592154",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.941716830858905
+    },
+    "milk": {
+      "word": "milk",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:21:41.592159",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 23.941207957468148
+    },
+    "tired": {
+      "word": "tired",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:07.363577",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.92605000403006
+    },
+    "juice": {
+      "word": "juice",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:07.363587",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.7686115505673214
+    },
+    "actress": {
+      "word": "actress",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:07.363592",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.650360929140867
+    },
+    "theme": {
+      "word": "theme",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:07.363597",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.2254543313033865
+    },
+    "twenty": {
+      "word": "twenty",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:07.363600",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.201985106503309
+    },
+    "music": {
+      "word": "music",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:07.363603",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.296961066544497
+    },
+    "truck": {
+      "word": "truck",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:07.363606",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.397799640100327
+    },
+    "bounce": {
+      "word": "bounce",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:07.363609",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.514249116944104
+    },
+    "factory": {
+      "word": "factory",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:07.363612",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.953602208621823
+    },
+    "fresh": {
+      "word": "fresh",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:07.363615",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 6.015432868242609
+    },
+    "rich": {
+      "word": "rich",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:10.529108",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.454395314614581
+    },
+    "dan": {
+      "word": "dan",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:10.529115",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.38938799356634
+    },
+    "lot": {
+      "word": "lot",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:10.529118",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 23.97019106798018
+    },
+    "dry": {
+      "word": "dry",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:10.529122",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.543475201150684
+    },
+    "tie": {
+      "word": "tie",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:10.529125",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.0499745913189
+    },
+    "lost": {
+      "word": "lost",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:10.529128",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.559117714294487
+    },
+    "corn": {
+      "word": "corn",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:10.529131",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.58596650305443
+    },
+    "half": {
+      "word": "half",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:10.529134",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.02278597386352
+    },
+    "tile": {
+      "word": "tile",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:10.529137",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.66927927790335
+    },
+    "hall": {
+      "word": "hall",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:10.529140",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 23.874958223152895
+    },
+    "lift": {
+      "word": "lift",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:10.529144",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.684748918248925
+    },
+    "die": {
+      "word": "die",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:10.529146",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 23.78135954817286
+    },
+    "kathy": {
+      "word": "kathy",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:13.786973",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.115388555509375
+    },
+    "stand": {
+      "word": "stand",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:13.786982",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.298628401845311
+    },
+    "junk n": {
+      "word": "junk n",
+      "stability": 1.1771,
+      "difficulty": 7.5814,
+      "last_review": "2025-09-25T10:59:13.786988",
+      "review_count": 1,
+      "grade_history": [
+        2
+      ],
+      "interval": 1.6017515062224157
+    },
+    "human": {
+      "word": "human",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:13.786993",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.058705618109245
+    },
+    "halfway": {
+      "word": "halfway",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:13.786999",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 23.81270827085273
+    },
+    "beach": {
+      "word": "beach",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:13.787003",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.069458291631058
+    },
+    "party": {
+      "word": "party",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:13.787007",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.7126875963085055
+    },
+    "sport": {
+      "word": "sport",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:13.787011",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.8728899115727575
+    },
+    "route": {
+      "word": "route",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:13.787015",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.653787530965499
+    },
+    "truth": {
+      "word": "truth",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:13.787018",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.810943349178654
+    },
+    "murder": {
+      "word": "murder",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:13.787023",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 23.75890278789196
+    },
+    "someone": {
+      "word": "someone",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:13.787027",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.243506882993133
+    },
+    "event": {
+      "word": "event",
+      "stability": 1.1771,
+      "difficulty": 7.5814,
+      "last_review": "2025-09-25T10:59:13.787032",
+      "review_count": 1,
+      "grade_history": [
+        2
+      ],
+      "interval": 1.4142694454882427
+    },
+    "bought": {
+      "word": "bought",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:13.787037",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 26.095196215069592
+    },
+    "sunny": {
+      "word": "sunny",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:13.787041",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.940148562680162
+    },
+    "guide": {
+      "word": "guide",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:16.971486",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.586978513742263
+    },
+    "rating": {
+      "word": "rating",
+      "stability": 1.1771,
+      "difficulty": 7.5814,
+      "last_review": "2025-09-25T10:59:16.971497",
+      "review_count": 1,
+      "grade_history": [
+        2
+      ],
+      "interval": 2.75774475516429
+    },
+    "screen": {
+      "word": "screen",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:16.971503",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.505773711503448
+    },
+    "invent": {
+      "word": "invent",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:16.971507",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.623639045338415
+    },
+    "village": {
+      "word": "village",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:16.971511",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.826907497556205
+    },
+    "shout": {
+      "word": "shout",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:16.971515",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.231210028993291
+    },
+    "lesson": {
+      "word": "lesson",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:16.971520",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.308598038971988
+    },
+    "end up": {
+      "word": "end up",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:16.971524",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.530626700596726
+    },
+    "collect": {
+      "word": "collect",
+      "stability": 1.1771,
+      "difficulty": 7.5814,
+      "last_review": "2025-09-25T10:59:16.971528",
+      "review_count": 1,
+      "grade_history": [
+        2
+      ],
+      "interval": 1.2082097147365785
+    },
+    "minute": {
+      "word": "minute",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:16.971532",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.646004835547501
+    },
+    "before": {
+      "word": "before",
+      "stability": 1.1771,
+      "difficulty": 7.5814,
+      "last_review": "2025-09-25T10:59:16.971537",
+      "review_count": 1,
+      "grade_history": [
+        2
+      ],
+      "interval": 2.0826286498066073
+    },
+    "middle": {
+      "word": "middle",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:16.971541",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.0280162788210605
+    },
+    "potato": {
+      "word": "potato",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:20.132700",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 23.728298168745965
+    },
+    "singer": {
+      "word": "singer",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:20.132706",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 25.715093829664387
+    },
+    "apple": {
+      "word": "apple",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:20.132709",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.790511124224032
+    },
+    "sprout": {
+      "word": "sprout",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:20.132712",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 24.681442089187634
+    },
+    "there": {
+      "word": "there",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:20.132717",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 4.850960211042789
+    },
+    "mouse": {
+      "word": "mouse",
+      "stability": 1.1771,
+      "difficulty": 7.5814,
+      "last_review": "2025-09-25T10:59:20.132720",
+      "review_count": 1,
+      "grade_history": [
+        2
+      ],
+      "interval": 1.0035384496646385
+    },
+    "drive": {
+      "word": "drive",
+      "stability": 16.1507,
+      "difficulty": 6.4414,
+      "last_review": "2025-09-25T10:59:20.132722",
+      "review_count": 1,
+      "grade_history": [
+        4
+      ],
+      "interval": 26.085937622321747
+    },
+    "shelf": {
+      "word": "shelf",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:20.132725",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.539493044123078
+    },
+    "pants": {
+      "word": "pants",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:20.132727",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.881674871990079
+    },
+    "bored": {
+      "word": "bored",
+      "stability": 3.2602,
+      "difficulty": 7.0114,
+      "last_review": "2025-09-25T10:59:20.132729",
+      "review_count": 1,
+      "grade_history": [
+        3
+      ],
+      "interval": 5.3437246541949595
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "grammar_name": "定语从句-关系代词",
+  "level": "初中三年级",
+  "category": "进阶语法",
+  "difficulty": "hard",
+  "description": "学习定语从句中关系代词的具体用法：who, whom, which, that, whose",
+  "explanation": {
+    "basic_rules": [
+      "who：指人，在从句中作主语",
+      "whom：指人，在从句中作宾语",
+      "which：指物，在从句中作主语或宾语",
+      "that：指人或物，在从句中作主语或宾语",
+      "whose：指人或物，在从句中作定语"
+    ],
+    "usage_cases": [
+      "who作主语：The man who is standing there is my teacher.",
+      "whom作宾语：The man whom you met yesterday is my teacher.",
+      "which作主语：The book which is on the desk is mine.",
+      "which作宾语：The book which I bought yesterday is interesting.",
+      "that作主语：The man that is standing there is my teacher.",
+      "that作宾语：The book that I bought yesterday is interesting.",
+      "whose作定语：The man whose car is red is my teacher."
+    ],
+    "common_errors": [
+      "The man who you met yesterday is my teacher. (错误) → The man whom you met yesterday is my teacher. (正确)",
+      "The book which is on the desk is mine. (正确)",
+      "The man whose car is red is my teacher. (正确)"
+    ],
+    "usage_tips": [
+      "who在从句中作主语，whom在从句中作宾语",
+      "which可以指物，在从句中作主语或宾语",
+      "that可以指人或物，在从句中作主语或宾语",
+      "whose在从句中作定语"
+    ]
+  },
+  "examples": {
+    "who_subject": [
+      "The man who is standing there is my teacher.",
+      "The woman who is talking to you is my mother.",
+      "The boy who is playing football is my brother.",
+      "The girl who is singing is my sister.",
+      "The person who helped me is my friend."
+    ],
+    "whom_object": [
+      "The man whom you met yesterday is my teacher.",
+      "The woman whom you talked to is my mother.",
+      "The boy whom you saw is my brother.",
+      "The girl whom you know is my sister.",
+      "The person whom you helped is my friend."
+    ],
+    "which_subject": [
+      "The book which is on the desk is mine.",
+      "The car which is parked outside is mine.",
+      "The house which is very beautiful is ours.",
+      "The computer which is very fast is mine.",
+      "The movie which is very interesting is great."
+    ],
+    "which_object": [
+      "The book which I bought yesterday is interesting.",
+      "The car which I drive is very fast.",
+      "The house which we visited is beautiful.",
+      "The computer which I use is very fast.",
+      "The movie which we watched was great."
+    ],
+    "that_subject": [
+      "The man that is standing there is my teacher.",
+      "The book that is on the desk is mine.",
+      "The car that is parked outside is mine.",
+      "The house that is very beautiful is ours.",
+      "The computer that is very fast is mine."
+    ],
+    "that_object": [
+      "The man that you met yesterday is my teacher.",
+      "The book that I bought yesterday is interesting.",
+      "The car that I drive is very fast.",
+      "The house that we visited is beautiful.",
+      "The computer that I use is very fast."
+    ],
+    "whose_possessive": [
+      "The man whose car is red is my teacher.",
+      "The woman whose house is big is my mother.",
+      "The boy whose bike is new is my brother.",
+      "The girl whose dress is beautiful is my sister.",
+      "The person whose name is John is my friend."
+    ]
+  },
+  "exercise_templates": {
+    "multiple_choice": {
+      "templates": [
+        {
+          "question": "The man _____ is standing there is my teacher.",
+          "correct": "who",
+          "wrong_options": ["whom", "which", "whose"],
+          "explanation": "指人作主语用who"
+        },
+        {
+          "question": "The man _____ you met yesterday is my teacher.",
+          "correct": "whom",
+          "wrong_options": ["who", "which", "whose"],
+          "explanation": "指人作宾语用whom"
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "templates": [
+        {
+          "question": "The man _____ is standing there is my teacher.",
+          "answer": "who",
+          "explanation": "指人作主语用who"
+        },
+        {
+          "question": "The book _____ I bought yesterday is interesting.",
+          "answer": "which",
+          "explanation": "指物作宾语用which"
+        }
+      ]
+    },
+    "pronoun_choice": {
+      "templates": [
+        {
+          "question": "选择合适的关系代词：The man _____ car is red is my teacher.",
+          "answer": "whose",
+          "explanation": "作定语用whose"
+        },
+        {
+          "question": "选择合适的关系代词：The book _____ is on the desk is mine.",
+          "answer": "which",
+          "explanation": "指物作主语用which"
+        }
+      ]
+    }
+  },
+  "learning_objectives": [
+    "掌握各种关系代词的具体用法",
+    "能够正确选择和使用关系代词",
+    "了解关系代词在从句中的作用"
+  ],
+  "assessment_criteria": {
+    "excellent": "能够熟练使用各种关系代词，无语法错误",
+    "good": "基本掌握各种关系代词用法，偶有错误",
+    "satisfactory": "了解各种关系代词用法，需要加强练习",
+    "needs_improvement": "对各种关系代词用法不熟悉，需要重新学习"
+  }
+}
