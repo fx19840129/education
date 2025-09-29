@@ -273,6 +273,106 @@ class EnglishLearningPlanAI:
     
     # generate_fsrs_learning_plan method deleted - keeping only the latest FSRS template method
 
+    def convert_to_fsrs_standard_format(self, template: Dict) -> Dict:
+        """将FSRS模板转换成FSRS标准格式的JSON
+        
+        Args:
+            template (Dict): 生成的FSRS模板
+            
+        Returns:
+            Dict: FSRS标准格式的数据结构
+        """
+        print(f"\n🔄 正在转换为FSRS标准格式...")
+        
+        try:
+            # 从模板中提取关键信息
+            fsrs_template = template.get('fsrs_template', template)
+            metadata = fsrs_template.get('metadata', {})
+            fsrs_params = fsrs_template.get('fsrs_initial_parameters', {})
+            daily_guidelines = fsrs_template.get('daily_planning_guidelines', {})
+            word_categories = fsrs_template.get('word_categories', {})
+            
+            # 构建FSRS标准格式
+            fsrs_standard = {
+                "scheduler_config": {
+                    "parameters": [
+                        0.2172, 1.1771, 3.2602, 16.1507, 7.0114, 0.57, 2.0966, 0.0069, 1.5261, 0.112,
+                        1.0178, 1.849, 0.1133, 0.3127, 2.2934, 0.2191, 3.0004, 0.7536, 0.3332, 0.1437, 0.2
+                    ],
+                    "desired_retention": 0.9,
+                    "learning_steps": [1, 10],  # 分钟
+                    "relearning_steps": [10],   # 分钟
+                    "maximum_interval": int(fsrs_params.get('default_ease', 2.0) * 365),  # 基于ease计算最大间隔
+                    "enable_fuzzing": True
+                },
+                "cards": [],  # 空的卡片列表，将由具体词汇填充
+                "learning_plan_metadata": {
+                    "total_study_days": metadata.get('total_study_days', 30),
+                    "daily_learning_minutes_target": metadata.get('daily_learning_minutes_target', 30),
+                    "total_words_in_library": metadata.get('total_words_in_library', 0),
+                    "total_morphology_units_in_library": metadata.get('total_morphology_units_in_library', 0),
+                    "total_syntax_units_in_library": metadata.get('total_syntax_units_in_library', 0),
+                    "estimated_avg_word_rotations_per_cycle": metadata.get('estimated_avg_word_rotations_per_cycle', 2.0),
+                    "learning_efficiency_estimate": metadata.get('learning_efficiency_estimate', 1.0),
+                    "review_efficiency_estimate": metadata.get('review_efficiency_estimate', 0.6),
+                    "morphology_practice_time_estimate": metadata.get('morphology_practice_time_estimate', 4),
+                    "syntax_practice_time_estimate": metadata.get('syntax_practice_time_estimate', 8)
+                },
+                "daily_targets": {
+                    "avg_new_words_per_day": daily_guidelines.get('avg_new_words_per_day', 8),
+                    "avg_review_words_per_day": daily_guidelines.get('avg_review_words_per_day', 8),
+                    "avg_new_morphology_units_per_day": daily_guidelines.get('avg_new_morphology_units_per_day', 1),
+                    "avg_review_morphology_units_per_day": daily_guidelines.get('avg_review_morphology_units_per_day', 1),
+                    "avg_new_syntax_units_per_day": daily_guidelines.get('avg_new_syntax_units_per_day', 1),
+                    "avg_review_syntax_units_per_day": daily_guidelines.get('avg_review_syntax_units_per_day', 1),
+                    "suggested_morphology_practice_minutes_per_day": daily_guidelines.get('suggested_morphology_practice_minutes_per_day', 4),
+                    "suggested_syntax_practice_minutes_per_day": daily_guidelines.get('suggested_syntax_practice_minutes_per_day', 8)
+                },
+                "word_categories": word_categories,
+                "card_template": {
+                    "id": "PLACEHOLDER_ID",
+                    "text": "PLACEHOLDER_TEXT", 
+                    "category": "core_functional",  # core_functional | connectors_relational | auxiliary_supplemental | morphology | syntax
+                    "part_of_speech": "noun",  # 具体词性
+                    "due": "2024-01-01T00:00:00Z",  # UTC时间
+                    "stability": 1.0,  # FSRS稳定性参数
+                    "difficulty": 5.0,  # FSRS难度参数
+                    "elapsed_days": 0,  # 经过天数
+                    "scheduled_days": int(fsrs_params.get('new_word_first_review_interval_days', 0.3) * 24 * 60),  # 转换为分钟
+                    "reps": 0,  # 复习次数
+                    "lapses": 0,  # 遗忘次数
+                    "state": 1,  # 1=Learning, 2=Review, 3=Relearning
+                    "last_review": None,  # 最后复习时间
+                    "review_logs": []  # 复习历史
+                },
+                "review_rating_guide": {
+                    "1": "Again - 完全忘记",
+                    "2": "Hard - 困难记起",
+                    "3": "Good - 犹豫后记起", 
+                    "4": "Easy - 轻松记起"
+                },
+                "implementation_notes": daily_guidelines.get('notes_for_fsrs_implementation', 
+                    "For FSRS implementation: Use scheduler_config to initialize FSRS scheduler, create cards based on card_template, and follow daily_targets for content generation."),
+                "generated_at": datetime.now().isoformat(),
+                "format_version": "1.0"
+            }
+            
+            print(f"✅ 成功转换为FSRS标准格式")
+            print(f"   调度器参数: {len(fsrs_standard['scheduler_config']['parameters'])}个")
+            print(f"   学习步骤: {fsrs_standard['scheduler_config']['learning_steps']}")
+            print(f"   复习步骤: {fsrs_standard['scheduler_config']['relearning_steps']}")
+            print(f"   最大间隔: {fsrs_standard['scheduler_config']['maximum_interval']}天")
+            print(f"   每日新词目标: {fsrs_standard['daily_targets']['avg_new_words_per_day']}个")
+            print(f"   每日复习目标: {fsrs_standard['daily_targets']['avg_review_words_per_day']}个")
+            
+            return fsrs_standard
+            
+        except Exception as e:
+            print(f"❌ 转换为FSRS标准格式失败: {e}")
+            import traceback
+            traceback.print_exc()
+            return {"error": f"转换失败: {e}"}
+
     def _print_fsrs_template_with_annotations(self, full_template: Dict):
         """打印带有中文注解的FSRS模板内容"""
         import json
@@ -486,6 +586,18 @@ class EnglishLearningPlanAI:
                             print("=" * 100)
                             self._print_fsrs_template_with_annotations(full_template)
                             print("=" * 100)
+                            
+                            # 转换为FSRS标准格式并保存
+                            fsrs_standard = self.convert_to_fsrs_standard_format(full_template)
+                            if "error" not in fsrs_standard:
+                                # 保存FSRS标准格式文件
+                                fsrs_output_file = Path("outputs/english") / f"fsrs_standard_{template_id}.json"
+                                with open(fsrs_output_file, 'w', encoding='utf-8') as f:
+                                    json.dump(fsrs_standard, f, ensure_ascii=False, indent=2)
+                                print(f"💾 FSRS标准格式已保存到: {fsrs_output_file}")
+                                
+                                # 在返回的数据中添加FSRS标准格式
+                                full_template["fsrs_standard_format"] = fsrs_standard
                             
                             return full_template
                             
