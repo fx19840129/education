@@ -539,7 +539,7 @@ class EnglishLearningPlanAI:
                             
                             # 保存学习计划模板
                             template_id = datetime.now().strftime("%Y%m%d_%H%M%S")
-                            output_file = Path("outputs/english") / f"fsrs_template_{template_id}.json"
+                            output_file = Path("outputs/english/plans/fsrs_templates") / f"fsrs_template_{template_id}.json"
                             output_file.parent.mkdir(parents=True, exist_ok=True)
                             
                             # 构建完整的学习计划模板数据
@@ -591,7 +591,7 @@ class EnglishLearningPlanAI:
                             fsrs_standard = self.convert_to_fsrs_standard_format(full_template)
                             if "error" not in fsrs_standard:
                                 # 保存FSRS标准格式文件
-                                fsrs_output_file = Path("outputs/english") / f"fsrs_standard_{template_id}.json"
+                                fsrs_output_file = Path("outputs/english/plans/fsrs_standard") / f"fsrs_standard_{template_id}.json"
                                 with open(fsrs_output_file, 'w', encoding='utf-8') as f:
                                     json.dump(fsrs_standard, f, ensure_ascii=False, indent=2)
                                 print(f"💾 FSRS标准格式已保存到: {fsrs_output_file}")
@@ -607,7 +607,7 @@ class EnglishLearningPlanAI:
                             
                             # 保存失败的响应用于调试
                             template_id = datetime.now().strftime("%Y%m%d_%H%M%S")
-                            output_file = Path("outputs/english") / f"fsrs_template_{template_id}.json"
+                            output_file = Path("outputs/english/plans/fsrs_templates") / f"fsrs_template_error_{template_id}.json"
                             output_file.parent.mkdir(parents=True, exist_ok=True)
                             
                             full_template = {
@@ -647,7 +647,7 @@ class EnglishLearningPlanAI:
                         if attempt < max_retries - 1:
                             print(f"🔄 将进行第 {attempt + 2} 次尝试...")
                             continue
-                        else:
+            else:
                             # 最后一次尝试失败，返回错误信息
                             return {
                                 "error": "AI生成失败",
@@ -695,9 +695,9 @@ class EnglishLearningPlanAI:
     
     
     def save_plan(self, plan: Dict, filename: str = None) -> str:
-        """保存学习计划到outputs/english目录"""
+        """保存学习计划到outputs/english/plans/learning_plans目录"""
         # 创建输出目录
-        output_dir = Path("outputs/english")
+        output_dir = Path("outputs/english/plans/learning_plans")
         output_dir.mkdir(parents=True, exist_ok=True)
         
         # 创建不包含ai_prompt和ai_response的副本用于保存
@@ -711,9 +711,9 @@ class EnglishLearningPlanAI:
             if plan_id:
                 filename = f"english_learning_plan_{plan_id}.json"
             else:
-                timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-                stage_name = plan.get("metadata", {}).get("stage", "未知阶段").replace("：", "_").replace(" ", "_")
-                filename = f"english_learning_plan_{stage_name}_{timestamp}.json"
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            stage_name = plan.get("metadata", {}).get("stage", "未知阶段").replace("：", "_").replace(" ", "_")
+            filename = f"english_learning_plan_{stage_name}_{timestamp}.json"
         
         filepath = output_dir / filename
         

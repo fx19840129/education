@@ -365,9 +365,9 @@ class EnglishLearningPromptGenerator:
 {segments["single_line_note"]}
 
 基于以上所有规则，立即生成符合要求的JSON对象："""
-
+        
         return prompt
-
+    
     def add_ratios_to_learning_plan(self, learning_plan: Dict, stage: str) -> Dict:
         """为学习计划添加比例信息"""
         if not learning_plan or not isinstance(learning_plan, dict):
