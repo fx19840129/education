@@ -663,134 +663,28 @@ class EnglishLearningPromptGenerator:
         
         return prompt
     
-    def _format_detailed_pos_distribution(self, pos_distribution: Dict) -> str:
-        """格式化详细的词性分布信息，用于提示词"""
-        if not pos_distribution:
-            return "  暂无数据"
-        
-        # 定义词性映射
-        pos_mapping = {
-            "noun": "名词",
-            "verb": "动词", 
-            "adjective": "形容词",
-            "adverb": "副词",
-            "preposition": "介词",
-            "pronoun": "代词",
-            "conjunction": "连词",
-            "article": "冠词",
-            "determiner": "限定词",
-            "interjection": "感叹词",
-            "numeral": "数词",
-            "modal": "情态动词",
-            "phrase": "短语",
-            "auxiliary": "助动词"
-        }
-        
-        # 定义词性优先级顺序
-        priority_pos = [
-            "noun", "verb", "adjective", "adverb", "preposition", 
-            "pronoun", "conjunction", "article", "determiner", 
-            "interjection", "numeral", "modal", "phrase", "auxiliary"
-        ]
-        
-        pos_lines = []
-        
-        # 按优先级顺序添加主要词性
-        for pos in priority_pos:
-            if pos in pos_distribution and pos_distribution[pos] > 0:
-                pos_name = pos_mapping.get(pos, pos)
-                pos_lines.append(f"  - {pos_name}({pos}): {pos_distribution[pos]}个")
-        
-        return "\n".join(pos_lines)
-
-    def _generate_pos_specific_prompts(self, pos_distribution: Dict, days: int, minutes: int) -> str:
-        """生成每个词性的单独提示词"""
-        if not pos_distribution:
-            return ""
-        
-        # 定义词性映射
-        pos_mapping = {
-            "noun": "名词",
-            "verb": "动词", 
-            "adjective": "形容词",
-            "adverb": "副词",
-            "preposition": "介词",
-            "pronoun": "代词",
-            "conjunction": "连词",
-            "article": "冠词",
-            "determiner": "限定词",
-            "interjection": "感叹词",
-            "numeral": "数词",
-            "modal": "情态动词",
-            "phrase": "短语",
-            "auxiliary": "助动词"
-        }
-        
-        # 定义词性优先级顺序
-        priority_pos = [
-            "noun", "verb", "adjective", "adverb", "preposition", 
-            "pronoun", "conjunction", "article", "determiner", 
-            "interjection", "numeral", "modal", "phrase", "auxiliary"
-        ]
-        
-        pos_prompts = []
-        
-        # 为每个词性生成单独的提示词
-        for pos in priority_pos:
-            if pos in pos_distribution and pos_distribution[pos] > 0:
-                pos_name = pos_mapping.get(pos, pos)
-                count = pos_distribution[pos]
-                
-                pos_prompt = f"""
-## {pos_name}({pos})学习规划：
-{pos_name}{count}个：{days}天内滚动式学习加强记忆力，每个单词都要循环多次，计算学习周期内每个单词会学习多少次？每天学习几个？不要出现小数或者0次"""
-                
-                pos_prompts.append(pos_prompt)
-        
-        # 添加词法和句法的单独询问
-        morphology_count = self.word_stats.get('morphology', {}).get('elementary', 0)
-        syntax_count = self.word_stats.get('syntax', {}).get('elementary', 0)
-        
-        if morphology_count > 0:
-            morphology_prompt = f"""
-## 词法(morphology)学习规划：
-词法{morphology_count}个：{days}天内滚动式学习加强记忆力，每个词法都要循环多次，计算学习周期内每个词法会学习多少次？每天学习几个？每天最少要学两个词法，不要出现小数或者0次"""
-            pos_prompts.append(morphology_prompt)
-        
-        if syntax_count > 0:
-            syntax_prompt = f"""
-## 句法(syntax)学习规划：
-句法{syntax_count}个：{days}天内滚动式学习加强记忆力，每个句法都要循环多次，计算学习周期内每个句法会学习多少次？每天学习几个？每天最少要学两个句法，不要出现小数或者0次"""
-            pos_prompts.append(syntax_prompt)
-        
-        return "\n".join(pos_prompts)
 
 def main():
     """主函数 - 用于测试"""
     generator = EnglishLearningPromptGenerator()
     
-    # 测试生成提示词
+    # 测试FSRS模板提示词生成
     stage = "第一阶段：基础巩固 (小学中高年级)"
     days = 60
-    hours = 1.5
+    minutes = 30
+    pos_distribution = {"noun": 100, "verb": 50, "adjective": 30}
+    morphology_total = 13
+    syntax_total = 16
     
-    prompt = generator.generate_prompt(stage, days, hours)
-    print("生成的AI提示词:")
-    print("=" * 50)
-    print(prompt)
-
-
-def main():
-    """主函数"""
-    generator = EnglishLearningPromptGenerator()
-    
-    # 测试提示词生成
-    stage = "第一阶段：基础巩固 (小学中高年级)"
-    days = 60
-    hours = 0.25  # 15分钟
-    
-    prompt = generator.generate_prompt(stage, days, hours)
-    print("生成的AI提示词:")
+    prompt = generator.generate_fsrs_template_prompt(
+        total_days=days,
+        daily_minutes=minutes,
+        pos_distribution=pos_distribution,
+        morphology_total=morphology_total,
+        syntax_total=syntax_total,
+        stage=stage
+    )
+    print("生成的FSRS模板提示词:")
     print("=" * 50)
     print(prompt)
 
