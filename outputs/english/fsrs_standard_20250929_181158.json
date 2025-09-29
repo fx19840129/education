@@ -41,19 +41,19 @@
     "total_words_in_library": 0,
     "total_morphology_units_in_library": 0,
     "total_syntax_units_in_library": 0,
-    "estimated_avg_word_rotations_per_cycle": 2.8,
+    "estimated_avg_word_rotations_per_cycle": 3.5,
     "learning_efficiency_estimate": 1.0,
     "review_efficiency_estimate": 0.6,
     "morphology_practice_time_estimate": 4,
     "syntax_practice_time_estimate": 8
   },
   "daily_targets": {
-    "avg_new_words_per_day": 23,
-    "avg_review_words_per_day": 23,
-    "avg_new_morphology_units_per_day": 7,
-    "avg_review_morphology_units_per_day": 7,
-    "avg_new_syntax_units_per_day": 8,
-    "avg_review_syntax_units_per_day": 8,
+    "avg_new_words_per_day": 11,
+    "avg_review_words_per_day": 11,
+    "avg_new_morphology_units_per_day": 5,
+    "avg_review_morphology_units_per_day": 5,
+    "avg_new_syntax_units_per_day": 6,
+    "avg_review_syntax_units_per_day": 6,
     "suggested_morphology_practice_minutes_per_day": 4,
     "suggested_syntax_practice_minutes_per_day": 8
   },
@@ -71,7 +71,7 @@
     "stability": 1.0,
     "difficulty": 5.0,
     "elapsed_days": 0,
-    "scheduled_days": 475,
+    "scheduled_days": 503,
     "reps": 0,
     "lapses": 0,
     "state": 1,
@@ -85,6 +85,6 @@
     "4": "Easy - 轻松记起"
   },
   "implementation_notes": "For FSRS implementation: Use scheduler_config to initialize FSRS scheduler, create cards based on card_template, and follow daily_targets for content generation.",
-  "generated_at": "2025-09-29T18:03:51.521222",
+  "generated_at": "2025-09-29T18:11:58.170093",
   "format_version": "1.0"
 }
