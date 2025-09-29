@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "title": "情态动词 词库",
+    "description": "从小学文档中提取的情态动词",
+    "part_of_speech": "modal",
+    "chinese_name": "情态动词",
+    "word_count": 5,
+    "creation_date": "2025-09-27 14:25:21",
+    "source": "process_elementary_words.py"
+  },
+  "words": [
+    {
+      "word": "can",
+      "pos": "modal",
+      "chinese": "能够；可以",
+      "pos_list": [
+        "modal"
+      ]
+    },
+    {
+      "word": "may",
+      "pos": "modal",
+      "chinese": "可以",
+      "pos_list": [
+        "modal"
+      ]
+    },
+    {
+      "word": "must",
+      "pos": "modal",
+      "chinese": "必须",
+      "pos_list": [
+        "modal"
+      ]
+    },
+    {
+      "word": "should",
+      "pos": "modal",
+      "chinese": "应该",
+      "pos_list": [
+        "modal"
+      ]
+    },
+    {
+      "word": "might",
+      "pos": "modal",
+      "chinese": "可以；能",
+      "pos_list": [
+        "modal"
+      ]
+    }
+  ]
+}

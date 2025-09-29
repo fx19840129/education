@@ -42,7 +42,7 @@ AI增强英语学习系统
 pip install zhipuai python-docx psutil
 
 # 配置智谱API密钥（可选，不配置则使用模板模式）
-# 编辑 llm_framework/config.json
+# 编辑 ai_models/config/config.json
 ```
 
 ### 2. AI框架验证
@@ -179,7 +179,7 @@ python ai_demo.py
 如需启用完整AI功能，请配置智谱API：
 
 ```json
-// llm_framework/config.json
+// ai_models/config/config.json
 {
   "llm_config": {
     "api_key": "your_zhipu_api_key",

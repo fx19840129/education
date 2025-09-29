@@ -1,0 +1,134 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "education-learning-system"
+version = "1.0.0"
+authors = [
+    {name = "Education Team", email = "education@example.com"},
+]
+description = "多科目学习计划生成系统 - 支持英语、化学等科目的智能学习计划创建和管理"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.8"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Education",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Education",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+keywords = ["education", "learning", "ai", "english", "chemistry", "planning"]
+
+dependencies = [
+    "python-docx>=0.8.11",
+    "requests>=2.25.0",
+    "pydantic>=1.8.0",
+    "dataclasses-json>=0.5.0",
+    "pandas>=1.3.0",
+    "numpy>=1.21.0",
+    "python-dateutil>=2.8.0",
+    "pytz>=2021.1",
+    "click>=8.0.0",
+]
+
+[project.optional-dependencies]
+ai = [
+    "openai>=1.0.0",
+    "anthropic>=0.3.0",
+]
+dev = [
+    "pytest>=6.0.0",
+    "pytest-cov>=2.0.0",
+    "black>=21.0.0",
+    "flake8>=3.8.0",
+    "mypy>=0.800.0",
+    "pre-commit>=2.15.0",
+]
+docs = [
+    "sphinx>=4.0.0",
+    "sphinx-rtd-theme>=0.5.0",
+    "myst-parser>=0.15.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/example/education-learning-system"
+Documentation = "https://education-learning-system.readthedocs.io"
+Repository = "https://github.com/example/education-learning-system.git"
+Issues = "https://github.com/example/education-learning-system/issues"
+Changelog = "https://github.com/example/education-learning-system/blob/main/CHANGELOG.md"
+
+[project.scripts]
+english-learning = "english_learning_plan_standalone:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["src.*", "src.ai_models*", "outputs*"]
+exclude = ["tests*", "learning_data*"]
+
+[tool.setuptools.package-data]
+"src.english" = [
+    "grammar_configs/**/*.json",
+    "learning_data/**/*.json",
+    "docs/**/*.md",
+]
+"src.ai_models" = [
+    "config/**/*.json",
+]
+"outputs" = [
+    "**/*.json",
+    "**/*.py",
+]
+
+[tool.black]
+line-length = 88
+target-version = ['py38']
+include = '\.pyi?$'
+extend-exclude = '''
+/(
+  # directories
+  \.eggs
+  | \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | build
+  | dist
+)/
+'''
+
+[tool.mypy]
+python_version = "3.8"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+check_untyped_defs = true
+disallow_untyped_decorators = true
+no_implicit_optional = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+warn_no_return = true
+warn_unreachable = true
+strict_equality = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py", "*_test.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = [
+    "--strict-markers",
+    "--strict-config",
+    "-v"
+]

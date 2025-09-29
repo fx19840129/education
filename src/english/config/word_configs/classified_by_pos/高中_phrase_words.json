@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "title": "短语 词库",
+    "description": "从文档中提取的短语",
+    "part_of_speech": "phrase",
+    "chinese_name": "短语",
+    "word_count": 1,
+    "creation_date": "2025-09-27 12:54:20",
+    "source": "extract_words_minimal.py"
+  },
+  "words": [
+    {
+      "word": "etc",
+      "pos": "phrase",
+      "chinese": "等等",
+      "pos_list": [
+        "phrase"
+      ]
+    }
+  ]
+}

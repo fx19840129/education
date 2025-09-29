@@ -1,0 +1,6007 @@
+{
+  "metadata": {
+    "title": "动词 词库",
+    "description": "从文档中提取的动词",
+    "part_of_speech": "verb",
+    "chinese_name": "动词",
+    "word_count": 681,
+    "creation_date": "2025-09-27 12:54:20",
+    "source": "extract_words_minimal.py"
+  },
+  "words": [
+    {
+      "word": "zone",
+      "pos": "noun/verb",
+      "chinese": "地区/分区，划分地带",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "X-ray",
+      "pos": "noun/verb",
+      "chinese": "X光，X射线；X光照片/用X光摄影",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "wrong",
+      "pos": "adjective/adverb/noun/verb",
+      "chinese": "错的/错误地，不正确地/错误/委屈",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "write",
+      "pos": "verb",
+      "chinese": "写，书写，写字；写作；写信(给)，函告",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "wrap",
+      "pos": "verb/noun",
+      "chinese": "裹，包；覆盖，包围/包裹物，包装材料",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "wound",
+      "pos": "noun/verb",
+      "chinese": "伤口，创伤/使受伤；伤害(感情)",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "worship",
+      "pos": "noun/verb",
+      "chinese": "礼拜，礼拜仪式；崇拜/崇拜；做礼拜",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "worry",
+      "pos": "noun/verb",
+      "chinese": "担心；忧虑；烦恼的事或人/(使)担心",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "work",
+      "pos": "noun/verb",
+      "chinese": "工作(量)；作品；[pl.]工厂/工作；运转",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "wonder",
+      "pos": "noun/verb",
+      "chinese": "惊奇；奇迹/诧异，奇怪；纳闷，想知道",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "wish",
+      "pos": "verb/noun",
+      "chinese": "希望；但愿；祝/愿望，希望；[pl.]祝愿",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "wire",
+      "pos": "noun/verb",
+      "chinese": "金属线，电线；电报，电信/发电报(给)",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "wipe",
+      "pos": "verb/noun",
+      "chinese": "擦，抹，揩/擦，抹，揩",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "wind",
+      "pos": "noun/verb",
+      "chinese": "风；气息；呼吸/转动；缠绕；蜿蜒而行",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "win",
+      "pos": "verb",
+      "chinese": "获胜，赢；赢得；在…中获胜/胜利",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "will",
+      "pos": "auxiliary/verb/noun",
+      "chinese": "将；会；愿意/意志；决心；愿望",
+      "pos_list": [
+        "auxiliary",
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "widespread",
+      "pos": "adjective/verb",
+      "chinese": "分布广的，流传广的/加宽，放宽",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "whistle",
+      "pos": "verb/noun",
+      "chinese": "吹口哨，鸣笛/口哨/汽笛声；哨子，汽笛",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "whisper",
+      "pos": "verb/noun",
+      "chinese": "耳语，轻声说；偷偷告诉/耳语，轻声说",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "whip",
+      "pos": "noun/verb",
+      "chinese": "鞭子/鞭打，抽打；搅拌(奶油，蛋等)",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "wheel",
+      "pos": "noun/verb",
+      "chinese": "轮，车轮/(用车)推，拉/转动",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "wet",
+      "pos": "adjective/verb",
+      "chinese": "湿的，潮的；多雨的，雨天的/(使)弄湿",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "welcome",
+      "pos": "interjection/adjective/verb/noun",
+      "chinese": "欢迎/受欢迎的/欢迎；迎接/欢迎；迎接",
+      "pos_list": [
+        "interjection",
+        "adjective",
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "weigh",
+      "pos": "verb",
+      "chinese": "称，量；重，重达；考虑，权衡/重…",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "weep",
+      "pos": "verb/noun",
+      "chinese": "哭泣，流泪/悲叹，哀悼，为.伤心",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "weed",
+      "pos": "noun/verb",
+      "chinese": "杂草，野草/除(杂草)；清除；淘汰",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "weave",
+      "pos": "verb/noun",
+      "chinese": "编(织)/编织法，编织式样",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "weather",
+      "pos": "noun/verb",
+      "chinese": "天气/(安然)度过(暴风雨、难关等)",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "wear",
+      "pos": "verb/noun",
+      "chinese": "穿着，戴着；磨损，用旧/穿，戴；磨损",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "wave",
+      "pos": "verb/noun",
+      "chinese": "波动，飘动；向.挥手/波浪/飘扬/挥手",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "water",
+      "pos": "noun/verb",
+      "chinese": "水/浇灌；给…饮水/流泪，加水",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "watch",
+      "pos": "verb/noun",
+      "chinese": "观看；看守；(for)窥伺，等待/看管；表",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "waste",
+      "pos": "adjective/verb/noun",
+      "chinese": "荒芜的；无用的，废弃的/浪费；废物/浪费；废物",
+      "pos_list": [
+        "adjective",
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "wash",
+      "pos": "noun/verb",
+      "chinese": "洗；洗的衣物/冲刷，洗；冲出",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "warn",
+      "pos": "verb",
+      "chinese": "警告/发出警告",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "warm",
+      "pos": "adjective/verb",
+      "chinese": "温暖的，热心的，热情的/(使)变暖",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "war",
+      "pos": "noun/verb",
+      "chinese": "战争(状态)；冲突/作战",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "want",
+      "pos": "verb",
+      "chinese": "想",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "wander",
+      "pos": "verb",
+      "chinese": "迷路，过失，离开正题，离题；徘徊，漫步",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "wall",
+      "pos": "noun/verb",
+      "chinese": "墙，壁，围墙/筑墙围住，用墙隔开",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "walk",
+      "pos": "verb/noun",
+      "chinese": "走，步行，散步；走遍/走，步行，散步",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "wake",
+      "pos": "verb",
+      "chinese": "醒，醒来；唤醒；使认识到，激动，引起",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "wait",
+      "pos": "verb/noun",
+      "chinese": "(for)等待；(on)侍候/等候，等待时间",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "wag",
+      "pos": "verb/noun",
+      "chinese": "(狗尾巴等)摆动/诙谐幽默者",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "voyage",
+      "pos": "noun/verb",
+      "chinese": "航海，航行/航海，航行于(海上)",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "vote",
+      "pos": "noun/verb",
+      "chinese": "选举，投票，选票/推选/投票；选举",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "voice",
+      "pos": "noun/verb",
+      "chinese": "说话声音，嗓音，噪子；语态/说话;表达",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "visit",
+      "pos": "verb",
+      "chinese": "inflict(punishment)for(wrongdoing)",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "view",
+      "pos": "noun/verb",
+      "chinese": "看法，见解，观点/看待，考虑，估量",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "value",
+      "pos": "noun/verb",
+      "chinese": "价值；实用性；(pl.)价值观/估价/尊重",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "use",
+      "pos": "noun/verb",
+      "chinese": "使/应用；用法/途；益/用处/用；消耗",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "unite",
+      "pos": "verb",
+      "chinese": "(使)统一，(使)联合，(使)团结；(使)接合",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "unfold",
+      "pos": "verb",
+      "chinese": "展开，打开；显露，展现",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "undress",
+      "pos": "verb/noun",
+      "chinese": "脱衣服/除去…的衣服/裸体的状态",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "understand",
+      "pos": "verb",
+      "chinese": "懂，理解；得知，听说，获悉；以为，认为",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "underline",
+      "pos": "verb/noun",
+      "chinese": "在…之下划线；强调/下划线",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "type",
+      "pos": "noun/verb",
+      "chinese": "型式，类型；印刷字体；活/铅字/打字",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "turn",
+      "pos": "verb/noun",
+      "chinese": "(使)转动，(使)旋转；(使)变化/一次机会",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "try",
+      "pos": "verb/noun",
+      "chinese": "尝试，试图；试验，试用；审讯/尝试",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "trust",
+      "pos": "noun/verb",
+      "chinese": "信任；可信任的人(或物)/相信；委托",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "trouble",
+      "pos": "noun/verb",
+      "chinese": "苦恼，麻烦；故障；动乱/麻烦；费神",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "trip",
+      "pos": "noun/verb",
+      "chinese": "旅行；绊，绊倒/绊，绊倒",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "trick",
+      "pos": "noun/verb",
+      "chinese": "花招，诡计；恶作剧；窍门/欺诈，哄骗",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "tremble",
+      "pos": "verb/noun",
+      "chinese": "颤抖；焦虑，担忧/颤抖的动作或声音",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "treat",
+      "pos": "verb/noun",
+      "chinese": "对待，处理；医疗，治疗；款待，请客/对待，处理；医疗，治疗；款待，请客",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "treasure",
+      "pos": "noun/verb",
+      "chinese": "财宝，宝物；珍品，宝贝/珍惜，珍视",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "travel",
+      "pos": "noun/verb",
+      "chinese": "旅行/旅行；(光、物体等)移动，运行",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "trap",
+      "pos": "noun/verb",
+      "chinese": "陷阱，圈套/诱捕；使中圈套；设圈套",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "transport",
+      "pos": "verb/noun",
+      "chinese": "运输，搬运/运输；运输系统，运载工具",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "translate",
+      "pos": "verb",
+      "chinese": "翻译，解释；转化，化",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "trail",
+      "pos": "noun/verb",
+      "chinese": "踪迹，痕迹；(乡间)小道/追踪，跟踪",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "traffic",
+      "pos": "noun/verb",
+      "chinese": "交通(量)；(非法)交易/(非法)交易",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "trade",
+      "pos": "noun/verb",
+      "chinese": "贸易，商业；行业，职业/做买卖，交换",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "track",
+      "pos": "noun/verb",
+      "chinese": "跑/轨道，路线；足/踪迹/跟踪，追踪",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "trace",
+      "pos": "noun/verb",
+      "chinese": "痕迹；极少量，微量/描绘；跟踪，追踪",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "toy",
+      "pos": "noun/verb",
+      "chinese": "玩具/(with)漫不经心地考虑；摆弄",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "tower",
+      "pos": "noun/verb",
+      "chinese": "高楼；(广播用的)铁塔/高耸，屹立",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "tour",
+      "pos": "noun/verb",
+      "chinese": "旅游，旅行；巡回演出/比赛/旅游",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "touch",
+      "pos": "verb/noun",
+      "chinese": "触，摸；触摸；触动；提到/触觉；触",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "tire",
+      "pos": "verb",
+      "chinese": "(使)感到疲劳；(使)厌倦；(使)厌烦",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "tip",
+      "pos": "noun/verb",
+      "chinese": "末端，尖端；小费/给小费；轻触，轻碰",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "tie",
+      "pos": "verb/noun",
+      "chinese": "拴，扎，捆，系；打结/领",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "thank",
+      "pos": "verb/interjection/noun",
+      "chinese": "感谢/谢谢/感谢(意)",
+      "pos_list": [
+        "verb",
+        "interjection",
+        "noun"
+      ]
+    },
+    {
+      "word": "test",
+      "pos": "noun/verb",
+      "chinese": "试验；检验；测验/试验；检验，测验",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "terrify",
+      "pos": "verb",
+      "chinese": "使(某人)感到恐怖，使害怕",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "tent",
+      "pos": "verb/noun",
+      "chinese": "(住)帐篷，宿营",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "tense",
+      "pos": "noun/verb/adjective",
+      "chinese": "时态/拉紧，(使)紧张/绷紧的，紧张的",
+      "pos_list": [
+        "noun",
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "tell",
+      "pos": "verb",
+      "chinese": "告诉，讲述；告诫；吩咐，命令；辨/区别",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "telescope",
+      "pos": "noun/verb",
+      "chinese": "望远镜/缩短，压缩",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "telephone",
+      "pos": "noun/verb",
+      "chinese": "电话(=phone)；电话机/打电话",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "telegraph",
+      "pos": "noun/verb",
+      "chinese": "电报机，电报；(一份)电报/打电报(给)",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "telegram",
+      "pos": "noun/verb",
+      "chinese": "电报/(向.)发电报",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "tear",
+      "pos": "noun/verb",
+      "chinese": "(pl.)眼泪/撕裂；使…分裂/破裂",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "team",
+      "pos": "noun/verb",
+      "chinese": "小队，小组/协同工作",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "teach",
+      "pos": "verb",
+      "chinese": "教，讲授；教导(训)/讲课，当教师",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "taxi",
+      "pos": "noun/verb",
+      "chinese": "出租汽车/[指飞机](使)滑行",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "tax",
+      "pos": "noun/verb",
+      "chinese": "税(款)，负担/对…征税，使负重担",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "taste",
+      "pos": "noun/verb",
+      "chinese": "味道；趣味；感受,体会/品尝；有味道",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "tape",
+      "pos": "noun/verb",
+      "chinese": "带子，胶布；磁带/用带子捆；录音,录像",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "tap",
+      "pos": "verb/noun",
+      "chinese": "轻叩，轻拍；开发；利用/塞子；龙头",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "talk",
+      "pos": "noun/verb",
+      "chinese": "谈话；聊天/讲话；",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "take",
+      "pos": "verb",
+      "chinese": "拿取；吃；记录；取得；花费；捕获；认为",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "tailor",
+      "pos": "noun/verb",
+      "chinese": "裁缝/裁剪；使适应(特定需要)",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "tail",
+      "pos": "noun/verb",
+      "chinese": "尾巴；尾部；跟踪者/尾随，跟踪",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "table",
+      "pos": "noun/verb",
+      "chinese": "桌(台)子；表格/提交讨论",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "swing",
+      "pos": "verb/noun",
+      "chinese": "(使)摆动；(使)转动/摆动，摇摆；秋千",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "swim",
+      "pos": "verb/noun",
+      "chinese": "游泳；充满，充溢；游过/游泳",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "sweep",
+      "pos": "noun/verb",
+      "chinese": "扫，扫除；连绵区域/扫除；掠过；连绵",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "sweat",
+      "pos": "verb/noun",
+      "chinese": "出汗，流汗/汗，汗水",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "swallow",
+      "pos": "verb/noun",
+      "chinese": "吞，咽；轻信；咽口水/燕子；吞",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "surround",
+      "pos": "verb/noun",
+      "chinese": "包围，环绕/环绕物",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "surprise",
+      "pos": "noun/verb",
+      "chinese": "诧异，惊奇/使诧异，使惊奇；突然袭击",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "suppose",
+      "pos": "verb",
+      "chinese": "料想，猜测；假定，以为；[祈使句]让，设",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "support",
+      "pos": "noun/verb",
+      "chinese": "支持；支撑物；拥护/支持；鼓励；供养",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "supply",
+      "pos": "verb/noun",
+      "chinese": "(with,to)供给，满足，补足/供应(量)",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "suit",
+      "pos": "noun/verb",
+      "chinese": "(一套)衣服；起诉/合适,中的意；相称",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "suggest",
+      "pos": "verb",
+      "chinese": "建议，提议；使想起，暗示，意思是",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "sugar",
+      "pos": "noun/verb",
+      "chinese": "糖，食糖/加糖于",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "suffer",
+      "pos": "verb",
+      "chinese": "(from)受痛苦，患病；受损失；遭受；忍受",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "suck",
+      "pos": "verb/noun",
+      "chinese": "吸，舐；吸收(取)",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "succeed",
+      "pos": "verb",
+      "chinese": "成功；继承，接替/接替，接…之后",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "subject",
+      "pos": "noun/adjective/verb",
+      "chinese": "国民；主题/隶属的，受支配的/征服",
+      "pos_list": [
+        "noun",
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "study",
+      "pos": "verb/noun",
+      "chinese": "学习；研究；细看/读书/学习；研究",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "struggle",
+      "pos": "noun/verb",
+      "chinese": "斗争，努力，奋斗/努力，斗争，奋斗",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "string",
+      "pos": "noun/verb",
+      "chinese": "弦，线，细绳；(一串)，(一行)/缚，捆",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "strike",
+      "pos": "noun/verb",
+      "chinese": "罢工/罢工/打，击；攻击；给…深刻印象",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "strengthen",
+      "pos": "verb",
+      "chinese": "加强，巩固；变强，实力增强",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "stream",
+      "pos": "noun/verb",
+      "chinese": "小河；溪流；流动之物；流动/流(涌)出",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "storm",
+      "pos": "noun/verb",
+      "chinese": "暴风雨(雪)；爆发/猛攻，捣毁；起风暴",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "store",
+      "pos": "noun/verb",
+      "chinese": "商店，店铺；(pl.)贮备品/贮藏，储备",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "stopwatch",
+      "pos": "noun/verb",
+      "chinese": "(赛跑用的)跑表/用秒表测定时间",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "stop",
+      "pos": "noun/verb",
+      "chinese": "停车站/停止，中止/阻止；逗留",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "stomach",
+      "pos": "noun/verb",
+      "chinese": "胃，胃口；肚子，腹部/承受，忍受",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "stick",
+      "pos": "noun/verb",
+      "chinese": "棍，棒；手杖/把…插入；粘住/粘着",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "step",
+      "pos": "noun/verb",
+      "chinese": "脚步(声)；台阶；步骤，措施/举步，走",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "steep",
+      "pos": "adjective/verb",
+      "chinese": "陡的；过高的；急剧的/浸泡，沉浸",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "steel",
+      "pos": "noun/verb",
+      "chinese": "钢，钢铁/使坚强，使硬起心肠",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "steal",
+      "pos": "verb/noun",
+      "chinese": "偷盗；悄悄地走/偷盗/便宜货",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "steady",
+      "pos": "adjective/verb",
+      "chinese": "稳的；持续的；稳重的/(使)平稳(稳定)",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "stay",
+      "pos": "verb/noun",
+      "chinese": "逗留；保持/停止，延缓/逗留，停留",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "state",
+      "pos": "noun/verb",
+      "chinese": "国家，州；情况，状态/声明，陈述",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "starve",
+      "pos": "verb",
+      "chinese": "饿死；挨饿；极需，渴望/使挨饿",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "start",
+      "pos": "verb/noun",
+      "chinese": "开始/动；动身；开设/开端；出发；吃惊",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "stare",
+      "pos": "verb",
+      "chinese": "(at)盯，凝视，目不转睛地看",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "star",
+      "pos": "noun/verb",
+      "chinese": "星；恒星；明星/用星号标出；扮演主角",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "stand",
+      "pos": "verb/noun",
+      "chinese": "站立；位于；经受/台，座；货摊；立场",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "stamp",
+      "pos": "noun/verb",
+      "chinese": "邮票；图章/跺脚；践踏/盖章/印",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "stage",
+      "pos": "noun/verb",
+      "chinese": "阶段；舞台；场所/上演，把…搬上舞台",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "square",
+      "pos": "adjective/noun/verb",
+      "chinese": "正方形的；平方的/正方形；广场/求平方",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "spy",
+      "pos": "noun/verb",
+      "chinese": "间谍/当间谍，刺探；察觉，发现",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "spring",
+      "pos": "verb/noun",
+      "chinese": "跃；出现；发芽/泉；泉水；弹簧；春天",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "spread",
+      "pos": "verb/noun",
+      "chinese": "展开，铺开/流传，蔓延/伸展，扩展",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "spot",
+      "pos": "noun/verb",
+      "chinese": "地点，处所；点/点缀；认出，准确定位",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "sport",
+      "pos": "noun/verb",
+      "chinese": "(体育)运动(pl.)运动会/开玩笑；玩耍",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "spoon",
+      "pos": "noun/verb",
+      "chinese": "匙，汤匙，调羹/以匙舀取",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "split",
+      "pos": "verb/adjective/noun",
+      "chinese": "劈开，裂开/分裂的/裂缝/口；分化/裂",
+      "pos_list": [
+        "verb",
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "spit",
+      "pos": "verb/noun",
+      "chinese": "吐唾沫(或痰)/吐出/唾液，唾沫",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "spend",
+      "pos": "verb",
+      "chinese": "花费(钱、时间等)；消磨/花费；耗尽",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "speed",
+      "pos": "noun/verb",
+      "chinese": "速度；快，迅速/急行，飞驰/使加速",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "spear",
+      "pos": "noun/verb",
+      "chinese": "矛，枪，矛尖；嫩叶/刺戳",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "speak",
+      "pos": "verb",
+      "chinese": "说话，讲话；演说，发言；(in)说某种语言",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "spare",
+      "pos": "verb/adjective",
+      "chinese": "让给，抽出(时间)；饶恕/剩余的/备用的",
+      "pos_list": [
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "space",
+      "pos": "noun/verb",
+      "chinese": "间隔；空地；空间，太空/留间隔，隔开",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "sow",
+      "pos": "verb",
+      "chinese": "插种；使产生(情感、想法等)",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "sort",
+      "pos": "noun/verb",
+      "chinese": "种类，类别；(某种)性格/分类，整理",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "solve",
+      "pos": "verb",
+      "chinese": "解答(谜等)；解决(问题、困难等)",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "soil",
+      "pos": "noun/verb",
+      "chinese": "泥土，土地，土壤/弄脏，(使)变脏",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "sob",
+      "pos": "verb/noun",
+      "chinese": "啜泣，抽噎/哭诉，呜咽地说",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "snow",
+      "pos": "noun/verb",
+      "chinese": "雪，下雪/下雪；如雪一般地落下",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "sneeze",
+      "pos": "verb/noun",
+      "chinese": "打喷嚏，发喷嚏声/喷嚏",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "snatch",
+      "pos": "noun/verb",
+      "chinese": "突然抢夺；片断，片语/突然抢夺",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "snake",
+      "pos": "noun/verb",
+      "chinese": "蛇/蜿蜒，弯弯曲曲行进",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "smoke",
+      "pos": "noun/verb",
+      "chinese": "烟，烟尘/吸烟，抽烟/冒烟，冒气",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "smile",
+      "pos": "noun/verb",
+      "chinese": "微笑，笑容/微笑，露出笑容",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "smell",
+      "pos": "verb/noun",
+      "chinese": "散发气味/嗅，闻；觉察/气味；嗅觉",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "smart",
+      "pos": "adjective/verb",
+      "chinese": "聪明的；(衣服)漂亮的；敏捷的/刺痛",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "slow",
+      "pos": "adjective/verb",
+      "chinese": "(缓)慢的；迟钝的/(使)放慢；(使)减速",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "slip",
+      "pos": "verb/noun",
+      "chinese": "滑倒；溜走；疏忽；被错过/失误；滑倒",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "slight",
+      "pos": "adjective/verb/noun",
+      "chinese": "轻微的；纤细的/轻视，藐视/轻视，藐视",
+      "pos_list": [
+        "adjective",
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "slide",
+      "pos": "verb/noun",
+      "chinese": "(使)滑动,(使)滑行/滑道；滑行；幻灯片",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "sleep",
+      "pos": "verb/noun",
+      "chinese": "睡/睡眠",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "slave",
+      "pos": "noun/verb",
+      "chinese": "奴隶，苦工/做苦工，拼命地干",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "skirt",
+      "pos": "noun/verb",
+      "chinese": "裙子；边缘/位于…的边缘；绕开",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "skin",
+      "pos": "noun/verb",
+      "chinese": "皮(肤)；兽皮，毛皮；外皮/剥去.的皮",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "skate",
+      "pos": "noun/verb",
+      "chinese": "(滑)冰鞋/滑冰",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "sit",
+      "pos": "verb",
+      "chinese": "坐，坐下；位于；栖息；孵卵/使就坐",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "sink",
+      "pos": "verb/noun",
+      "chinese": "(使)下沉/水槽",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "single",
+      "pos": "adjective/verb",
+      "chinese": "单个的；独身的；每个的，个别的/挑选",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "sing",
+      "pos": "verb",
+      "chinese": "唱，歌唱；嗡嗡作响，鸣响；吟咏，歌颂",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "silver",
+      "pos": "noun/adjective/verb",
+      "chinese": "银，银币/银色的/镀银",
+      "pos_list": [
+        "noun",
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "silence",
+      "pos": "noun/verb",
+      "chinese": "寂静；沉默，无言/使沉默，使安静",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "sign",
+      "pos": "verb/noun",
+      "chinese": "以动作示意；发信号通知/签(名)，署(名)/符号，标记；踪迹,迹象",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "sight",
+      "pos": "verb/noun",
+      "chinese": "看见；观测/视力；看(pl.)名胜；看法",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "sigh",
+      "pos": "verb/noun",
+      "chinese": "叹气，叹息/叹息地说",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "side",
+      "pos": "noun/verb",
+      "chinese": "旁边，侧面；坡，岸；一边/侧/方/支持",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "shy",
+      "pos": "adjective/verb",
+      "chinese": "怕羞的，腼腆的；胆怯的/惊退，畏缩",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "shut",
+      "pos": "verb",
+      "chinese": "关，关闭；停止营业；禁闭/关上",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "show",
+      "pos": "noun/verb",
+      "chinese": "节目，表演/上演(戏剧等)，放映(电影)",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "shout",
+      "pos": "verb/noun",
+      "chinese": "大声叫，喊，呼出/呼喊，叫",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "shoulder",
+      "pos": "noun/verb",
+      "chinese": "肩，肩部/肩负，承担",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "shop",
+      "pos": "noun/verb",
+      "chinese": "商店，店铺；工厂，车间/买东西",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "shoot",
+      "pos": "verb/noun",
+      "chinese": "射击；疾驰而过；发芽；发射,拍摄/嫩枝",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "shock",
+      "pos": "noun/verb",
+      "chinese": "冲击，震惊，震动；电击，触电/使震动",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "ship",
+      "pos": "noun/verb",
+      "chinese": "船舶，舰艇/装运，航运，运送；发货",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "shine",
+      "pos": "verb/noun",
+      "chinese": "照耀，发光；使发光，擦亮/光，光泽",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "shave",
+      "pos": "verb/noun",
+      "chinese": "剃，刮，削，刨，理发/刮脸，修面",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "share",
+      "pos": "verb/noun",
+      "chinese": "分享/担/配；分担/部分；股份；分担",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "shape",
+      "pos": "noun/verb",
+      "chinese": "形状；外表；状况/使成形；塑造；实现",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "shame",
+      "pos": "noun/verb",
+      "chinese": "耻辱，羞愧；可耻的人或物/使羞愧",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "shake",
+      "pos": "verb/noun",
+      "chinese": "摇(动)；震动，颤抖；握手/摇/震/抖动",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "shadow",
+      "pos": "noun/verb",
+      "chinese": "阴影，影子，荫；阴暗/投阴影于；跟踪",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "shade",
+      "pos": "noun/verb",
+      "chinese": "荫凉；(色彩)浓淡；遮光物/遮蔽，遮光",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "sex",
+      "pos": "noun/verb",
+      "chinese": "性别；男性或女性/区分.的性别",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "sew",
+      "pos": "verb",
+      "chinese": "(sewed，sewn；sewed，sewed)缝纫",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "settle",
+      "pos": "verb",
+      "chinese": "安顿；解决；结算/定居；下沉；平静",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "set",
+      "pos": "noun/verb/adjective",
+      "chinese": "一套，一副；装置/放；日落/规定的",
+      "pos_list": [
+        "noun",
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "service",
+      "pos": "noun/verb",
+      "chinese": "服务；公共设施；保养；行政部门/维修",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "serve",
+      "pos": "verb",
+      "chinese": "服务，供职；伺候，招待；适用/合；服役",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "separate",
+      "pos": "verb/adjective",
+      "chinese": "使分开；区分/分离/不同的；单独的",
+      "pos_list": [
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "sentence",
+      "pos": "noun/verb",
+      "chinese": "句子；判决，宣判/宣判，判决",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "sense",
+      "pos": "noun/verb",
+      "chinese": "意思；感觉；见识；意识/觉得，意识到",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "send",
+      "pos": "verb",
+      "chinese": "打发；派遣；送；寄出",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "sell",
+      "pos": "verb",
+      "chinese": "卖，出售；出卖，背叛/卖，销售",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "select",
+      "pos": "verb/adjective",
+      "chinese": "选择，挑选，选拔/精选的",
+      "pos_list": [
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "seize",
+      "pos": "verb",
+      "chinese": "抢占；抓住；攻击/利用；采用",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "seem",
+      "pos": "verb",
+      "chinese": "似乎，仿佛，好像是",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "seek",
+      "pos": "verb",
+      "chinese": "寻找，探索；试图，企图",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "seed",
+      "pos": "noun/verb",
+      "chinese": "种子/播种/(植物)结实；播种",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "see",
+      "pos": "verb",
+      "chinese": "看见；会面；探望；知道，获悉；送行",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "seat",
+      "pos": "noun/verb",
+      "chinese": "座，座位；底座；所在地，场所/使坐下",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "season",
+      "pos": "noun/verb",
+      "chinese": "季，季节；当令期，旺季/加调味品",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "search",
+      "pos": "verb/noun",
+      "chinese": "搜寻；细看；探究；调查/调查，寻找",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "seal",
+      "pos": "noun/verb",
+      "chinese": "封铅，封条；印，图章；海豹/封，密封",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "screen",
+      "pos": "noun/verb",
+      "chinese": "屏风；幕，屏幕/遮蔽，庇护；选拔",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "scream",
+      "pos": "verb",
+      "chinese": "(因恐惧、痛苦等而)尖声喊叫，惊呼",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "score",
+      "pos": "noun/verb",
+      "chinese": "(比赛)得分；分数；(测验中)成绩/得分",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "say",
+      "pos": "verb",
+      "chinese": "说，讲；说明；比如说/说，发表意见",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "save",
+      "pos": "verb/preposition",
+      "chinese": "救；节省；保存/储蓄/除…之外",
+      "pos_list": [
+        "verb",
+        "preposition"
+      ]
+    },
+    {
+      "word": "sandwich",
+      "pos": "noun/verb",
+      "chinese": "三明治(夹心面包片)/夹入，挤入",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "sand",
+      "pos": "noun/verb",
+      "chinese": "沙；(pl.)沙滩/(尤指用沙纸)磨光",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "salute",
+      "pos": "noun/verb",
+      "chinese": "敬礼，行礼，鸣礼炮/迎接；敬礼，行礼",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "salt",
+      "pos": "noun/verb",
+      "chinese": "盐；刺激；风趣/腌制；加盐于",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "sail",
+      "pos": "noun/verb",
+      "chinese": "帆；航行/航行；启航/航行；飘过",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "rush",
+      "pos": "verb/noun/adjective",
+      "chinese": "(使)冲，奔/冲，急速行进/交通繁忙的",
+      "pos_list": [
+        "verb",
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "run",
+      "pos": "verb",
+      "chinese": "奔，跑；流，淌；蔓延",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "rule",
+      "pos": "verb/noun",
+      "chinese": "统治，支配；规则/律；惯例；裁决",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "ruin",
+      "pos": "verb/noun",
+      "chinese": "毁灭；(使)破产；堕落；毁灭；[pl.]废墟",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "rub",
+      "pos": "verb/noun",
+      "chinese": "擦，搓；摩，擦；障碍，困难",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "row",
+      "pos": "noun/verb",
+      "chinese": "(一)排，(一)行；吵嚷；划(船等)，荡桨",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "round",
+      "pos": "adjective/preposition/adverb/noun/verb",
+      "chinese": "圆的；围绕；在周围；一周；绕行",
+      "pos_list": [
+        "adjective",
+        "preposition",
+        "adverb",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "rot",
+      "pos": "verb/noun",
+      "chinese": "(使)腐烂，腐朽；腐烂；废话，胡说",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "rose",
+      "pos": "verb",
+      "chinese": "升起；上升；起立",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "root",
+      "pos": "noun/verb",
+      "chinese": "根；根本，根源；(使)生根，(使)扎根",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "roll",
+      "pos": "verb/noun",
+      "chinese": "卷；摇晃；使滚动；使摇摆；卷；名册",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "rock",
+      "pos": "noun/verb",
+      "chinese": "岩石，石头；摇，摇动；使震动，使震惊",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "rob",
+      "pos": "verb",
+      "chinese": "抢劫；非法剥夺，使丧失；抢劫，盗窃",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "rise",
+      "pos": "verb",
+      "chinese": "上升；升起；起床；起立",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "ring",
+      "pos": "noun/verb",
+      "chinese": "圈；戒指；鸣响；按铃；按铃；打电话",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "right",
+      "pos": "adjective/noun/adverb/verb",
+      "chinese": "右的；正确的；右；权利；对；纠正",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "adverb",
+        "verb"
+      ]
+    },
+    {
+      "word": "ride",
+      "pos": "verb",
+      "chinese": "骑(马、自行车、摩托车等)；乘(公共汽车)",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "rid",
+      "pos": "verb",
+      "chinese": "使摆脱，解除负担，从…中清除",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "rewrite",
+      "pos": "verb",
+      "chinese": "重写；改写",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "review",
+      "pos": "noun/verb",
+      "chinese": "回顾，审议；复习；回顾；评论；复习",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "reuse",
+      "pos": "noun/verb",
+      "chinese": "理由，借口；原谅；为…辩解；使…免去",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "return",
+      "pos": "verb/noun/adjective",
+      "chinese": "回；归还；报答；回程的；回报的",
+      "pos_list": [
+        "verb",
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "retell",
+      "pos": "verb",
+      "chinese": "复述",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "result",
+      "pos": "noun/verb",
+      "chinese": "结果，成果，成绩/产生于；结果；导致",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "rest",
+      "pos": "noun/verb",
+      "chinese": "休息；剩余部分/休息；睡；放，靠，搁",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "respect",
+      "pos": "verb/noun",
+      "chinese": "尊敬(重)/尊敬，尊重；[pl.]敬意，问候",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "resist",
+      "pos": "verb",
+      "chinese": "抵(反)抗，抵制；抗，耐；拒受…的影响",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "research",
+      "pos": "noun/verb",
+      "chinese": "研究，调查/调查，研究",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "rescue",
+      "pos": "verb",
+      "chinese": "拯救，营救，挽救",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "require",
+      "pos": "verb",
+      "chinese": "需要；(of)要求，命令[同]demand",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "request",
+      "pos": "noun/verb",
+      "chinese": "要求，请求/要求，请求",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "report",
+      "pos": "noun/verb",
+      "chinese": "报告，汇报；传说，传阅/报告，报到",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "reply",
+      "pos": "verb/noun",
+      "chinese": "(to)回答，答复，以…作答",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "replace",
+      "pos": "verb",
+      "chinese": "代替，取代；更换，调换；放回原处",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "repeat",
+      "pos": "verb/noun",
+      "chinese": "重说；重复；背诵；重述/重复；重播",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "repay",
+      "pos": "verb",
+      "chinese": "偿还；还钱给(某人)",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "repair",
+      "pos": "verb/noun",
+      "chinese": "修理；修补；补救；恢复/修理；修补",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "renew",
+      "pos": "verb",
+      "chinese": "继续；(使)更新，恢复；延长有效期",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "remove",
+      "pos": "verb",
+      "chinese": "除去，脱掉；消除；移动，移；免职，开除",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "remind",
+      "pos": "verb",
+      "chinese": "提醒，使想起；使发生联想",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "remember",
+      "pos": "verb",
+      "chinese": "记住，(to)转达问候，代…致意，代…问好",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "remark",
+      "pos": "noun/verb",
+      "chinese": "评论，意见；注意/评论；察觉，注意到",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "remain",
+      "pos": "verb",
+      "chinese": "存留，剩下；留待，尚须；仍然是，依旧是",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "relay",
+      "pos": "verb/noun",
+      "chinese": "转播；使接替；转播/转播；接力赛跑",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "relate",
+      "pos": "verb",
+      "chinese": "讲述(故事)；使联系，显示出.与.联系",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "reject",
+      "pos": "verb/noun",
+      "chinese": "拒绝；扔掉；驳回，否决/被抛弃的东西",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "regret",
+      "pos": "noun/verb",
+      "chinese": "遗憾，抱歉，懊悔/遗憾；懊悔，后悔",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "regard",
+      "pos": "verb/noun",
+      "chinese": "(as)把看作为，认为；考虑,注视/问候",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "refuse",
+      "pos": "verb/noun",
+      "chinese": "拒绝，不接受，不同意/废物，垃圾",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "refer",
+      "pos": "verb",
+      "chinese": "参考，查阅，查询；(to)提到，引用；提交",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "reel",
+      "pos": "noun/verb",
+      "chinese": "卷轴(筒，盘)/蹒跚；眩晕；卷，绕",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "reduce",
+      "pos": "verb",
+      "chinese": "缩小，减少，减低；使成为；简化；还原",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "redirect",
+      "pos": "verb",
+      "chinese": "转移呼叫；使改方向",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "recycle",
+      "pos": "verb",
+      "chinese": "重复利用(用过的物资)，循环使用",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "recover",
+      "pos": "verb",
+      "chinese": "恢复，痊愈/收/挽回；重新获得/找回",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "record",
+      "pos": "noun/verb",
+      "chinese": "唱片；记录/载/记录；将(声音等)录下",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "recognise",
+      "pos": "verb",
+      "chinese": "承认，认可；认出，识别",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "recite",
+      "pos": "verb",
+      "chinese": "背(朗)诵；列举出/背诵，朗诵",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "receive",
+      "pos": "verb",
+      "chinese": "收到，接到；接待，接见；受到，蒙受",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "rebuild",
+      "pos": "verb",
+      "chinese": "再建，改建，重建；改革，改造",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "reason",
+      "pos": "noun/verb",
+      "chinese": "理由；理性：理智/论证；劝说/推理",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "realize",
+      "pos": "verb",
+      "chinese": "了解；领悟；认识到；使(希望）实现",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "read",
+      "pos": "verb",
+      "chinese": "朗读；阅读/辨认，观察/读到，获悉",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "reach",
+      "pos": "verb/noun",
+      "chinese": "到达；达到；伸；递；联系/延伸；范围",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "rank",
+      "pos": "noun/verb",
+      "chinese": "军衔，社会阶层；排/分级，分类；排列",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "raise",
+      "pos": "verb",
+      "chinese": "举起，提高；增加；提出；抚养；筹集",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "rain",
+      "pos": "noun/verb",
+      "chinese": "雨；雨天；下雨/下雨/使大量落下",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "railway",
+      "pos": "noun/verb",
+      "chinese": "铁路/由铁道运输",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "rail",
+      "pos": "verb/noun",
+      "chinese": "责骂,抱怨/横杆,围栏,栏杆,秧鸡,扶手",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "radio",
+      "pos": "noun/verb",
+      "chinese": "收音机；无线电报，无线电话/无线电通讯",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "race",
+      "pos": "noun/verb",
+      "chinese": "种族；竞赛/使全速行进/疾走；竞走",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "quiet",
+      "pos": "adjective/noun/verb",
+      "chinese": "安静的，宁静的；轻声的/安静/使安静",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "queue",
+      "pos": "noun/verb",
+      "chinese": "辫子；(人，车的)长队/排队等候",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "question",
+      "pos": "noun/verb",
+      "chinese": "问，问题；难题；议题/怀疑；问，审问",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "quarrel",
+      "pos": "verb/noun",
+      "chinese": "(about，over)争吵，争论/争吵，口角",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "quake",
+      "pos": "verb/noun",
+      "chinese": "震动；颤抖；[口]地震",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "put",
+      "pos": "verb",
+      "chinese": "放，搁，置；表达；使处于.状态，记下",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "push",
+      "pos": "verb/noun",
+      "chinese": "推；催逼，逼迫/推，推力；促进，推进",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "punish",
+      "pos": "verb",
+      "chinese": "惩罚；处罚；罚款；痛击",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "pump",
+      "pos": "noun/verb",
+      "chinese": "泵，抽水机/抽取；盘问；灌注",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pulse",
+      "pos": "noun/verb",
+      "chinese": "脉搏，节奏，脉冲/搏动，跳动",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pull",
+      "pos": "verb/noun",
+      "chinese": "拖，拉，牵；拔，采；拉伤/拉，拖，牵",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "publish",
+      "pos": "verb",
+      "chinese": "公布(常用于被动语态)，发表；出版",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "provide",
+      "pos": "verb",
+      "chinese": "分，划分，隔开；分配，分享；隔开；除",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "prove",
+      "pos": "verb",
+      "chinese": "证明，证实；检验，鉴定；结果是，表明是",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "protect",
+      "pos": "verb",
+      "chinese": "保护，保卫，警戒[同]secure",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "pronounce",
+      "pos": "verb",
+      "chinese": "发…的音；宣布，宣称，断言/表态",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "promise",
+      "pos": "noun/verb",
+      "chinese": "承诺，诺言；希望/允诺，答应；有希望",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "project",
+      "pos": "noun/verb",
+      "chinese": "方案，工程/投射；(使)凸出；设计规划",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "progress",
+      "pos": "noun/verb",
+      "chinese": "进步，进展；前进/前进；进展",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "program",
+      "pos": "noun/verb",
+      "chinese": "电脑程序；节目单/编制程序；安排节目",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "produce",
+      "pos": "verb/noun",
+      "chinese": "生产，制造，产生；显示；上演/农产品",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "prize",
+      "pos": "noun/verb",
+      "chinese": "奖赏，奖金，奖品/珍视(藏)；高度评价",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "print",
+      "pos": "verb/noun",
+      "chinese": "印；印刷；出版/印痕；印刷；印刷字体",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "pride",
+      "pos": "noun/verb",
+      "chinese": "骄傲，自豪；引以自豪的东西/以…自豪",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "price",
+      "pos": "noun/verb",
+      "chinese": "价格，价钱；代价/定价(或标价)",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "prevent",
+      "pos": "verb",
+      "chinese": "(from)预防，防止；阻止",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "pretend",
+      "pos": "verb",
+      "chinese": "假装；自命，自称/假装，装作",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "pressure",
+      "pos": "noun/verb",
+      "chinese": "压(力)，压强；压迫/迫使，说服",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "press",
+      "pos": "verb/noun",
+      "chinese": "压，按；压榨；催促/报刊，出版社；压",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "present",
+      "pos": "adjective/noun/verb",
+      "chinese": "出席的/现在；礼物/赠送；提出；介绍",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "prepare",
+      "pos": "verb",
+      "chinese": "准备；配备，装备；使(某人)有思想准备",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "prefer",
+      "pos": "verb",
+      "chinese": "宁可，更喜欢；宁愿(选择)",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "pray",
+      "pos": "verb",
+      "chinese": "祈祷，祈求；请求，恳求",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "praise",
+      "pos": "verb/noun",
+      "chinese": "赞扬，歌颂/称赞，赞美；赞美的话",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "practise",
+      "pos": "noun/verb",
+      "chinese": "练习；实行；业务；惯例/练习；开业",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "practice",
+      "pos": "noun/verb",
+      "chinese": "实践；练习，实习；开业(=practise)",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pour",
+      "pos": "verb",
+      "chinese": "灌；蜂拥/倾泻；(雨)倾盆而下/倾泻",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "post",
+      "pos": "noun/verb",
+      "chinese": "(支)柱；邮政；哨所；岗位/贴出；邮寄",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "possess",
+      "pos": "verb",
+      "chinese": "占用，拥有；(感情等)支配或控制(某人)",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "position",
+      "pos": "noun/verb",
+      "chinese": "位置；地位，职务；姿势；立场/安置",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pool",
+      "pos": "noun/verb",
+      "chinese": "水塘；游泳池，水池/集中，共用，联营",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pollute",
+      "pos": "verb",
+      "chinese": "弄脏，污染；使…堕落",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "police",
+      "pos": "noun/adjective/verb",
+      "chinese": "警察机关；公安部门/警察的/管辖",
+      "pos_list": [
+        "noun",
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "poison",
+      "pos": "noun/verb/adjective",
+      "chinese": "毒物，毒药/毒害，使中毒/有毒的",
+      "pos_list": [
+        "noun",
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "pocket",
+      "pos": "noun/adjective/verb",
+      "chinese": "口袋/袖珍的，小型的/把…装入口袋",
+      "pos_list": [
+        "noun",
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "plug",
+      "pos": "noun/verb",
+      "chinese": "插头/把…的插头插上(与in连用)",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "plough",
+      "pos": "noun/verb",
+      "chinese": "犁/犁；费力地前进",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "please",
+      "pos": "interjection/verb",
+      "chinese": "请/使高兴/满意；喜欢，想要",
+      "pos_list": [
+        "interjection",
+        "verb"
+      ]
+    },
+    {
+      "word": "play",
+      "pos": "verb/noun",
+      "chinese": "玩，做游戏；参加比赛/游戏；玩耍；剧本",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "plant",
+      "pos": "noun/verb",
+      "chinese": "植物，作物；工厂；装置/栽种，播种",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "plan",
+      "pos": "noun/verb",
+      "chinese": "计划，规划；平面图/计划，规划，设计",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "place",
+      "pos": "noun/verb",
+      "chinese": "地方；名次；地位；寓所/放置；订(货)",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pity",
+      "pos": "noun/verb",
+      "chinese": "可怜；同情；遗憾的事；不幸的事/同情",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pipe",
+      "pos": "noun/verb",
+      "chinese": "管子，导管；烟斗；管乐器/用管道输送",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pioneer",
+      "pos": "noun/verb",
+      "chinese": "先驱者，创始人；开拓者/开拓(创)",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pine",
+      "pos": "noun/verb",
+      "chinese": "松(树)/消瘦，衰弱，憔悴；思念",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pin",
+      "pos": "noun/verb",
+      "chinese": "大头针/用别针别住；钉住，使不能行动",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pilot",
+      "pos": "noun/verb/adjective",
+      "chinese": "飞行员；引航员/驾驶；引航/试验性的",
+      "pos_list": [
+        "noun",
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "pillow",
+      "pos": "noun/verb",
+      "chinese": "枕头/枕，搁，垫",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pile",
+      "pos": "noun/verb",
+      "chinese": "堆，叠；大量/堆，堆积；拥挤进(入)",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "piece",
+      "pos": "noun/verb",
+      "chinese": "(一)件/片/篇；碎块，片断/拼合，修补",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "picture",
+      "pos": "noun/verb",
+      "chinese": "图画，照片；电影/(生动地)描述；想象",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "picnic",
+      "pos": "noun/verb",
+      "chinese": "野餐，郊游/(去)野餐",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pick",
+      "pos": "noun/verb",
+      "chinese": "镐/挑选，选择；采，摘；剔除，剔去",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "phrase",
+      "pos": "noun/verb",
+      "chinese": "短语，词组，用语/表达，叙述",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "petrol",
+      "pos": "noun/verb",
+      "chinese": "汽油/加汽油",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "persuade",
+      "pos": "verb/adjective",
+      "chinese": "说服，劝服；使相信/空闲的；有闲的",
+      "pos_list": [
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "permit",
+      "pos": "verb/noun",
+      "chinese": "允许，许可，准许/执照；许可证",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "perform",
+      "pos": "verb",
+      "chinese": "履行",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "perfect",
+      "pos": "adjective/verb",
+      "chinese": "完美的，完满的；完全的/使完美，改善",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "pencil",
+      "pos": "noun/verb",
+      "chinese": "铅笔/用铅笔写",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pen",
+      "pos": "noun/verb",
+      "chinese": "钢笔，圆珠笔；围栏/把…关在圈中",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pay",
+      "pos": "verb/noun",
+      "chinese": "付款；付出代价；给予注意/工资，薪金",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "pause",
+      "pos": "noun/verb",
+      "chinese": "中止，停顿；暂停/踌躇",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pattern",
+      "pos": "noun/verb",
+      "chinese": "型，模式，样式；花样,图案/仿造，模仿",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pass",
+      "pos": "verb/noun",
+      "chinese": "经/通/穿/度过；传递/通行证；考试及格",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "partner",
+      "pos": "noun/verb",
+      "chinese": "配偶，搭档；伙伴，合伙人/做…的搭档",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "part",
+      "pos": "noun/verb",
+      "chinese": "部分，份儿；角色；零件/使分开，分离",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "parrot",
+      "pos": "noun/verb",
+      "chinese": "鹦鹉/鹦鹉学舌般地复述",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "park",
+      "pos": "noun/verb",
+      "chinese": "公园；停车场/停放(汽车等)",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pardon",
+      "pos": "noun/verb",
+      "chinese": "原谅；饶恕；对不起/饶恕，原谅，赦免",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pan",
+      "pos": "verb/noun",
+      "chinese": "严厉批评/平底锅",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "pale",
+      "pos": "adjective/verb",
+      "chinese": "苍白的；淡的/变得苍白，变得暗淡",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "pair",
+      "pos": "noun/verb",
+      "chinese": "一双(对，副)；一对夫妇(情侣)/(使)配对",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "paint",
+      "pos": "noun/verb",
+      "chinese": "油漆，颜料/油漆；涂；画；描绘，描述",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "page",
+      "pos": "noun/verb",
+      "chinese": "页，张/(通过扩音器、传呼器等)呼叫",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "paddle",
+      "pos": "noun/verb",
+      "chinese": "(短)桨；涉水/荡桨；涉水；用木板打",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "packet",
+      "pos": "noun/verb",
+      "chinese": "小包，小盒；包裹/打包，装行李；包装",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pack",
+      "pos": "noun/verb",
+      "chinese": "包；捆；一批/包装；捆扎；塞满；挤满",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pace",
+      "pos": "noun/verb",
+      "chinese": "一步；步幅；速度/踱步，用步子测量",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "owe",
+      "pos": "verb",
+      "chinese": "欠…的钱；把…归功于；应感谢；欠钱",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "overtake",
+      "pos": "verb",
+      "chinese": "追上，超过；突然降临于，意外地碰上",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "organize",
+      "pos": "verb",
+      "chinese": "组织，安排；筹办",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "order",
+      "pos": "noun/verb",
+      "chinese": "顺序；命令；订货单/下令；点菜；订货",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "orbit",
+      "pos": "noun/verb",
+      "chinese": "轨道；眼窝；生活常规/环绕轨道运行",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "oppress",
+      "pos": "verb",
+      "chinese": "压迫，压制某人；使(心情等)沉重，使烦恼",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "oppose",
+      "pos": "verb",
+      "chinese": "set oneself against; set up against",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "operate",
+      "pos": "verb",
+      "chinese": "作业，工作；操作；经营；(对.)动手术",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "open",
+      "pos": "adjective/verb",
+      "chinese": "开(着)的；开阔的/开始/裂开；开始",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "oil",
+      "pos": "noun/verb",
+      "chinese": "油，石油/给…加润滑油；涂油，上油",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "offer",
+      "pos": "verb/noun",
+      "chinese": "提供；愿意做；奉献/提供；提议；报价",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "occur",
+      "pos": "verb",
+      "chinese": "发生；存在，出现；被想起，被想到",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "obtain",
+      "pos": "verb",
+      "chinese": "获得，得到/通用，流行，存在",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "observe",
+      "pos": "verb",
+      "chinese": "注意到，观察，看到；遵守，奉行；评论",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "object",
+      "pos": "noun/verb",
+      "chinese": "物体，对象；目标;宾语/反对,拒绝接受",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "obey",
+      "pos": "verb",
+      "chinese": "服从，按照.执行；听由，听由摆布",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "nurse",
+      "pos": "noun/verb",
+      "chinese": "保姆，护士，保育员/护理，养育，喂奶",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "number",
+      "pos": "noun/verb",
+      "chinese": "数(目)；号码，期/编号，加号码；总计",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "notice",
+      "pos": "noun/verb",
+      "chinese": "通知，布告；注意，认识/看到，注意到",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "note",
+      "pos": "noun/verb",
+      "chinese": "笔记，便条；注释；钞票/记下；注意到",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "nose",
+      "pos": "noun/verb",
+      "chinese": "鼻子；鼻状物，前端突出部/嗅(探)出",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "nod",
+      "pos": "verb/noun",
+      "chinese": "点(头);点头同意；打盹/点头同意；磕睡",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "nest",
+      "pos": "noun/verb",
+      "chinese": "巢，窝；安逸的住所/筑巢",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "neighbor",
+      "pos": "noun/verb",
+      "chinese": "邻居/邻近；邻接",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "need",
+      "pos": "auxiliary/verb/noun",
+      "chinese": "需要；必须/需要；贫困，困窘",
+      "pos_list": [
+        "auxiliary",
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "name",
+      "pos": "noun/verb",
+      "chinese": "名字(称/声/义)/给…取名；列举；提名",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "nail",
+      "pos": "noun/verb",
+      "chinese": "钉子，钉状物；指甲，爪/钉，钉牢",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "must",
+      "pos": "modal/verb/noun",
+      "chinese": "必须；很可能；一定要/必须做的事",
+      "pos_list": [
+        "modal",
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "murder",
+      "pos": "noun/verb",
+      "chinese": "谋杀，谋杀罪/谋杀，屠杀；破坏",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "multiply",
+      "pos": "verb",
+      "chinese": "使增加，使繁殖；乘/增加，繁殖",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "mud",
+      "pos": "noun/verb",
+      "chinese": "泥，泥浆/弄脏，使沾污泥",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "move",
+      "pos": "verb/noun",
+      "chinese": "移动；感动/移动；运行/走棋；步骤",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "mouth",
+      "pos": "noun/verb",
+      "chinese": "口，嘴/说出；夸大地说",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "mourn",
+      "pos": "verb",
+      "chinese": "(尤指对某人的亡故)感到悲痛；哀悼",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "mother",
+      "pos": "noun/verb",
+      "chinese": "母亲；根源/产生",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "monkey",
+      "pos": "noun/verb",
+      "chinese": "猴子/乱弄；胡闹",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "monitor",
+      "pos": "noun/verb",
+      "chinese": "班长；监视(听)器/监视，监听；监控",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "model",
+      "pos": "noun/verb",
+      "chinese": "模型，原型；模特儿；模范；样式/模仿",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "mix",
+      "pos": "verb/noun",
+      "chinese": "混合，调配；交往，相处/混合物；迷糊",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "mistake",
+      "pos": "noun/verb",
+      "chinese": "错误，过失/误解,弄错；(for)把.错认",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "Miss",
+      "pos": "noun/verb",
+      "chinese": "小姐/未击中；未看到；未赶上；惦念",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "mine",
+      "pos": "pronoun/noun/verb",
+      "chinese": "我的/矿，矿山，矿井/采掘，开矿",
+      "pos_list": [
+        "pronoun",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "mind",
+      "pos": "noun/verb",
+      "chinese": "脑子；意见；情绪/注意；介意；专心于",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "milk",
+      "pos": "noun/verb",
+      "chinese": "牛奶；(植物流出的)白色乳液/挤奶",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "merchant",
+      "pos": "noun/verb/adjective",
+      "chinese": "商人/经商/商人的",
+      "pos_list": [
+        "noun",
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "mention",
+      "pos": "verb/noun",
+      "chinese": "提到，谈到/提述；提及",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "mend",
+      "pos": "verb/noun",
+      "chinese": "修理，修补，缝补；纠正/修补，补钉",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "meet",
+      "pos": "verb/noun",
+      "chinese": "相遇；集合；会见；接；满足/集会",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "measure",
+      "pos": "noun/verb",
+      "chinese": "分量，尺寸；[pl.]措施，办法/测量，量",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "matter",
+      "pos": "noun/verb",
+      "chinese": "事情；毛病，麻烦；物质/要紧，有关系",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "match",
+      "pos": "noun/verb",
+      "chinese": "火柴；比赛；对手/相配；匹敌",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "master",
+      "pos": "noun/verb",
+      "chinese": "主人；能手；大师/精通；控制",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "marry",
+      "pos": "verb",
+      "chinese": "娶，嫁，和…结婚；为…证婚，主持婚礼",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "market",
+      "pos": "noun/verb",
+      "chinese": "市场，集市，股市；行情，销路/销售",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "mark",
+      "pos": "noun/verb",
+      "chinese": "斑点；记号/弄污；标志；(给试卷)打分",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "March",
+      "pos": "verb/noun",
+      "chinese": "行军，前进；游行示威；进行曲；进展",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "map",
+      "pos": "noun/verb",
+      "chinese": "地图，图/在地图上标示出，绘制地图",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "manage",
+      "pos": "verb",
+      "chinese": "管理，经营，处理；设法对付；控制，操纵",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "make",
+      "pos": "noun/verb",
+      "chinese": "(产品)来源，制法/制造，做成，准备",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "major",
+      "pos": "adjective/noun/verb",
+      "chinese": "(较)大的/专业；专业学生；少校/主修",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "mail",
+      "pos": "noun/verb",
+      "chinese": "(美)邮件，邮政/邮寄",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "machine",
+      "pos": "noun/verb",
+      "chinese": "机械；(政党的)核心机构/用机械加工",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "lower",
+      "pos": "adjective/verb",
+      "chinese": "较低的，下级的，下游的/放低，降低",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "love",
+      "pos": "noun/verb",
+      "chinese": "爱，爱情，喜欢/爱，热爱；爱好，喜欢",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "lose",
+      "pos": "verb",
+      "chinese": "丢失；迷路；输掉/亏本；失败，输掉",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "look",
+      "pos": "verb/noun",
+      "chinese": "看，注视/好像，显得/外表，脸色",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "lock",
+      "pos": "verb/noun",
+      "chinese": "锁上；卡住/锁；(头发的)一缕；船闸",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "loaf",
+      "pos": "noun/verb",
+      "chinese": "一条面包；块状食品/游荡，闲逛",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "load",
+      "pos": "noun/verb",
+      "chinese": "一包(洗的衣物)；负载,负荷/装货(或人)",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "live",
+      "pos": "verb/adjective",
+      "chinese": "活着；居住/燃烧的；未爆炸的；直播的",
+      "pos_list": [
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "listen",
+      "pos": "verb",
+      "chinese": "倾听(与介词to并用，方可置宾语)",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "list",
+      "pos": "noun/verb",
+      "chinese": "目录，名单；清单，货单/列表，列举",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "link",
+      "pos": "verb/noun",
+      "chinese": "连接，联系/环，链环；联系，纽带",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "line",
+      "pos": "noun/verb",
+      "chinese": "线，线条，界限；行；航线/排队，排列",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "limit",
+      "pos": "noun/verb",
+      "chinese": "限度，限制；［pl.］范围/限制，限定",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "like",
+      "pos": "verb/preposition/adjective/noun",
+      "chinese": "喜欢/象；比如/相象的/象…一样",
+      "pos_list": [
+        "verb",
+        "preposition",
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "light",
+      "pos": "noun/verb/adjective",
+      "chinese": "光；灯/点燃；照亮/轻(快)；淡；明亮",
+      "pos_list": [
+        "noun",
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "lift",
+      "pos": "verb/noun",
+      "chinese": "提，举；解除；剽窃/升起；消散/电梯",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "lie",
+      "pos": "verb/noun",
+      "chinese": "躺，平放；处于；位于/说谎/谎话",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "liberate",
+      "pos": "verb",
+      "chinese": "解放，使获得自由；释出，放出",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "level",
+      "pos": "noun/verb/adjective",
+      "chinese": "水平，水准，等级/弄平，铺平/水平的",
+      "pos_list": [
+        "noun",
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "let",
+      "pos": "verb",
+      "chinese": "让，允许，听任；设，假设；出租，租给",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "lend",
+      "pos": "verb",
+      "chinese": "把…借给，贷；提供，给予",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "lecture",
+      "pos": "noun/verb",
+      "chinese": "演讲；告诫/(向…发表)演讲，讲课",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "leave",
+      "pos": "verb",
+      "chinese": "离开，动身；留下，剩下，忘带；让，听任",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "learn",
+      "pos": "verb",
+      "chinese": "学习，学，学会；(of，about)听到，获悉",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "lean",
+      "pos": "verb/adjective",
+      "chinese": "倾斜；依靠；靠在.上/瘦的，无脂肪的",
+      "pos_list": [
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "leak",
+      "pos": "verb/noun",
+      "chinese": "(使)漏；泄露/漏洞，裂缝；泄漏，漏出量",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "lead",
+      "pos": "verb/noun",
+      "chinese": "带路；领导；致使；通向/领导；主角；铅",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "lay",
+      "pos": "verb",
+      "chinese": "放，搁；下(蛋)；铺设，敷设；设置，布置",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "laugh",
+      "pos": "verb/noun",
+      "chinese": "笑；(at)讥笑/笑声，笑；开玩笑的事物",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "last",
+      "pos": "adjective/adverb/noun/verb",
+      "chinese": "最后的，刚过去的/最后/最后/持续",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "land",
+      "pos": "noun/verb",
+      "chinese": "陆地；土地；国家/(使)靠岸(登陆，降落)",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "labor",
+      "pos": "noun/verb",
+      "chinese": "工作，劳动；劳力/劳动，苦干(=labour)",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "know",
+      "pos": "verb",
+      "chinese": "知道，了解；认识；识别/知道，了解",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "knock",
+      "pos": "noun/verb",
+      "chinese": "敲，敲打；碰撞/敲，打；碰，撞击",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "knife",
+      "pos": "noun/verb",
+      "chinese": "刀，小刀，餐刀/用刀切，用匕首刺",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "kneel",
+      "pos": "verb",
+      "chinese": "跪下",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "kiss",
+      "pos": "verb/noun",
+      "chinese": "吻/接吻/吻",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "kill",
+      "pos": "verb",
+      "chinese": "杀死，消灭；破坏，毁灭；消磨(时间)",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "kick",
+      "pos": "noun/verb",
+      "chinese": "踢；踢腿，蹬；反冲/踢；踢腿，蹬；反冲",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "keyboard",
+      "pos": "noun/verb",
+      "chinese": "键盘/用键盘输入(信息)",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "keep",
+      "pos": "verb",
+      "chinese": "使保持，使继续；(from)阻止，防止；保有",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "jump",
+      "pos": "verb/noun",
+      "chinese": "跳跃，跳动/跳跃，跳动；暴涨，猛增",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "judge",
+      "pos": "noun/verb",
+      "chinese": "法官；裁判；鉴赏家/判断；裁决；审判",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "joke",
+      "pos": "noun/verb",
+      "chinese": "笑话，玩笑/说笑话，开玩笑",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "join",
+      "pos": "verb",
+      "chinese": "参加，加入；联合，连接；和…在一起",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "jet",
+      "pos": "noun/verb",
+      "chinese": "喷气(发动机，飞机)；喷射；喷口/喷射",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "jar",
+      "pos": "verb",
+      "chinese": "产生刺耳、不愉快的效果",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "jam",
+      "pos": "verb/noun",
+      "chinese": "堵塞，使卡住，挤满/拥挤，堵塞；果酱",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "irrigate",
+      "pos": "verb",
+      "chinese": "灌溉，修水利/进行灌溉",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "iron",
+      "pos": "noun/verb/adjective",
+      "chinese": "铁；熨斗；手铐/烫(衣)/刚强的",
+      "pos_list": [
+        "noun",
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "invite",
+      "pos": "verb",
+      "chinese": "邀请，招待，请求；招致(非难，危险等)",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "invent",
+      "pos": "verb",
+      "chinese": "创造，发明；虚构，捏造",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "introduce",
+      "pos": "verb",
+      "chinese": "介绍；引进，传入；提出(议案等)供讨论",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "interview",
+      "pos": "noun/verb",
+      "chinese": "接见，会见；面谈，面试/接见，会见",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "interrupt",
+      "pos": "verb/noun",
+      "chinese": "打断，打扰；中止/间隔；幕间休息",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "interest",
+      "pos": "noun/verb",
+      "chinese": "兴趣；利息；影响；[pl.]利益/引起注意",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "intend",
+      "pos": "verb",
+      "chinese": "打算，计划；打算使(成为)，想让…做",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "instruct",
+      "pos": "verb",
+      "chinese": "教导；指示；命令",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "t",
+      "pos": "verb",
+      "chinese": "指示，命令，通知；教育，指导",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "institute",
+      "pos": "noun/verb",
+      "chinese": "学会，学院，研究所/建立，创立，制定",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "inspire",
+      "pos": "verb",
+      "chinese": "使产生灵感，启示；鼓励，激励",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "inspect",
+      "pos": "verb",
+      "chinese": "检查，调查，视察",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "insist",
+      "pos": "verb",
+      "chinese": "(on)坚持，坚决主张，强烈要求，坚决认为",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "insert",
+      "pos": "verb/noun",
+      "chinese": "插入/插入物，插页",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "injure",
+      "pos": "verb",
+      "chinese": "伤害(感情等)，损坏",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "inform",
+      "pos": "verb",
+      "chinese": "通知，告诉，向…报告/检举，告发",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "infer",
+      "pos": "verb",
+      "chinese": "推论，推断；猜想",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "Increase",
+      "pos": "verb/noun",
+      "chinese": "增加，增长，增强/增加，增长，增强",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "include",
+      "pos": "verb",
+      "chinese": "包括；把…计算在内，列为…的一部分",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "inch",
+      "pos": "noun/verb",
+      "chinese": "英寸；少量，短距离/(使)缓慢地移动",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "improve",
+      "pos": "verb",
+      "chinese": "改进,改善/改善，变得更好",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "impress",
+      "pos": "verb/noun",
+      "chinese": "(on)盖印；留下印象，引人注目/印记",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "imagine",
+      "pos": "verb",
+      "chinese": "想像；设想；(错误地或无根据地)以为",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "ice",
+      "pos": "noun/verb",
+      "chinese": "冰；冰冻甜食/冰冻，使成冰",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "hurt",
+      "pos": "verb/noun",
+      "chinese": "弄伤(痛)；伤感情；危(损)害/伤害，痛苦",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "hurry",
+      "pos": "verb/noun",
+      "chinese": "匆忙；催促；急运(派)/急(匆)忙",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "hunt",
+      "pos": "noun/verb",
+      "chinese": "打猎；搜寻；驱逐，追逐，追捕",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "hunger",
+      "pos": "noun/verb",
+      "chinese": "饥饿；渴望/(for,after)渴望，渴求",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "howl",
+      "pos": "noun/verb",
+      "chinese": "怒吼，嗥叫/(风等)怒吼，咆哮",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "house",
+      "pos": "noun/verb",
+      "chinese": "房屋；商业机构；[H-]议院/给.房子住",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "horse",
+      "pos": "noun/verb",
+      "chinese": "马；跳马，鞍马/骑马",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "hope",
+      "pos": "noun/verb",
+      "chinese": "希望，期望；希望的人或事/希望，期望",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "hook",
+      "pos": "noun/verb",
+      "chinese": "钩；(拳击中的)空勾拳/钩，钩住",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "honor",
+      "pos": "verb",
+      "chinese": "履行，使……付诸实现；给予(某人)荣誉",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "hold",
+      "pos": "verb",
+      "chinese": "拿；抱；握住；举行；进行",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "hit",
+      "pos": "verb/noun",
+      "chinese": "打,击;碰撞/击中;成功而风行一时的事物",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "hire",
+      "pos": "noun/verb",
+      "chinese": "雇用，租用；租金，工资/雇用；租用",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "hide",
+      "pos": "verb/noun",
+      "chinese": "把…藏起来，躲藏；遮掩，隐瞒/兽皮",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "hibernate",
+      "pos": "verb",
+      "chinese": "(动物)冬眠",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "help",
+      "pos": "verb/noun",
+      "chinese": "帮(援)助；有助于；[呼救]救命/帮助(手)",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "heat",
+      "pos": "noun/verb",
+      "chinese": "热量；体温；热烈/(使)变热，加热",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "hear",
+      "pos": "verb",
+      "chinese": "听见；审讯；(from)收到的信/电话;听说",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "head",
+      "pos": "noun/verb",
+      "chinese": "头；顶部；领导,首脑/主管；位于顶部",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "hawk",
+      "pos": "noun/verb",
+      "chinese": "鹰,隼；\\",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "have",
+      "pos": "verb",
+      "chinese": "有,具有；体会,经受；从事；使；吃,喝",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "hate",
+      "pos": "verb",
+      "chinese": "憎恨,憎恶；不愿,不喜欢,对感到抱歉",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "hatch",
+      "pos": "verb/noun",
+      "chinese": "图谋,计划,策划；孵/(船的)舱口(盖)",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "harvest",
+      "pos": "verb/noun",
+      "chinese": "收割,收获/收获,收成；成果,后果",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "harm",
+      "pos": "noun/verb",
+      "chinese": "伤害,损害/损害；伤害",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "happen",
+      "pos": "verb",
+      "chinese": "(偶然)发生；(+toV)碰巧,恰好",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "hang",
+      "pos": "verb",
+      "chinese": "悬挂,吊；绞死,吊死/悬挂,吊着",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "handle",
+      "pos": "noun/verb",
+      "chinese": "把手,手柄,拉手/触,摸；操纵；处理",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "group",
+      "pos": "noun/verb",
+      "chinese": "组,群,集团；类,型/集合；把…分类",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "greet",
+      "pos": "verb",
+      "chinese": "问候,招呼,迎接；作出反应；向…传来",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "grasp",
+      "pos": "noun/verb",
+      "chinese": "抓牢；掌握/抓,抓住；理解",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "graduate",
+      "pos": "adjective/noun/verb",
+      "chinese": "研究生的/有学位者；大学毕业生/毕业",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "grade",
+      "pos": "noun/verb",
+      "chinese": "等级,级别,年级；分数/分级；记成绩",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "govern",
+      "pos": "verb",
+      "chinese": "[常被动]决定；统治；治理；支配；影响",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "go",
+      "pos": "verb/noun",
+      "chinese": "去,离开；走；放置；变成；运转/围棋",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "glare",
+      "pos": "verb/noun",
+      "chinese": "怒目而视；发射强光/强光；怒视；炫耀",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "glance",
+      "pos": "verb/noun",
+      "chinese": "(at,over)扫视/匆匆看,一瞥,一眼",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "give",
+      "pos": "verb",
+      "chinese": "给",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "get",
+      "pos": "verb",
+      "chinese": "获得,得到；使,使得；变得,成为；到达",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "gather",
+      "pos": "verb",
+      "chinese": "集合,聚集；采集,收集；逐渐增加；推测",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "gas",
+      "pos": "noun/verb",
+      "chinese": "气体；煤气；汽油；毒气/毒(死)；加油",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "garden",
+      "pos": "noun/verb",
+      "chinese": "花(菜)园[pl.]公园,园/从事园艺",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "game",
+      "pos": "noun/verb",
+      "chinese": "游戏,娱乐；比赛；(pl.)运动会/赌博",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "gain",
+      "pos": "verb/noun",
+      "chinese": "获得；增加；表等走快/增进,增加；收益",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "further",
+      "pos": "adjective/adverb/verb",
+      "chinese": "更远的/进一步地；此外/促进,推动",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "verb"
+      ]
+    },
+    {
+      "word": "fuel",
+      "pos": "noun/verb",
+      "chinese": "燃料；养料/(给)…加燃料；刺激；推动",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "fry",
+      "pos": "noun/verb",
+      "chinese": "(美)法式炸薯条/油煎,油炸",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "front",
+      "pos": "adjective/noun/verb",
+      "chinese": "前面的/前面,正面；前线/面对,朝向",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "frighten",
+      "pos": "verb",
+      "chinese": "使惊吓,吓唬/惊恐,害怕",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "freeze",
+      "pos": "verb",
+      "chinese": "使结冰,冻结(存款、工资、物价等)",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "free",
+      "pos": "adjective/verb",
+      "chinese": "自由的；空闲的；免费的/使自由,解放",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "fox",
+      "pos": "noun/verb",
+      "chinese": "狐狸；狡猾的人/使困惑,欺骗,使变酸",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "found",
+      "pos": "verb",
+      "chinese": "成立,创立；把…建立在；兴建",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "forward",
+      "pos": "adverb/adjective/verb",
+      "chinese": "向前；从今往后/前部的；向前的/转送",
+      "pos_list": [
+        "adverb",
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "form",
+      "pos": "noun/verb",
+      "chinese": "形式,形状；表格/形成,组成",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "fork",
+      "pos": "noun/verb",
+      "chinese": "叉；岔路口；耙子/叉起,耙；成叉状",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "forgive",
+      "pos": "verb",
+      "chinese": "原谅,宽恕",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "forget",
+      "pos": "verb",
+      "chinese": "忘记",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "foresee",
+      "pos": "verb",
+      "chinese": "预见；预知",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "force",
+      "pos": "noun/verb",
+      "chinese": "力量；武力；暴力,(复)军队/强制,推动",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "forbid",
+      "pos": "verb",
+      "chinese": "禁止；不许",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "fool",
+      "pos": "noun/verb",
+      "chinese": "傻子,笨蛋/欺骗,愚弄；干蠢事",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "follow",
+      "pos": "verb",
+      "chinese": "跟随；顺前进；领会；密切注意；结果是",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "fold",
+      "pos": "verb/noun",
+      "chinese": "折叠,缠绕；可以折叠/具有共同目标的人",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "fog",
+      "pos": "noun/verb",
+      "chinese": "雾气,雾/以雾笼罩,被雾笼罩",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "fly",
+      "pos": "noun/verb",
+      "chinese": "苍蝇/飞行,飘杨,驾驶(飞机)；空运",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "flower",
+      "pos": "noun/verb",
+      "chinese": "花；精华,精粹,精英；盛时/开花",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "flow",
+      "pos": "verb/noun",
+      "chinese": "流动；飘动,淹没/(水,气)流；流量",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "flood",
+      "pos": "noun/verb",
+      "chinese": "洪水,水灾；大量,一大阵/淹没；溢出",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "float",
+      "pos": "noun/verb",
+      "chinese": "漂流物/浮动；摇摆；发行；实行；容纳",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "flee",
+      "pos": "verb",
+      "chinese": "逃走,逃掉,逃离,避开,逃避",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "flash",
+      "pos": "verb/noun",
+      "chinese": "闪出亮光,掠过,闪现/闪现的亮光",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "flame",
+      "pos": "noun/verb",
+      "chinese": "火焰,火苗；热情；光辉/发火焰,燃烧",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "flag",
+      "pos": "verb",
+      "chinese": "(用特殊记号)标出(某物,以引起特别注意)",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "fix",
+      "pos": "verb",
+      "chinese": "固定；修理；安排,固定；凝固；凝视",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "fit",
+      "pos": "adjective/verb/noun",
+      "chinese": "(病的)发作,痉挛/合适,试穿,安装",
+      "pos_list": [
+        "adjective",
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "fist",
+      "pos": "noun/verb",
+      "chinese": "拳头/用拳头打；紧握",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "fish",
+      "pos": "noun/verb",
+      "chinese": "(复数为fish(es))鱼；鱼肉/捕鱼；钓鱼",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "fire",
+      "pos": "noun/verb",
+      "chinese": "火；火灾,失火；炉火/开火,放(枪)",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "finish",
+      "pos": "verb/noun",
+      "chinese": "完成结束/结束,末尾,最后阶段(或部分)",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "fingerprint",
+      "pos": "noun/verb",
+      "chinese": "指纹/取…的指纹",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "finger",
+      "pos": "noun/verb",
+      "chinese": "手指/用指触摸,抚摸",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "fine",
+      "pos": "adjective/noun/verb",
+      "chinese": "美好的；纤细的/罚款/(对…)处以罚款",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "find",
+      "pos": "verb",
+      "chinese": "(found,found)找到；发现；发觉；感到",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "film",
+      "pos": "noun/verb",
+      "chinese": "电影；胶片；薄膜,薄层/把拍成电影",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "fill",
+      "pos": "verb",
+      "chinese": "装满,充满,填充；占据,担任,补缺",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "figure",
+      "pos": "noun/verb",
+      "chinese": "数字；算术；轮廓/出",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "fight",
+      "pos": "noun/verb",
+      "chinese": "战斗；斗争；战斗力/打仗；斗争；争论",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "fever",
+      "pos": "noun/verb",
+      "chinese": "发烧；热病；狂热/使发烧；使发狂",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "fetch",
+      "pos": "verb",
+      "chinese": "去拿来,请人来,接来,带来",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "fence",
+      "pos": "noun/verb",
+      "chinese": "栅栏；击剑/用栅栏…围起来；击剑",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "feel",
+      "pos": "verb",
+      "chinese": "触；认为；摸上去有…感觉；摸索；觉得",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "feed",
+      "pos": "verb",
+      "chinese": "喂(养),饲(养)；吃饲料；(with)向提供",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "fear",
+      "pos": "noun/verb",
+      "chinese": "害怕,恐惧；危险/畏惧,害怕,担心",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "fax",
+      "pos": "noun/verb",
+      "chinese": "传真,传真机；传真件/传真传输",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "favor",
+      "pos": "noun/verb",
+      "chinese": "好感；赞同；好事/赞同,喜爱；有利于",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "fault",
+      "pos": "noun/verb",
+      "chinese": "缺点；错误,过错；故障/挑剔,指责",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "fasten",
+      "pos": "verb",
+      "chinese": "扣紧,系,使固定,闩上",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "farm",
+      "pos": "noun/verb",
+      "chinese": "农场,农庄,牧场/耕作,经营农场",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "fall",
+      "pos": "verb/noun",
+      "chinese": "降落；陷落；跌倒；下降；减弱；秋季",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "fail",
+      "pos": "verb",
+      "chinese": "失败；不,未能；评定考试不及格；失灵",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "fade",
+      "pos": "verb",
+      "chinese": "褪去,褪色；逐渐消失；凋谢/使褪色",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "face",
+      "pos": "noun/verb",
+      "chinese": "脸,表情/面向,正视,承认,呈现.前",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "eye",
+      "pos": "noun/verb",
+      "chinese": "眼(睛)；视力；眼力；监督/看,审视",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "express",
+      "pos": "verb/noun",
+      "chinese": "(用言词)表达,陈述；表示,体现/快车",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "export",
+      "pos": "verb/noun",
+      "chinese": "输出,出口/出口,出口企业,出口品",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "exploit",
+      "pos": "noun/verb",
+      "chinese": "英雄行为,辉煌功绩/开拓,开采,剥削",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "explode",
+      "pos": "verb",
+      "chinese": "爆炸；爆发,突发,发怒；激增,迅速扩大",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "explain",
+      "pos": "verb",
+      "chinese": "解释,说明；可作解释的事物",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "experiment",
+      "pos": "noun/verb",
+      "chinese": "试验；实验/(on,in,with)做实验",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "experience",
+      "pos": "noun/verb",
+      "chinese": "经验,感受,体验；经历/经历,体验",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "expect",
+      "pos": "verb",
+      "chinese": "期待,预期,盼望；认为,指望,希望",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "exit",
+      "pos": "noun/verb",
+      "chinese": "出口,安全门；(演员)退场,退出/退出",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "exist",
+      "pos": "verb",
+      "chinese": "存在；生存,生活",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "exercise",
+      "pos": "noun/verb",
+      "chinese": "锻炼,训练；练习,习题/锻炼",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "excuse",
+      "pos": "noun/verb",
+      "chinese": "理由,借口/原谅；为…辩解；使…免去",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "excite",
+      "pos": "verb",
+      "chinese": "激动,使兴奋；激发,刺激,唤起",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "exchange",
+      "pos": "verb/noun",
+      "chinese": "交换,互换,兑换/交换,交流,交易所",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "examine",
+      "pos": "verb",
+      "chinese": "检查,调查,仔细观察；对…进行考查",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "exact",
+      "pos": "adjective/verb",
+      "chinese": "精确的,确切的/强求,要求,索取",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "escape",
+      "pos": "verb/noun",
+      "chinese": "逃跑,逃避；逃过的注意；逸出/逃跑",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "equip",
+      "pos": "verb",
+      "chinese": "(智力、体力上)使有准备；配备；装备",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "equal",
+      "pos": "adjective/verb",
+      "chinese": "平等的；相等的；胜任的/匹敌,比得上",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "envy",
+      "pos": "verb/noun",
+      "chinese": "妒忌,羡慕/妒忌,羡慕；妒忌的对象",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "enter",
+      "pos": "verb",
+      "chinese": "进入；参加,加入；写入；进去,进来",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "enlarge",
+      "pos": "verb",
+      "chinese": "扩大,扩展,扩充；放大",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "enjoy",
+      "pos": "verb",
+      "chinese": "享受…的乐趣；欣赏；喜爱",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "engineer",
+      "pos": "noun/verb",
+      "chinese": "工程师,火车司机/操纵；设计,建造",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "end",
+      "pos": "noun/verb",
+      "chinese": "末端,端,梢；目标,目的/结束",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "encourage",
+      "pos": "verb",
+      "chinese": "鼓励,激励,怂恿；促进,助长,激发",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "encounter",
+      "pos": "verb/noun",
+      "chinese": "遇到,偶然碰到；遭遇/遭遇；意外的相见",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "empty",
+      "pos": "adjective/verb",
+      "chinese": "空的；空闲(虚)的,寂寥的/(使)空,倒出",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "employ",
+      "pos": "verb/noun",
+      "chinese": "雇用；用,使用,利用/受雇,雇佣",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "email",
+      "pos": "noun/verb",
+      "chinese": "电子信函/给…发电子信函",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "elect",
+      "pos": "verb",
+      "chinese": "选举,推举；选择/进行选举,作出选择",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "effect",
+      "pos": "noun/verb",
+      "chinese": "结果；效果,作用/产生,招致,完成",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "edition",
+      "pos": "noun/verb",
+      "chinese": "位置；地位,职务；姿势；立场/安置",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "edit",
+      "pos": "verb",
+      "chinese": "编辑,校订；主编,编辑；剪辑(影片等)",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "edge",
+      "pos": "noun/verb",
+      "chinese": "边(缘)；刃；优势/侧着移动,徐徐移动",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "eat",
+      "pos": "verb",
+      "chinese": "吃,喝/吃饭,吃东西",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "earn",
+      "pos": "verb",
+      "chinese": "博得,赢得；赚得,掐得",
+      "pos_list": [
+        "verb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": "20250929_111633",
+  "metadata": {
+    "stage": "第一阶段：基础巩固 (小学中高年级)",
+    "days": 60,
+    "minutes_per_day": 15,
+    "ai_model": "GLM-GLM-4.5",
+    "generated_at": "2025-09-29T11:16:33.458193",
+    "ai_response_time": 85.07697701454163,
+    "ai_usage": {
+      "completion_tokens": 3560,
+      "prompt_tokens": 587,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 4147
+    },
+    "retry_count": 1
+  },
+  "learning_plan": {
+    "learning_plan_name": "第一阶段：基础巩固 (小学中高年级)",
+    "learning_cycle_days": 60,
+    "daily_study_time_minutes": 15,
+    "learning_difficulty": "初级",
+    "total_resources": {
+      "total_vocab": 849,
+      "total_word_forms": 13,
+      "total_sentence_patterns": 16
+    },
+    "study_plan": {
+      "noun": {
+        "total_count": 411,
+        "daily_learn_count": 21,
+        "total_study_cycles": 60,
+        "elementary_ratio": 100,
+        "junior_high_ratio": 0,
+        "high_school_ratio": 0
+      },
+      "verb": {
+        "total_count": 156,
+        "daily_learn_count": 8,
+        "total_study_cycles": 60,
+        "elementary_ratio": 100,
+        "junior_high_ratio": 0,
+        "high_school_ratio": 0
+      },
+      "adjective": {
+        "total_count": 111,
+        "daily_learn_count": 6,
+        "total_study_cycles": 60,
+        "elementary_ratio": 100,
+        "junior_high_ratio": 0,
+        "high_school_ratio": 0
+      },
+      "adverb": {
+        "total_count": 52,
+        "daily_learn_count": 3,
+        "total_study_cycles": 60,
+        "elementary_ratio": 100,
+        "junior_high_ratio": 0,
+        "high_school_ratio": 0
+      },
+      "preposition": {
+        "total_count": 20,
+        "daily_learn_count": 1,
+        "total_study_cycles": 60,
+        "elementary_ratio": 100,
+        "junior_high_ratio": 0,
+        "high_school_ratio": 0
+      },
+      "pronoun": {
+        "total_count": 28,
+        "daily_learn_count": 2,
+        "total_study_cycles": 60,
+        "elementary_ratio": 100,
+        "junior_high_ratio": 0,
+        "high_school_ratio": 0
+      },
+      "conjunction": {
+        "total_count": 7,
+        "daily_learn_count": 1,
+        "total_study_cycles": 60,
+        "elementary_ratio": 100,
+        "junior_high_ratio": 0,
+        "high_school_ratio": 0
+      },
+      "article": {
+        "total_count": 2,
+        "daily_learn_count": 1,
+        "total_study_cycles": 60,
+        "elementary_ratio": 100,
+        "junior_high_ratio": 0,
+        "high_school_ratio": 0
+      },
+      "determiner": {
+        "total_count": 16,
+        "daily_learn_count": 1,
+        "total_study_cycles": 60,
+        "elementary_ratio": 100,
+        "junior_high_ratio": 0,
+        "high_school_ratio": 0
+      },
+      "interjection": {
+        "total_count": 12,
+        "daily_learn_count": 1,
+        "total_study_cycles": 60,
+        "elementary_ratio": 100,
+        "junior_high_ratio": 0,
+        "high_school_ratio": 0
+      },
+      "numeral": {
+        "total_count": 37,
+        "daily_learn_count": 2,
+        "total_study_cycles": 60,
+        "elementary_ratio": 100,
+        "junior_high_ratio": 0,
+        "high_school_ratio": 0
+      },
+      "modal": {
+        "total_count": 5,
+        "daily_learn_count": 1,
+        "total_study_cycles": 60,
+        "elementary_ratio": 100,
+        "junior_high_ratio": 0,
+        "high_school_ratio": 0
+      },
+      "phrase": {
+        "total_count": 118,
+        "daily_learn_count": 6,
+        "total_study_cycles": 60,
+        "elementary_ratio": 100,
+        "junior_high_ratio": 0,
+        "high_school_ratio": 0
+      },
+      "auxiliary": {
+        "total_count": 9,
+        "daily_learn_count": 1,
+        "total_study_cycles": 60,
+        "elementary_ratio": 100,
+        "junior_high_ratio": 0,
+        "high_school_ratio": 0
+      }
+    },
+    "morphology": {
+      "total_count": 13,
+      "daily_learn_count": 2,
+      "total_study_cycles": 60,
+      "elementary_ratio": 100,
+      "junior_high_ratio": 0,
+      "high_school_ratio": 0
+    },
+    "syntax": {
+      "total_count": 16,
+      "daily_learn_count": 2,
+      "total_study_cycles": 60,
+      "elementary_ratio": 100,
+      "junior_high_ratio": 0,
+      "high_school_ratio": 0
+    }
+  }
+}

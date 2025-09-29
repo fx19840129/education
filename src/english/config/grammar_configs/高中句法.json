@@ -1,0 +1,159 @@
+{
+    "高中英语句法": {
+      "title": "高中英语句法结构与复杂模式",
+      "description": "涵盖高中英语中对更复杂的句子结构、时态语态的全面掌握、非谓语动词的深入运用、各类从句及其在复合句和复杂句中的作用。",
+      "sentence_structures": [
+        {
+          "structure_name": "复杂句子结构 (Complex Sentences)",
+          "description": "由一个主句和一个或多个从句构成。",
+          "components": ["Independent Clause (Main Clause)", "Dependent Clause(s)"],
+          "details": "从句可以是名词性从句、定语从句、状语从句。",
+          "examples": [
+            {"sentence": "Although it was raining, we went for a walk.", "analysis": "Adverbial Clause of Concession + Main Clause"},
+            {"sentence": "The man who lives next door is a doctor.", "analysis": "Main Clause + Relative Clause"}
+          ]
+        },
+        {
+          "structure_name": "并列复合句 (Compound-Complex Sentences)",
+          "description": "结合了并列连词和从属连词，包含至少两个独立分句和一个或多个从属分句。",
+          "components": ["Independent Clause 1", "Coordinating Conjunction", "Independent Clause 2", "Dependent Clause(s)"],
+          "details": "句式结构最复杂，表达多重逻辑关系。",
+          "examples": [
+            {"sentence": "Although he was tired, he finished his work, and then he went to bed.", "analysis": "Adv. Clause + Indep. Clause + Coord. Conj. + Indep. Clause"}
+          ]
+        },
+        {
+          "structure_name": "非谓语动词的深入运用",
+          "description": "更灵活、更广泛地使用不定式、动名词、分词作各种句子成分。",
+          "forms": [
+            "现在分词作定语、状语",
+            "过去分词作定语、状语",
+            "不定式作定语、状语、主语、宾语、表语",
+            "动名词作主语、宾语、表语",
+            "独立成分 (Absolute Phrases) - 分词短语做独立状语"
+          ],
+          "examples": [
+            {"sentence": "Seeing the police, the thief ran away.", "analysis": "Participial Phrase as Adverbial"},
+            {"sentence": "He worked hard, determined to succeed.", "analysis": "Absolute Phrase"},
+            {"sentence": "He refused to answer the question.", "analysis": "Infinitive as Object"}
+          ]
+        },
+        {
+          "structure_name": "虚拟语气 (Subjunctive Mood)",
+          "description": "表达与事实相反、愿望、建议、假设等。",
+          "types": [
+            "与现在事实相反",
+            "与过去事实相反",
+            "与将来事实相反",
+            "wish 后的虚拟语气",
+            "if 引导的虚拟条件句",
+            "suggest/recommend/insist 等动词后的虚拟语气"
+          ],
+          "examples": [
+            {"sentence": "If I were you, I would study harder.", "analysis": "Past Subjunctive in Conditionals"},
+            {"sentence": "He suggested that we should go there.", "analysis": "Subjunctive after 'suggest'"}
+          ]
+        },
+        {
+          "structure_name": "高级时态和语态",
+          "description": "全面掌握各时态（包括完成进行时）及其被动语态。",
+          "advanced_tenses": [
+            "现在完成进行时",
+            "过去完成进行时",
+            "将来完成时",
+            "将来进行时"
+          ],
+          "advanced_passive": [
+            "完成时态的被动语态",
+            "情态动词的被动语态"
+          ],
+          "examples": [
+            {"sentence": "By this time tomorrow, I will have finished the project.", "analysis": "Future Perfect"},
+            {"sentence": "The meeting had been held before he arrived.", "analysis": "Past Perfect Passive"}
+          ]
+        },
+        {
+          "structure_name": "倒装句 (Inversion)",
+          "description": "将谓语的一部分（如助动词、情态动词、be 动词）置于主语之前，以强调或表达特定语气。",
+          "types": [
+            "否定词/短语置于句首",
+            "only 置于句首",
+            "so/such 置于句首",
+            "虚拟条件句的倒装 (省略 if)"
+          ],
+          "examples": [
+            {"sentence": "Never have I seen such a beautiful sunset.", "analysis": "Negative Inversion"},
+            {"sentence": "Had I known, I would have helped.", "analysis": "Conditional Inversion (If I had known)"}
+          ]
+        }
+      ],
+      "common_sentence_patterns": [
+        {
+          "pattern_name": "各类从句的整合运用",
+          "type": "复合句/复杂句",
+          "description": "将名词性从句、定语从句（关系代词/副词）、状语从句（时间、地点、原因、结果、目的、条件、让步、方式、程度）有机地整合在句子中。",
+          "examples": [
+            {"sentence": "He explained the reason why he was late, and I understood that he had an accident.", "analysis": "Relative Clause + Noun Clause"}
+          ]
+        },
+        {
+          "pattern_name": "虚拟语气句型",
+          "type": "虚拟语气句",
+          "description": "表达与事实相反、愿望、建议、假设。",
+          "examples": [
+            {"sentence": "If I had more time, I would travel around the world.", "analysis": "Past Subjunctive"},
+            {"sentence": "It is important that he be informed.", "analysis": "Subjunctive after 'important'"}
+          ]
+        },
+        {
+          "pattern_name": "倒装句型",
+          "type": "强调句",
+          "description": "通过倒装来达到强调目的。",
+          "examples": [
+            {"sentence": "Not until he apologized did she forgive him.", "analysis": "Negative Inversion"},
+            {"sentence": "So difficult was the problem that nobody could solve it.", "analysis": "So...that + Inversion"}
+          ]
+        },
+        {
+          "pattern_name": "复杂的非谓语动词结构",
+          "type": "句子成分",
+          "description": "独立成分，以及作为定语、状语的复杂分词短语、不定式短语。",
+          "examples": [
+            {"sentence": "Weather permitting, we will have a picnic tomorrow.", "analysis": "Absolute Phrase (Participial Phrase)"}
+          ]
+        }
+      ],
+      "key_concepts": [
+        {
+          "concept_name": "从句的全面掌握",
+          "description": "熟练掌握名词性从句、定语从句（关系代词/副词）、状语从句（各种逻辑关系）的构成与用法。",
+          "level": "熟练"
+        },
+        {
+          "concept_name": "非谓语动词的深度运用",
+          "description": "掌握不定式、动名词、分词的多种功能，尤其是作状语和独立成分。",
+          "level": "熟练"
+        },
+        {
+          "concept_name": "虚拟语气",
+          "description": "理解并运用虚拟语气表达与事实相反、愿望、建议、假设等。",
+          "level": "熟练"
+        },
+        {
+          "concept_name": "倒装句",
+          "description": "理解并能运用常见的倒装结构（否定词、only、so/such、虚拟条件句）来加强语气。",
+          "level": "引入与掌握"
+        },
+        {
+          "concept_name": "时态和语态的综合运用",
+          "description": "全面掌握所有基本时态、完成进行时及其被动语态，并能灵活搭配。",
+          "level": "熟练"
+        },
+        {
+          "concept_name": "复杂句的构建与理解",
+          "description": "能够分析和构建包含多个从句和复杂结构的句子。",
+          "level": "熟练"
+        }
+      ]
+    }
+  }

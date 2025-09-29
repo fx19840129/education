@@ -1,0 +1,79 @@
+{
+  "id": "20250929_132546",
+  "type": "fsrs_learning_template",
+  "metadata": {
+    "stage": "第二阶段：小学初中过渡 (小学高年级 - 初一)",
+    "days": 7,
+    "minutes_per_day": 30,
+    "ai_model": "GLM-GLM-4.5",
+    "generated_at": "2025-09-29T13:25:46.748537",
+    "ai_response_time": 26.232670783996582,
+    "ai_usage": {
+      "completion_tokens": 2691,
+      "prompt_tokens": 1547,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 4238
+    },
+    "retry_count": 1
+  },
+  "fsrs_template": {
+    "metadata": {
+      "total_study_days": 7,
+      "daily_learning_minutes_target": 30,
+      "total_words_in_library": 3294,
+      "estimated_avg_word_rotations_per_cycle": "2",
+      "learning_efficiency_estimate": 2,
+      "review_efficiency_estimate": 1,
+      "morphology_practice_time_estimate": 3,
+      "syntax_practice_time_estimate": 7
+    },
+    "word_categories": {
+      "core_functional": [
+        "noun",
+        "verb",
+        "adjective"
+      ],
+      "connectors_relational": [
+        "adverb",
+        "preposition",
+        "conjunction",
+        "pronoun",
+        "determiner",
+        "article",
+        "numeral"
+      ],
+      "auxiliary_supplemental": [
+        "interjection",
+        "modal",
+        "auxiliary",
+        "phrase"
+      ]
+    },
+    "fsrs_initial_parameters": {
+      "default_ease": "250",
+      "new_word_first_review_interval_days": "1"
+    },
+    "daily_planning_guidelines": {
+      "avg_new_words_per_day": "5",
+      "avg_review_words_per_day": "10",
+      "new_words_composition_guideline": {
+        "core_functional_percentage": "79.5",
+        "connectors_relational_percentage": "15.2",
+        "auxiliary_supplemental_percentage": "5.3"
+      },
+      "suggested_morphology_practice_minutes_per_day": "3",
+      "suggested_syntax_practice_minutes_per_day": "7",
+      "notes_for_fsrs_implementation": "这是一个7天的短期学习计划模板，重点是建立学习习惯和熟悉FSRS系统。每天学习5个新词，复习10个单词。新词的词性分布应与词库整体分布保持一致。词法练习和句法练习应结合当天学习和复习的单词进行。FSRS算法将根据实际学习数据动态调整复习计划。"
+    },
+    "example_review_item_structure_for_fsrs": {
+      "id": "PLACEHOLDER_ID",
+      "text": "PLACEHOLDER_TEXT",
+      "category": "...",
+      "part_of_speech": "...",
+      "initial_interval_days": "1",
+      "status": "review"
+    }
+  }
+}

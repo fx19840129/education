@@ -1,0 +1,55 @@
+{
+  "output_paths": {
+    "english": {
+      "plans": "outputs/english/plans",
+      "content": "outputs/english/content",
+      "learning_plans": "outputs/english/learning_plans",
+      "custom_plans": "outputs/english/custom_plans", 
+      "word_plans": "outputs/english/word_plans",
+      "grammar_plans": "outputs/english/grammar_plans",
+      "reports": "outputs/english/reports",
+      "exports": "outputs/english/exports",
+      "word_learning_details": "outputs/english/word_learning_details"
+    },
+    "math": {
+      "learning_plans": "outputs/math/learning_plans",
+      "custom_plans": "outputs/math/custom_plans",
+      "reports": "outputs/math/reports",
+      "exports": "outputs/math/exports"
+    },
+    "physics": {
+      "learning_plans": "outputs/physics/learning_plans",
+      "custom_plans": "outputs/physics/custom_plans",
+      "reports": "outputs/physics/reports",
+      "exports": "outputs/physics/exports"
+    },
+    "chemistry": {
+      "learning_plans": "outputs/chemistry/learning_plans",
+      "custom_plans": "outputs/chemistry/custom_plans",
+      "reports": "outputs/chemistry/reports",
+      "exports": "outputs/chemistry/exports"
+    },
+    "biology": {
+      "learning_plans": "outputs/biology/learning_plans",
+      "custom_plans": "outputs/biology/custom_plans",
+      "reports": "outputs/biology/reports",
+      "exports": "outputs/biology/exports"
+    },
+    "history": {
+      "learning_plans": "outputs/history/learning_plans",
+      "custom_plans": "outputs/history/custom_plans",
+      "reports": "outputs/history/reports",
+      "exports": "outputs/history/exports"
+    },
+    "geography": {
+      "learning_plans": "outputs/geography/learning_plans",
+      "custom_plans": "outputs/geography/custom_plans",
+      "reports": "outputs/geography/reports",
+      "exports": "outputs/geography/exports"
+    }
+  },
+  "default_subject": "english",
+  "backup_enabled": true,
+  "backup_retention_days": 30,
+  "compression_enabled": false
+}

@@ -1,0 +1,79 @@
+{
+  "id": "20250929_145840",
+  "type": "fsrs_learning_template",
+  "metadata": {
+    "stage": "第一阶段：基础巩固 (小学中高年级)",
+    "days": 80,
+    "minutes_per_day": 30,
+    "ai_model": "GLM-GLM-4.5",
+    "generated_at": "2025-09-29T14:58:40.653913",
+    "ai_response_time": 56.61342906951904,
+    "ai_usage": {
+      "completion_tokens": 5091,
+      "prompt_tokens": 2323,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 7414
+    },
+    "retry_count": 1
+  },
+  "fsrs_template": {
+    "metadata": {
+      "total_study_days": 80,
+      "daily_learning_minutes_target": 30,
+      "total_words_in_library": 984,
+      "estimated_avg_word_rotations_per_cycle": 4.5,
+      "learning_efficiency_estimate": 1.2,
+      "review_efficiency_estimate": 0.8,
+      "morphology_practice_time_estimate": 5,
+      "syntax_practice_time_estimate": 10
+    },
+    "word_categories": {
+      "core_functional": [
+        "noun",
+        "verb",
+        "adjective"
+      ],
+      "connectors_relational": [
+        "adverb",
+        "preposition",
+        "conjunction",
+        "pronoun",
+        "determiner",
+        "article",
+        "numeral"
+      ],
+      "auxiliary_supplemental": [
+        "interjection",
+        "modal",
+        "auxiliary",
+        "phrase"
+      ]
+    },
+    "fsrs_initial_parameters": {
+      "default_ease": 2.4,
+      "new_word_first_review_interval_days": 0.35
+    },
+    "daily_planning_guidelines": {
+      "avg_new_words_per_day": 9,
+      "avg_review_words_per_day": 9,
+      "new_words_composition_guideline": {
+        "core_functional_percentage": 73.9,
+        "connectors_relational_percentage": 16.46,
+        "auxiliary_supplemental_percentage": 9.64
+      },
+      "suggested_morphology_practice_minutes_per_day": 0,
+      "suggested_syntax_practice_minutes_per_day": 0,
+      "notes_for_fsrs_implementation": "For high-intensity 1:1 ratio, shorten intervals by 10%; handle overflow by capping reviews at new words *1.2 max; adjust ease up for balanced to support higher daily load."
+    },
+    "example_review_item_structure_for_fsrs": {
+      "id": "PLACEHOLDER_ID",
+      "text": "PLACEHOLDER_TEXT",
+      "category": "core_functional | connectors_relational | auxiliary_supplemental",
+      "part_of_speech": "noun | verb | adjective | adverb | preposition | conjunction | pronoun | determiner | article | numeral | interjection | modal | auxiliary | phrase",
+      "initial_interval_days": 0.35,
+      "status": "review"
+    }
+  }
+}

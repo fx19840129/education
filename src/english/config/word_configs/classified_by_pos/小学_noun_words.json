@@ -1,0 +1,3373 @@
+{
+  "metadata": {
+    "title": "名词 词库",
+    "description": "从小学文档中提取的名词",
+    "part_of_speech": "noun",
+    "chinese_name": "名词",
+    "word_count": 411,
+    "creation_date": "2025-09-27 14:25:21",
+    "source": "process_elementary_words.py"
+  },
+  "words": [
+    {
+      "word": "balloon",
+      "pos": "noun",
+      "chinese": "气球",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "car",
+      "pos": "noun",
+      "chinese": "小汽车",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "plane",
+      "pos": "noun",
+      "chinese": "飞机",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "boy",
+      "pos": "noun",
+      "chinese": "男孩",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "girl",
+      "pos": "noun",
+      "chinese": "女孩",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "teacher",
+      "pos": "noun",
+      "chinese": "教师",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "student",
+      "pos": "noun",
+      "chinese": "学生",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "friend",
+      "pos": "noun",
+      "chinese": "朋友",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "morning",
+      "pos": "noun",
+      "chinese": "早上",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "afternoon",
+      "pos": "noun",
+      "chinese": "下午",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "father",
+      "pos": "noun",
+      "chinese": "父亲；爸爸",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "dad",
+      "pos": "noun",
+      "chinese": "爸爸",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "mother",
+      "pos": "noun",
+      "chinese": "母亲；妈妈",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "mom",
+      "pos": "noun",
+      "chinese": "妈妈",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "man",
+      "pos": "noun",
+      "chinese": "男人",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "woman",
+      "pos": "noun",
+      "chinese": "女人",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "grandmother",
+      "pos": "noun",
+      "chinese": "外祖母",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "grandma",
+      "pos": "noun",
+      "chinese": "（口语）外祖母",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "grandfather",
+      "pos": "noun",
+      "chinese": "外祖父",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "grandpa",
+      "pos": "noun",
+      "chinese": "（口语）外祖父",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "sister",
+      "pos": "noun",
+      "chinese": "姐妹",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "brother",
+      "pos": "noun",
+      "chinese": "兄弟",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "peach",
+      "pos": "noun",
+      "chinese": "桃",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "pear",
+      "pos": "noun",
+      "chinese": "梨",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "orange",
+      "pos": "noun",
+      "chinese": "橙子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "watermelon",
+      "pos": "noun",
+      "chinese": "西瓜",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "apple",
+      "pos": "noun",
+      "chinese": "苹果",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "banana",
+      "pos": "noun",
+      "chinese": "香蕉",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "strawberry",
+      "pos": "noun",
+      "chinese": "草莓",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "grape",
+      "pos": "noun",
+      "chinese": "葡萄",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "Unit",
+      "pos": "noun",
+      "chinese": "单元",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "bus",
+      "pos": "noun",
+      "chinese": "公共汽车",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "bike",
+      "pos": "noun",
+      "chinese": "自行车",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "taxi",
+      "pos": "noun",
+      "chinese": "出租车",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "jeep",
+      "pos": "noun",
+      "chinese": "吉普车",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "desk",
+      "pos": "noun",
+      "chinese": "课桌",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "chair",
+      "pos": "noun",
+      "chinese": "椅子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "Walkman",
+      "pos": "noun",
+      "chinese": "随身听",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "lamp",
+      "pos": "noun",
+      "chinese": "台灯",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "zoo",
+      "pos": "noun",
+      "chinese": "动物园",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "giraffe",
+      "pos": "noun",
+      "chinese": "长颈鹿",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "deer",
+      "pos": "noun",
+      "chinese": "鹿",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "window",
+      "pos": "noun",
+      "chinese": "窗户",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "board",
+      "pos": "noun",
+      "chinese": "木板",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "light",
+      "pos": "noun",
+      "chinese": "光线",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "picture",
+      "pos": "noun",
+      "chinese": "画",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "door",
+      "pos": "noun",
+      "chinese": "门",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "floor",
+      "pos": "noun",
+      "chinese": "地板",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "classroom",
+      "pos": "noun",
+      "chinese": "教室",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "classmate",
+      "pos": "noun",
+      "chinese": "同学",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "seat",
+      "pos": "noun",
+      "chinese": "座位",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "computer",
+      "pos": "noun",
+      "chinese": "电脑,电子计算机",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "wall",
+      "pos": "noun",
+      "chinese": "墙",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "fan",
+      "pos": "noun",
+      "chinese": "扇子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "room",
+      "pos": "noun",
+      "chinese": "房间",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "schoolbag",
+      "pos": "noun",
+      "chinese": "书包",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "storybook",
+      "pos": "noun",
+      "chinese": "故事书,小说",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "fridge",
+      "pos": "noun",
+      "chinese": "冰箱",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "notebook",
+      "pos": "noun",
+      "chinese": "笔记簿",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "table",
+      "pos": "noun",
+      "chinese": "桌子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "colour",
+      "pos": "noun",
+      "chinese": "彩色",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "sofa",
+      "pos": "noun",
+      "chinese": "沙发",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "shelf",
+      "pos": "noun",
+      "chinese": "架子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "key",
+      "pos": "noun",
+      "chinese": "钥匙",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "bag",
+      "pos": "noun",
+      "chinese": "袋, 包",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "pencil",
+      "pos": "noun",
+      "chinese": "铅笔",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "pen",
+      "pos": "noun",
+      "chinese": "笔",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "book",
+      "pos": "noun",
+      "chinese": "书",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "ruler",
+      "pos": "noun",
+      "chinese": "尺",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "Chinese",
+      "pos": "adjective/noun",
+      "chinese": "中国的/中国人",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "photo",
+      "pos": "noun",
+      "chinese": "照片",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "name",
+      "pos": "noun",
+      "chinese": "名字",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "music",
+      "pos": "noun",
+      "chinese": "音乐",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "science",
+      "pos": "noun",
+      "chinese": "科学",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "sport",
+      "pos": "noun",
+      "chinese": "运动",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "study",
+      "pos": "verb/noun",
+      "chinese": "学习/书房",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "bathroom",
+      "pos": "noun",
+      "chinese": "浴室",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "bedroom",
+      "pos": "noun",
+      "chinese": "卧室",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "kitchen",
+      "pos": "noun",
+      "chinese": "厨房",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "fish",
+      "pos": "noun/verb",
+      "chinese": "鱼/钓鱼",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "home",
+      "pos": "noun",
+      "chinese": "家",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "school",
+      "pos": "noun",
+      "chinese": "学校",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "phone",
+      "pos": "noun/verb",
+      "chinese": "电话/打电话",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "bed",
+      "pos": "noun",
+      "chinese": "床",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "rice",
+      "pos": "noun",
+      "chinese": "大米",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "noodle",
+      "pos": "noun",
+      "chinese": "面条",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "beef",
+      "pos": "noun",
+      "chinese": "牛肉",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "vegetable",
+      "pos": "noun",
+      "chinese": "蔬菜",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "soup",
+      "pos": "noun",
+      "chinese": "汤",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "dinner",
+      "pos": "noun",
+      "chinese": "晚餐",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "bread",
+      "pos": "noun",
+      "chinese": "面包",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "milk",
+      "pos": "noun",
+      "chinese": "牛奶",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "egg",
+      "pos": "noun",
+      "chinese": "蛋",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "water",
+      "pos": "noun",
+      "chinese": "水",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "knife",
+      "pos": "noun",
+      "chinese": "刀",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "chopstick",
+      "pos": "noun",
+      "chinese": "筷子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "spoon",
+      "pos": "noun",
+      "chinese": "勺子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "plate",
+      "pos": "noun",
+      "chinese": "盘子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "fork",
+      "pos": "noun",
+      "chinese": "叉子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "help",
+      "pos": "verb/noun",
+      "chinese": "帮助",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "pass",
+      "pos": "verb/noun",
+      "chinese": "传递",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "try",
+      "pos": "verb/noun",
+      "chinese": "尝试",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "show",
+      "pos": "verb/noun",
+      "chinese": "展示",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "food",
+      "pos": "noun",
+      "chinese": "食物",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "use",
+      "pos": "verb/noun",
+      "chinese": "使用",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "chicken",
+      "pos": "noun",
+      "chinese": "鸡肉",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "family",
+      "pos": "noun",
+      "chinese": "家庭",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "parent",
+      "pos": "noun",
+      "chinese": "父母",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "uncle",
+      "pos": "noun",
+      "chinese": "舅舅",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "aunt",
+      "pos": "noun",
+      "chinese": "姑姑",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "baby",
+      "pos": "noun",
+      "chinese": "婴儿",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "people",
+      "pos": "noun",
+      "chinese": "人",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "member",
+      "pos": "noun",
+      "chinese": "成员",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "puppy",
+      "pos": "noun",
+      "chinese": "小狗",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "driver",
+      "pos": "noun",
+      "chinese": "司机",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "doctor",
+      "pos": "noun",
+      "chinese": "医生",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "farmer",
+      "pos": "noun",
+      "chinese": "农民",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "nurse",
+      "pos": "noun/verb",
+      "chinese": "护士",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "playground",
+      "pos": "noun",
+      "chinese": "操场",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "garden",
+      "pos": "noun",
+      "chinese": "花园",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "office",
+      "pos": "noun",
+      "chinese": "办公室",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "library",
+      "pos": "noun",
+      "chinese": "图书馆",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "canteen",
+      "pos": "noun",
+      "chinese": "食堂",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "welcome",
+      "pos": "verb/noun/adjective",
+      "chinese": "欢迎",
+      "pos_list": [
+        "verb",
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "visitor",
+      "pos": "noun",
+      "chinese": "客人;参观者",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "class",
+      "pos": "noun",
+      "chinese": "班级;课程",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "lunch",
+      "pos": "noun",
+      "chinese": "午餐",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "art",
+      "pos": "noun",
+      "chinese": "绘画；艺术；美术",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "washroom",
+      "pos": "noun",
+      "chinese": "卫生间",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "gym",
+      "pos": "noun",
+      "chinese": "体育馆",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "English",
+      "pos": "noun/adjective",
+      "chinese": "英语；英文",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "breakfast",
+      "pos": "noun",
+      "chinese": "早餐",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "kid",
+      "pos": "noun",
+      "chinese": "小孩;孩子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "time",
+      "pos": "noun",
+      "chinese": "时间",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "o'clock",
+      "pos": "noun/adverb",
+      "chinese": "……点钟",
+      "pos_list": [
+        "noun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "math",
+      "pos": "noun",
+      "chinese": "数学",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "china",
+      "pos": "noun",
+      "chinese": "中国;瓷器",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "England",
+      "pos": "noun",
+      "chinese": "英格兰;英国",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "P.E.",
+      "pos": "noun",
+      "chinese": "体育",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "sheep",
+      "pos": "noun",
+      "chinese": "绵羊",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "horse",
+      "pos": "noun",
+      "chinese": "马",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "hen",
+      "pos": "noun",
+      "chinese": "母鸡",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "lamb",
+      "pos": "noun",
+      "chinese": "小羊;羔羊",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "goat",
+      "pos": "noun",
+      "chinese": "山羊",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "cow",
+      "pos": "noun",
+      "chinese": "奶牛",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "farm",
+      "pos": "noun",
+      "chinese": "农场,农田",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "donkey",
+      "pos": "noun",
+      "chinese": "驴子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "cat",
+      "pos": "noun",
+      "chinese": "猫",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "rabbit",
+      "pos": "noun",
+      "chinese": "兔子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "pig",
+      "pos": "noun",
+      "chinese": "猪",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "duck",
+      "pos": "noun",
+      "chinese": "鸭子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "dog",
+      "pos": "noun",
+      "chinese": "狗",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "tomoto",
+      "pos": "noun",
+      "chinese": "西红柿",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "cucumber",
+      "pos": "noun",
+      "chinese": "黄瓜",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "potato",
+      "pos": "noun",
+      "chinese": "土豆",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "onion",
+      "pos": "noun",
+      "chinese": "洋葱",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "carrot",
+      "pos": "noun",
+      "chinese": "胡萝卜",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "kind",
+      "pos": "adjective/noun",
+      "chinese": "和蔼的/种类",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "Mr",
+      "pos": "noun",
+      "chinese": "先生",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "Canada",
+      "pos": "noun",
+      "chinese": "加拿大",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "princip",
+      "pos": "noun",
+      "chinese": "校长",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "hat",
+      "pos": "noun",
+      "chinese": "帽子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "jeans",
+      "pos": "noun",
+      "chinese": "牛仔裤",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "pants",
+      "pos": "noun",
+      "chinese": "长裤",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "socks",
+      "pos": "noun",
+      "chinese": "袜子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "shoes",
+      "pos": "noun",
+      "chinese": "鞋子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "football",
+      "pos": "noun",
+      "chinese": "足球",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "rain",
+      "pos": "noun/verb",
+      "chinese": "雨/下雨",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "snow",
+      "pos": "noun/verb",
+      "chinese": "雪/下雪",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "wind",
+      "pos": "noun",
+      "chinese": "风",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "cloud",
+      "pos": "noun",
+      "chinese": "云",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "sun",
+      "pos": "noun",
+      "chinese": "太阳",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "New York",
+      "pos": "noun",
+      "chinese": "纽约",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "matter",
+      "pos": "noun",
+      "chinese": "事情, 麻烦",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "assistant",
+      "pos": "noun",
+      "chinese": "售货员",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "sneakers",
+      "pos": "noun",
+      "chinese": "胶底帆布鞋, 网球鞋",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "slippers",
+      "pos": "noun",
+      "chinese": "拖鞋",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "sandals",
+      "pos": "noun",
+      "chinese": "凉鞋",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "boots",
+      "pos": "noun",
+      "chinese": "靴子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "pair",
+      "pos": "noun",
+      "chinese": "一双, 一对",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "son",
+      "pos": "noun",
+      "chinese": "儿子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "size",
+      "pos": "noun",
+      "chinese": "尺码",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "principal",
+      "pos": "noun",
+      "chinese": "校长",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "university",
+      "pos": "noun",
+      "chinese": "大学",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "Miss",
+      "pos": "noun",
+      "chinese": "小姐",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "lady",
+      "pos": "noun",
+      "chinese": "女士;小姐;夫人",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "fun",
+      "pos": "noun/interjection",
+      "chinese": "有趣;逗笑",
+      "pos_list": [
+        "noun",
+        "interjection"
+      ]
+    },
+    {
+      "word": "Monday",
+      "pos": "noun",
+      "chinese": "星期一",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "Mon.",
+      "pos": "noun",
+      "chinese": "星期一",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "Tuesday",
+      "pos": "noun",
+      "chinese": "星期二",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "Tue.",
+      "pos": "noun",
+      "chinese": "星期二",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "Wednesday",
+      "pos": "noun",
+      "chinese": "星期三",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "Wed.",
+      "pos": "noun",
+      "chinese": "星期三",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "Thursday",
+      "pos": "noun",
+      "chinese": "星期四",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "Thu.",
+      "pos": "noun",
+      "chinese": "星期四",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "Friday",
+      "pos": "noun",
+      "chinese": "星期五",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "Fri.",
+      "pos": "noun",
+      "chinese": "星期五",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "day",
+      "pos": "noun",
+      "chinese": "天;日子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "waiter",
+      "pos": "noun",
+      "chinese": "侍者,服务员",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "tomorrow",
+      "pos": "noun/adverb",
+      "chinese": "明天",
+      "pos_list": [
+        "noun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "Saturday",
+      "pos": "noun",
+      "chinese": "星期六",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "Sat.",
+      "pos": "noun",
+      "chinese": "星期六",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "Sunday",
+      "pos": "noun",
+      "chinese": "星期天",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "Sun.",
+      "pos": "noun",
+      "chinese": "星期天",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "love",
+      "pos": "verb/noun",
+      "chinese": "爱;热爱",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "cabbage",
+      "pos": "noun",
+      "chinese": "洋白菜;卷心菜",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "pork",
+      "pos": "noun",
+      "chinese": "猪肉",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "mutton",
+      "pos": "noun",
+      "chinese": "羊肉",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "eggplant",
+      "pos": "noun",
+      "chinese": "茄子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "beans",
+      "pos": "noun",
+      "chinese": "青豆",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "tofu",
+      "pos": "noun",
+      "chinese": "豆腐",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "tomato",
+      "pos": "noun",
+      "chinese": "西红柿",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "menu",
+      "pos": "noun",
+      "chinese": "菜单",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "sound",
+      "pos": "verb/noun",
+      "chinese": "听起来/声音",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "sweet",
+      "pos": "adjective/noun",
+      "chinese": "甜的/糖果",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "favourite",
+      "pos": "adjective/noun",
+      "chinese": "特别喜爱的;最喜爱的/最喜欢的人或物",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "fruit",
+      "pos": "noun",
+      "chinese": "水果",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "robot",
+      "pos": "noun",
+      "chinese": "机器人",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "air-conditioner",
+      "pos": "noun",
+      "chinese": "空调",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "air",
+      "pos": "noun",
+      "chinese": "空气",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "bin",
+      "pos": "noun",
+      "chinese": "垃圾箱",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "bridge",
+      "pos": "noun",
+      "chinese": "桥",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "building",
+      "pos": "noun",
+      "chinese": "建筑物",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "closet",
+      "pos": "noun",
+      "chinese": "壁橱,衣橱",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "clothes",
+      "pos": "noun",
+      "chinese": "衣服",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "city",
+      "pos": "noun",
+      "chinese": "城市",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "curtain",
+      "pos": "noun",
+      "chinese": "窗帘",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "flat",
+      "pos": "noun",
+      "chinese": "公寓",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "flower",
+      "pos": "noun",
+      "chinese": "花",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "forest",
+      "pos": "noun",
+      "chinese": "森林",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "grass",
+      "pos": "noun",
+      "chinese": "草",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "holiday",
+      "pos": "noun",
+      "chinese": "假期",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "house",
+      "pos": "noun",
+      "chinese": "房子；住宅",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "lake",
+      "pos": "noun",
+      "chinese": "湖泊",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "mirror",
+      "pos": "noun",
+      "chinese": "镜子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "mountain",
+      "pos": "noun",
+      "chinese": "山；山脉",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "park",
+      "pos": "noun",
+      "chinese": "公园",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "path",
+      "pos": "noun",
+      "chinese": "路；小道",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "river",
+      "pos": "noun",
+      "chinese": "河流",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "road",
+      "pos": "noun",
+      "chinese": "公路；大道",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "sky",
+      "pos": "noun",
+      "chinese": "天空",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "tree",
+      "pos": "noun",
+      "chinese": "树",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "village",
+      "pos": "noun",
+      "chinese": "乡村；村庄",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "work",
+      "pos": "noun/verb",
+      "chinese": "工作",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "exercise",
+      "pos": "noun/verb",
+      "chinese": "晨练/锻炼",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "policeman",
+      "pos": "noun",
+      "chinese": "警察",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "evening",
+      "pos": "noun",
+      "chinese": "夜晚、晚上",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "noon",
+      "pos": "noun",
+      "chinese": "中午",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "weekend",
+      "pos": "noun",
+      "chinese": "周末",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "week",
+      "pos": "noun",
+      "chinese": "一星期;周",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "spring",
+      "pos": "noun/verb",
+      "chinese": "春天",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "summer",
+      "pos": "noun",
+      "chinese": "夏天",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "fall",
+      "pos": "noun/verb",
+      "chinese": "秋天",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "winter",
+      "pos": "noun",
+      "chinese": "冬天",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "season",
+      "pos": "noun",
+      "chinese": "季节",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "leaf",
+      "pos": "noun",
+      "chinese": "叶子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "leaves",
+      "pos": "noun",
+      "chinese": "叶子（复数）",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "north",
+      "pos": "noun/adjective",
+      "chinese": "北方；向北方",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "Halloween",
+      "pos": "noun",
+      "chinese": "万圣节前夕",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "Thanksgiving",
+      "pos": "noun",
+      "chinese": "感恩节",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "swim",
+      "pos": "verb/noun",
+      "chinese": "游泳",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "skate",
+      "pos": "verb/noun",
+      "chinese": "滑冰；滑冰鞋",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "sports",
+      "pos": "noun",
+      "chinese": "体育活动",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "mountains",
+      "pos": "noun",
+      "chinese": "山",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "piano",
+      "pos": "noun",
+      "chinese": "钢琴",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "grandparents",
+      "pos": "noun",
+      "chinese": "（外祖）父母",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "kites",
+      "pos": "noun",
+      "chinese": "风筝",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "snowman",
+      "pos": "noun",
+      "chinese": "雪人",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "trees",
+      "pos": "noun",
+      "chinese": "树",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "cause",
+      "pos": "noun/verb",
+      "chinese": "原因/引起",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "January",
+      "pos": "noun",
+      "chinese": "一月",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "February",
+      "pos": "noun",
+      "chinese": "二月",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "March",
+      "pos": "noun",
+      "chinese": "三月",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "April",
+      "pos": "noun",
+      "chinese": "四月",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "June",
+      "pos": "noun",
+      "chinese": "六月",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "July",
+      "pos": "noun",
+      "chinese": "七月",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "August",
+      "pos": "noun",
+      "chinese": "八月",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "September",
+      "pos": "noun",
+      "chinese": "九月",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "October",
+      "pos": "noun",
+      "chinese": "十月",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "November",
+      "pos": "noun",
+      "chinese": "十一月",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "December",
+      "pos": "noun",
+      "chinese": "十二月",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "chart",
+      "pos": "noun",
+      "chinese": "图表",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "birthday",
+      "pos": "noun",
+      "chinese": "生日",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "cousin",
+      "pos": "noun",
+      "chinese": "堂（表）兄弟；堂（表）姐妹",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "e-card",
+      "pos": "noun",
+      "chinese": "电子卡片",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "date",
+      "pos": "noun",
+      "chinese": "日期",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "pictures",
+      "pos": "noun",
+      "chinese": "画",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "Center",
+      "pos": "noun",
+      "chinese": "中心",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "letter",
+      "pos": "noun",
+      "chinese": "信",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "e-mail",
+      "pos": "noun",
+      "chinese": "电子邮件",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "kangaroo",
+      "pos": "noun",
+      "chinese": "袋鼠",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "truck",
+      "pos": "noun",
+      "chinese": "象鼻",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "swing",
+      "pos": "verb/noun",
+      "chinese": "荡；荡秋千",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "climber",
+      "pos": "noun",
+      "chinese": "攀登者",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "woods",
+      "pos": "noun",
+      "chinese": "树林",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "ant",
+      "pos": "noun",
+      "chinese": "蚂蚁",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "honey",
+      "pos": "noun",
+      "chinese": "蜂蜜",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "thing",
+      "pos": "noun",
+      "chinese": "东西；物",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "foot",
+      "pos": "noun",
+      "chinese": "脚；足",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "train",
+      "pos": "noun",
+      "chinese": "火车",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "ship",
+      "pos": "noun",
+      "chinese": "船；舰",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "subway",
+      "pos": "noun",
+      "chinese": "地铁",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "traffic",
+      "pos": "noun",
+      "chinese": "交通",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "stop",
+      "pos": "verb/noun",
+      "chinese": "停；停车站",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "difference",
+      "pos": "noun",
+      "chinese": "差异",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "country",
+      "pos": "noun",
+      "chinese": "国家",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "side",
+      "pos": "noun",
+      "chinese": "边;面;侧;端",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "Australia",
+      "pos": "noun",
+      "chinese": "澳大利亚",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "left",
+      "pos": "adjective/noun/adverb",
+      "chinese": "左边的",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "hospital",
+      "pos": "noun",
+      "chinese": "医院",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "cinema",
+      "pos": "noun",
+      "chinese": "电影院",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "bookstore",
+      "pos": "noun",
+      "chinese": "书店",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "supermarket",
+      "pos": "noun",
+      "chinese": "超市",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "bank",
+      "pos": "noun",
+      "chinese": "银行",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "minute",
+      "pos": "noun",
+      "chinese": "分钟",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "south",
+      "pos": "noun/adjective",
+      "chinese": "南",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "east",
+      "pos": "noun/adjective",
+      "chinese": "东",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "west",
+      "pos": "noun/adjective",
+      "chinese": "西",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "turn",
+      "pos": "verb/noun",
+      "chinese": "转弯",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "party",
+      "pos": "noun",
+      "chinese": "聚会；晚会",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "start",
+      "pos": "verb/noun",
+      "chinese": "开始",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "tonight",
+      "pos": "noun/adverb",
+      "chinese": "今晚",
+      "pos_list": [
+        "noun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "trip",
+      "pos": "noun",
+      "chinese": "旅行",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "magazine",
+      "pos": "noun",
+      "chinese": "杂志",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "theme",
+      "pos": "noun",
+      "chinese": "主题",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "comic",
+      "pos": "noun/adjective",
+      "chinese": "漫画/喜剧的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "post",
+      "pos": "noun/verb",
+      "chinese": "邮寄/张贴",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "card",
+      "pos": "noun",
+      "chinese": "卡片",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "newspaper",
+      "pos": "noun",
+      "chinese": "报纸",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "dictionary",
+      "pos": "noun",
+      "chinese": "词典;字典",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "shoe",
+      "pos": "noun",
+      "chinese": "鞋",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "store",
+      "pos": "noun",
+      "chinese": "商店",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "stand",
+      "pos": "noun/verb",
+      "chinese": "摊位/站立",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pet",
+      "pos": "noun/verb",
+      "chinese": "宠物/爱抚",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "shop",
+      "pos": "noun/verb",
+      "chinese": "商店/购物",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "need",
+      "pos": "verb/noun",
+      "chinese": "需要/需求",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "hobby",
+      "pos": "noun",
+      "chinese": "爱好",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "ride",
+      "pos": "verb/noun",
+      "chinese": "骑/乘坐",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "riding",
+      "pos": "verb/noun",
+      "chinese": "骑（动名词）/骑行",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "dive",
+      "pos": "verb/noun",
+      "chinese": "跳水/潜水",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "diving",
+      "pos": "verb/noun",
+      "chinese": "跳水（动名词）/潜水",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "violin",
+      "pos": "noun",
+      "chinese": "小提琴",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "making",
+      "pos": "verb/noun",
+      "chinese": "制作（动名词）/制作",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "stamps",
+      "pos": "noun",
+      "chinese": "邮票",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "collecting",
+      "pos": "verb/noun",
+      "chinese": "收集（动名词）/收集",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "pal",
+      "pos": "noun",
+      "chinese": "朋友",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "dear",
+      "pos": "adjective/noun",
+      "chinese": "亲爱的/亲爱的称呼",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "twin",
+      "pos": "noun/adjective",
+      "chinese": "双胞胎之一/双胞胎的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "TV",
+      "pos": "noun",
+      "chinese": "电视",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "reporter",
+      "pos": "noun",
+      "chinese": "记者",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "watch",
+      "pos": "verb/noun",
+      "chinese": "看/手表",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "watches",
+      "pos": "verb/noun",
+      "chinese": "看（第三人称单数）/手表（复数）",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "singer",
+      "pos": "noun",
+      "chinese": "歌唱家；歌手",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "writer",
+      "pos": "noun",
+      "chinese": "作家",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "actor",
+      "pos": "noun",
+      "chinese": "男演员",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "actress",
+      "pos": "noun",
+      "chinese": "女演员",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "artist",
+      "pos": "noun",
+      "chinese": "画家",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "TV reporter",
+      "pos": "phrase/noun",
+      "chinese": "电视台记者",
+      "pos_list": [
+        "phrase",
+        "noun"
+      ]
+    },
+    {
+      "word": "Hong Kong",
+      "pos": "noun",
+      "chinese": "香港",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "engineer",
+      "pos": "noun",
+      "chinese": "工程师",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "accountant",
+      "pos": "noun",
+      "chinese": "会计",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "salesperson",
+      "pos": "noun",
+      "chinese": "售货员",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "cleaner",
+      "pos": "noun",
+      "chinese": "清洁工",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "company",
+      "pos": "noun",
+      "chinese": "公司",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "factory",
+      "pos": "noun",
+      "chinese": "工厂",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "design",
+      "pos": "noun/verb",
+      "chinese": "设计",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "tip",
+      "pos": "noun",
+      "chinese": "有用的小建议",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "money",
+      "pos": "noun",
+      "chinese": "钱；金钱",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "tourist",
+      "pos": "noun",
+      "chinese": "旅行者；旅游者",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "way",
+      "pos": "noun",
+      "chinese": "路；道",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "motor cycle",
+      "pos": "phrase/noun",
+      "chinese": "摩托车",
+      "pos_list": [
+        "phrase",
+        "noun"
+      ]
+    },
+    {
+      "word": "police",
+      "pos": "noun",
+      "chinese": "警方；警察部门",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "vapour",
+      "pos": "noun",
+      "chinese": "蒸气；水汽",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "stream",
+      "pos": "noun",
+      "chinese": "（小）河；（小）溪",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "drop",
+      "pos": "noun/verb",
+      "chinese": "(液体的)珠；滴",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "seed",
+      "pos": "noun",
+      "chinese": "种子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "soil",
+      "pos": "noun",
+      "chinese": "土壤",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "sprout",
+      "pos": "noun/verb",
+      "chinese": "苗;嫩芽",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pot",
+      "pos": "noun",
+      "chinese": "锅；碗；瓢；盆",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "month",
+      "pos": "noun",
+      "chinese": "月份；月",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "cm",
+      "pos": "noun",
+      "chinese": "厘米",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "centimeter",
+      "pos": "noun",
+      "chinese": "厘米",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "tail",
+      "pos": "noun",
+      "chinese": "尾巴",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "kg",
+      "pos": "noun",
+      "chinese": "千克；公斤",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "kilogram",
+      "pos": "noun",
+      "chinese": "千克；公斤",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "feet",
+      "pos": "noun",
+      "chinese": "脚（复数）",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "meter",
+      "pos": "noun",
+      "chinese": "米",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "ton",
+      "pos": "noun",
+      "chinese": "吨",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "squid",
+      "pos": "noun",
+      "chinese": "鱿鱼",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "lobster",
+      "pos": "noun",
+      "chinese": "龙虾",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "shark",
+      "pos": "noun",
+      "chinese": "鲨鱼",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "seal",
+      "pos": "noun",
+      "chinese": "海豹",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "sperm whale",
+      "pos": "phrase/noun",
+      "chinese": "抹香鲸",
+      "pos_list": [
+        "phrase",
+        "noun"
+      ]
+    },
+    {
+      "word": "killer whale",
+      "pos": "phrase/noun",
+      "chinese": "虎鲸",
+      "pos_list": [
+        "phrase",
+        "noun"
+      ]
+    },
+    {
+      "word": "nose",
+      "pos": "noun",
+      "chinese": "鼻子",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "flu",
+      "pos": "noun",
+      "chinese": "流感",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "worry",
+      "pos": "verb/noun",
+      "chinese": "烦恼；忧虑",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "medicine",
+      "pos": "noun",
+      "chinese": "药",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "drink",
+      "pos": "verb/noun",
+      "chinese": "喝/饮料",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "fail",
+      "pos": "verb/noun",
+      "chinese": "不及格；失败",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "test",
+      "pos": "verb/noun",
+      "chinese": "测试",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "match",
+      "pos": "verb/noun",
+      "chinese": "比赛",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "goal",
+      "pos": "noun",
+      "chinese": "得分数",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "guess",
+      "pos": "verb/noun",
+      "chinese": "猜测",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "game",
+      "pos": "noun",
+      "chinese": "比赛；游戏",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "yesterday",
+      "pos": "noun/adverb",
+      "chinese": "昨天",
+      "pos_list": [
+        "noun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "present",
+      "pos": "noun",
+      "chinese": "礼物",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "boat",
+      "pos": "noun",
+      "chinese": "小船",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "elephant",
+      "pos": "noun",
+      "chinese": "大象",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "ice",
+      "pos": "noun",
+      "chinese": "冰",
+      "pos_list": [
+        "noun"
+      ]
+    },
+    {
+      "word": "skating",
+      "pos": "noun/verb",
+      "chinese": "滑冰",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    }
+  ]
+}

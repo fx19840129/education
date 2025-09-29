@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "title": "情态动词 词库",
+    "description": "从文档中提取的情态动词",
+    "part_of_speech": "modal",
+    "chinese_name": "情态动词",
+    "word_count": 7,
+    "creation_date": "2025-09-27 13:45:24",
+    "source": "extract_words_minimal.py"
+  },
+  "words": [
+    {
+      "word": "can",
+      "pos": "modal/noun",
+      "chinese": "可能；能够；可以/（美）罐头；罐子",
+      "pos_list": [
+        "modal",
+        "noun"
+      ]
+    },
+    {
+      "word": "could",
+      "pos": "modal",
+      "chinese": "（can的过去式）可以…；（表示许可或请求）可以…,行",
+      "pos_list": [
+        "modal"
+      ]
+    },
+    {
+      "word": "might",
+      "pos": "auxiliary/modal",
+      "chinese": "可能,也许,或许",
+      "pos_list": [
+        "auxiliary",
+        "modal"
+      ]
+    },
+    {
+      "word": "must",
+      "pos": "modal",
+      "chinese": "必须,应当;必定是",
+      "pos_list": [
+        "modal"
+      ]
+    },
+    {
+      "word": "shall",
+      "pos": "modal",
+      "chinese": "（表示将来）将要,会；…好吗",
+      "pos_list": [
+        "modal"
+      ]
+    },
+    {
+      "word": "should",
+      "pos": "modal",
+      "chinese": "",
+      "pos_list": [
+        "modal"
+      ]
+    },
+    {
+      "word": "would",
+      "pos": "modal",
+      "chinese": "将会, 打算, 想要, 过去常常",
+      "pos_list": [
+        "modal"
+      ]
+    }
+  ]
+}

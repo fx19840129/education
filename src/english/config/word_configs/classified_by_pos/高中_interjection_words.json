@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "title": "感叹词 词库",
+    "description": "从文档中提取的感叹词",
+    "part_of_speech": "interjection",
+    "chinese_name": "感叹词",
+    "word_count": 13,
+    "creation_date": "2025-09-27 12:54:20",
+    "source": "extract_words_minimal.py"
+  },
+  "words": [
+    {
+      "word": "yes",
+      "pos": "adverb/interjection",
+      "chinese": "是[用于肯定句前]，是的",
+      "pos_list": [
+        "adverb",
+        "interjection"
+      ]
+    },
+    {
+      "word": "why",
+      "pos": "adverb/conjunction/interjection",
+      "chinese": "为什么；…的理由/咳，哎呀",
+      "pos_list": [
+        "adverb",
+        "conjunction",
+        "interjection"
+      ]
+    },
+    {
+      "word": "well",
+      "pos": "adverb/interjection",
+      "chinese": "好，令人满意地；很/哎呀，好啦，嗯",
+      "pos_list": [
+        "adverb",
+        "interjection"
+      ]
+    },
+    {
+      "word": "welcome",
+      "pos": "interjection/adjective/verb/noun",
+      "chinese": "欢迎/受欢迎的/欢迎；迎接/欢迎；迎接",
+      "pos_list": [
+        "interjection",
+        "adjective",
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "thank",
+      "pos": "verb/interjection/noun",
+      "chinese": "感谢/谢谢/感谢(意)",
+      "pos_list": [
+        "verb",
+        "interjection",
+        "noun"
+      ]
+    },
+    {
+      "word": "please",
+      "pos": "interjection/verb",
+      "chinese": "请/使高兴/满意；喜欢，想要",
+      "pos_list": [
+        "interjection",
+        "verb"
+      ]
+    },
+    {
+      "word": "ouch",
+      "pos": "interjection",
+      "chinese": "（突然感到病痛时发出的声音）哎哟",
+      "pos_list": [
+        "interjection"
+      ]
+    },
+    {
+      "word": "oh",
+      "pos": "interjection",
+      "chinese": "(表示惊讶、恐惧、痛苦等)哦，哎呀",
+      "pos_list": [
+        "interjection"
+      ]
+    },
+    {
+      "word": "hi",
+      "pos": "interjection",
+      "chinese": "嗨!喂!(唤起注意，表示惊讶或询问)",
+      "pos_list": [
+        "interjection"
+      ]
+    },
+    {
+      "word": "hello",
+      "pos": "interjection",
+      "chinese": "英(美)喂,你好(用来打招呼或引起注意)",
+      "pos_list": [
+        "interjection"
+      ]
+    },
+    {
+      "word": "goodness",
+      "pos": "noun/interjection",
+      "chinese": "善良,仁慈；(食物等)精华/天哪",
+      "pos_list": [
+        "noun",
+        "interjection"
+      ]
+    },
+    {
+      "word": "goodbye",
+      "pos": "interjection",
+      "chinese": "再见(=goodby)",
+      "pos_list": [
+        "interjection"
+      ]
+    },
+    {
+      "word": "er",
+      "pos": "interjection",
+      "chinese": "嗯(说话犹豫等)",
+      "pos_list": [
+        "interjection"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+    "小学英语句法": {
+      "title": "小学英语句法结构与常见句型",
+      "description": "概括了小学阶段英语句子构成、成分关系及基本句型的学习要点。",
+      "sentence_structures": [
+        {
+          "structure_name": "基本语序 (Basic Word Order)",
+          "description": "英语句子的基本语序是 SVO (主语-谓语-宾语)，这是最核心的语序规则。",
+          "components": ["Subject (S)", "Verb (V)", "Object (O)"],
+          "details": "最基础、最常见的句子结构。",
+          "examples": [
+            {"sentence": "I like apples.", "analysis": "S V O"},
+            {"sentence": "She reads a book.", "analysis": "S V O"}
+          ]
+        },
+        {
+          "structure_name": "主谓结构 (Subject-Verb)",
+          "description": "最简单的句子结构，包含主语和谓语动词。",
+          "components": ["Subject (S)", "Verb (V)"],
+          "examples": [
+            {"sentence": "Birds fly.", "analysis": "S V"},
+            {"sentence": "Children sleep.", "analysis": "S V"}
+          ]
+        },
+        {
+          "structure_name": "主谓表结构 (Subject-Verb-Complement)",
+          "description": "使用系动词（如 be, look, get）连接主语和表语。",
+          "components": ["Subject (S)", "Verb (V - Linking Verb)", "Complement (C)"],
+          "details": "表语通常是名词或形容词，补充说明主语。",
+          "examples": [
+            {"sentence": "She is a teacher.", "analysis": "S V C (noun)"},
+            {"sentence": "He looks happy.", "analysis": "S V C (adjective)"}
+          ]
+        },
+        {
+          "structure_name": "主谓宾结构 (Subject-Verb-Object)",
+          "description": "包含主语、及物动词和直接宾语。",
+          "components": ["Subject (S)", "Verb (V - Transitive Verb)", "Object (O)"],
+          "examples": [
+            {"sentence": "I eat bread.", "analysis": "S V O"},
+            {"sentence": "They play football.", "analysis": "S V O"}
+          ]
+        },
+        {
+          "structure_name": "主谓宾状结构 (Subject-Verb-Object-Adverbial)",
+          "description": "在 SVO 基础上增加状语。",
+          "components": ["Subject (S)", "Verb (V)", "Object (O)", "Adverbial (A)"],
+          "details": "状语通常放在句末。",
+          "examples": [
+            {"sentence": "She reads a book in the library.", "analysis": "S V O A"},
+            {"sentence": "He came home yesterday.", "analysis": "S V O A"}
+          ]
+        },
+        {
+          "structure_name": "主谓双宾结构 (Subject-Verb-Indirect Object-Direct Object)",
+          "description": "动词后跟两个宾语。",
+          "components": ["Subject (S)", "Verb (V)", "Indirect Object (IO)", "Direct Object (DO)"],
+          "details": "也可用 SVO + 介词短语 (to/for)。",
+          "examples": [
+            {"sentence": "He gave me a pen.", "analysis": "S V IO DO"},
+            {"sentence": "He gave a pen to me.", "analysis": "S V O (DO) + prep. phrase"}
+          ]
+        },
+        {
+          "structure_name": "主谓宾补结构 (Subject-Verb-Object-Object Complement)",
+          "description": "在宾语后跟宾语补足语。",
+          "components": ["Subject (S)", "Verb (V)", "Object (O)", "Object Complement (OC)"],
+          "details": "宾语补足语通常是形容词或名词。",
+          "examples": [
+            {"sentence": "They made him happy.", "analysis": "S V O OC"},
+            {"sentence": "We elected her monitor.", "analysis": "S V O OC"}
+          ]
+        }
+      ],
+      "common_sentence_patterns": [
+        {
+          "pattern_name": "What is...?",
+          "type": "特殊疑问句 (Wh-Question)",
+          "description": "询问事物名称/身份。",
+          "components": ["What", "be verb", "Subject", "?"],
+          "examples": [
+            {"sentence": "What is this?", "answer_type": "a name / a noun"},
+            {"sentence": "What is your name?", "answer_type": "a name"}
+          ]
+        },
+        {
+          "pattern_name": "Where is...?",
+          "type": "特殊疑问句 (Wh-Question)",
+          "description": "询问事物地点。",
+          "components": ["Where", "be verb", "Subject", "?"],
+          "examples": [
+            {"sentence": "Where is the book?", "answer_type": "a place"}
+          ]
+        },
+        {
+          "pattern_name": "How old are you?",
+          "type": "特殊疑问句 (Wh-Question)",
+          "description": "询问年龄。",
+          "components": ["How old", "be verb", "Subject", "?"],
+          "examples": [
+            {"sentence": "How old are you?", "answer_type": "an age number"}
+          ]
+        },
+        {
+          "pattern_name": "Do/Does...?",
+          "type": "一般疑问句 (Yes/No Question)",
+          "description": "询问一般现在时动作。",
+          "components": ["Do/Does", "Subject", "Verb (base form)", "?"],
+          "examples": [
+            {"sentence": "Do you like ice cream?", "answer": "Yes, I do. / No, I don't."}
+          ]
+        },
+        {
+          "pattern_name": "Is/Am/Are...?",
+          "type": "一般疑问句 (Yes/No Question)",
+          "description": "询问状态/身份（be 动词）。",
+          "components": ["Is/Am/Are", "Subject", "?"],
+          "examples": [
+            {"sentence": "Is she your friend?", "answer": "Yes, she is. / No, she isn't."}
+          ]
+        },
+        {
+          "pattern_name": "I like...",
+          "type": "陈述句 (Declarative Sentence)",
+          "description": "表达喜好。",
+          "components": ["Subject", "like", "Object"],
+          "examples": [
+            {"sentence": "I like animals."}
+          ]
+        },
+        {
+          "pattern_name": "This is... / That is...",
+          "type": "陈述句 (Declarative Sentence)",
+          "description": "指示和介绍事物。",
+          "components": ["This/That", "is", "Noun/Noun Phrase"],
+          "examples": [
+            {"sentence": "This is my cat."}
+          ]
+        },
+        {
+          "pattern_name": "Let's...",
+          "type": "祈使句 (Imperative Sentence) - 建议",
+          "description": "提出建议。",
+          "components": ["Let's", "Verb (base form)"],
+          "examples": [
+            {"sentence": "Let's go to the park."}
+          ]
+        },
+        {
+          "pattern_name": "Imperative (Command/Request)",
+          "type": "祈使句 (Imperative Sentence)",
+          "description": "发出指令或请求。",
+          "components": ["Verb (base form)", "Object/Adverbial"],
+          "examples": [
+            {"sentence": "Open the door."},
+            {"sentence": "Please sit down."},
+            {"sentence": "Don't run."}
+          ]
+        }
+      ],
+      "key_concepts": [
+        {
+          "concept_name": "基本句子结构",
+          "description": "掌握主语、谓语、宾语、表语、状语的基本构成和顺序 (SVO, SVC, SVOO, SVOC)。",
+          "level": "基础"
+        },
+        {
+          "concept_name": "时态基础",
+          "description": "重点是现在时、将来时、过去时。理解动作发生在何时。",
+          "level": "基础"
+        },
+        {
+          "concept_name": "否定与疑问句构成",
+          "description": "学习如何使用助动词 (do/does/did) 和 be 动词来构成否定和疑问句。",
+          "level": "基础"
+        },
+        {
+          "concept_name": "主谓一致",
+          "description": "确保主语和谓语动词在数上保持一致（如 he sings, they sing）。",
+          "level": "基础"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,1330 @@
+{
+  "metadata": {
+    "title": "动词 词库",
+    "description": "从小学文档中提取的动词",
+    "part_of_speech": "verb",
+    "chinese_name": "动词",
+    "word_count": 156,
+    "creation_date": "2025-09-27 14:25:21",
+    "source": "process_elementary_words.py"
+  },
+  "words": [
+    {
+      "word": "I'm",
+      "pos": "pronoun/verb",
+      "chinese": "我是",
+      "pos_list": [
+        "pronoun",
+        "verb"
+      ]
+    },
+    {
+      "word": "meet",
+      "pos": "verb",
+      "chinese": "遇见；碰见",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "let's",
+      "pos": "verb/pronoun",
+      "chinese": "让我们",
+      "pos_list": [
+        "verb",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "let",
+      "pos": "verb",
+      "chinese": "让",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "look",
+      "pos": "verb",
+      "chinese": "看；瞧",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "like",
+      "pos": "verb/preposition",
+      "chinese": "喜欢/像",
+      "pos_list": [
+        "verb",
+        "preposition"
+      ]
+    },
+    {
+      "word": "have",
+      "pos": "verb",
+      "chinese": "有,拥有",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "go",
+      "pos": "verb",
+      "chinese": "去;离去",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "clean",
+      "pos": "adjective/verb",
+      "chinese": "清洁的",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "see",
+      "pos": "verb",
+      "chinese": "看见",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "has",
+      "pos": "verb",
+      "chinese": "有",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "study",
+      "pos": "verb/noun",
+      "chinese": "学习/书房",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "fish",
+      "pos": "noun/verb",
+      "chinese": "鱼/钓鱼",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "phone",
+      "pos": "noun/verb",
+      "chinese": "电话/打电话",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "open",
+      "pos": "verb/adjective",
+      "chinese": "开着的/打开",
+      "pos_list": [
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "please",
+      "pos": "verb/interjection",
+      "chinese": "请/使高兴",
+      "pos_list": [
+        "verb",
+        "interjection"
+      ]
+    },
+    {
+      "word": "wait",
+      "pos": "verb",
+      "chinese": "等",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "help",
+      "pos": "verb/noun",
+      "chinese": "帮助",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "pass",
+      "pos": "verb/noun",
+      "chinese": "传递",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "try",
+      "pos": "verb/noun",
+      "chinese": "尝试",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "show",
+      "pos": "verb/noun",
+      "chinese": "展示",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "use",
+      "pos": "verb/noun",
+      "chinese": "使用",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "come",
+      "pos": "verb",
+      "chinese": "来",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "nurse",
+      "pos": "noun/verb",
+      "chinese": "护士",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "welcome",
+      "pos": "verb/noun/adjective",
+      "chinese": "欢迎",
+      "pos_list": [
+        "verb",
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "is",
+      "pos": "verb/auxiliary",
+      "chinese": "是",
+      "pos_list": [
+        "verb",
+        "auxiliary"
+      ]
+    },
+    {
+      "word": "run",
+      "pos": "verb",
+      "chinese": "跑",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "it's",
+      "pos": "pronoun/verb",
+      "chinese": "它是",
+      "pos_list": [
+        "pronoun",
+        "verb"
+      ]
+    },
+    {
+      "word": "get",
+      "pos": "verb",
+      "chinese": "得到 获得",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "hurry",
+      "pos": "verb",
+      "chinese": "抓紧;赶快",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "take",
+      "pos": "verb",
+      "chinese": "买/拿",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "are",
+      "pos": "verb/auxiliary",
+      "chinese": "是",
+      "pos_list": [
+        "verb",
+        "auxiliary"
+      ]
+    },
+    {
+      "word": "aren't",
+      "pos": "verb/auxiliary",
+      "chinese": "不是",
+      "pos_list": [
+        "verb",
+        "auxiliary"
+      ]
+    },
+    {
+      "word": "know",
+      "pos": "verb",
+      "chinese": "知道",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "wears",
+      "pos": "verb",
+      "chinese": "穿",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "play",
+      "pos": "verb",
+      "chinese": "玩, 踢",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "rain",
+      "pos": "noun/verb",
+      "chinese": "雨/下雨",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "snow",
+      "pos": "noun/verb",
+      "chinese": "雪/下雪",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "close",
+      "pos": "verb",
+      "chinese": "关, 关上",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "that's",
+      "pos": "pronoun/verb",
+      "chinese": "那是",
+      "pos_list": [
+        "pronoun",
+        "verb"
+      ]
+    },
+    {
+      "word": "want",
+      "pos": "verb",
+      "chinese": "想要",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "love",
+      "pos": "verb/noun",
+      "chinese": "爱;热爱",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "sound",
+      "pos": "verb/noun",
+      "chinese": "听起来/声音",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "have to",
+      "pos": "verb/auxiliary",
+      "chinese": "不得不",
+      "pos_list": [
+        "verb",
+        "auxiliary"
+      ]
+    },
+    {
+      "word": "eat",
+      "pos": "verb",
+      "chinese": "吃",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "tell",
+      "pos": "verb",
+      "chinese": "告诉；说",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "work",
+      "pos": "noun/verb",
+      "chinese": "工作",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "exercise",
+      "pos": "noun/verb",
+      "chinese": "晨练/锻炼",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "spring",
+      "pos": "noun/verb",
+      "chinese": "春天",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "fall",
+      "pos": "noun/verb",
+      "chinese": "秋天",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "swim",
+      "pos": "verb/noun",
+      "chinese": "游泳",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "skate",
+      "pos": "verb/noun",
+      "chinese": "滑冰；滑冰鞋",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "climbing",
+      "pos": "verb",
+      "chinese": "爬",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "shopping",
+      "pos": "verb",
+      "chinese": "购物/买东西",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "visit",
+      "pos": "verb",
+      "chinese": "看望",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "hiking",
+      "pos": "verb",
+      "chinese": "远足",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "fly",
+      "pos": "verb",
+      "chinese": "放/飞",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "make",
+      "pos": "verb",
+      "chinese": "制作",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "plant",
+      "pos": "verb",
+      "chinese": "种植",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "be",
+      "pos": "verb",
+      "chinese": "是",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "cause",
+      "pos": "noun/verb",
+      "chinese": "原因/引起",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "sleep",
+      "pos": "verb",
+      "chinese": "睡觉",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "send",
+      "pos": "verb",
+      "chinese": "寄；发送",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "draw",
+      "pos": "verb",
+      "chinese": "画",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "cook",
+      "pos": "verb",
+      "chinese": "做饭",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "read",
+      "pos": "verb",
+      "chinese": "读",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "answer",
+      "pos": "verb",
+      "chinese": "接",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "talk",
+      "pos": "verb",
+      "chinese": "讲话",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "listen",
+      "pos": "verb",
+      "chinese": "听",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "write",
+      "pos": "verb",
+      "chinese": "写",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "speak",
+      "pos": "verb",
+      "chinese": "讲",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "hold",
+      "pos": "verb",
+      "chinese": "持",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "call",
+      "pos": "verb",
+      "chinese": "打电话",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "jump",
+      "pos": "verb",
+      "chinese": "跳",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "walk",
+      "pos": "verb",
+      "chinese": "走",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "climb",
+      "pos": "verb",
+      "chinese": "往上爬",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "fight",
+      "pos": "verb",
+      "chinese": "打架",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "swing",
+      "pos": "verb/noun",
+      "chinese": "荡；荡秋千",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "leave",
+      "pos": "verb",
+      "chinese": "离开",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "stop",
+      "pos": "verb/noun",
+      "chinese": "停；停车站",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "remember",
+      "pos": "verb",
+      "chinese": "记住",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "find",
+      "pos": "verb",
+      "chinese": "寻找；找到",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "mean",
+      "pos": "verb",
+      "chinese": "意思是",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "drive",
+      "pos": "verb",
+      "chinese": "驾驶",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "turn",
+      "pos": "verb/noun",
+      "chinese": "转弯",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "start",
+      "pos": "verb/noun",
+      "chinese": "开始",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "post",
+      "pos": "noun/verb",
+      "chinese": "邮寄/张贴",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "buy",
+      "pos": "verb",
+      "chinese": "买",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "stand",
+      "pos": "noun/verb",
+      "chinese": "摊位/站立",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "pet",
+      "pos": "noun/verb",
+      "chinese": "宠物/爱抚",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "shop",
+      "pos": "noun/verb",
+      "chinese": "商店/购物",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "need",
+      "pos": "verb/noun",
+      "chinese": "需要/需求",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "ride",
+      "pos": "verb/noun",
+      "chinese": "骑/乘坐",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "riding",
+      "pos": "verb/noun",
+      "chinese": "骑（动名词）/骑行",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "dive",
+      "pos": "verb/noun",
+      "chinese": "跳水/潜水",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "diving",
+      "pos": "verb/noun",
+      "chinese": "跳水（动名词）/潜水",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "making",
+      "pos": "verb/noun",
+      "chinese": "制作（动名词）/制作",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "collect",
+      "pos": "verb",
+      "chinese": "收集",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "collecting",
+      "pos": "verb/noun",
+      "chinese": "收集（动名词）/收集",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "live",
+      "pos": "verb/adjective",
+      "chinese": "居住；住/现场的",
+      "pos_list": [
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "lives",
+      "pos": "verb",
+      "chinese": "居住；住（第三人称单数）",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "teach",
+      "pos": "verb",
+      "chinese": "教",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "teaches",
+      "pos": "verb",
+      "chinese": "教（第三人称单数）",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "goes",
+      "pos": "verb",
+      "chinese": "去（第三人称单数）",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "watch",
+      "pos": "verb/noun",
+      "chinese": "看/手表",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "watches",
+      "pos": "verb/noun",
+      "chinese": "看（第三人称单数）/手表（复数）",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "reads",
+      "pos": "verb",
+      "chinese": "读；看（第三人称单数）",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "does",
+      "pos": "verb/auxiliary",
+      "chinese": "做/助动词（第三人称单数）",
+      "pos_list": [
+        "verb",
+        "auxiliary"
+      ]
+    },
+    {
+      "word": "doesn't",
+      "pos": "auxiliary/verb",
+      "chinese": "不",
+      "pos_list": [
+        "auxiliary",
+        "verb"
+      ]
+    },
+    {
+      "word": "say",
+      "pos": "verb",
+      "chinese": "说；讲",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "design",
+      "pos": "noun/verb",
+      "chinese": "设计",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "enjoy",
+      "pos": "verb",
+      "chinese": "从…获得乐趣；享受",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "come from",
+      "pos": "phrase/verb",
+      "chinese": "来自……;从……来",
+      "pos_list": [
+        "phrase",
+        "verb"
+      ]
+    },
+    {
+      "word": "shine",
+      "pos": "verb",
+      "chinese": "照耀",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "become",
+      "pos": "verb",
+      "chinese": "变成",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "drop",
+      "pos": "noun/verb",
+      "chinese": "(液体的)珠；滴",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "wake up",
+      "pos": "phrase/verb",
+      "chinese": "醒；醒来",
+      "pos_list": [
+        "phrase",
+        "verb"
+      ]
+    },
+    {
+      "word": "feel",
+      "pos": "verb",
+      "chinese": "感觉到；感受到",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "think",
+      "pos": "verb",
+      "chinese": "想；思考",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "come out",
+      "pos": "phrase/verb",
+      "chinese": "露出;出现",
+      "pos_list": [
+        "phrase",
+        "verb"
+      ]
+    },
+    {
+      "word": "sprout",
+      "pos": "noun/verb",
+      "chinese": "苗;嫩芽",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "put",
+      "pos": "verb",
+      "chinese": "放；放置",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "wear",
+      "pos": "verb",
+      "chinese": "穿",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "hurt",
+      "pos": "verb",
+      "chinese": "疼痛",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "worry",
+      "pos": "verb/noun",
+      "chinese": "烦恼；忧虑",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "drink",
+      "pos": "verb/noun",
+      "chinese": "喝/饮料",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "stay",
+      "pos": "verb",
+      "chinese": "在;逗留",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "fail",
+      "pos": "verb/noun",
+      "chinese": "不及格；失败",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "test",
+      "pos": "verb/noun",
+      "chinese": "测试",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "hear",
+      "pos": "verb",
+      "chinese": "听见；听到",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "match",
+      "pos": "verb/noun",
+      "chinese": "比赛",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "kick",
+      "pos": "verb",
+      "chinese": "踢",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "bounce",
+      "pos": "verb",
+      "chinese": "反弹",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "guess",
+      "pos": "verb/noun",
+      "chinese": "猜测",
+      "pos_list": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "win",
+      "pos": "verb",
+      "chinese": "赢",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "wash",
+      "pos": "verb",
+      "chinese": "洗",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "do",
+      "pos": "verb/auxiliary",
+      "chinese": "做",
+      "pos_list": [
+        "verb",
+        "auxiliary"
+      ]
+    },
+    {
+      "word": "return",
+      "pos": "verb",
+      "chinese": "送回；归还",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "learn",
+      "pos": "verb",
+      "chinese": "学习",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "sing",
+      "pos": "verb",
+      "chinese": "唱歌",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "sang",
+      "pos": "verb",
+      "chinese": "唱（过去式）",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "dance",
+      "pos": "verb",
+      "chinese": "跳舞",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "danced",
+      "pos": "verb",
+      "chinese": "跳舞（过去式）",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "ate",
+      "pos": "verb",
+      "chinese": "吃（过去式）",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "took",
+      "pos": "verb",
+      "chinese": "照；拍（过去式）",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "climbed",
+      "pos": "verb",
+      "chinese": "爬（过去式）",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "had",
+      "pos": "verb/auxiliary",
+      "chinese": "有（过去式）",
+      "pos_list": [
+        "verb",
+        "auxiliary"
+      ]
+    },
+    {
+      "word": "bought",
+      "pos": "verb",
+      "chinese": "买（过去式）",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "row",
+      "pos": "verb",
+      "chinese": "划（船）",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "rowed",
+      "pos": "verb",
+      "chinese": "划（船）（过去式）",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "saw",
+      "pos": "verb",
+      "chinese": "看见（过去式）",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "went",
+      "pos": "verb",
+      "chinese": "去（过去式）",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "skating",
+      "pos": "noun/verb",
+      "chinese": "滑冰",
+      "pos_list": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "got",
+      "pos": "verb",
+      "chinese": "到达（过去式）",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "relax",
+      "pos": "verb",
+      "chinese": "放松",
+      "pos_list": [
+        "verb"
+      ]
+    },
+    {
+      "word": "prepare",
+      "pos": "verb",
+      "chinese": "准备",
+      "pos_list": [
+        "verb"
+      ]
+    }
+  ]
+}

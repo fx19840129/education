@@ -1,0 +1,165 @@
+{
+    "初中英语句法": {
+      "title": "初中英语句法结构与常见模式",
+      "description": "涵盖初中英语中对句子结构、时态、语态、情态动词、非谓语动词和简单从句的学习要点。",
+      "sentence_structures": [
+        {
+          "structure_name": "主语-谓语-宾语 (SVO)",
+          "description": "最基础的结构，初中会扩展其应用和复杂性。",
+          "components": ["Subject (S)", "Verb (V)", "Object (O)"],
+          "details": "动词可接不同类型的宾语，如名词、代词、名词性从句。",
+          "examples": [
+            {"sentence": "He reads a book.", "analysis": "SVO"},
+            {"sentence": "I know that he is kind.", "analysis": "S V O (Object Clause)"}
+          ]
+        },
+        {
+          "structure_name": "主语-谓语-表语 (SVC)",
+          "description": "系动词后的表语学习更加丰富，包括形容词、名词、不定式、动名词、介词短语等。",
+          "components": ["Subject (S)", "Verb (V - Linking Verb)", "Complement (C)"],
+          "details": "系动词种类增加 (seem, become, feel, look, sound, smell, taste)；表语形式多样化。",
+          "examples": [
+            {"sentence": "She seems tired.", "analysis": "SVC (Adjective)"},
+            {"sentence": "This is an interesting book.", "analysis": "SVC (Noun Phrase)"},
+            {"sentence": "To see is to believe.", "analysis": "SVC (Infinitive Phrases)"}
+          ]
+        },
+        {
+          "structure_name": "主语-谓语-间接宾语-直接宾语 (SVOO)",
+          "description": "常用于表示给予、传授等动作。",
+          "components": ["Subject (S)", "Verb (V)", "Indirect Object (IO)", "Direct Object (DO)"],
+          "details": "某些动词（如 give, tell, teach）后面可接双宾语；间接宾语可转换为介词短语（to/for）置于直接宾语后。",
+          "examples": [
+            {"sentence": "He told us a funny story.", "analysis": "SVOO"},
+            {"sentence": "He told a funny story to us.", "analysis": "SVO + prep. phrase"}
+          ]
+        },
+        {
+          "structure_name": "主语-谓语-宾语-宾语补足语 (SVOC)",
+          "description": "用于描述宾语的状态或使宾语变为某种状态。",
+          "components": ["Subject (S)", "Verb (V)", "Object (O)", "Object Complement (OC)"],
+          "details": "常见动词 (make, find, call, consider, leave)；宾补多为形容词、名词、不定式、分词。",
+          "examples": [
+            {"sentence": "They made him captain.", "analysis": "SVOC (Noun)"},
+            {"sentence": "We found the movie interesting.", "analysis": "SVOC (Adjective)"},
+            {"sentence": "I saw him cross the street.", "analysis": "SVOC (Base Verb)"}
+          ]
+        },
+        {
+          "structure_name": "状语的丰富化 (Enriched Adverbials)",
+          "description": "状语种类和位置更加灵活，提供更详细的背景信息。",
+          "types": [
+            "时间状语 (Time)",
+            "地点状语 (Place)",
+            "方式状语 (Manner)",
+            "原因状语 (Reason)",
+            "目的状语 (Purpose)",
+            "结果状语 (Result)",
+            "条件状语 (Condition)"
+          ],
+          "forms": ["副词/副词短语", "介词短语", "不定式短语", "分词短语", "状语从句 (初步)"],
+          "examples": [
+            {"sentence": "Because it was raining, we stayed home.", "analysis": "Reason Clause + SVO"},
+            {"sentence": "He ran quickly to catch the bus.", "analysis": "S V A (Manner) A (Purpose)"}
+          ]
+        }
+      ],
+      "common_sentence_patterns": [
+        {
+          "pattern_name": "时态句型",
+          "type": "陈述句/疑问句/否定句",
+          "description": "根据不同时态（现在、过去、将来、进行、完成）的谓语形式。",
+          "examples": [
+            {"sentence": "She is reading.", "analysis": "Present Continuous"},
+            {"sentence": "He has finished his homework.", "analysis": "Present Perfect"}
+          ]
+        },
+        {
+          "pattern_name": "情态动词句型",
+          "type": "陈述句/疑问句/否定句",
+          "description": "表达能力、可能、义务、建议等。",
+          "components": ["Modal Verb", "Base Verb"],
+          "examples": [
+            {"sentence": "You should study harder.", "analysis": "Modal + Base Verb"},
+            {"sentence": "Can you help me?", "analysis": "Modal as Question"}
+          ]
+        },
+        {
+          "pattern_name": "被动语态句型",
+          "type": "陈述句/疑问句/否定句",
+          "description": "强调动作承受者。",
+          "components": ["Subject", "be verb + Past Participle", "(by + Agent)"],
+          "examples": [
+            {"sentence": "The letter was sent yesterday.", "analysis": "Past Simple Passive"},
+            {"sentence": "Mistakes must be corrected.", "analysis": "Modal Passive"}
+          ]
+        },
+        {
+          "pattern_name": "非谓语动词句型",
+          "type": "句子成分",
+          "description": "不定式、-ing形式、过去分词作主语、宾语、定语、状语。",
+          "examples": [
+            {"sentence": "Swimming is good exercise.", "analysis": "Gerund as Subject"},
+            {"sentence": "I have a lot of work to do.", "analysis": "Infinitive as Adjective"},
+            {"sentence": "The girl wearing a red dress is my sister.", "analysis": "Present Participle as Adjective"}
+          ]
+        },
+        {
+          "pattern_name": "从句句型 (初步)",
+          "type": "复合句",
+          "description": "名词性从句、定语从句、状语从句。",
+          "examples": [
+            {"sentence": "I don't know where he is.", "analysis": "Noun Clause as Object"},
+            {"sentence": "This is the house where I live.", "analysis": "Relative Clause"},
+            {"sentence": "If you study hard, you will succeed.", "analysis": "Conditional Clause"}
+          ]
+        },
+        {
+          "pattern_name": "复合句 (并列结构)",
+          "type": "复合句",
+          "description": "使用并列连词连接独立分句。",
+          "components": ["Clause 1", "Coordinating Conjunction", "Clause 2"],
+          "examples": [
+            {"sentence": "It rained, so we stayed indoors.", "analysis": "Compound Sentence (so)"}
+          ]
+        }
+      ],
+      "key_concepts": [
+        {
+          "concept_name": "句子结构扩展",
+          "description": "掌握 SVOO, SVOC 结构，以及成分（如状语、表语）的多样化形式。",
+          "level": "深化"
+        },
+        {
+          "concept_name": "时态系统",
+          "description": "掌握更多时态（现在、过去、将来、进行、完成）及其在句子中的运用。",
+          "level": "深化"
+        },
+        {
+          "concept_name": "情态动词用法",
+          "description": "理解并使用情态动词表达推测、能力、义务、建议等。",
+          "level": "引入与掌握"
+        },
+        {
+          "concept_name": "被动语态",
+          "description": "理解并运用被动语态，强调动作的承受者。",
+          "level": "引入与掌握"
+        },
+        {
+          "concept_name": "非谓语动词",
+          "description": "掌握不定式、-ing形式、过去分词在句子中的多种功能。",
+          "level": "引入与掌握"
+        },
+        {
+          "concept_name": "从句",
+          "description": "初步接触名词性从句、定语从句、状语从句，理解其构成和在复合句中的作用。",
+          "level": "引入"
+        },
+        {
+          "concept_name": "复合句",
+          "description": "理解并能使用并列连词构建复合句。",
+          "level": "引入与掌握"
+        }
+      ]
+    }
+  }

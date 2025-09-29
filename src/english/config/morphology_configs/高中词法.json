@@ -1,0 +1,206 @@
+{
+    "高中英语词法": {
+      "title": "高中英语词法学习内容 (词性、变化、构词与词义)",
+      "description": "深入掌握词性用法，熟练运用各种词形变化，系统学习构词法，并重视词汇的语境化理解与辨析。",
+      "parts_of_speech": [
+        {
+          "pos_name": "名词 (Noun)",
+          "pos_description": "表示人、事物、地点、概念、活动等。",
+          "learning_focus": [
+            "掌握抽象名词、集体名词、物质名词、专有名词等的用法。",
+            "理解名词在句子中作主语、宾语、表语、同位语、补语等多种功能。",
+            "学习名词的度量单位（如 a piece of, a cup of）。",
+            "理解名词的数、性、格在不同语境下的体现。"
+          ],
+          "form_changes": [
+            {
+              "change_type": "复数 (Plural)",
+              "description": "表示一个以上的事物。",
+              "rules_examples": [
+                "更全面的不规则复数",
+                "外来词复数 (media, alumni, theses)",
+                "词缀形式的复数 (man-made: men-made)"
+              ]
+            },
+            {
+              "change_type": "所有格 (Possessive Case)",
+              "description": "表示所属关系。",
+              "rules_examples": [
+                "重点掌握各种情况下的 's 和 ' 的用法",
+                "双重所有格 (a friend of mine)"
+              ]
+            }
+          ],
+          "examples": ["freedom", "knowledge", "equipment", "news", "scissors", "police", "staff", "alumni", "agenda"]
+        },
+        {
+          "pos_name": "代词 (Pronoun)",
+          "pos_description": "代替名词或指示事物。",
+          "learning_focus": [
+            "全面熟练掌握人称代词、指示代词、疑问代词、反身代词。",
+            "深入学习不定代词（someone, anyone, nobody, everything, both, neither, either, each, another, other, etc.）的用法和搭配。",
+            "理解关系代词（who, whom, whose, which, that）和关系副词（when, where, why）在定语从句中的作用。",
+            "了解代词的指代明确性。"
+          ],
+          "form_changes": null,
+          "examples": ["themselves", "everyone", "something", "whoever", "whichever", "whosever", "each other", "one another"]
+        },
+        {
+          "pos_name": "动词 (Verb)",
+          "pos_description": "表示动作、状态、过程。",
+          "learning_focus": [
+            "全面掌握所有时态（包括完成进行时），并能灵活运用。",
+            "深入掌握情态动词（including would, had better, ought to, used to）及其与完成时态的组合。",
+            "熟练掌握被动语态的各种形式。",
+            "深入掌握非谓语动词（不定式、动名词、分词）的各种功能和形式（如独立成分）。",
+            "掌握动词词组（phrasal verbs）的高级用法和搭配。",
+            "学习使役动词 (make, have, let, get) 的结构。",
+            "学习动词作主语、宾语、表语、定语、状语等。"
+          ],
+          "form_changes": [
+            {
+              "change_type": "时态变化 (Tense Forms)",
+              "description": "全面掌握各种时态，包括完成进行时。",
+              "rules_examples": [
+                "Future Perfect Continuous",
+                "Past Perfect Continuous",
+                "Present Perfect Continuous",
+                "Future Perfect"
+              ]
+            },
+            {
+              "change_type": "非谓语动词 (Non-finite Verb Forms)",
+              "description": "不定式、动名词、分词的复杂用法。",
+              "rules_examples": [
+                "不定式作宾补 (allow sb to do)",
+                "动名词作介词宾语",
+                "分词短语作独立成分",
+                "不定式完成式",
+                "动名词完成式"
+              ]
+            },
+            {
+              "change_type": "被动语态 (Passive Voice Forms)",
+              "description": "所有时态和情态动词的被动语态。",
+              "rules_examples": ["has been done", "will have been done", "should have been done"]
+            },
+            {
+              "change_type": "使役动词结构 (Causative Verbs)",
+              "description": "have/get/make/let + object + (to) verb。",
+              "rules_examples": ["have someone do sth", "get someone to do sth", "make someone do sth", "let someone do sth"]
+            }
+          ],
+          "examples": ["accomplish", "achieve", "attempt", "consider", "deny", "imagine", "suggest", "insist", "recommend", "finish", "be supposed to", "used to", "ought to", "have something done"]
+        },
+        {
+          "pos_name": "形容词 (Adjective)",
+          "pos_description": "修饰名词或代词。",
+          "learning_focus": [
+            "深入理解形容词的比较级和最高级。",
+            "学习形容词与副词的辨析。",
+            "掌握形容词作表语、定语、同位语的用法。",
+            "接触一些双重否定表示肯定。",
+            "理解部分形容词（如：important, necessary）引导虚拟语气。"
+          ],
+          "form_changes": [
+            {
+              "change_type": "比较级/最高级 (Comparative/Superlative)",
+              "description": "全面掌握规则与不规则变化。",
+              "rules_examples": ["more...than", "the most...", "as...as"]
+            }
+          ],
+          "examples": ["enormous", "tremendous", "significant", "essential", "vital", "capable", "unable", "conscious", "unconscious", "ambitious"]
+        },
+        {
+          "pos_name": "副词 (Adverb)",
+          "pos_description": "修饰动词、形容词、副词或整个句子。",
+          "learning_focus": [
+            "熟练运用副词的比较级和最高级。",
+            "掌握表示程度、频率、时间、地点、方式、原因、结果、目的、条件、让步等的副词。",
+            "学习副词在句子中的灵活位置。",
+            "区分派生副词与不规则副词。",
+            "学习“词组副词”（如：in fact, on the contrary）。"
+          ],
+          "form_changes": [
+            {
+              "change_type": "比较级/最高级 (Comparative/Superlative)",
+              "description": "全面掌握。",
+              "rules_examples": ["more/less", "most/least"]
+            }
+          ],
+          "examples": ["gradually", "constantly", "eventually", "consequently", "therefore", "however", "meanwhile", "indeed", "in fact", "on the contrary", "frankly"]
+        },
+        {
+          "pos_name": "介词 (Preposition)",
+          "pos_description": "表示词与词之间的关系。",
+          "learning_focus": [
+            "深入理解介词的固定搭配（如：depend on, succeed in, believe in）。",
+            "掌握介词引导的各种状语（时间、地点、原因、目的、方式、伴随等）。",
+            "学习介词的抽象用法。",
+            "区分近义介词的细微差别。"
+          ],
+          "form_changes": null,
+          "examples": ["despite", "in spite of", "concerning", "regarding", "pursuant to", "in addition to", "as for", "apart from"]
+        },
+        {
+          "pos_name": "连词 (Conjunction)",
+          "pos_description": "连接词、短语、从句，构成复杂句。",
+          "learning_focus": [
+            "全面掌握并列连词（and, but, or, so, for, yet, nor）。",
+            "熟练掌握从属连词，用于引导各种类型的从句（名词性、定语、状语）。",
+            "学习一些关联词组（not only...but also, either...or, neither...nor, both...and, etc.）。"
+          ],
+          "form_changes": null,
+          "examples": ["provided that", "as long as", "in order that", "so that", "now that", "even though", "whereas", "moreover", "nevertheless"]
+        },
+        {
+          "pos_name": "冠词 (Article)",
+          "pos_description": "放在名词前，表示其确定性。",
+          "learning_focus": [
+            "掌握冠词的精细用法，包括特殊情况下的省略和使用。",
+            "理解冠词与名词数、性的配合。"
+          ],
+          "form_changes": null,
+          "examples": ["a", "an", "the"]
+        }
+      ],
+      "word_formation": {
+        "formation_type": "派生法 (Derivation) 与复合法 (Compounding)",
+        "description": "系统学习通过词缀（前缀、后缀）和词与词的组合构成新词。",
+        "focus_elements": [
+          "更多、更复杂的词缀，理解其确切含义和作用。",
+          "理解复合词的构成方式（名词+名词，形容词+名词，动词+名词等）。",
+          "识别开式复合词、闭式复合词、混合式复合词。",
+          "学习由非谓语动词构成的复合结构（如：break-even）。"
+        ],
+        "examples": ["comprehensible", "incomprehensible", "irresistible", "accountability", "leadership", "meaningful", "worthwhile", "hand-in-hand", "well-being", "break-even", "mother-in-law"]
+      },
+      "key_concepts": [
+        {
+          "concept_name": "词性与功能的灵活性",
+          "description": "理解词性可以在特定语境下发生转换（如名词作动词），并理解词汇的多样化功能。",
+          "level": "深化"
+        },
+        {
+          "concept_name": "词形变化与搭配",
+          "description": "熟练运用各种时态、语态、非谓语、虚拟语气、比较级最高级等，并注重与词汇的正确搭配。",
+          "level": "熟练"
+        },
+        {
+          "concept_name": "构词法的综合运用",
+          "description": "熟练运用派生法和复合法，有效扩展词汇量，推断生词含义。",
+          "level": "掌握"
+        },
+        {
+          "concept_name": "词义的深度理解与辨析",
+          "description": "区分近义词、同形异义词、多义词，理解词汇的语体色彩和隐含意义。",
+          "level": "深化"
+        },
+        {
+          "concept_name": "词汇在复杂语篇中的作用",
+          "description": "理解词汇如何构建语篇的逻辑关系、表达作者的态度和情感。",
+          "level": "熟练"
+        }
+      ]
+    }
+  }

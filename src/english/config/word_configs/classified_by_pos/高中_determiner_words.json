@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "title": "限定词 词库",
+    "description": "从文档中提取的限定词",
+    "part_of_speech": "determiner",
+    "chinese_name": "限定词",
+    "word_count": 4,
+    "creation_date": "2025-09-27 12:54:20",
+    "source": "extract_words_minimal.py"
+  },
+  "words": [
+    {
+      "word": "your",
+      "pos": "determiner/pronoun",
+      "chinese": "你的，你们的",
+      "pos_list": [
+        "determiner",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "some",
+      "pos": "determiner/pronoun",
+      "chinese": "几个；一些；有些；某(人或物)/一些",
+      "pos_list": [
+        "determiner",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "few",
+      "pos": "determiner/adjective",
+      "chinese": "[表肯定]有些,几个；[表否定]几乎没有的",
+      "pos_list": [
+        "determiner",
+        "adjective"
+      ]
+    },
+    {
+      "word": "every",
+      "pos": "determiner",
+      "chinese": "每一个的,每个的；每隔…的；全部的",
+      "pos_list": [
+        "determiner"
+      ]
+    }
+  ]
+}

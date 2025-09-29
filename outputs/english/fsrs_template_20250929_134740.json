@@ -1,0 +1,23 @@
+{
+  "id": "20250929_134740",
+  "type": "fsrs_learning_template",
+  "metadata": {
+    "stage": "第一阶段：基础巩固 (小学中高年级)",
+    "days": 5,
+    "minutes_per_day": 20,
+    "ai_model": "GLM-GLM-4.5",
+    "generated_at": "2025-09-29T13:47:40.188188",
+    "ai_response_time": 117.41446781158447,
+    "ai_usage": {
+      "completion_tokens": 8000,
+      "prompt_tokens": 1543,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 9543
+    },
+    "parse_error": "Expecting property name enclosed in double quotes: line 37 column 4 (char 1376)"
+  },
+  "fsrs_template": null,
+  "raw_content": "{\n  \"metadata\": {\n    \"total_study_days\": 5,\n    \"daily_learning_minutes_target\": 20,\n    \"total_words_in_library\": 984,\n    \"estimated_avg_word_rotations_per_cycle\": \"1.5\",\n    \"learning_efficiency_estimate\": 2,\n    \"review_efficiency_estimate\": 1,\n    \"morphology_practice_time_estimate\": 5,\n    \"syntax_practice_time_estimate\": 10\n  },\n  \"word_categories\": {\n    \"core_functional\": [\"noun\", \"verb\", \"adjective\"],\n    \"connectors_relational\": [\"adverb\", \"preposition\", \"conjunction\", \"pronoun\", \"determiner\", \"article\", \"numeral\"],\n    \"auxiliary_supplemental\": [\"interjection\", \"modal\", \"auxiliary\", \"phrase\"]\n  },\n  \"fsrs_initial_parameters\": {\n    \"default_ease\": \"2.3\",\n    \"new_word_first_review_interval_days\": \"1\"\n  },\n  \"daily_planning_guidelines\": {\n    \"avg_new_words_per_day\": \"3\",\n    \"avg_review_words_per_day\": \"4\",\n    \"new_words_composition_guideline\": {\n      \"core_functional_percentage\": \"68.9\",\n      \"connectors_relational_percentage\": \"16.5\",\n      \"auxiliary_supplemental_percentage\": \"14.6\"\n    },\n    \"suggested_morphology_practice_minutes_per_day\": \"5\",\n    \"suggested_syntax_practice_minutes_per_day\": \"5\",\n    \"notes_for_fsrs_implementation\": \"这是一个宏观指导模板，具体的每日计划和复习安排将由FSRS算法根据实际学习数据动态生成。建议在实际应用中根据学习效果调整参数。\"\n  },\n  \"example_review_item_structure_for_fsrs\": {\n    \"id\": \"PLACEHOLDER_ID\",\n    \"text\": \"PLACEHOLDER_TEXT\",\n    \"category\": \"...\",\n   "
+}

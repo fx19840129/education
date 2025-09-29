@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "title": "代词 词库",
+    "description": "从小学文档中提取的代词",
+    "part_of_speech": "pronoun",
+    "chinese_name": "代词",
+    "word_count": 28,
+    "creation_date": "2025-09-27 14:25:21",
+    "source": "process_elementary_words.py"
+  },
+  "words": [
+    {
+      "word": "this",
+      "pos": "pronoun/determiner",
+      "chinese": "这个",
+      "pos_list": [
+        "pronoun",
+        "determiner"
+      ]
+    },
+    {
+      "word": "I'm",
+      "pos": "pronoun/verb",
+      "chinese": "我是",
+      "pos_list": [
+        "pronoun",
+        "verb"
+      ]
+    },
+    {
+      "word": "let's",
+      "pos": "verb/pronoun",
+      "chinese": "让我们",
+      "pos_list": [
+        "verb",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "us",
+      "pos": "pronoun",
+      "chinese": "我们",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "your",
+      "pos": "determiner/pronoun",
+      "chinese": "你的；你们的",
+      "pos_list": [
+        "determiner",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "our",
+      "pos": "determiner/pronoun",
+      "chinese": "我们的",
+      "pos_list": [
+        "determiner",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "what",
+      "pos": "pronoun",
+      "chinese": "什么",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "we",
+      "pos": "pronoun",
+      "chinese": "我们",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "you",
+      "pos": "pronoun",
+      "chinese": "你;你们",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "me",
+      "pos": "pronoun",
+      "chinese": "我",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "they",
+      "pos": "pronoun",
+      "chinese": "他[她, 它]们",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "his",
+      "pos": "determiner/pronoun",
+      "chinese": "他的",
+      "pos_list": [
+        "determiner",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "he",
+      "pos": "pronoun",
+      "chinese": "他",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "who",
+      "pos": "pronoun",
+      "chinese": "谁",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "that",
+      "pos": "determiner/pronoun",
+      "chinese": "那;那个",
+      "pos_list": [
+        "determiner",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "it",
+      "pos": "pronoun",
+      "chinese": "它",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "it's",
+      "pos": "pronoun/verb",
+      "chinese": "它是",
+      "pos_list": [
+        "pronoun",
+        "verb"
+      ]
+    },
+    {
+      "word": "we'll",
+      "pos": "pronoun/auxiliary",
+      "chinese": "我们将要",
+      "pos_list": [
+        "pronoun",
+        "auxiliary"
+      ]
+    },
+    {
+      "word": "them",
+      "pos": "pronoun",
+      "chinese": "它（他、她）们",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "that's",
+      "pos": "pronoun/verb",
+      "chinese": "那是",
+      "pos_list": [
+        "pronoun",
+        "verb"
+      ]
+    },
+    {
+      "word": "she",
+      "pos": "pronoun",
+      "chinese": "她",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "her",
+      "pos": "pronoun/determiner",
+      "chinese": "她的",
+      "pos_list": [
+        "pronoun",
+        "determiner"
+      ]
+    },
+    {
+      "word": "which",
+      "pos": "determiner/pronoun",
+      "chinese": "哪一个",
+      "pos_list": [
+        "determiner",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "everyone",
+      "pos": "pronoun",
+      "chinese": "每个人",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "him",
+      "pos": "pronoun",
+      "chinese": "他（宾格）",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "something",
+      "pos": "pronoun",
+      "chinese": "某事物",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "other",
+      "pos": "adjective/pronoun",
+      "chinese": "其他的;另外的;别的",
+      "pos_list": [
+        "adjective",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "each",
+      "pos": "determiner/pronoun",
+      "chinese": "各自；每个",
+      "pos_list": [
+        "determiner",
+        "pronoun"
+      ]
+    }
+  ]
+}

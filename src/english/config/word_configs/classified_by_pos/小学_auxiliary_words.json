@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "title": "助动词 词库",
+    "description": "从小学文档中提取的助动词",
+    "part_of_speech": "auxiliary",
+    "chinese_name": "助动词",
+    "word_count": 9,
+    "creation_date": "2025-09-27 14:25:21",
+    "source": "process_elementary_words.py"
+  },
+  "words": [
+    {
+      "word": "is",
+      "pos": "verb/auxiliary",
+      "chinese": "是",
+      "pos_list": [
+        "verb",
+        "auxiliary"
+      ]
+    },
+    {
+      "word": "we'll",
+      "pos": "pronoun/auxiliary",
+      "chinese": "我们将要",
+      "pos_list": [
+        "pronoun",
+        "auxiliary"
+      ]
+    },
+    {
+      "word": "are",
+      "pos": "verb/auxiliary",
+      "chinese": "是",
+      "pos_list": [
+        "verb",
+        "auxiliary"
+      ]
+    },
+    {
+      "word": "aren't",
+      "pos": "verb/auxiliary",
+      "chinese": "不是",
+      "pos_list": [
+        "verb",
+        "auxiliary"
+      ]
+    },
+    {
+      "word": "have to",
+      "pos": "verb/auxiliary",
+      "chinese": "不得不",
+      "pos_list": [
+        "verb",
+        "auxiliary"
+      ]
+    },
+    {
+      "word": "does",
+      "pos": "verb/auxiliary",
+      "chinese": "做/助动词（第三人称单数）",
+      "pos_list": [
+        "verb",
+        "auxiliary"
+      ]
+    },
+    {
+      "word": "doesn't",
+      "pos": "auxiliary/verb",
+      "chinese": "不",
+      "pos_list": [
+        "auxiliary",
+        "verb"
+      ]
+    },
+    {
+      "word": "do",
+      "pos": "verb/auxiliary",
+      "chinese": "做",
+      "pos_list": [
+        "verb",
+        "auxiliary"
+      ]
+    },
+    {
+      "word": "had",
+      "pos": "verb/auxiliary",
+      "chinese": "有（过去式）",
+      "pos_list": [
+        "verb",
+        "auxiliary"
+      ]
+    }
+  ]
+}

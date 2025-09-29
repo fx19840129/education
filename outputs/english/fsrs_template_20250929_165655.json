@@ -1,0 +1,60 @@
+{
+  "id": "20250929_165655",
+  "type": "fsrs_learning_template",
+  "metadata": {
+    "stage": "第五阶段：初高中过渡 (初三 - 高一)",
+    "days": 90,
+    "minutes_per_day": 45,
+    "ai_model": "GLM-GLM-4.5",
+    "generated_at": "2025-09-29T16:56:55.659369",
+    "ai_response_time": 52.096323013305664,
+    "ai_usage": {
+      "completion_tokens": 3535,
+      "prompt_tokens": 1209,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 4744
+    },
+    "retry_count": 1
+  },
+  "fsrs_template": {
+    "metadata": {
+      "estimated_avg_word_rotations_per_cycle": 4.5,
+      "learning_efficiency_estimate": 1.2,
+      "review_efficiency_estimate": 0.8,
+      "morphology_practice_time_estimate": 5,
+      "syntax_practice_time_estimate": 10
+    },
+    "word_categories": {
+      "core_functional_percentage": 93.16,
+      "connectors_relational_percentage": 5.59,
+      "auxiliary_supplemental_percentage": 1.25
+    },
+    "fsrs_initial_parameters": {
+      "default_ease": 1.8,
+      "new_word_first_review_interval_days": 0.26,
+      "morphology_first_review_interval_days": 0.234,
+      "syntax_first_review_interval_days": 0.273
+    },
+    "daily_planning_guidelines": {
+      "avg_new_words_per_day": 19,
+      "avg_review_words_per_day": 19,
+      "avg_new_morphology_units_per_day": 0.144,
+      "avg_review_morphology_units_per_day": 0.144,
+      "avg_new_syntax_units_per_day": 0.178,
+      "avg_review_syntax_units_per_day": 0.178,
+      "morphology_rotations_per_cycle": 2.7,
+      "syntax_rotations_per_cycle": 2.1,
+      "suggested_morphology_practice_minutes": 5,
+      "suggested_syntax_practice_minutes": 0,
+      "implementation_hint": "For high-intensity 1:1 ratio, shorten intervals by 10%; cap reviews at new words; allocate morphology/syntax evenly with 2.0 rotations/day; trim practice first if time overflows."
+    },
+    "example_review_item_structure_for_fsrs": {
+      "id": "example_id",
+      "text": "example_text",
+      "initial_interval_days": 0.26,
+      "status": "review"
+    }
+  }
+}

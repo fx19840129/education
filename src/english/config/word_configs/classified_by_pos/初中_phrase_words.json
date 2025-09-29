@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "title": "短语 词库",
+    "description": "从文档中提取的短语",
+    "part_of_speech": "phrase",
+    "chinese_name": "短语",
+    "word_count": 7,
+    "creation_date": "2025-09-27 13:45:24",
+    "source": "extract_words_minimal.py"
+  },
+  "words": [
+    {
+      "word": "computer game",
+      "pos": "phrase",
+      "chinese": "电子游戏",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "dining-room",
+      "pos": "phrase",
+      "chinese": "食堂, 饭厅",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "fruit juice",
+      "pos": "phrase",
+      "chinese": "果汁",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "Middle East",
+      "pos": "noun/phrase",
+      "chinese": "中东",
+      "pos_list": [
+        "noun",
+        "phrase"
+      ]
+    },
+    {
+      "word": "the Pacific Ocean",
+      "pos": "phrase",
+      "chinese": "太平洋",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "phrase",
+      "pos": "phrase",
+      "chinese": "短语；习惯用语",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "swimming pool",
+      "pos": "phrase",
+      "chinese": "游泳池",
+      "pos_list": [
+        "phrase"
+      ]
+    }
+  ]
+}

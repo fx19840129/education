@@ -1,0 +1,626 @@
+{
+  "metadata": {
+    "title": "代词 词库",
+    "description": "从文档中提取的代词",
+    "part_of_speech": "pronoun",
+    "chinese_name": "代词",
+    "word_count": 69,
+    "creation_date": "2025-09-27 12:54:20",
+    "source": "extract_words_minimal.py"
+  },
+  "words": [
+    {
+      "word": "yourselves",
+      "pos": "pronoun",
+      "chinese": "你们自己；你们亲自",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "yourself",
+      "pos": "pronoun",
+      "chinese": "你自己；你亲自",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "yours",
+      "pos": "pronoun",
+      "chinese": "你(们)的(所有物)",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "your",
+      "pos": "determiner/pronoun",
+      "chinese": "你的，你们的",
+      "pos_list": [
+        "determiner",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "you",
+      "pos": "pronoun",
+      "chinese": "你；你们；一个人，任何人",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "whose",
+      "pos": "pronoun",
+      "chinese": "谁的；哪(个)人的，那些(人)的",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "whom",
+      "pos": "pronoun",
+      "chinese": "谁；哪个人(who的宾格)",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "whoever",
+      "pos": "pronoun",
+      "chinese": "[引导名词从句]谁；无论谁；究竟是谁",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "who",
+      "pos": "pronoun",
+      "chinese": "谁，什么人；…的人；他，她，他们",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "whichever",
+      "pos": "pronoun/adjective",
+      "chinese": "无论哪个/无论哪个(或哪些)",
+      "pos_list": [
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "which",
+      "pos": "adjective/pronoun",
+      "chinese": "哪个，哪些；什么样的；那个，那些",
+      "pos_list": [
+        "adjective",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "where",
+      "pos": "adverb/conjunction/pronoun",
+      "chinese": "在哪/那里/哪里/然而",
+      "pos_list": [
+        "adverb",
+        "conjunction",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "when",
+      "pos": "adverb/pronoun/conjunction",
+      "chinese": "何时；当时/那时；然后；而",
+      "pos_list": [
+        "adverb",
+        "pronoun",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "whatever",
+      "pos": "pronoun/adjective",
+      "chinese": "无论什么；任何的事物/不管怎样的",
+      "pos_list": [
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "what",
+      "pos": "pronoun/adjective",
+      "chinese": "什么/多么，何等；什么；尽可能多的",
+      "pos_list": [
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "we",
+      "pos": "pronoun",
+      "chinese": "我们",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "twenty",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "二十/二十(个，只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "twelve",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "十二/十二(个，只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "their",
+      "pos": "pronoun",
+      "chinese": "他(她、它)们的",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "that",
+      "pos": "adjective/pronoun/adverb/conjunction",
+      "chinese": "那，那个/那么/引导从句",
+      "pos_list": [
+        "adjective",
+        "pronoun",
+        "adverb",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "ten",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "十/十(个，只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "such",
+      "pos": "adjective/pronoun",
+      "chinese": "这样的，这种的/这样的人，这样的事",
+      "pos_list": [
+        "adjective",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "somewhat",
+      "pos": "pronoun/adverb",
+      "chinese": "一点儿，几分",
+      "pos_list": [
+        "pronoun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "something",
+      "pos": "pronoun",
+      "chinese": "某事，某物；被视为有意义的事物",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "someone",
+      "pos": "pronoun",
+      "chinese": "某人(=somebody)",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "somebody",
+      "pos": "pronoun/noun",
+      "chinese": "某人，有人/重要人物",
+      "pos_list": [
+        "pronoun",
+        "noun"
+      ]
+    },
+    {
+      "word": "some",
+      "pos": "determiner/pronoun",
+      "chinese": "几个；一些；有些；某(人或物)/一些",
+      "pos_list": [
+        "determiner",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "sixteen",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "十六/十六(个，只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "six",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "六/六(个，只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "she",
+      "pos": "pronoun",
+      "chinese": "(主格)她",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "same",
+      "pos": "adjective/pronoun/adverb",
+      "chinese": "相同的/相同的人(或物)/同样地",
+      "pos_list": [
+        "adjective",
+        "pronoun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "ourselves",
+      "pos": "pronoun",
+      "chinese": "[反身代词]我们自己；我们亲自",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "ours",
+      "pos": "pronoun",
+      "chinese": "[we的物主代词]我们的(所有物)",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "our",
+      "pos": "pronoun",
+      "chinese": "[we的所有格]我们的",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "other",
+      "pos": "adjective/noun/pronoun",
+      "chinese": "另外的，其他的/另一个人(或事)",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "oneself",
+      "pos": "pronoun",
+      "chinese": "[反身代词]自己；亲自，本人",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "one",
+      "pos": "numeral/pronoun",
+      "chinese": "一/一个(只)(表示代替可数的东西)",
+      "pos_list": [
+        "numeral",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "none",
+      "pos": "pronoun/adverb",
+      "chinese": "没有任何人(东西)；都不/一点也不",
+      "pos_list": [
+        "pronoun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "nobody",
+      "pos": "pronoun/noun",
+      "chinese": "谁也不/小人物，无足轻重的人物",
+      "pos_list": [
+        "pronoun",
+        "noun"
+      ]
+    },
+    {
+      "word": "nine",
+      "pos": "numeral/pronoun/adverb",
+      "chinese": "九/九(个，只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "neither",
+      "pos": "adjective/pronoun/conjunction/adverb",
+      "chinese": "两者都不的/两者都不/也不",
+      "pos_list": [
+        "adjective",
+        "pronoun",
+        "conjunction",
+        "adverb"
+      ]
+    },
+    {
+      "word": "myself",
+      "pos": "pronoun",
+      "chinese": "我自己；我亲自",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "my",
+      "pos": "pronoun",
+      "chinese": "我的",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "mine",
+      "pos": "pronoun/noun/verb",
+      "chinese": "我的/矿，矿山，矿井/采掘，开矿",
+      "pos_list": [
+        "pronoun",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "me",
+      "pos": "pronoun",
+      "chinese": "我",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "many",
+      "pos": "adjective/pronoun",
+      "chinese": "许多的，多的/许多人或物，许多",
+      "pos_list": [
+        "adjective",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "itself",
+      "pos": "pronoun",
+      "chinese": "它自己，它本身",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "its",
+      "pos": "pronoun",
+      "chinese": "它的",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "it",
+      "pos": "pronoun",
+      "chinese": "它；[作无人称动词的主语]",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "I",
+      "pos": "pronoun",
+      "chinese": "(主格)我",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "his",
+      "pos": "pronoun",
+      "chinese": "他的(所有物)",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "himself",
+      "pos": "pronoun",
+      "chinese": "他自己；他本人",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "him",
+      "pos": "pronoun",
+      "chinese": "他(he的宾格形式)",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "herself",
+      "pos": "pronoun",
+      "chinese": "你自己；你亲自",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "hers",
+      "pos": "pronoun",
+      "chinese": "她的(所有物)",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "her",
+      "pos": "pronoun",
+      "chinese": "她；她的",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "he",
+      "pos": "pronoun",
+      "chinese": "他；(不论性别的)一个人",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "four",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "四/四(个,只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "forty",
+      "pos": "numeral/adjective/pronoun",
+      "chinese": "四十/四十(个,只.)",
+      "pos_list": [
+        "numeral",
+        "adjective",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "five",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "五/五(个,只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "first",
+      "pos": "adjective/adverb/noun/pronoun",
+      "chinese": "第一；最初;首次/开始/第一名",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "fifteen",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "十五(个,只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "everything",
+      "pos": "pronoun",
+      "chinese": "每件事,一切；最重要的东西",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "everyone",
+      "pos": "pronoun",
+      "chinese": "每人,人人,各人",
+      "pos_list": [
+        "pronoun"
+      ]
+    },
+    {
+      "word": "eleven",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "十一/十一(个,只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "either",
+      "pos": "adverb/pronoun/adjective",
+      "chinese": "也(不)/两者之一/(两者中)任一的",
+      "pos_list": [
+        "adverb",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "eighty",
+      "pos": "numeral/adjective/pronoun",
+      "chinese": "八十/八十(个,只.)",
+      "pos_list": [
+        "numeral",
+        "adjective",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "eight",
+      "pos": "numeral/pronoun",
+      "chinese": "八/八(个,只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "each",
+      "pos": "pronoun/adjective/adverb",
+      "chinese": "各(每)个/各,各自的,每/对每个",
+      "pos_list": [
+        "pronoun",
+        "adjective",
+        "adverb"
+      ]
+    }
+  ]
+}

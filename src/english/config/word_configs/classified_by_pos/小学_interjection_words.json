@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "title": "感叹词 词库",
+    "description": "从小学文档中提取的感叹词",
+    "part_of_speech": "interjection",
+    "chinese_name": "感叹词",
+    "word_count": 12,
+    "creation_date": "2025-09-27 14:25:21",
+    "source": "process_elementary_words.py"
+  },
+  "words": [
+    {
+      "word": "goodbye",
+      "pos": "interjection",
+      "chinese": "再见",
+      "pos_list": [
+        "interjection"
+      ]
+    },
+    {
+      "word": "how",
+      "pos": "adverb/interjection",
+      "chinese": "多么；怎么样",
+      "pos_list": [
+        "adverb",
+        "interjection"
+      ]
+    },
+    {
+      "word": "thanks",
+      "pos": "interjection",
+      "chinese": "多谢",
+      "pos_list": [
+        "interjection"
+      ]
+    },
+    {
+      "word": "sorry",
+      "pos": "adjective/interjection",
+      "chinese": "对不起",
+      "pos_list": [
+        "adjective",
+        "interjection"
+      ]
+    },
+    {
+      "word": "please",
+      "pos": "verb/interjection",
+      "chinese": "请/使高兴",
+      "pos_list": [
+        "verb",
+        "interjection"
+      ]
+    },
+    {
+      "word": "gee",
+      "pos": "interjection",
+      "chinese": "用以表示惊奇、赞赏等",
+      "pos_list": [
+        "interjection"
+      ]
+    },
+    {
+      "word": "yes",
+      "pos": "interjection",
+      "chinese": "是的",
+      "pos_list": [
+        "interjection"
+      ]
+    },
+    {
+      "word": "hello",
+      "pos": "interjection",
+      "chinese": "喂, 你好",
+      "pos_list": [
+        "interjection"
+      ]
+    },
+    {
+      "word": "hi",
+      "pos": "interjection",
+      "chinese": "喂, 你",
+      "pos_list": [
+        "interjection"
+      ]
+    },
+    {
+      "word": "bye",
+      "pos": "interjection",
+      "chinese": "再见",
+      "pos_list": [
+        "interjection"
+      ]
+    },
+    {
+      "word": "fun",
+      "pos": "noun/interjection",
+      "chinese": "有趣;逗笑",
+      "pos_list": [
+        "noun",
+        "interjection"
+      ]
+    },
+    {
+      "word": "yeah",
+      "pos": "interjection",
+      "chinese": "是;行",
+      "pos_list": [
+        "interjection"
+      ]
+    }
+  ]
+}

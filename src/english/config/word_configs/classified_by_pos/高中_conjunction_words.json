@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "title": "连词 词库",
+    "description": "从文档中提取的连词",
+    "part_of_speech": "conjunction",
+    "chinese_name": "连词",
+    "word_count": 24,
+    "creation_date": "2025-09-27 12:54:20",
+    "source": "extract_words_minimal.py"
+  },
+  "words": [
+    {
+      "word": "yet",
+      "pos": "adverb/conjunction",
+      "chinese": "还，尚，仍然；已经/然而/甚至",
+      "pos_list": [
+        "adverb",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "why",
+      "pos": "adverb/conjunction/interjection",
+      "chinese": "为什么；…的理由/咳，哎呀",
+      "pos_list": [
+        "adverb",
+        "conjunction",
+        "interjection"
+      ]
+    },
+    {
+      "word": "while",
+      "pos": "conjunction/noun",
+      "chinese": "当…的时候；而；虽然；尽管/一会儿",
+      "pos_list": [
+        "conjunction",
+        "noun"
+      ]
+    },
+    {
+      "word": "whether",
+      "pos": "conjunction",
+      "chinese": "是否，会不会，不管，无论",
+      "pos_list": [
+        "conjunction"
+      ]
+    },
+    {
+      "word": "wherever",
+      "pos": "conjunction",
+      "chinese": "无论什么情况下(在哪里、到什么地方)",
+      "pos_list": [
+        "conjunction"
+      ]
+    },
+    {
+      "word": "where",
+      "pos": "adverb/conjunction/pronoun",
+      "chinese": "在哪/那里/哪里/然而",
+      "pos_list": [
+        "adverb",
+        "conjunction",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "whenever",
+      "pos": "conjunction/adverb",
+      "chinese": "无论什么时候；随时",
+      "pos_list": [
+        "conjunction",
+        "adverb"
+      ]
+    },
+    {
+      "word": "when",
+      "pos": "adverb/pronoun/conjunction",
+      "chinese": "何时；当时/那时；然后；而",
+      "pos_list": [
+        "adverb",
+        "pronoun",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "until",
+      "pos": "conjunction/preposition",
+      "chinese": "直到…为止，在…以前；直到…",
+      "pos_list": [
+        "conjunction",
+        "preposition"
+      ]
+    },
+    {
+      "word": "unless",
+      "pos": "conjunction/preposition",
+      "chinese": "除非/除…外",
+      "pos_list": [
+        "conjunction",
+        "preposition"
+      ]
+    },
+    {
+      "word": "that",
+      "pos": "adjective/pronoun/adverb/conjunction",
+      "chinese": "那，那个/那么/引导从句",
+      "pos_list": [
+        "adjective",
+        "pronoun",
+        "adverb",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "than",
+      "pos": "conjunction",
+      "chinese": "比（用于形容词，副词的比较级之后）",
+      "pos_list": [
+        "conjunction"
+      ]
+    },
+    {
+      "word": "so",
+      "pos": "adverb/conjunction",
+      "chinese": "那么；非常；也；不错/因此；以便",
+      "pos_list": [
+        "adverb",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "since",
+      "pos": "preposition/conjunction/adverb",
+      "chinese": "自从/自从；因为，既然/后来",
+      "pos_list": [
+        "preposition",
+        "conjunction",
+        "adverb"
+      ]
+    },
+    {
+      "word": "otherwise",
+      "pos": "adverb/conjunction",
+      "chinese": "除此以外；别样/否则，不然",
+      "pos_list": [
+        "adverb",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "or",
+      "pos": "conjunction",
+      "chinese": "或，或者(表示选择)；即，大约；否则",
+      "pos_list": [
+        "conjunction"
+      ]
+    },
+    {
+      "word": "only",
+      "pos": "adverb/adjective/conjunction",
+      "chinese": "仅仅，只不过/唯一的/可是，不过",
+      "pos_list": [
+        "adverb",
+        "adjective",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "once",
+      "pos": "adverb/conjunction/noun",
+      "chinese": "一次，曾经/一(旦)…就…/一次",
+      "pos_list": [
+        "adverb",
+        "conjunction",
+        "noun"
+      ]
+    },
+    {
+      "word": "nor",
+      "pos": "conjunction/adverb",
+      "chinese": "也不，也没有",
+      "pos_list": [
+        "conjunction",
+        "adverb"
+      ]
+    },
+    {
+      "word": "neither",
+      "pos": "adjective/pronoun/conjunction/adverb",
+      "chinese": "两者都不的/两者都不/也不",
+      "pos_list": [
+        "adjective",
+        "pronoun",
+        "conjunction",
+        "adverb"
+      ]
+    },
+    {
+      "word": "if",
+      "pos": "conjunction",
+      "chinese": "2.(用于连接宾语从句)是否；是不是",
+      "pos_list": [
+        "conjunction"
+      ]
+    },
+    {
+      "word": "however",
+      "pos": "adverb/conjunction",
+      "chinese": "然而，可是，不过，无论如何/无论",
+      "pos_list": [
+        "adverb",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "for",
+      "pos": "preposition/conjunction",
+      "chinese": "为了；给；代替；向；支持/因为",
+      "pos_list": [
+        "preposition",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "except",
+      "pos": "conjunction/preposition",
+      "chinese": "只是；要不是；除.之外",
+      "pos_list": [
+        "conjunction",
+        "preposition"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "llm_config": {
+    "default_provider": "zhipu",
+    "default_model": "glm-4.5-flash",
+    "load_balancing": true,
+    "cost_optimization": true,
+    "fallback_enabled": true,
+    "timeout": 180,
+    "max_retries": 3,
+    "single_request_timeout": 90,
+    "retry_delay": 1,
+    "enable_thinking": false,
+    "system_prompt": "生成英语练习。"
+  },
+  "providers": {
+    "zhipu": {
+      "name": "智谱AI",
+      "base_url": "https://open.bigmodel.cn/api/paas/v4",
+      "api_key": "fcefc8bb94764a8d848c030f46c131cf.HXcNcjtX9SPC7MtD",
+      "enabled": true,
+      "priority": 1,
+      "models": {
+        "GLM-4.5": {
+          "name": "GLM-4.5",
+          "display_name": "智谱AI GLM-4.5",
+          "max_tokens": 8192,
+          "supports_chat": true,
+          "supports_completion": true,
+          "supports_streaming": false,
+          "cost_per_token": 0.001,
+          "temperature": 0.7,
+          "timeout": 60,
+          "description": "智谱AI GLM-4.5 大模型，适合复杂任务"
+        },
+        "glm-4.5-flash": {
+          "name": "GLM-4.5-Flash",
+          "display_name": "智谱AI GLM-4.5 Flash",
+          "max_tokens": 8192,
+          "supports_chat": true,
+          "supports_completion": true,
+          "supports_streaming": false,
+          "cost_per_token": 0.0005,
+          "temperature": 0.7,
+          "timeout": 90,
+          "description": "智谱AI GLM-4.5 Flash 快速模型，适合简单任务"
+        },
+        "glm-4.5-turbo": {
+          "name": "glm-4.5-turbo",
+          "display_name": "智谱AI GLM-4.5 Turbo",
+          "max_tokens": 8192,
+          "supports_chat": true,
+          "supports_completion": true,
+          "supports_streaming": false,
+          "cost_per_token": 0.0008,
+          "temperature": 0.7,
+          "timeout": 45,
+          "description": "智谱AI GLM-4.5 Turbo 平衡模型，适合中等复杂度任务"
+        }
+      }
+    },
+    "deepseek": {
+      "name": "DeepSeek",
+      "base_url": "https://api.deepseek.com/v1",
+      "api_key": "sk-af4f96e23ce842588d7625a711928b2e",
+      "enabled": true,
+      "priority": 2,
+      "models": {
+        "deepseek-chat": {
+          "name": "deepseek-chat",
+          "display_name": "DeepSeek Chat",
+          "max_tokens": 8192,
+          "supports_chat": true,
+          "supports_completion": true,
+          "supports_streaming": true,
+          "cost_per_token": 0.0008,
+          "temperature": 0.7,
+          "timeout": 60,
+          "description": "DeepSeek Chat 模型，编程能力强"
+        },
+        "deepseek-coder": {
+          "name": "deepseek-coder",
+          "display_name": "DeepSeek Coder",
+          "max_tokens": 16384,
+          "supports_chat": true,
+          "supports_completion": true,
+          "supports_streaming": true,
+          "cost_per_token": 0.001,
+          "temperature": 0.7,
+          "timeout": 60,
+          "description": "DeepSeek Coder 编程专用模型"
+        }
+      }
+    },
+    "openai": {
+      "name": "OpenAI",
+      "base_url": "https://api.openai.com/v1",
+      "api_key": "your_openai_api_key_here",
+      "enabled": false,
+      "priority": 3,
+      "models": {
+        "gpt-4": {
+          "name": "gpt-4",
+          "display_name": "GPT-4",
+          "max_tokens": 8192,
+          "supports_chat": true,
+          "supports_completion": false,
+          "supports_streaming": true,
+          "cost_per_token": 0.03,
+          "temperature": 0.7,
+          "timeout": 60,
+          "description": "OpenAI GPT-4 模型，通用能力强"
+        },
+        "gpt-3.5-turbo": {
+          "name": "gpt-3.5-turbo",
+          "display_name": "GPT-3.5 Turbo",
+          "max_tokens": 4096,
+          "supports_chat": true,
+          "supports_completion": false,
+          "supports_streaming": true,
+          "cost_per_token": 0.002,
+          "temperature": 0.7,
+          "timeout": 60,
+          "description": "OpenAI GPT-3.5 Turbo 模型，性价比高"
+        }
+      }
+    }
+  },
+  "scenarios": {
+    "learning_content": {
+      "name": "学习内容生成",
+      "description": "生成学习相关的句子、练习和内容",
+      "preferred_models": ["glm-4.5-turbo"],
+      "fallback_models": ["glm-4.5-flash"],
+      "temperature": 0.7,
+      "max_tokens": 1000,
+      "timeout": 30
+    },
+    "grammar_explanation": {
+      "name": "语法解释",
+      "description": "解释语法规则和用法",
+      "preferred_models": ["glm-4.5-flash"],
+      "fallback_models": ["glm-4.5-turbo"],
+      "temperature": 0.5,
+      "max_tokens": 1500,
+      "timeout": 45
+    },
+    "exercise_generation": {
+      "name": "练习生成",
+      "description": "生成各种类型的练习题",
+      "preferred_models": ["glm-4.5-flash"],
+      "fallback_models": ["glm-4.5-turbo"],
+      "temperature": 0.8,
+      "max_tokens": 2000,
+      "timeout": 60
+    },
+    "code_generation": {
+      "name": "代码生成",
+      "description": "生成和优化代码",
+     "preferred_models": ["glm-4.5-flash"],
+      "fallback_models": ["glm-4.5-turbo"],
+      "temperature": 0.3,
+      "max_tokens": 4000,
+      "timeout": 90
+    },
+    "creative_writing": {
+      "name": "创意写作",
+      "description": "创意内容生成和写作",
+      "preferred_models": ["glm-4.5-flash"],
+      "fallback_models": ["glm-4.5-turbo"],
+      "temperature": 0.9,
+      "max_tokens": 3000,
+      "timeout": 60
+    },
+    "quick_response": {
+      "name": "快速响应",
+      "description": "需要快速响应的简单任务",
+      "preferred_models": ["glm-4.5-flash"],
+      "fallback_models": ["glm-4.5-turbo"],
+      "temperature": 0.6,
+      "max_tokens": 500,
+      "timeout": 15
+    }
+  },
+  "routing_rules": {
+    "by_cost": {
+      "enabled": true,
+      "description": "根据成本选择最便宜的可用模型",
+      "order": ["glm-4.5-flash", "glm-4.5-turbo", "deepseek-chat"]
+    },
+    "by_performance": {
+      "enabled": true,
+      "description": "根据性能选择最快的模型",
+      "order": ["glm-4.5-flash", "glm-4.5-turbo", "deepseek-chat"]
+    },
+    "by_quality": {
+      "enabled": true,
+      "description": "根据质量选择最好的模型",
+      "order": ["glm-4.5", "deepseek-chat", "gpt-3.5-turbo", "glm-4.5-flash"]
+    }
+  },
+  "monitoring": {
+    "enabled": true,
+    "log_requests": true,
+    "log_responses": false,
+    "log_errors": true,
+    "performance_tracking": true,
+    "cost_tracking": true,
+    "max_log_size": "100MB",
+    "retention_days": 30
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "title": "助动词 词库",
+    "description": "从文档中提取的助动词",
+    "part_of_speech": "auxiliary",
+    "chinese_name": "助动词",
+    "word_count": 6,
+    "creation_date": "2025-09-27 12:54:20",
+    "source": "extract_words_minimal.py"
+  },
+  "words": [
+    {
+      "word": "would",
+      "pos": "auxiliary/modal",
+      "chinese": "将；可能；将会；总是，总会；宁愿",
+      "pos_list": [
+        "auxiliary",
+        "modal"
+      ]
+    },
+    {
+      "word": "will",
+      "pos": "auxiliary/verb/noun",
+      "chinese": "将；会；愿意/意志；决心；愿望",
+      "pos_list": [
+        "auxiliary",
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "ought",
+      "pos": "auxiliary",
+      "chinese": "应该(使用时,之后应接to,再接动词原形)",
+      "pos_list": [
+        "auxiliary"
+      ]
+    },
+    {
+      "word": "need",
+      "pos": "auxiliary/verb/noun",
+      "chinese": "需要；必须/需要；贫困，困窘",
+      "pos_list": [
+        "auxiliary",
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "might",
+      "pos": "auxiliary/noun",
+      "chinese": "[may的过去式]；可能/力量；权势",
+      "pos_list": [
+        "auxiliary",
+        "noun"
+      ]
+    },
+    {
+      "word": "may",
+      "pos": "auxiliary",
+      "chinese": "可能，也许；可以，被允许；祝，愿",
+      "pos_list": [
+        "auxiliary"
+      ]
+    }
+  ]
+}

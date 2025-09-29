@@ -1,0 +1,79 @@
+{
+  "id": "20250929_134834",
+  "type": "fsrs_learning_template",
+  "metadata": {
+    "stage": "第一阶段：基础巩固 (小学中高年级)",
+    "days": 5,
+    "minutes_per_day": 20,
+    "ai_model": "GLM-GLM-4.5",
+    "generated_at": "2025-09-29T13:48:34.586652",
+    "ai_response_time": 171.81323194503784,
+    "ai_usage": {
+      "completion_tokens": 4226,
+      "prompt_tokens": 1543,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 5769
+    },
+    "retry_count": 2
+  },
+  "fsrs_template": {
+    "metadata": {
+      "total_study_days": 5,
+      "daily_learning_minutes_target": 20,
+      "total_words_in_library": 984,
+      "estimated_avg_word_rotations_per_cycle": "2",
+      "learning_efficiency_estimate": 2,
+      "review_efficiency_estimate": 1,
+      "morphology_practice_time_estimate": 5,
+      "syntax_practice_time_estimate": 10
+    },
+    "word_categories": {
+      "core_functional": [
+        "noun",
+        "verb",
+        "adjective"
+      ],
+      "connectors_relational": [
+        "adverb",
+        "preposition",
+        "conjunction",
+        "pronoun",
+        "determiner",
+        "article",
+        "numeral"
+      ],
+      "auxiliary_supplemental": [
+        "interjection",
+        "modal",
+        "auxiliary",
+        "phrase"
+      ]
+    },
+    "fsrs_initial_parameters": {
+      "default_ease": "250",
+      "new_word_first_review_interval_days": "1"
+    },
+    "daily_planning_guidelines": {
+      "avg_new_words_per_day": "2",
+      "avg_review_words_per_day": "4",
+      "new_words_composition_guideline": {
+        "core_functional_percentage": "68.9",
+        "connectors_relational_percentage": "16.5",
+        "auxiliary_supplemental_percentage": "14.6"
+      },
+      "suggested_morphology_practice_minutes_per_day": "5",
+      "suggested_syntax_practice_minutes_per_day": "5",
+      "notes_for_fsrs_implementation": "这是一个5天的学习周期模板，平均每天学习2个新单词，复习4个单词。句法练习可以每两天进行一次，每次10分钟。FSRS算法将根据实际学习数据动态调整复习计划。"
+    },
+    "example_review_item_structure_for_fsrs": {
+      "id": "PLACEHOLDER_ID",
+      "text": "PLACEHOLDER_TEXT",
+      "category": "...",
+      "part_of_speech": "...",
+      "initial_interval_days": "1",
+      "status": "review"
+    }
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "migration_time": "/Users/fengxiao/project/education/outputs",
+  "migration_map": {
+    "saved_plans": "outputs/english/learning_plans",
+    "custom_plans": "outputs/english/custom_plans",
+    "learning_plans": "outputs/english/learning_plans",
+    "word_learning_details": "outputs/english/word_learning_details",
+    "fast_plans": "outputs/english/learning_plans",
+    "word_plans": "outputs/english/word_plans",
+    "grammar_plans": "outputs/english/grammar_plans",
+    "reports": "outputs/english/reports",
+    "exports": "outputs/english/exports"
+  },
+  "results": {
+    "custom_plans": {
+      "old_path": "educational_projects/english/custom_plans",
+      "new_path": "outputs/english/custom_plans",
+      "files_migrated": 54,
+      "files": [
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_091522.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_091522.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_14days_20250925_091216_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_14days_20250925_091216_summary.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_14days_20250925_091216.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_14days_20250925_091216.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_7days_20250925_091756.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_7days_20250925_091756.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_7days_20250925_091214.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_7days_20250925_091214.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_30days_20250925_092132_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_30days_20250925_092132_summary.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_30days_20250925_092127_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_30days_20250925_092127_summary.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_091543.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_091543.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_091625_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_091625_summary.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_30days_20250925_091211.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_30days_20250925_091211.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_60days_20250925_092135.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_60days_20250925_092135.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_60days_20250925_094051_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_60days_20250925_094051_summary.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_7days_20250925_091214_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_7days_20250925_091214_summary.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_091338.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_091338.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_091601.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_091601.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_30days_20250925_092132.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_30days_20250925_092132.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_091601.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_091601.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_30days_20250925_092132.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_30days_20250925_092132.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_60days_20250925_092520_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_60days_20250925_092520_summary.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_091601_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_091601_summary.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_091338.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_091338.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_60days_20250925_092135_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_60days_20250925_092135_summary.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_30days_20250925_091211.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_30days_20250925_091211.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_60days_20250925_092135.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_60days_20250925_092135.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_091543.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_091543.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_091543_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_091543_summary.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_091338_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_091338_summary.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_7days_20250925_091214.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_7days_20250925_091214.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_7days_20250925_091756.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_7days_20250925_091756.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_14days_20250925_091216.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_14days_20250925_091216.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_091522.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_091522.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_092157_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_092157_summary.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_30days_20250925_091546.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_30days_20250925_091546.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_092157.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_092157.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_60days_20250925_094206.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_60days_20250925_094206.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_60days_20250925_094051.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_60days_20250925_094051.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_30days_20250925_092127.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_30days_20250925_092127.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_60days_20250925_092520.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_60days_20250925_092520.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_091625.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_091625.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_091803.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_091803.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_091625.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_091625.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_091803.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_091803.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_30days_20250925_091546_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_30days_20250925_091546_summary.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_30days_20250925_092127.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_30days_20250925_092127.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_60days_20250925_092520.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_60days_20250925_092520.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_7days_20250925_091756_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_7days_20250925_091756_summary.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_60days_20250925_094051.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_60days_20250925_094051.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_091522_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_091522_summary.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_092157.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_092157.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_30days_20250925_091211_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_30days_20250925_091211_summary.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_30days_20250925_091546.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_30days_20250925_091546.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_60days_20250925_094206.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_60days_20250925_094206.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_60days_20250925_094206_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_60days_20250925_094206_summary.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/custom_plans/custom_plan_240days_20250925_091803_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/custom_plans/custom_plan_240days_20250925_091803_summary.txt"
+        }
+      ]
+    },
+    "saved_plans": {
+      "old_path": "educational_projects/english/saved_plans",
+      "new_path": "outputs/english/learning_plans",
+      "files_migrated": 13,
+      "files": [
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/saved_plans/plans_index.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/learning_plans/plans_index.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/saved_plans/plan_20250925_095031_detail.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/learning_plans/plan_20250925_095031_detail.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/saved_plans/custom_plan_60days_20250925_094318.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/learning_plans/custom_plan_60days_20250925_094318.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/saved_plans/custom_plan_5days_20250925_095031.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/learning_plans/custom_plan_5days_20250925_095031.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/saved_plans/plan_20250925_094318_detail.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/learning_plans/plan_20250925_094318_detail.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/saved_plans/plan_20250925_110206_detail.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/learning_plans/plan_20250925_110206_detail.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/saved_plans/custom_plan_60days_20250925_110206.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/learning_plans/custom_plan_60days_20250925_110206.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/saved_plans/custom_plan_60days_20250925_110206.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/learning_plans/custom_plan_60days_20250925_110206.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/saved_plans/custom_plan_60days_20250925_110206_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/learning_plans/custom_plan_60days_20250925_110206_summary.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/saved_plans/custom_plan_5days_20250925_095031_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/learning_plans/custom_plan_5days_20250925_095031_summary.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/saved_plans/custom_plan_60days_20250925_094318_summary.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/learning_plans/custom_plan_60days_20250925_094318_summary.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/saved_plans/custom_plan_5days_20250925_095031.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/learning_plans/custom_plan_5days_20250925_095031.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/saved_plans/custom_plan_60days_20250925_094318.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/learning_plans/custom_plan_60days_20250925_094318.docx"
+        }
+      ]
+    },
+    "learning_plans": {
+      "old_path": "educational_projects/english/learning_plans",
+      "new_path": "outputs/english/learning_plans",
+      "files_migrated": 6,
+      "files": [
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/learning_plans/phase_1_第一阶段_第1-4周_20250925_085742.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/learning_plans/phase_1_第一阶段_第1-4周_20250925_085742.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/learning_plans/phase_3_第三阶段_第9-12周_summary_20250925_085744.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/learning_plans/phase_3_第三阶段_第9-12周_summary_20250925_085744.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/learning_plans/phase_1_第一阶段_第1-4周_20250925_085742.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/learning_plans/phase_1_第一阶段_第1-4周_20250925_085742.json"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/learning_plans/phase_1_第一阶段_第1-4周_summary_20250925_085742.txt",
+          "new": "/Users/fengxiao/project/education/outputs/english/learning_plans/phase_1_第一阶段_第1-4周_summary_20250925_085742.txt"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/learning_plans/phase_3_第三阶段_第9-12周_20250925_085744.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/learning_plans/phase_3_第三阶段_第9-12周_20250925_085744.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/learning_plans/phase_3_第三阶段_第9-12周_20250925_085744.json",
+          "new": "/Users/fengxiao/project/education/outputs/english/learning_plans/phase_3_第三阶段_第9-12周_20250925_085744.json"
+        }
+      ]
+    },
+    "word_learning_details": {
+      "old_path": "educational_projects/english/word_learning_details",
+      "new_path": "outputs/english/word_learning_details",
+      "files_migrated": 9,
+      "files": [
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/word_learning_details/enhanced_daily_plan_day_5_20250925_095055.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/word_learning_details/enhanced_daily_plan_day_5_20250925_095055.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/word_learning_details/enhanced_daily_plan_day_1_20250925_095055.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/word_learning_details/enhanced_daily_plan_day_1_20250925_095055.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/word_learning_details/enhanced_daily_plan_day_4_20250925_095055.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/word_learning_details/enhanced_daily_plan_day_4_20250925_095055.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/word_learning_details/enhanced_daily_plan_day_1_20250925_101824.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/word_learning_details/enhanced_daily_plan_day_1_20250925_101824.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/word_learning_details/enhanced_daily_plan_day_1_20250925_101257.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/word_learning_details/enhanced_daily_plan_day_1_20250925_101257.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/word_learning_details/enhanced_daily_plan_day_7_20250925_095055.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/word_learning_details/enhanced_daily_plan_day_7_20250925_095055.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/word_learning_details/enhanced_daily_plan_day_2_20250925_095055.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/word_learning_details/enhanced_daily_plan_day_2_20250925_095055.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/word_learning_details/enhanced_daily_plan_day_6_20250925_095055.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/word_learning_details/enhanced_daily_plan_day_6_20250925_095055.docx"
+        },
+        {
+          "old": "/Users/fengxiao/project/education/educational_projects/english/word_learning_details/enhanced_daily_plan_day_3_20250925_095055.docx",
+          "new": "/Users/fengxiao/project/education/outputs/english/word_learning_details/enhanced_daily_plan_day_3_20250925_095055.docx"
+        }
+      ]
+    }
+  }
+}

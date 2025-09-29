@@ -1,0 +1,24 @@
+# 包含必要的非Python文件
+include README.md
+include LICENSE
+include pyproject.toml
+
+# 包含配置文件
+recursive-include src/ai_models *.json
+recursive-include src/english/grammar_configs *.json
+
+
+# 包含文档
+recursive-include src/english/docs *.md
+
+# 包含测试文件
+
+
+# 排除不需要的文件
+exclude .gitignore
+exclude .DS_Store
+exclude *.pyc
+exclude __pycache__
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
+recursive-exclude * .DS_Store

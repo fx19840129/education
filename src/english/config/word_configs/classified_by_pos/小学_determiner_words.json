@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "title": "限定词 词库",
+    "description": "从小学文档中提取的限定词",
+    "part_of_speech": "determiner",
+    "chinese_name": "限定词",
+    "word_count": 16,
+    "creation_date": "2025-09-27 14:25:21",
+    "source": "process_elementary_words.py"
+  },
+  "words": [
+    {
+      "word": "this",
+      "pos": "pronoun/determiner",
+      "chinese": "这个",
+      "pos_list": [
+        "pronoun",
+        "determiner"
+      ]
+    },
+    {
+      "word": "my",
+      "pos": "determiner",
+      "chinese": "我的",
+      "pos_list": [
+        "determiner"
+      ]
+    },
+    {
+      "word": "many",
+      "pos": "determiner",
+      "chinese": "多少",
+      "pos_list": [
+        "determiner"
+      ]
+    },
+    {
+      "word": "your",
+      "pos": "determiner/pronoun",
+      "chinese": "你的；你们的",
+      "pos_list": [
+        "determiner",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "our",
+      "pos": "determiner/pronoun",
+      "chinese": "我们的",
+      "pos_list": [
+        "determiner",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "his",
+      "pos": "determiner/pronoun",
+      "chinese": "他的",
+      "pos_list": [
+        "determiner",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "no",
+      "pos": "adverb/determiner",
+      "chinese": "不, 不是",
+      "pos_list": [
+        "adverb",
+        "determiner"
+      ]
+    },
+    {
+      "word": "that",
+      "pos": "determiner/pronoun",
+      "chinese": "那;那个",
+      "pos_list": [
+        "determiner",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "her",
+      "pos": "pronoun/determiner",
+      "chinese": "她的",
+      "pos_list": [
+        "pronoun",
+        "determiner"
+      ]
+    },
+    {
+      "word": "any",
+      "pos": "determiner",
+      "chinese": "任何的；所有的",
+      "pos_list": [
+        "determiner"
+      ]
+    },
+    {
+      "word": "which",
+      "pos": "determiner/pronoun",
+      "chinese": "哪一个",
+      "pos_list": [
+        "determiner",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "Children's",
+      "pos": "determiner",
+      "chinese": "儿童的",
+      "pos_list": [
+        "determiner"
+      ]
+    },
+    {
+      "word": "every",
+      "pos": "determiner",
+      "chinese": "每个;所有的",
+      "pos_list": [
+        "determiner"
+      ]
+    },
+    {
+      "word": "several",
+      "pos": "determiner",
+      "chinese": "一些（但不多）;几个",
+      "pos_list": [
+        "determiner"
+      ]
+    },
+    {
+      "word": "each",
+      "pos": "determiner/pronoun",
+      "chinese": "各自；每个",
+      "pos_list": [
+        "determiner",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "another",
+      "pos": "determiner",
+      "chinese": "另一个",
+      "pos_list": [
+        "determiner"
+      ]
+    }
+  ]
+}

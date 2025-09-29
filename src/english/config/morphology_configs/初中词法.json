@@ -1,0 +1,202 @@
+{
+    "初中英语词法": {
+      "title": "初中英语词法学习内容 (词性、变化与构词)",
+      "description": "在小学基础上，深入学习各词性的用法，掌握更多的词形变化，并系统学习构词法。",
+      "parts_of_speech": [
+        {
+          "pos_name": "名词 (Noun)",
+          "pos_description": "表示人、事物、地点、概念等。",
+          "learning_focus": [
+            "区分可数与不可数名词（重点）。",
+            "掌握更多不规则复数形式。",
+            "理解专有名词、集体名词等（初步）。",
+            "名词的各种句子功能（主语、宾语、表语、同位语）。"
+          ],
+          "form_changes": [
+            {
+              "change_type": "复数 (Plural)",
+              "description": "表示一个以上的事物。",
+              "rules_examples": [
+                "一般加-s",
+                "以-s, -x, -ch, -sh 结尾加-es",
+                "以辅音+y 结尾变y为i加-es",
+                "以-o 结尾的词（部分加-es, 部分加-s）",
+                "不规则复数（men, women, children, feet, teeth, mice, etc.）",
+                "名词单复数同形 (sheep, deer)"
+              ]
+            },
+            {
+              "change_type": "所有格 (Possessive Case)",
+              "description": "表示所属关系。",
+              "rules_examples": [
+                "一般加-'s (Tom's book)",
+                "以-s 结尾的复数名词加' (students' desks)",
+                "不规则的 's (children's toys)"
+              ]
+            }
+          ],
+          "examples": ["information", "advice", "furniture", "scissors", "glasses", "class", "team", "family"]
+        },
+        {
+          "pos_name": "代词 (Pronoun)",
+          "pos_description": "代替名词使用。",
+          "learning_focus": [
+            "全面掌握人称代词（主格、宾格、所有格形容词、所有格名词性代词）。",
+            "学习指示代词（this, that, these, those）。",
+            "学习疑问代词（who, whom, whose, which, what）。",
+            "学习反身代词（myself, yourself, etc.）。",
+            "学习不定代词（some, any, much, many, few, little, all, both, etc.）的初步用法。"
+          ],
+          "form_changes": null,
+          "examples": ["myself", "yourself", "this", "that", "who", "which", "what", "some", "any", "all"]
+        },
+        {
+          "pos_name": "动词 (Verb)",
+          "pos_description": "表示动作或状态。",
+          "learning_focus": [
+            "全面掌握一般现在时、一般过去时、一般将来时（will / be going to）、现在进行时、过去进行时。",
+            "初步接触现在完成时（Present Perfect）。",
+            "掌握常见情态动词（can, could, may, might, must, should, shall, will）的用法。",
+            "识别及物动词与不及物动词。",
+            "掌握动词词组（phrasal verbs）的初步用法。",
+            "学习动词的非谓语形式（不定式, -ing形式, 过去分词）。"
+          ],
+          "form_changes": [
+            {
+              "change_type": "时态变化 (Tense Forms)",
+              "description": "根据时态变化谓语动词的形式。",
+              "rules_examples": [
+                "过去式 (-ed, 不规则变化)",
+                "进行时 (-ing)",
+                "完成时 (have/has + past participle)",
+                "将来时 (will + base form / be going to + base form)"
+              ]
+            },
+            {
+              "change_type": "非谓语动词 (Non-finite Verb Forms)",
+              "description": "动词不定式 (to do), 动名词 (doing), 过去分词 (done)。",
+              "rules_examples": [
+                "to + V",
+                "V-ing",
+                "V-ed / V-en"
+              ]
+            },
+            {
+              "change_type": "被动语态 (Passive Voice Forms)",
+              "description": "be + past participle。",
+              "rules_examples": ["is done", "was done", "will be done", "is being done"]
+            }
+          ],
+          "examples": ["study", "studied", "studying", "studied", "can", "should", "may", "finished", "finished", "finishing", "finished", "get up", "look for"]
+        },
+        {
+          "pos_name": "形容词 (Adjective)",
+          "pos_description": "修饰名词。",
+          "learning_focus": [
+            "熟练掌握形容词的比较级和最高级。",
+            "学习形容词作表语和定语的用法。",
+            "接触一些表示顺序的形容词（first, second, etc.）。",
+            "学习一些由副词构成的形容词（如：lovely）。"
+          ],
+          "form_changes": [
+            {
+              "change_type": "比较级/最高级 (Comparative/Superlative)",
+              "description": "比较事物。",
+              "rules_examples": [
+                "一般加-er/-est",
+                "多音节形容词加more/most",
+                "不规则变化 (good, bad, far, etc.)"
+              ]
+            }
+          ],
+          "examples": ["interesting", "boring", "difficult", "easy", "beautiful", "famous", "first", "second"]
+        },
+        {
+          "pos_name": "副词 (Adverb)",
+          "pos_description": "修饰动词、形容词或其他副词。",
+          "learning_focus": [
+            "熟练掌握由形容词加-ly构成的副词。",
+            "学习常见的不规则副词（well, fast, hard）。",
+            "学习一些表示时间、频率、程度、方式、地点的副词。",
+            "掌握副词的比较级和最高级。",
+            "学习副词在句子中的位置（常放在动词后、形容词前）。"
+          ],
+          "form_changes": [
+            {
+              "change_type": "比较级/最高级 (Comparative/Superlative)",
+              "description": "比较动作或状态的程度。",
+              "rules_examples": [
+                "一般加-er/-est",
+                "多音节副词加more/most",
+                "不规则变化 (well, badly, far)"
+              ]
+            }
+          ],
+          "examples": ["carefully", "happily", "easily", "well", "fast", "hard", "often", "always", "never", "very", "too"]
+        },
+        {
+          "pos_name": "介词 (Preposition)",
+          "pos_description": "表示词与词之间的关系，常表示时间、地点、方向。",
+          "learning_focus": [
+            "掌握 more 介词（如：about, for, against, during, through, over, under, between, among）。",
+            "学习介词短语的用法。",
+            "区分近义介词（如：in/on/at 的进一步用法）。"
+          ],
+          "form_changes": null,
+          "examples": ["about", "for", "against", "during", "through", "over", "under", "between", "among", "across"]
+        },
+        {
+          "pos_name": "连词 (Conjunction)",
+          "pos_description": "连接词、短语或句子。",
+          "learning_focus": [
+            "熟练掌握并列连词 (and, but, or, so, for, yet)。",
+            "学习从属连词，用于引导从句（如：because, since, if, when, while, although, that）。"
+          ],
+          "form_changes": null,
+          "examples": ["because", "since", "if", "when", "while", "although", "that", "unless", "until", "as"]
+        },
+        {
+          "pos_name": "冠词 (Article)",
+          "pos_description": "放在名词前，表示其确定性。",
+          "learning_focus": [
+            "熟练掌握 a/an 和 the 的用法，包括可数名词和不可数名词。",
+            "学习省略冠词的情况（初步）。"
+          ],
+          "form_changes": null,
+          "examples": ["a", "an", "the"]
+        }
+      ],
+      "word_formation": {
+        "formation_type": "派生法 (Derivation)",
+        "description": "通过加前缀或后缀改变词义或词性。",
+        "focus_elements": [
+          "常见前缀（un-, re-, dis-, mis-, co-, pre-, etc.）",
+          "常见后缀（-able/-ible, -er/-or, -ness, -ment, -ty, -al, -ive, -ful, -less, -ly, -ward, etc.）",
+          "理解前缀和后缀对词义和词性的影响。"
+        ],
+        "examples": ["unbelievable", "rediscover", "disagree", "teacher", "happiness", "development", "national", "active", "useful", "useless", "quickly", "backward"]
+      },
+      "key_concepts": [
+        {
+          "concept_name": "词性辨析与用法",
+          "description": "准确识别并运用各词性，理解其在句子中的具体功能。",
+          "level": "深化"
+        },
+        {
+          "concept_name": "词形变化掌握",
+          "description": "熟练掌握名词复数、所有格，动词的时态、非谓语形式、被动语态，形容词副词的比较级最高级。",
+          "level": "掌握"
+        },
+        {
+          "concept_name": "构词法入门",
+          "description": "系统学习派生法，理解前缀后缀如何帮助构成新词和改变词义。",
+          "level": "引入与掌握"
+        },
+        {
+          "concept_name": "词义的扩展与辨析",
+          "description": "理解词语在不同语境下的细微差别，区分近义词。",
+          "level": "深化"
+        }
+      ]
+    }
+  }

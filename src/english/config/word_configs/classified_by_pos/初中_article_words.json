@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "title": "冠词 词库",
+    "description": "从文档中提取的冠词",
+    "part_of_speech": "article",
+    "chinese_name": "冠词",
+    "word_count": 3,
+    "creation_date": "2025-09-27 13:45:24",
+    "source": "extract_words_minimal.py"
+  },
+  "words": [
+    {
+      "word": "a",
+      "pos": "article",
+      "chinese": "一（个、件……）",
+      "pos_list": [
+        "article"
+      ]
+    },
+    {
+      "word": "an",
+      "pos": "article",
+      "chinese": "一（个、件……）",
+      "pos_list": [
+        "article"
+      ]
+    },
+    {
+      "word": "the",
+      "pos": "article",
+      "chinese": "这（那）个,这（那）些",
+      "pos_list": [
+        "article"
+      ]
+    }
+  ]
+}

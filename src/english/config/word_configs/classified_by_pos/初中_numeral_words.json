@@ -1,0 +1,381 @@
+{
+  "metadata": {
+    "title": "数词 词库",
+    "description": "从文档中提取的数词",
+    "part_of_speech": "numeral",
+    "chinese_name": "数词",
+    "word_count": 45,
+    "creation_date": "2025-09-27 13:45:24",
+    "source": "extract_words_minimal.py"
+  },
+  "words": [
+    {
+      "word": "billion",
+      "pos": "numeral",
+      "chinese": "十亿",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "eight",
+      "pos": "numeral",
+      "chinese": "八",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "eighteen",
+      "pos": "numeral",
+      "chinese": "十八",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "eighth",
+      "pos": "numeral",
+      "chinese": "第八",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "eighty",
+      "pos": "numeral",
+      "chinese": "八十",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "eleven",
+      "pos": "numeral",
+      "chinese": "十一",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "fifteen",
+      "pos": "numeral",
+      "chinese": "十五",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "fifth",
+      "pos": "numeral",
+      "chinese": "第五",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "fifty",
+      "pos": "numeral",
+      "chinese": "五十",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "first",
+      "pos": "numeral/adjective/adverb/noun",
+      "chinese": "第一；首次；最初；开始；开端",
+      "pos_list": [
+        "numeral",
+        "adjective",
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "five",
+      "pos": "numeral",
+      "chinese": "五",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "forty",
+      "pos": "numeral",
+      "chinese": "四十",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "four",
+      "pos": "numeral",
+      "chinese": "四",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "fourteen",
+      "pos": "numeral",
+      "chinese": "十四",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "fourth",
+      "pos": "numeral",
+      "chinese": "第四",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "hundred",
+      "pos": "numeral",
+      "chinese": "百",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "million",
+      "pos": "numeral/noun",
+      "chinese": "百万/百万个（人或物）",
+      "pos_list": [
+        "numeral",
+        "noun"
+      ]
+    },
+    {
+      "word": "nine",
+      "pos": "numeral",
+      "chinese": "九",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "nineteen",
+      "pos": "numeral",
+      "chinese": "十九",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "ninety",
+      "pos": "numeral",
+      "chinese": "九十",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "ninth",
+      "pos": "numeral",
+      "chinese": "第九",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "one",
+      "pos": "pronoun/numeral",
+      "chinese": "一（个,只…）",
+      "pos_list": [
+        "pronoun",
+        "numeral"
+      ]
+    },
+    {
+      "word": "second",
+      "pos": "noun/numeral/adjective",
+      "chinese": "秒/第二/第二的",
+      "pos_list": [
+        "noun",
+        "numeral",
+        "adjective"
+      ]
+    },
+    {
+      "word": "seven",
+      "pos": "numeral",
+      "chinese": "七",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "seventeen",
+      "pos": "numeral",
+      "chinese": "十七",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "seventh",
+      "pos": "numeral",
+      "chinese": "第七",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "seventy",
+      "pos": "numeral",
+      "chinese": "七十",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "six",
+      "pos": "numeral",
+      "chinese": "六",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "sixth",
+      "pos": "numeral",
+      "chinese": "第六",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "sixty",
+      "pos": "numeral",
+      "chinese": "六十",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "sixteen",
+      "pos": "numeral",
+      "chinese": "十六",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "sixteenth",
+      "pos": "numeral",
+      "chinese": "第十六",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "ten",
+      "pos": "numeral",
+      "chinese": "十",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "third",
+      "pos": "numeral",
+      "chinese": "第三",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "thirteen",
+      "pos": "numeral",
+      "chinese": "十三",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "thirty",
+      "pos": "numeral",
+      "chinese": "三十",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "thousand",
+      "pos": "numeral",
+      "chinese": "千",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "three",
+      "pos": "numeral",
+      "chinese": "三",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "twelfth",
+      "pos": "numeral",
+      "chinese": "第十二",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "twelve",
+      "pos": "numeral",
+      "chinese": "十二",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "twenty",
+      "pos": "numeral",
+      "chinese": "二十",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "twenty-first",
+      "pos": "numeral",
+      "chinese": "第二十一",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "twenty-one",
+      "pos": "numeral",
+      "chinese": "二十一",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "two",
+      "pos": "numeral",
+      "chinese": "二",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "zero",
+      "pos": "noun/numeral",
+      "chinese": "零, 零度, 零点",
+      "pos_list": [
+        "noun",
+        "numeral"
+      ]
+    }
+  ]
+}

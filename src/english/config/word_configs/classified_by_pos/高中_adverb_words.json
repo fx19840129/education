@@ -1,0 +1,1864 @@
+{
+  "metadata": {
+    "title": "副词 词库",
+    "description": "从文档中提取的副词",
+    "part_of_speech": "adverb",
+    "chinese_name": "副词",
+    "word_count": 211,
+    "creation_date": "2025-09-27 12:54:20",
+    "source": "extract_words_minimal.py"
+  },
+  "words": [
+    {
+      "word": "yet",
+      "pos": "adverb/conjunction",
+      "chinese": "还，尚，仍然；已经/然而/甚至",
+      "pos_list": [
+        "adverb",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "yesterday",
+      "pos": "noun/adverb",
+      "chinese": "昨天；前不久",
+      "pos_list": [
+        "noun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "yes",
+      "pos": "adverb/interjection",
+      "chinese": "是[用于肯定句前]，是的",
+      "pos_list": [
+        "adverb",
+        "interjection"
+      ]
+    },
+    {
+      "word": "yearly",
+      "pos": "adjective/adverb",
+      "chinese": "每年的，一年一度的/每年，一年一次地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "year",
+      "pos": "noun/adjective/adverb",
+      "chinese": "年，年度，学年/每年，一年一次",
+      "pos_list": [
+        "noun",
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "wrong",
+      "pos": "adjective/adverb/noun/verb",
+      "chinese": "错的/错误地，不正确地/错误/委屈",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "worst",
+      "pos": "adjective/adverb",
+      "chinese": "最坏(差；恶劣)的/最坏地，最差地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "worse",
+      "pos": "adjective/adverb",
+      "chinese": "更坏(差)的；(病)更重的/更坏(差)地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "worldwide",
+      "pos": "adjective/adverb",
+      "chinese": "全世界的，世界范围的/遍及全世界",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "within",
+      "pos": "preposition/adverb/noun",
+      "chinese": "在以内/在内部，在里面/里面",
+      "pos_list": [
+        "preposition",
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "willingly",
+      "pos": "adverb",
+      "chinese": "乐意地，自愿地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "widely",
+      "pos": "adverb",
+      "chinese": "广泛地，普遍地；广博地；大大地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "wide",
+      "pos": "adjective/adverb",
+      "chinese": "宽的，宽阔的；广泛的/广大地；全部地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "why",
+      "pos": "adverb/conjunction/interjection",
+      "chinese": "为什么；…的理由/咳，哎呀",
+      "pos_list": [
+        "adverb",
+        "conjunction",
+        "interjection"
+      ]
+    },
+    {
+      "word": "where",
+      "pos": "adverb/conjunction/pronoun",
+      "chinese": "在哪/那里/哪里/然而",
+      "pos_list": [
+        "adverb",
+        "conjunction",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "whenever",
+      "pos": "conjunction/adverb",
+      "chinese": "无论什么时候；随时",
+      "pos_list": [
+        "conjunction",
+        "adverb"
+      ]
+    },
+    {
+      "word": "when",
+      "pos": "adverb/pronoun/conjunction",
+      "chinese": "何时；当时/那时；然后；而",
+      "pos_list": [
+        "adverb",
+        "pronoun",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "west",
+      "pos": "noun/adverb/adjective",
+      "chinese": "西(方；部)/向(在)西方/西方(部)的",
+      "pos_list": [
+        "noun",
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "well",
+      "pos": "adverb/interjection",
+      "chinese": "好，令人满意地；很/哎呀，好啦，嗯",
+      "pos_list": [
+        "adverb",
+        "interjection"
+      ]
+    },
+    {
+      "word": "weekly",
+      "pos": "adjective/adverb/noun",
+      "chinese": "每周的,一周一次的/每周一次地/周报",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "very",
+      "pos": "adverb/adjective",
+      "chinese": "很，非常；完全/正是的；真正，真实的",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "usually",
+      "pos": "adverb",
+      "chinese": "通常，平常，一般",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "upwards",
+      "pos": "adverb",
+      "chinese": "向上，上升，…以上(=upward)",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "upstairs",
+      "pos": "adverb/adjective",
+      "chinese": "在楼上；往楼上/楼上的；在楼上的",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "up",
+      "pos": "adverb/preposition",
+      "chinese": "向上，起来；完；起床/向上",
+      "pos_list": [
+        "adverb",
+        "preposition"
+      ]
+    },
+    {
+      "word": "unfortunatelly",
+      "pos": "adverb",
+      "chinese": "不幸运的",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "underwater",
+      "pos": "adjective/adverb",
+      "chinese": "水下面的（地）",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "underground",
+      "pos": "adjective/adverb",
+      "chinese": "地(面)下的，秘密的，不公开的/秘密地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "under",
+      "pos": "preposition/adverb",
+      "chinese": "在…下面；在…以下/在下面；少于",
+      "pos_list": [
+        "preposition",
+        "adverb"
+      ]
+    },
+    {
+      "word": "twice",
+      "pos": "adverb",
+      "chinese": "两次，两倍地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "truly",
+      "pos": "adverb",
+      "chinese": "真实地；真诚地；确定地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "too",
+      "pos": "adverb",
+      "chinese": "也，还；太，过于；很，非常",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "tonight",
+      "pos": "adverb/noun",
+      "chinese": "在今晚；在今夜/今晚，今夜",
+      "pos_list": [
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "tomorrow",
+      "pos": "noun/adverb",
+      "chinese": "明天；来日，未来/在明天，在明日",
+      "pos_list": [
+        "noun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "together",
+      "pos": "adverb",
+      "chinese": "在一起，共同；总合地，合计地，到一起",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "today",
+      "pos": "adverb/noun",
+      "chinese": "在今天；现今，在当代/今天；现在",
+      "pos_list": [
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "tightly",
+      "pos": "adverb",
+      "chinese": "紧紧地，坚固地，牢固地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "tight",
+      "pos": "adjective/adverb",
+      "chinese": "紧的；紧身的，紧贴的/紧紧地，牢牢地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "that",
+      "pos": "adjective/pronoun/adverb/conjunction",
+      "chinese": "那，那个/那么/引导从句",
+      "pos_list": [
+        "adjective",
+        "pronoun",
+        "adverb",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "surprisingly",
+      "pos": "adverb",
+      "chinese": "使人惊奇地，出人意料地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "surely",
+      "pos": "adverb",
+      "chinese": "确实地，无疑地；必定地，一定地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "suddenly",
+      "pos": "adverb",
+      "chinese": "突然地，出乎意料地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "successful",
+      "pos": "adverb",
+      "chinese": "圆满地；顺利地；成功地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "strongly",
+      "pos": "adverb",
+      "chinese": "强有力地；牢固地；坚强地；强烈地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "straight",
+      "pos": "adjective/adverb",
+      "chinese": "直的；整齐的，有条理的；正直的/直接",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "still",
+      "pos": "adjective/adverb",
+      "chinese": "静止的，寂静的/还，仍然；更；安静地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "steadily",
+      "pos": "adverb",
+      "chinese": "坚定地，不动摇地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "south",
+      "pos": "noun/adjective/adverb",
+      "chinese": "南方，南部/南方的，南部的/在南方",
+      "pos_list": [
+        "noun",
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "soon",
+      "pos": "adverb",
+      "chinese": "不久，即刻；快，早",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "somewhere",
+      "pos": "adverb",
+      "chinese": "某地，在某处；在附近，前后，大约",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "somewhat",
+      "pos": "pronoun/adverb",
+      "chinese": "一点儿，几分",
+      "pos_list": [
+        "pronoun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "sometimes",
+      "pos": "adverb",
+      "chinese": "不时，有时，间或",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "softly",
+      "pos": "adverb",
+      "chinese": "柔和地；静静地；温柔地，宽厚地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "so",
+      "pos": "adverb/conjunction",
+      "chinese": "那么；非常；也；不错/因此；以便",
+      "pos_list": [
+        "adverb",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "slowly",
+      "pos": "adverb",
+      "chinese": "慢慢地；缓慢地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "slightly",
+      "pos": "adverb",
+      "chinese": "稍微地，轻微地；苗条地，纤细地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "sincerely",
+      "pos": "adverb",
+      "chinese": "由衷地，真心地；真实地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "since",
+      "pos": "preposition/conjunction/adverb",
+      "chinese": "自从/自从；因为，既然/后来",
+      "pos_list": [
+        "preposition",
+        "conjunction",
+        "adverb"
+      ]
+    },
+    {
+      "word": "simply",
+      "pos": "adverb",
+      "chinese": "仅仅,只是；简单地；朴素地；完全，简直",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "sideway",
+      "pos": "adverb/adjective",
+      "chinese": "斜向一边(的)，侧身(的)",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "shyly",
+      "pos": "adverb",
+      "chinese": "怕羞地；胆小地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "shortly",
+      "pos": "adverb",
+      "chinese": "立刻，不久；不耐烦地，简慢地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "sharp",
+      "pos": "adjective/adverb",
+      "chinese": "锋利的；急剧的；刺耳的/[时刻]正，准",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "separately",
+      "pos": "adverb",
+      "chinese": "分离地，分别地，个别地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "seldom",
+      "pos": "adverb",
+      "chinese": "很少，不常，难得",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "secretly",
+      "pos": "adverb",
+      "chinese": "私下地；秘密地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "same",
+      "pos": "adjective/pronoun/adverb",
+      "chinese": "相同的/相同的人(或物)/同样地",
+      "pos_list": [
+        "adjective",
+        "pronoun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "sadly",
+      "pos": "adverb",
+      "chinese": "悲哀地，伤心地；不幸地，可悲地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "round",
+      "pos": "adjective/preposition/adverb/noun/verb",
+      "chinese": "圆的；围绕；在周围；一周；绕行",
+      "pos_list": [
+        "adjective",
+        "preposition",
+        "adverb",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "right",
+      "pos": "adjective/noun/adverb/verb",
+      "chinese": "右的；正确的；右；权利；对；纠正",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "adverb",
+        "verb"
+      ]
+    },
+    {
+      "word": "regularly",
+      "pos": "adverb",
+      "chinese": "有规律地；经常地；有规则地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "recently",
+      "pos": "adverb",
+      "chinese": "最近(=lately)",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "really",
+      "pos": "adverb",
+      "chinese": "真正地，实际上，实际上；很；实，其实",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "rather",
+      "pos": "adverb",
+      "chinese": "相当；宁可；更确切些；相反地，反面",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "quite",
+      "pos": "adverb",
+      "chinese": "完全地，非常；相当，颇；的确，真正地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "quietly",
+      "pos": "adverb",
+      "chinese": "安静地，悄悄地；平稳地，文静地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "quickly",
+      "pos": "adverb",
+      "chinese": "快地，急速；立刻地，马上",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "quick",
+      "pos": "adjective/adverb",
+      "chinese": "快的；灵敏的；性急的，敏锐的/迅速地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "properly",
+      "pos": "adverb",
+      "chinese": "正确地，适当地；完全地，彻底地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "probably",
+      "pos": "adverb",
+      "chinese": "大概，或许，很可能",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "pretty",
+      "pos": "adverb/adjective",
+      "chinese": "相当，很/漂亮的，俊俏的，标致的",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "presently",
+      "pos": "adverb",
+      "chinese": "不久，一会儿；现在，目前",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "possibly",
+      "pos": "adverb",
+      "chinese": "可能地，也许；无论如何",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "piano",
+      "pos": "adjective/adverb",
+      "chinese": "柔软的(地)",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "personally",
+      "pos": "adverb",
+      "chinese": "亲自，当面；就个人而言；个别地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "perhaps",
+      "pos": "adverb",
+      "chinese": "也许，可能，多半，或许",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "perfectly",
+      "pos": "adverb",
+      "chinese": "完美地；无可非议地；彻底地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "percent",
+      "pos": "noun/adjective/adverb",
+      "chinese": "百分之一，(与基数词连用)百分之.的",
+      "pos_list": [
+        "noun",
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "peacefully",
+      "pos": "adverb",
+      "chinese": "宁静地；安祥地；爱好和平地；喜安静地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "past",
+      "pos": "adjective/adverb/noun/preposition",
+      "chinese": "过去的/过/过去，昔日/(经)过",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun",
+        "preposition"
+      ]
+    },
+    {
+      "word": "part-time",
+      "pos": "adjective/adverb",
+      "chinese": "部分时间的(地)，兼职的(地)",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "partly",
+      "pos": "adverb",
+      "chinese": "部分地，在一定程度上，不完全地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "particularly",
+      "pos": "adverb",
+      "chinese": "especially特别地，尤其",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "overhead",
+      "pos": "adjective/adverb",
+      "chinese": "在头顶上的；架空的/在头顶上",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "over",
+      "pos": "adverb/preposition/adjective",
+      "chinese": "在上方；遍及地/在的上方/结束的",
+      "pos_list": [
+        "adverb",
+        "preposition",
+        "adjective"
+      ]
+    },
+    {
+      "word": "outside",
+      "pos": "adjective/adverb/preposition/noun",
+      "chinese": "外面的/在外面/在…外面/外表",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "preposition",
+        "noun"
+      ]
+    },
+    {
+      "word": "outdoors",
+      "pos": "adverb/adjective",
+      "chinese": "户外(的)，野外(的)",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "outdoor",
+      "pos": "adjective/adverb",
+      "chinese": "户外的，野外的；户外，野外",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "out",
+      "pos": "adverb/adjective",
+      "chinese": "出去；离家；突出来/外面的，往外去的",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "otherwise",
+      "pos": "adverb/conjunction",
+      "chinese": "除此以外；别样/否则，不然",
+      "pos_list": [
+        "adverb",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "only",
+      "pos": "adverb/adjective/conjunction",
+      "chinese": "仅仅，只不过/唯一的/可是，不过",
+      "pos_list": [
+        "adverb",
+        "adjective",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "once",
+      "pos": "adverb/conjunction/noun",
+      "chinese": "一次，曾经/一(旦)…就…/一次",
+      "pos_list": [
+        "adverb",
+        "conjunction",
+        "noun"
+      ]
+    },
+    {
+      "word": "often",
+      "pos": "adverb",
+      "chinese": "常常，经常，通常",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "off",
+      "pos": "adverb/preposition",
+      "chinese": "离开；在远处；脱开/从，从.离开",
+      "pos_list": [
+        "adverb",
+        "preposition"
+      ]
+    },
+    {
+      "word": "o'clock",
+      "pos": "adverb",
+      "chinese": "(…)点钟(与1至12数字连用)",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "obviously",
+      "pos": "adverb",
+      "chinese": "明显地，明白地，清楚地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "O.K.",
+      "pos": "adjective/adverb",
+      "chinese": "",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "nowhere",
+      "pos": "adverb/noun",
+      "chinese": "在任何地方都不/无处；不知道的地方",
+      "pos_list": [
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "nowadays",
+      "pos": "adverb",
+      "chinese": "现今；在这时代",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "now",
+      "pos": "adverb",
+      "chinese": "现在，如今，目前；当时，于是，然后",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "not",
+      "pos": "adverb",
+      "chinese": "不，不是，不会；没有",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "northwards",
+      "pos": "adjective/adverb/noun",
+      "chinese": "向北/北方的地区",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "north",
+      "pos": "noun/adverb/adjective",
+      "chinese": "北(方)，北部/向北方/北方(部)的",
+      "pos_list": [
+        "noun",
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "nor",
+      "pos": "conjunction/adverb",
+      "chinese": "也不，也没有",
+      "pos_list": [
+        "conjunction",
+        "adverb"
+      ]
+    },
+    {
+      "word": "non-stop",
+      "pos": "adjective/adverb",
+      "chinese": "不停的(地)",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "none",
+      "pos": "pronoun/adverb",
+      "chinese": "没有任何人(东西)；都不/一点也不",
+      "pos_list": [
+        "pronoun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "non",
+      "pos": "adverb",
+      "chinese": "[拉]非，不是",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "noisily",
+      "pos": "adverb",
+      "chinese": "喧闹地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "no",
+      "pos": "adverb/adjective/noun",
+      "chinese": "不是，不/没有的；不允许/不，拒绝",
+      "pos_list": [
+        "adverb",
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "nine",
+      "pos": "numeral/pronoun/adverb",
+      "chinese": "九/九(个，只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "next",
+      "pos": "adjective/adverb",
+      "chinese": "紧接的，其次的；贴近的/其次；居后",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "never",
+      "pos": "adverb",
+      "chinese": "永不，从不，决不；从来没有；不，没有",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "neither",
+      "pos": "adjective/pronoun/conjunction/adverb",
+      "chinese": "两者都不的/两者都不/也不",
+      "pos_list": [
+        "adjective",
+        "pronoun",
+        "conjunction",
+        "adverb"
+      ]
+    },
+    {
+      "word": "neatly",
+      "pos": "adverb",
+      "chinese": "整洁地，干净地；灵巧地，熟练地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "nearly",
+      "pos": "adverb",
+      "chinese": "差不多；密切地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "nearby",
+      "pos": "adjective/adverb/preposition",
+      "chinese": "附近的/在附近/在…附近",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "preposition"
+      ]
+    },
+    {
+      "word": "near",
+      "pos": "adjective/preposition/adverb",
+      "chinese": "近的，接近的；亲近的/靠近/接近",
+      "pos_list": [
+        "adjective",
+        "preposition",
+        "adverb"
+      ]
+    },
+    {
+      "word": "nationwide",
+      "pos": "adjective/adverb",
+      "chinese": "全国性的/在全国范围内",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "much",
+      "pos": "adjective/adverb",
+      "chinese": "多的，大量的/十分，非常；到极大程度",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "mostly",
+      "pos": "adverb",
+      "chinese": "几乎全部地；主要地，大部分，基本上",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "most",
+      "pos": "adjective/adverb/noun",
+      "chinese": "最多的；大多数的/最；极其/大多数",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "moreover",
+      "pos": "adverb",
+      "chinese": "再者，而且，加之，此外",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "more",
+      "pos": "adjective/noun/adverb",
+      "chinese": "更多的/更多的人(或东西)/更，更多",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "merely",
+      "pos": "adverb",
+      "chinese": "仅仅，只不过",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "mentally",
+      "pos": "adverb",
+      "chinese": "精神上，理智上，在心中",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "meanwhile",
+      "pos": "noun/adverb",
+      "chinese": "其时，其间/当时，与此同时",
+      "pos_list": [
+        "noun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "maybe",
+      "pos": "adverb",
+      "chinese": "可能；大概；也许",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "mainly",
+      "pos": "adverb",
+      "chinese": "主要地；大部分地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "luckily",
+      "pos": "adverb",
+      "chinese": "幸运地；好运地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "loudly",
+      "pos": "adverb",
+      "chinese": "响亮地，高声地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "loud",
+      "pos": "adjective/adverb",
+      "chinese": "大声的，响亮的；吵闹的/响亮，大声地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "long",
+      "pos": "adjective/adverb",
+      "chinese": "长的，长时间的，长期的/长久，长期地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "little",
+      "pos": "adjective/adverb/noun",
+      "chinese": "小，幼小；不多的/不多，几乎没有/不多，几乎没有",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "likely",
+      "pos": "adjective/adverb",
+      "chinese": "可能的；有希望的/很可能；大概，多半",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "lightly",
+      "pos": "adverb",
+      "chinese": "轻轻地；容易地，轻松地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "less",
+      "pos": "adjective/adverb",
+      "chinese": "更小的/更少的；较次的",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "least",
+      "pos": "adjective/adverb/noun",
+      "chinese": "最小(少)的/最少(小；不)/最小(少)",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "lazily",
+      "pos": "adverb",
+      "chinese": "懒惰地，慢吞吞地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "later",
+      "pos": "adverb/adjective",
+      "chinese": "后来/后面的；新近的；晚年的",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "lately",
+      "pos": "adverb",
+      "chinese": "最近，不久前",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "late",
+      "pos": "adjective/adverb",
+      "chinese": "迟的，晚的，晚期的；已故的/迟，晚",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "last",
+      "pos": "adjective/adverb/noun/verb",
+      "chinese": "最后的，刚过去的/最后/最后/持续",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "just",
+      "pos": "adverb/adjective",
+      "chinese": "正好地；刚才；只不过/公正的，公平的",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "jokingly",
+      "pos": "adverb",
+      "chinese": "开玩笑地；闹着玩地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "instead",
+      "pos": "adverb",
+      "chinese": "代替，顶替；反而，却",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "inside",
+      "pos": "adjective/adverb/preposition/noun",
+      "chinese": "里面的/在内部/在…里面/内部",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "preposition",
+        "noun"
+      ]
+    },
+    {
+      "word": "inland",
+      "pos": "adjective/adverb",
+      "chinese": "内地(陆)的；国内的/在内地；向内地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "indeed",
+      "pos": "adverb",
+      "chinese": "的确；真心地；(表示同意)确实，可不是",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "in",
+      "pos": "preposition/adverb",
+      "chinese": "在…里(内，上)；用…(表示)/进，入",
+      "pos_list": [
+        "preposition",
+        "adverb"
+      ]
+    },
+    {
+      "word": "immediately",
+      "pos": "adverb",
+      "chinese": "立即地，即刻地；直接地，紧密地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "ill",
+      "pos": "adjective/adverb",
+      "chinese": "有病的；坏的；恶意的/坏地；不利地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "hurriedly",
+      "pos": "adverb",
+      "chinese": "仓促地，忙乱地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "however",
+      "pos": "adverb/conjunction",
+      "chinese": "然而，可是，不过，无论如何/无论",
+      "pos_list": [
+        "adverb",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "how",
+      "pos": "adverb",
+      "chinese": "1.(表示方法、手段、状态)怎样；如何",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "hopefully",
+      "pos": "adverb",
+      "chinese": "inahopefulmanner怀着希望；但愿",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "honestly",
+      "pos": "adverb",
+      "chinese": "诚实地；正直地；的确，实在",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "home",
+      "pos": "adverb/noun/adjective",
+      "chinese": "回家/在家/家；家乡/家庭的；家乡的",
+      "pos_list": [
+        "adverb",
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "high",
+      "pos": "adjective/adverb",
+      "chinese": "高的，高度的，高级的，高尚的/高高地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "here",
+      "pos": "adverb",
+      "chinese": "在(到，向)这里；这时；在这一点上",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "hardly",
+      "pos": "adverb",
+      "chinese": "几乎不,简直不；刚刚,仅仅",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "hard",
+      "pos": "adjective/adverb",
+      "chinese": "坚硬的；结实的；困难的；难忍的；严厉的",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "happily",
+      "pos": "adverb",
+      "chinese": "幸福地,愉快地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "greatly",
+      "pos": "adverb",
+      "chinese": "大大地,非常地；伟大地,崇高地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "gradually",
+      "pos": "adverb",
+      "chinese": "渐渐地；逐步地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "gently",
+      "pos": "adverb",
+      "chinese": "文雅地,有礼貌地；轻轻地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "generally",
+      "pos": "adverb",
+      "chinese": "一般地,通常；普遍地,广泛地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "furthest",
+      "pos": "adjective/adverb",
+      "chinese": "最远的/最远地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "further",
+      "pos": "adjective/adverb/verb",
+      "chinese": "更远的/进一步地；此外/促进,推动",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "verb"
+      ]
+    },
+    {
+      "word": "fully",
+      "pos": "adverb",
+      "chinese": "完全地,全部地,彻底地；充分地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "full",
+      "pos": "adjective/adverb/noun",
+      "chinese": "充满的,详尽的/完全地,十分/全部",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "frequently",
+      "pos": "adverb",
+      "chinese": "经常地,屡次地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "freely",
+      "pos": "adverb",
+      "chinese": "自由地,随便地,无拘无束地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "forward",
+      "pos": "adverb/adjective/verb",
+      "chinese": "向前；从今往后/前部的；向前的/转送",
+      "pos_list": [
+        "adverb",
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "fortunately",
+      "pos": "adverb",
+      "chinese": "有幸地；幸运地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "forever",
+      "pos": "adverb",
+      "chinese": "永远；总是",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "foolishly",
+      "pos": "adverb",
+      "chinese": "愚蠢地；荒谬地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "first",
+      "pos": "adjective/adverb/noun/pronoun",
+      "chinese": "第一；最初;首次/开始/第一名",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "finally",
+      "pos": "adverb",
+      "chinese": "最后,终于；不可更改地；完全地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "fiercly",
+      "pos": "adverb",
+      "chinese": "拼命地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "fast",
+      "pos": "adjective/adverb",
+      "chinese": "快的,迅速的；坚固的/紧紧地；迅速地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "farthest",
+      "pos": "adjective/adverb",
+      "chinese": "（far的最高级）最远",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "farther",
+      "pos": "adverb/adjective",
+      "chinese": "更远地；进一步/更远的,进一步的",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "far",
+      "pos": "adjective/adverb",
+      "chinese": "远,久远,遥远/到…程度,…得多",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "fairly",
+      "pos": "adverb",
+      "chinese": "相当,尚可,还；公平地,公正地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "extremely",
+      "pos": "adverb",
+      "chinese": "极端,极其,非常",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "extra",
+      "pos": "adjective/adverb/noun",
+      "chinese": "额外的/地,非常,另外/额外的人",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "exactly",
+      "pos": "adverb",
+      "chinese": "正确",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "everywhere",
+      "pos": "adverb",
+      "chinese": "到处,各处,无论何处",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "ever",
+      "pos": "adverb",
+      "chinese": "曾经；永远；在任何时候；究竟",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "even",
+      "pos": "adverb/adjective",
+      "chinese": "甚至(更)/均匀的;平的;相等的；偶数的",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "especially",
+      "pos": "adverb",
+      "chinese": "特别,尤其,格外；专门地,主要地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "equally",
+      "pos": "adverb",
+      "chinese": "同样地,相同程度地；平等地,均一地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "enough",
+      "pos": "adjective/adverb/noun",
+      "chinese": "足够的/地,充分的/地/充足,足够",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "else",
+      "pos": "adverb",
+      "chinese": "其它,另外,别的；[与or连用]否则",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "either",
+      "pos": "adverb/pronoun/adjective",
+      "chinese": "也(不)/两者之一/(两者中)任一的",
+      "pos_list": [
+        "adverb",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "eastward",
+      "pos": "adjective/adverb",
+      "chinese": "向东的,向东",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "east",
+      "pos": "noun/adverb/adjective",
+      "chinese": "东,东方/在向/东方/东方的,东部的",
+      "pos_list": [
+        "noun",
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "easily",
+      "pos": "adverb",
+      "chinese": "容易地,轻易地,顺利地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "early",
+      "pos": "adjective/adverb",
+      "chinese": "早(期)的,在前的；早熟的/在早期；早",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "eagerly",
+      "pos": "adverb",
+      "chinese": "焦急地,渴望地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "each",
+      "pos": "pronoun/adjective/adverb",
+      "chinese": "各(每)个/各,各自的,每/对每个",
+      "pos_list": [
+        "pronoun",
+        "adjective",
+        "adverb"
+      ]
+    }
+  ]
+}

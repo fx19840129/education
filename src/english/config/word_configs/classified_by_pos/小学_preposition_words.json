@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "title": "介词 词库",
+    "description": "从小学文档中提取的介词",
+    "part_of_speech": "preposition",
+    "chinese_name": "介词",
+    "word_count": 20,
+    "creation_date": "2025-09-27 14:25:21",
+    "source": "process_elementary_words.py"
+  },
+  "words": [
+    {
+      "word": "on",
+      "pos": "preposition",
+      "chinese": "在...上",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "at",
+      "pos": "preposition",
+      "chinese": "在",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "like",
+      "pos": "verb/preposition",
+      "chinese": "喜欢/像",
+      "pos_list": [
+        "verb",
+        "preposition"
+      ]
+    },
+    {
+      "word": "near",
+      "pos": "preposition",
+      "chinese": "近的",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "in",
+      "pos": "preposition",
+      "chinese": "在...里",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "for",
+      "pos": "preposition",
+      "chinese": "为,给",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "to",
+      "pos": "preposition",
+      "chinese": "给,对",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "over",
+      "pos": "preposition/adjective/adverb",
+      "chinese": "结束",
+      "pos_list": [
+        "preposition",
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "from",
+      "pos": "preposition",
+      "chinese": "从;来自",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "behind",
+      "pos": "preposition",
+      "chinese": "在...后边",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "under",
+      "pos": "preposition",
+      "chinese": "在...下面",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "about",
+      "pos": "preposition/adverb",
+      "chinese": "关于/大约",
+      "pos_list": [
+        "preposition",
+        "adverb"
+      ]
+    },
+    {
+      "word": "up",
+      "pos": "adverb/preposition",
+      "chinese": "向上",
+      "pos_list": [
+        "adverb",
+        "preposition"
+      ]
+    },
+    {
+      "word": "with",
+      "pos": "preposition",
+      "chinese": "和/与...一起",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "by",
+      "pos": "preposition",
+      "chinese": "经……；乘",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "down",
+      "pos": "adverb/preposition",
+      "chinese": "从高到低；向下",
+      "pos_list": [
+        "adverb",
+        "preposition"
+      ]
+    },
+    {
+      "word": "into",
+      "pos": "preposition",
+      "chinese": "进入；到……里面",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "than",
+      "pos": "preposition/conjunction",
+      "chinese": "与…相比较",
+      "pos_list": [
+        "preposition",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "between",
+      "pos": "preposition",
+      "chinese": "在…之间",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "off",
+      "pos": "preposition/adverb",
+      "chinese": "距；离；离开",
+      "pos_list": [
+        "preposition",
+        "adverb"
+      ]
+    }
+  ]
+}

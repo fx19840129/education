@@ -1,0 +1,461 @@
+{
+  "metadata": {
+    "title": "副词 词库",
+    "description": "从小学文档中提取的副词",
+    "part_of_speech": "adverb",
+    "chinese_name": "副词",
+    "word_count": 52,
+    "creation_date": "2025-09-27 14:25:21",
+    "source": "process_elementary_words.py"
+  },
+  "words": [
+    {
+      "word": "too",
+      "pos": "adverb",
+      "chinese": "也；太",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "really",
+      "pos": "adverb",
+      "chinese": "真地；确切地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "how",
+      "pos": "adverb/interjection",
+      "chinese": "多么；怎么样",
+      "pos_list": [
+        "adverb",
+        "interjection"
+      ]
+    },
+    {
+      "word": "where",
+      "pos": "adverb",
+      "chinese": "在哪里",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "sure",
+      "pos": "adjective/adverb",
+      "chinese": "确定地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "right",
+      "pos": "adjective/adverb",
+      "chinese": "正确的/正确地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "here",
+      "pos": "adverb",
+      "chinese": "在这里",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "no",
+      "pos": "adverb/determiner",
+      "chinese": "不, 不是",
+      "pos_list": [
+        "adverb",
+        "determiner"
+      ]
+    },
+    {
+      "word": "only",
+      "pos": "adverb/adjective",
+      "chinese": "仅仅",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "first",
+      "pos": "numeral/adverb/adjective",
+      "chinese": "第一",
+      "pos_list": [
+        "numeral",
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "there",
+      "pos": "adverb",
+      "chinese": "哪儿;那里",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "over",
+      "pos": "preposition/adjective/adverb",
+      "chinese": "结束",
+      "pos_list": [
+        "preposition",
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "now",
+      "pos": "adverb",
+      "chinese": "现在",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "o'clock",
+      "pos": "noun/adverb",
+      "chinese": "……点钟",
+      "pos_list": [
+        "noun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "rait",
+      "pos": "adjective/adverb",
+      "chinese": "好的/正确地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "Today",
+      "pos": "adverb",
+      "chinese": "今天",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "not",
+      "pos": "adverb",
+      "chinese": "不",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "much",
+      "pos": "adjective/adverb",
+      "chinese": "没什么",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "very",
+      "pos": "adverb",
+      "chinese": "很;非常",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "tomorrow",
+      "pos": "noun/adverb",
+      "chinese": "明天",
+      "pos_list": [
+        "noun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "often",
+      "pos": "adverb",
+      "chinese": "常常;经常",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "sometimes",
+      "pos": "adverb",
+      "chinese": "有时",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "usually",
+      "pos": "adverb",
+      "chinese": "通常",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "when",
+      "pos": "adverb/conjunction",
+      "chinese": "什么时候",
+      "pos_list": [
+        "adverb",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "about",
+      "pos": "preposition/adverb",
+      "chinese": "关于/大约",
+      "pos_list": [
+        "preposition",
+        "adverb"
+      ]
+    },
+    {
+      "word": "either",
+      "pos": "adverb/conjunction",
+      "chinese": "也",
+      "pos_list": [
+        "adverb",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "next",
+      "pos": "adjective/adverb",
+      "chinese": "下一个",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "best",
+      "pos": "adjective/adverb",
+      "chinese": "最;极",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "always",
+      "pos": "adverb",
+      "chinese": "总是",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "up",
+      "pos": "adverb/preposition",
+      "chinese": "向上",
+      "pos_list": [
+        "adverb",
+        "preposition"
+      ]
+    },
+    {
+      "word": "why",
+      "pos": "adverb",
+      "chinese": "为什么",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "then",
+      "pos": "adverb",
+      "chinese": "那么",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "later",
+      "pos": "adverb",
+      "chinese": "稍后",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "however",
+      "pos": "conjunction/adverb",
+      "chinese": "但是",
+      "pos_list": [
+        "conjunction",
+        "adverb"
+      ]
+    },
+    {
+      "word": "left",
+      "pos": "adjective/noun/adverb",
+      "chinese": "左边的",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "far",
+      "pos": "adjective/adverb",
+      "chinese": "远",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "straight",
+      "pos": "adjective/adverb",
+      "chinese": "成直线地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "tonight",
+      "pos": "noun/adverb",
+      "chinese": "今晚",
+      "pos_list": [
+        "noun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "together",
+      "pos": "adverb",
+      "chinese": "一起地",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "else",
+      "pos": "adverb",
+      "chinese": "其他；另外",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "soon",
+      "pos": "adverb",
+      "chinese": "不久",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "little",
+      "pos": "adjective/adverb",
+      "chinese": "小的",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "high",
+      "pos": "adjective/adverb",
+      "chinese": "高的",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "down",
+      "pos": "adverb/preposition",
+      "chinese": "从高到低；向下",
+      "pos_list": [
+        "adverb",
+        "preposition"
+      ]
+    },
+    {
+      "word": "again",
+      "pos": "adverb",
+      "chinese": "再一次；又",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "still",
+      "pos": "adverb",
+      "chinese": "仍然；依旧；还是",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "hardly",
+      "pos": "adverb",
+      "chinese": "几乎没有；几乎不",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "even",
+      "pos": "adverb",
+      "chinese": "甚至",
+      "pos_list": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "better",
+      "pos": "adjective/adverb",
+      "chinese": "更好的",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "off",
+      "pos": "preposition/adverb",
+      "chinese": "距；离；离开",
+      "pos_list": [
+        "preposition",
+        "adverb"
+      ]
+    },
+    {
+      "word": "last",
+      "pos": "adjective/adverb",
+      "chinese": "上一个",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "yesterday",
+      "pos": "noun/adverb",
+      "chinese": "昨天",
+      "pos_list": [
+        "noun",
+        "adverb"
+      ]
+    }
+  ]
+}

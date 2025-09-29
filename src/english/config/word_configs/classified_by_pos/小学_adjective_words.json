@@ -1,0 +1,946 @@
+{
+  "metadata": {
+    "title": "形容词 词库",
+    "description": "从小学文档中提取的形容词",
+    "part_of_speech": "adjective",
+    "chinese_name": "形容词",
+    "word_count": 111,
+    "creation_date": "2025-09-27 14:25:21",
+    "source": "process_elementary_words.py"
+  },
+  "words": [
+    {
+      "word": "nice",
+      "pos": "adjective",
+      "chinese": "好的；愉快的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "good",
+      "pos": "adjective",
+      "chinese": "好的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "great",
+      "pos": "adjective",
+      "chinese": "太好了",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "small",
+      "pos": "adjective",
+      "chinese": "小的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "big",
+      "pos": "adjective",
+      "chinese": "大的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "long",
+      "pos": "adjective",
+      "chinese": "长的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "short",
+      "pos": "adjective",
+      "chinese": "短的；矮的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "tall",
+      "pos": "adjective",
+      "chinese": "高的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "new",
+      "pos": "adjective",
+      "chinese": "新的;新鲜的;新型的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "clean",
+      "pos": "adjective/verb",
+      "chinese": "清洁的",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "fat",
+      "pos": "adjective",
+      "chinese": "胖的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "sure",
+      "pos": "adjective/adverb",
+      "chinese": "确定地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "heavy",
+      "pos": "adjective",
+      "chinese": "重的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "sorry",
+      "pos": "adjective/interjection",
+      "chinese": "对不起",
+      "pos_list": [
+        "adjective",
+        "interjection"
+      ]
+    },
+    {
+      "word": "thin",
+      "pos": "adjective",
+      "chinese": "瘦的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "strong",
+      "pos": "adjective",
+      "chinese": "强壮的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "quiet",
+      "pos": "adjective",
+      "chinese": "安静的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "Chinese",
+      "pos": "adjective/noun",
+      "chinese": "中国的/中国人",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "right",
+      "pos": "adjective/adverb",
+      "chinese": "正确的/正确地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "open",
+      "pos": "verb/adjective",
+      "chinese": "开着的/打开",
+      "pos_list": [
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "hungry",
+      "pos": "adjective",
+      "chinese": "饥饿的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "ready",
+      "pos": "adjective",
+      "chinese": "准备好了",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "yummy",
+      "pos": "adjective",
+      "chinese": "好吃的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "only",
+      "pos": "adverb/adjective",
+      "chinese": "仅仅",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "young",
+      "pos": "adjective",
+      "chinese": "年轻的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "first",
+      "pos": "numeral/adverb/adjective",
+      "chinese": "第一",
+      "pos_list": [
+        "numeral",
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "welcome",
+      "pos": "verb/noun/adjective",
+      "chinese": "欢迎",
+      "pos_list": [
+        "verb",
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "beautiful",
+      "pos": "adjective",
+      "chinese": "美的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "second",
+      "pos": "numeral/adjective",
+      "chinese": "第二",
+      "pos_list": [
+        "numeral",
+        "adjective"
+      ]
+    },
+    {
+      "word": "cool",
+      "pos": "adjective",
+      "chinese": "订好的;酷的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "English",
+      "pos": "noun/adjective",
+      "chinese": "英语；英文",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "over",
+      "pos": "preposition/adjective/adverb",
+      "chinese": "结束",
+      "pos_list": [
+        "preposition",
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "rait",
+      "pos": "adjective/adverb",
+      "chinese": "好的/正确地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "fresh",
+      "pos": "adjective",
+      "chinese": "新鲜的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "funny",
+      "pos": "adjective",
+      "chinese": "滑稽可笑的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "kind",
+      "pos": "adjective/noun",
+      "chinese": "和蔼的/种类",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "old",
+      "pos": "adjective",
+      "chinese": "年老的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "red",
+      "pos": "adjective",
+      "chinese": "红色的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "rainy",
+      "pos": "adjective",
+      "chinese": "下雨的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "snowy",
+      "pos": "adjective",
+      "chinese": "下雪的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "windy",
+      "pos": "adjective",
+      "chinese": "有风的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "cloudy",
+      "pos": "adjective",
+      "chinese": "多云的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "sunny",
+      "pos": "adjective",
+      "chinese": "晴朗的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "much",
+      "pos": "adjective/adverb",
+      "chinese": "没什么",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "colourful",
+      "pos": "adjective",
+      "chinese": "色彩丰富的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "pretty",
+      "pos": "adjective",
+      "chinese": "漂亮的, 可爱的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "cheap",
+      "pos": "adjective",
+      "chinese": "便宜的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "expensive",
+      "pos": "adjective",
+      "chinese": "昂贵的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "strict",
+      "pos": "adjective",
+      "chinese": "严格的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "smart",
+      "pos": "adjective",
+      "chinese": "聪明的;巧妙的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "active",
+      "pos": "adjective",
+      "chinese": "积极的;活跃的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "healthy",
+      "pos": "adjective",
+      "chinese": "健康的;有益健康的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "tasty",
+      "pos": "adjective",
+      "chinese": "好吃的;可口的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "sweet",
+      "pos": "adjective/noun",
+      "chinese": "甜的/糖果",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "sour",
+      "pos": "adjective",
+      "chinese": "酸的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "salty",
+      "pos": "adjective",
+      "chinese": "咸的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "favourite",
+      "pos": "adjective/noun",
+      "chinese": "特别喜爱的;最喜爱的/最喜欢的人或物",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "ill",
+      "pos": "adjective",
+      "chinese": "有病的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "helpful",
+      "pos": "adjective",
+      "chinese": "有帮助的,有用的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "own",
+      "pos": "adjective",
+      "chinese": "自己的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "next",
+      "pos": "adjective/adverb",
+      "chinese": "下一个",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "best",
+      "pos": "adjective/adverb",
+      "chinese": "最;极",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "north",
+      "pos": "noun/adjective",
+      "chinese": "北方；向北方",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "fourth",
+      "pos": "numeral/adjective",
+      "chinese": "第四",
+      "pos_list": [
+        "numeral",
+        "adjective"
+      ]
+    },
+    {
+      "word": "fifth",
+      "pos": "numeral/adjective",
+      "chinese": "第五",
+      "pos_list": [
+        "numeral",
+        "adjective"
+      ]
+    },
+    {
+      "word": "eighth",
+      "pos": "numeral/adjective",
+      "chinese": "第八",
+      "pos_list": [
+        "numeral",
+        "adjective"
+      ]
+    },
+    {
+      "word": "ninth",
+      "pos": "numeral/adjective",
+      "chinese": "第九",
+      "pos_list": [
+        "numeral",
+        "adjective"
+      ]
+    },
+    {
+      "word": "twelfth",
+      "pos": "numeral/adjective",
+      "chinese": "第十二",
+      "pos_list": [
+        "numeral",
+        "adjective"
+      ]
+    },
+    {
+      "word": "twentieth",
+      "pos": "numeral/adjective",
+      "chinese": "第二十",
+      "pos_list": [
+        "numeral",
+        "adjective"
+      ]
+    },
+    {
+      "word": "able",
+      "pos": "adjective",
+      "chinese": "能",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "interesting",
+      "pos": "adjective",
+      "chinese": "有趣的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "same",
+      "pos": "adjective",
+      "chinese": "相同的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "left",
+      "pos": "adjective/noun/adverb",
+      "chinese": "左边的",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "far",
+      "pos": "adjective/adverb",
+      "chinese": "远",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "south",
+      "pos": "noun/adjective",
+      "chinese": "南",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "east",
+      "pos": "noun/adjective",
+      "chinese": "东",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "west",
+      "pos": "noun/adjective",
+      "chinese": "西",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "straight",
+      "pos": "adjective/adverb",
+      "chinese": "成直线地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "busy",
+      "pos": "adjective",
+      "chinese": "忙碌的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "comic",
+      "pos": "noun/adjective",
+      "chinese": "漫画/喜剧的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "dear",
+      "pos": "adjective/noun",
+      "chinese": "亲爱的/亲爱的称呼",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "twin",
+      "pos": "noun/adjective",
+      "chinese": "双胞胎之一/双胞胎的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "live",
+      "pos": "verb/adjective",
+      "chinese": "居住；住/现场的",
+      "pos_list": [
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "different",
+      "pos": "adjective",
+      "chinese": "不同的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "excited",
+      "pos": "adjective",
+      "chinese": "兴奋的；激动的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "little",
+      "pos": "adjective/adverb",
+      "chinese": "小的",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "high",
+      "pos": "adjective/adverb",
+      "chinese": "高的",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "other",
+      "pos": "adjective/pronoun",
+      "chinese": "其他的;另外的;别的",
+      "pos_list": [
+        "adjective",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "easy",
+      "pos": "adjective",
+      "chinese": "简单的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "lovely",
+      "pos": "adjective",
+      "chinese": "可爱的；美丽的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "taller",
+      "pos": "adjective",
+      "chinese": "更高的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "shorter",
+      "pos": "adjective",
+      "chinese": "更矮的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "stronger",
+      "pos": "adjective",
+      "chinese": "更强壮的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "older",
+      "pos": "adjective",
+      "chinese": "年龄更大的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "younger",
+      "pos": "adjective",
+      "chinese": "更年轻的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "funnier",
+      "pos": "adjective",
+      "chinese": "更滑稽的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "bigger",
+      "pos": "adjective",
+      "chinese": "更大的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "heavier",
+      "pos": "adjective",
+      "chinese": "更重的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "longer",
+      "pos": "adjective",
+      "chinese": "更长的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "thinner",
+      "pos": "adjective",
+      "chinese": "更瘦的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "smaller",
+      "pos": "adjective",
+      "chinese": "（体型）更小的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "deep",
+      "pos": "adjective",
+      "chinese": "深的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "sore",
+      "pos": "adjective",
+      "chinese": "疼的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "sick",
+      "pos": "adjective",
+      "chinese": "不舒服的；有病的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "better",
+      "pos": "adjective/adverb",
+      "chinese": "更好的",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "tired",
+      "pos": "adjective",
+      "chinese": "疲劳的；累的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "angry",
+      "pos": "adjective",
+      "chinese": "生气的；愤怒的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "happy",
+      "pos": "adjective",
+      "chinese": "高兴的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "bored",
+      "pos": "adjective",
+      "chinese": "无聊的；烦人的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "sad",
+      "pos": "adjective",
+      "chinese": "忧愁的；悲伤的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "last",
+      "pos": "adjective/adverb",
+      "chinese": "上一个",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "20250929_172258",
+  "type": "fsrs_learning_template",
+  "metadata": {
+    "stage": "第一阶段：基础巩固 (小学中高年级)",
+    "days": 60,
+    "minutes_per_day": 20,
+    "ai_model": "GLM-GLM-4.5",
+    "generated_at": "2025-09-29T17:22:58.421416",
+    "ai_response_time": 29.255211114883423,
+    "ai_usage": {
+      "completion_tokens": 2376,
+      "prompt_tokens": 1218,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 3594
+    },
+    "retry_count": 1
+  },
+  "fsrs_template": {
+    "metadata": {
+      "estimated_avg_word_rotations_per_cycle": 4.0,
+      "learning_efficiency_estimate": 1.0,
+      "review_efficiency_estimate": 0.6,
+      "morphology_practice_time_estimate": 4,
+      "syntax_practice_time_estimate": 8
+    },
+    "word_categories": {
+      "core_functional_percentage": 78.9,
+      "connectors_relational_percentage": 11.16,
+      "auxiliary_supplemental_percentage": 9.94
+    },
+    "fsrs_initial_parameters": {
+      "default_ease": 1.9,
+      "new_word_first_review_interval_days": 0.35,
+      "morphology_first_review_interval_days": 0.315,
+      "syntax_first_review_interval_days": 0.3675
+    },
+    "daily_planning_guidelines": {
+      "avg_new_words_per_day": 8,
+      "avg_review_words_per_day": 8,
+      "avg_new_morphology_units_per_day": 0,
+      "avg_new_syntax_units_per_day": 0,
+      "avg_morphology_rotations_per_cycle": 2.3,
+      "avg_syntax_rotations_per_cycle": 1.8,
+      "suggested_morphology_practice_minutes": 4,
+      "suggested_syntax_practice_minutes": 0,
+      "implementation_hint": "For high-intensity 1:1 ratio, shorten intervals by 10%; cap reviews at new words; allocate morphology/syntax evenly with 2.0 rotations/day; trim practice first if time overflows."
+    },
+    "example_review_item_structure_for_fsrs": {
+      "id": "placeholder_id",
+      "text": "placeholder_text",
+      "initial_interval_days": 0.35,
+      "status": "review"
+    }
+  }
+}

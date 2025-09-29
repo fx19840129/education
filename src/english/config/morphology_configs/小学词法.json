@@ -1,0 +1,159 @@
+{
+    "小学英语词法": {
+      "title": "小学英语词法学习内容 (词类与基本变化)",
+      "description": "涵盖小学阶段对英语单词基本词性、常见形式及简单变化的认知。",
+      "parts_of_speech": [
+        {
+          "pos_name": "名词 (Noun)",
+          "pos_description": "表示人、事物、地点、概念等。",
+          "learning_focus": [
+            "识别常见名词（如：apple, book, cat, school, teacher）。",
+            "区分可数名词与不可数名词（初步）。",
+            "学习名词的单数形式。"
+          ],
+          "form_changes": [
+            {
+              "change_type": "复数 (Plural)",
+              "description": "表示一个以上的事物。",
+              "rules_examples": [
+                "一般加-s (cats, books)",
+                "以-s, -x, -ch, -sh 结尾加-es (boxes, watches)",
+                "不规则复数（初步接触，如 children, men）"
+              ]
+            }
+          ],
+          "examples": ["cat", "dog", "book", "pen", "child", "apple", "teacher", "student", "father"]
+        },
+        {
+          "pos_name": "代词 (Pronoun)",
+          "pos_description": "代替名词使用。",
+          "learning_focus": [
+            "学习人称代词的主格（I, you, he, she, it, we, they）和宾格（me, you, him, her, it, us, them）。",
+            "学习物主代词（my, your, his, her, its, our, their）。"
+          ],
+          "form_changes": null,
+          "examples": ["I", "you", "he", "she", "it", "we", "they", "me", "him", "her", "my", "your", "his", "her"]
+        },
+        {
+          "pos_name": "动词 (Verb)",
+          "pos_description": "表示动作或状态。",
+          "learning_focus": [
+            "学习一般现在时（Present Simple）的动词原形和第三人称单数形式（加-s）。",
+            "识别常见情态动词（can, may - 初步）。",
+            "识别 be 动词（am, is, are）的不同形式。",
+            "识别常见动词词组（如: play, eat, go, have, like）。"
+          ],
+          "form_changes": [
+            {
+              "change_type": "第三人称单数 (Third Person Singular - Present Simple)",
+              "description": "当主语是第三人称单数（he, she, it, 或单数名词）时，现在时动词形式变化。",
+              "rules_examples": [
+                "一般加-s (plays, eats, likes)",
+                "以-s, -x, -ch, -sh 结尾加-es (watches, goes)",
+                "以辅音+y 结尾变y为i加-es (studies)"
+              ]
+            },
+            {
+              "change_type": "be 动词 (be Verb Forms)",
+              "description": "am, is, are 的使用（根据主语和时态）。",
+              "rules_examples": ["I am", "He/She/It is", "You/We/They are"]
+            }
+          ],
+          "examples": ["play", "eat", "go", "have", "like", "read", "write", "come", "tall", "nice"]
+        },
+        {
+          "pos_name": "形容词 (Adjective)",
+          "pos_description": "修饰名词，说明事物的性质、状态。",
+          "learning_focus": [
+            "学习常见形容词（如：big, small, tall, nice, good, happy）。",
+            "形容词一般放在名词前。",
+            "初步接触形容词的比较级和最高级（如 big-bigger-biggest）。"
+          ],
+          "form_changes": [
+            {
+              "change_type": "比较级/最高级 (Comparative/Superlative)",
+              "description": "比较事物的大小、多少、好坏等。",
+              "rules_examples": [
+                "一般加-er/-est (tall-taller-tallest, big-bigger-biggest)",
+                "部分不规则变化 (good-better-best)"
+              ]
+            }
+          ],
+          "examples": ["big", "small", "tall", "nice", "happy", "sad", "good", "bad"]
+        },
+        {
+          "pos_name": "副词 (Adverb)",
+          "pos_description": "修饰动词、形容词或其他副词。",
+          "learning_focus": [
+            "学习常见副词（如：very, quickly - 初步）。",
+            "许多副词由形容词加-ly构成。",
+            "表示时间、地点、方式等（初步）。"
+          ],
+          "form_changes": [
+            {
+              "change_type": "从形容词变来 (-ly form)",
+              "description": "大多数副词由形容词加-ly构成。",
+              "rules_examples": ["quick -> quickly", "happy -> happily"]
+            }
+          ],
+          "examples": ["very", "quickly", "slowly", "well"]
+        },
+        {
+          "pos_name": "介词 (Preposition)",
+          "pos_description": "表示名词或代词与句子其他成分的关系，常表示时间、地点、方向。",
+          "learning_focus": [
+            "学习常见介词（如：in, on, at, to, for, with, from）。",
+            "掌握其基本用法，如 in the morning, on the desk, at school, go to bed。"
+          ],
+          "form_changes": null,
+          "examples": ["in", "on", "at", "to", "for", "with", "from", "under", "behind"]
+        },
+        {
+          "pos_name": "连词 (Conjunction)",
+          "pos_description": "连接词、短语或句子的词。",
+          "learning_focus": [
+            "学习并列连词 (and, but, or) 的基本用法。",
+            "初步接触从属连词 (because, when - 初步)。"
+          ],
+          "form_changes": null,
+          "examples": ["and", "but", "or", "so", "because", "when"]
+        },
+        {
+          "pos_name": "冠词 (Article)",
+          "pos_description": "放在名词前，表示其确定性。",
+          "learning_focus": [
+            "学习不定冠词 a/an (根据发音)。",
+            "学习定冠词 the 的基本用法。"
+          ],
+          "form_changes": null,
+          "examples": ["a", "an", "the"]
+        }
+      ],
+      "word_formation": {
+        "formation_type": "词缀法 (Affixation - 初步)",
+        "description": "通过在词根前加前缀或在词根后加后缀来构成新词。",
+        "focus_elements": [
+          "常见前缀 (如 un-)",
+          "常见后缀 (如 -ful, -less, -ly)"
+        ],
+        "examples": ["unhappy", "careful", "careless", "quickly"]
+      },
+      "key_concepts": [
+        {
+          "concept_name": "基本词性识别",
+          "description": "能够识别并理解名词、动词、形容词、代词等基本词的含义和在句子中的作用。",
+          "level": "基础"
+        },
+        {
+          "concept_name": "常见词形变化",
+          "description": "掌握名词复数、动词第三人称单数、be 动词、形容词比较级/最高级等基础变化。",
+          "level": "基础"
+        },
+        {
+          "concept_name": "基础构词法",
+          "description": "初步接触前缀、后缀，理解构词法如何帮助记忆和理解词义。",
+          "level": "基础"
+        }
+      ]
+    }
+  }

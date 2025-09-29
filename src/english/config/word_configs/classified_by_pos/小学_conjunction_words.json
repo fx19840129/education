@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "title": "连词 词库",
+    "description": "从小学文档中提取的连词",
+    "part_of_speech": "conjunction",
+    "chinese_name": "连词",
+    "word_count": 7,
+    "creation_date": "2025-09-27 14:25:21",
+    "source": "process_elementary_words.py"
+  },
+  "words": [
+    {
+      "word": "and",
+      "pos": "conjunction",
+      "chinese": "和；并且",
+      "pos_list": [
+        "conjunction"
+      ]
+    },
+    {
+      "word": "but",
+      "pos": "conjunction",
+      "chinese": "但是",
+      "pos_list": [
+        "conjunction"
+      ]
+    },
+    {
+      "word": "when",
+      "pos": "adverb/conjunction",
+      "chinese": "什么时候",
+      "pos_list": [
+        "adverb",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "either",
+      "pos": "adverb/conjunction",
+      "chinese": "也",
+      "pos_list": [
+        "adverb",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "however",
+      "pos": "conjunction/adverb",
+      "chinese": "但是",
+      "pos_list": [
+        "conjunction",
+        "adverb"
+      ]
+    },
+    {
+      "word": "if",
+      "pos": "conjunction",
+      "chinese": "如果",
+      "pos_list": [
+        "conjunction"
+      ]
+    },
+    {
+      "word": "than",
+      "pos": "preposition/conjunction",
+      "chinese": "与…相比较",
+      "pos_list": [
+        "preposition",
+        "conjunction"
+      ]
+    }
+  ]
+}

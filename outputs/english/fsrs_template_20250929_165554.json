@@ -1,0 +1,60 @@
+{
+  "id": "20250929_165554",
+  "type": "fsrs_learning_template",
+  "metadata": {
+    "stage": "第一阶段：基础巩固 (小学中高年级)",
+    "days": 30,
+    "minutes_per_day": 15,
+    "ai_model": "GLM-GLM-4.5",
+    "generated_at": "2025-09-29T16:55:54.549996",
+    "ai_response_time": 29.805176734924316,
+    "ai_usage": {
+      "completion_tokens": 2552,
+      "prompt_tokens": 1194,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 3746
+    },
+    "retry_count": 1
+  },
+  "fsrs_template": {
+    "metadata": {
+      "estimated_avg_word_rotations_per_cycle": 4.0,
+      "learning_efficiency_estimate": 1.0,
+      "review_efficiency_estimate": 0.6,
+      "morphology_practice_time_estimate": 4,
+      "syntax_practice_time_estimate": 8
+    },
+    "word_categories": {
+      "core_functional_percentage": 78.9,
+      "connectors_relational_percentage": 11.17,
+      "auxiliary_supplemental_percentage": 9.93
+    },
+    "fsrs_initial_parameters": {
+      "default_ease": 1.9,
+      "new_word_first_review_interval_days": 0.33,
+      "morphology_first_review_interval_days": 0.3,
+      "syntax_first_review_interval_days": 0.35
+    },
+    "daily_planning_guidelines": {
+      "avg_new_words_per_day": 6,
+      "avg_review_words_per_day": 6,
+      "avg_new_morphology_units_per_day": 0.43,
+      "avg_review_morphology_units_per_day": 0.43,
+      "avg_new_syntax_units_per_day": 0.53,
+      "avg_review_syntax_units_per_day": 0.53,
+      "morphology_rotations_per_cycle": 1.9,
+      "syntax_rotations_per_cycle": 1.5,
+      "suggested_morphology_practice_minutes": 4,
+      "suggested_syntax_practice_minutes": 0
+    },
+    "example_review_item_structure_for_fsrs": {
+      "id": "placeholder",
+      "text": "placeholder",
+      "initial_interval_days": 0.33,
+      "status": "review"
+    },
+    "implementation_hint": "For high-intensity 1:1 ratio, shorten intervals by 10%; cap reviews at new words; allocate morphology/syntax evenly with 2.0 rotations/day; trim practice first if time overflows."
+  }
+}

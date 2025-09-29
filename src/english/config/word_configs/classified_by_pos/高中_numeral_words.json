@@ -1,0 +1,354 @@
+{
+  "metadata": {
+    "title": "数词 词库",
+    "description": "从文档中提取的数词",
+    "part_of_speech": "numeral",
+    "chinese_name": "数词",
+    "word_count": 38,
+    "creation_date": "2025-09-27 12:54:20",
+    "source": "extract_words_minimal.py"
+  },
+  "words": [
+    {
+      "word": "zero",
+      "pos": "noun/numeral",
+      "chinese": "零；(温度计等)零度；零点",
+      "pos_list": [
+        "noun",
+        "numeral"
+      ]
+    },
+    {
+      "word": "two",
+      "pos": "numeral/noun",
+      "chinese": "二，两个/两个(人或物)",
+      "pos_list": [
+        "numeral",
+        "noun"
+      ]
+    },
+    {
+      "word": "twenty",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "二十/二十(个，只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "twentieth",
+      "pos": "numeral/noun",
+      "chinese": "第二十/二十分之一",
+      "pos_list": [
+        "numeral",
+        "noun"
+      ]
+    },
+    {
+      "word": "twelve",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "十二/十二(个，只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "twelfth",
+      "pos": "numeral/noun",
+      "chinese": "第十二/十二分之一",
+      "pos_list": [
+        "numeral",
+        "noun"
+      ]
+    },
+    {
+      "word": "ten",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "十/十(个，只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "sixty",
+      "pos": "numeral",
+      "chinese": "六十，六十个(人或物)",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "sixth",
+      "pos": "numeral/noun",
+      "chinese": "第六/六分之一",
+      "pos_list": [
+        "numeral",
+        "noun"
+      ]
+    },
+    {
+      "word": "sixteen",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "十六/十六(个，只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "six",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "六/六(个，只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "seventy",
+      "pos": "numeral/adjective",
+      "chinese": "七十",
+      "pos_list": [
+        "numeral",
+        "adjective"
+      ]
+    },
+    {
+      "word": "seventh",
+      "pos": "numeral",
+      "chinese": "第七，七分之一",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "seventeen",
+      "pos": "numeral",
+      "chinese": "十七，十七个(人或物)",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "seven",
+      "pos": "numeral",
+      "chinese": "七，七个(人或物)",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "second",
+      "pos": "numeral/adjective/noun",
+      "chinese": "第二/第二的；别的/第二；秒；片刻",
+      "pos_list": [
+        "numeral",
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "one",
+      "pos": "numeral/pronoun",
+      "chinese": "一/一个(只)(表示代替可数的东西)",
+      "pos_list": [
+        "numeral",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "ninth",
+      "pos": "numeral",
+      "chinese": "第九个，九分之一",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "ninteenth",
+      "pos": "numeral",
+      "chinese": "第十九",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "ninety",
+      "pos": "numeral",
+      "chinese": "九十，九十个",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "ninetieth",
+      "pos": "numeral",
+      "chinese": "第九十",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "nine",
+      "pos": "numeral/pronoun/adverb",
+      "chinese": "九/九(个，只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "million",
+      "pos": "numeral/noun",
+      "chinese": "百万/许多；无数；数百万",
+      "pos_list": [
+        "numeral",
+        "noun"
+      ]
+    },
+    {
+      "word": "hundred",
+      "pos": "numeral/adjective",
+      "chinese": "百，一百；[pl.]许多/一百的；许多",
+      "pos_list": [
+        "numeral",
+        "adjective"
+      ]
+    },
+    {
+      "word": "fourth",
+      "pos": "numeral/noun",
+      "chinese": "第四/四分之一",
+      "pos_list": [
+        "numeral",
+        "noun"
+      ]
+    },
+    {
+      "word": "fourteen",
+      "pos": "numeral",
+      "chinese": "十四,十四个",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "four",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "四/四(个,只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "forty",
+      "pos": "numeral/adjective/pronoun",
+      "chinese": "四十/四十(个,只.)",
+      "pos_list": [
+        "numeral",
+        "adjective",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "five",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "五/五(个,只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "fifty",
+      "pos": "numeral",
+      "chinese": "五十,五十个",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "fifth",
+      "pos": "numeral",
+      "chinese": "第五(个),五分之一(的)",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "fifteen",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "十五(个,只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "eleventh",
+      "pos": "numeral",
+      "chinese": "第十一(个)",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "eleven",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "十一/十一(个,只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "eighty",
+      "pos": "numeral/adjective/pronoun",
+      "chinese": "八十/八十(个,只.)",
+      "pos_list": [
+        "numeral",
+        "adjective",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "eighth",
+      "pos": "numeral",
+      "chinese": "第八(个),八分之一(的)",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "eighteen",
+      "pos": "numeral",
+      "chinese": "十八,十八个",
+      "pos_list": [
+        "numeral"
+      ]
+    },
+    {
+      "word": "eight",
+      "pos": "numeral/pronoun",
+      "chinese": "八/八(个,只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun"
+      ]
+    }
+  ]
+}

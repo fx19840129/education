@@ -1,0 +1,4689 @@
+{
+  "metadata": {
+    "title": "形容词 词库",
+    "description": "从文档中提取的形容词",
+    "part_of_speech": "adjective",
+    "chinese_name": "形容词",
+    "word_count": 538,
+    "creation_date": "2025-09-27 12:54:20",
+    "source": "extract_words_minimal.py"
+  },
+  "words": [
+    {
+      "word": "youthful",
+      "pos": "adjective",
+      "chinese": "年轻的，有青春活力的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "young",
+      "pos": "adjective/noun",
+      "chinese": "年轻的，幼小的；没经验的/青年人",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "yellow",
+      "pos": "adjective/noun",
+      "chinese": "黄的，黄色的/黄色",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "yearly",
+      "pos": "adjective/adverb",
+      "chinese": "每年的，一年一度的/每年，一年一次地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "year",
+      "pos": "noun/adjective/adverb",
+      "chinese": "年，年度，学年/每年，一年一次",
+      "pos_list": [
+        "noun",
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "wrong",
+      "pos": "adjective/adverb/noun/verb",
+      "chinese": "错的/错误地，不正确地/错误/委屈",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "wounded",
+      "pos": "adjective/noun",
+      "chinese": "受伤的/伤员",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "worthy",
+      "pos": "adjective",
+      "chinese": "值得的；有价值的；可尊敬的/配得上的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "worthwhile",
+      "pos": "adjective",
+      "chinese": "值得花时间(或精力)的；有价值的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "worthless",
+      "pos": "adjective",
+      "chinese": "无价值的，无用的；不足道的，不可取的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "worth",
+      "pos": "adjective/noun",
+      "chinese": "值钱；值得，具有价值/价值，作用",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "worst",
+      "pos": "adjective/adverb",
+      "chinese": "最坏(差；恶劣)的/最坏地，最差地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "worse",
+      "pos": "adjective/adverb",
+      "chinese": "更坏(差)的；(病)更重的/更坏(差)地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "worried",
+      "pos": "adjective",
+      "chinese": "担忧的，担心的，发愁的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "worldwide",
+      "pos": "adjective/adverb",
+      "chinese": "全世界的，世界范围的/遍及全世界",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "world-famous",
+      "pos": "adjective",
+      "chinese": "世界闻名的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "woolen",
+      "pos": "adjective",
+      "chinese": "羊毛(制)的；毛纺的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "ena",
+      "pos": "adjective",
+      "chinese": "木制的，木头的；木头似的，呆笨的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "wonderful",
+      "pos": "adjective",
+      "chinese": "令人惊奇的；精彩的，绝妙的；了不起的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "wise",
+      "pos": "adjective",
+      "chinese": "有智慧的，聪明的；明智的；有学问的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "wireless",
+      "pos": "adjective/noun",
+      "chinese": "无线的/无线电话(电报)；无线电广播",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "windy",
+      "pos": "adjective",
+      "chinese": "有风的,多风的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "willing",
+      "pos": "adjective",
+      "chinese": "愿意的，乐意的，心甘情愿的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "wild",
+      "pos": "adjective",
+      "chinese": "野的，野生的；未开发的；原始的；放荡的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "widespread",
+      "pos": "adjective/verb",
+      "chinese": "分布广的，流传广的/加宽，放宽",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "wide",
+      "pos": "adjective/adverb",
+      "chinese": "宽的，宽阔的；广泛的/广大地；全部地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "whole",
+      "pos": "noun/adjective",
+      "chinese": "全部/全体的；全部的；完整的；无缺的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "white",
+      "pos": "adjective/noun",
+      "chinese": "白色的；苍白的；白种的/白色；白种人",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "whichever",
+      "pos": "pronoun/adjective",
+      "chinese": "无论哪个/无论哪个(或哪些)",
+      "pos_list": [
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "which",
+      "pos": "adjective/pronoun",
+      "chinese": "哪个，哪些；什么样的；那个，那些",
+      "pos_list": [
+        "adjective",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "whatever",
+      "pos": "pronoun/adjective",
+      "chinese": "无论什么；任何的事物/不管怎样的",
+      "pos_list": [
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "what",
+      "pos": "pronoun/adjective",
+      "chinese": "什么/多么，何等；什么；尽可能多的",
+      "pos_list": [
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "wet",
+      "pos": "adjective/verb",
+      "chinese": "湿的，潮的；多雨的，雨天的/(使)弄湿",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "westwards",
+      "pos": "adjective",
+      "chinese": "向西的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "western",
+      "pos": "adjective/noun",
+      "chinese": "西方的，西部的/(美国)西部小说/电影",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "west",
+      "pos": "noun/adverb/adjective",
+      "chinese": "西(方；部)/向(在)西方/西方(部)的",
+      "pos_list": [
+        "noun",
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "Welsh",
+      "pos": "adjective/noun",
+      "chinese": "威尔士(人，语)的/威尔士人",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "well-known",
+      "pos": "adjective",
+      "chinese": "有名的，出名的；众所周知的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "welcome",
+      "pos": "interjection/adjective/verb/noun",
+      "chinese": "欢迎/受欢迎的/欢迎；迎接/欢迎；迎接",
+      "pos_list": [
+        "interjection",
+        "adjective",
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "weekly",
+      "pos": "adjective/adverb/noun",
+      "chinese": "每周的,一周一次的/每周一次地/周报",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "wealthy",
+      "pos": "adjective",
+      "chinese": "rich,abundant富裕的，富庶的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "weak",
+      "pos": "adjective",
+      "chinese": "虚弱的，无力的；弱的；淡薄的；不充分的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "waste",
+      "pos": "adjective/verb/noun",
+      "chinese": "荒芜的；无用的，废弃的/浪费；废物/浪费；废物",
+      "pos_list": [
+        "adjective",
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "washing",
+      "pos": "adjective",
+      "chinese": "洗衣服用的，清洗用的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "warmhearted",
+      "pos": "adjective",
+      "chinese": "热情的，亲切的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "warm-blooded",
+      "pos": "adjective",
+      "chinese": "(动物)温血的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "warm",
+      "pos": "adjective/verb",
+      "chinese": "温暖的，热心的，热情的/(使)变暖",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "wagging",
+      "pos": "adjective",
+      "chinese": "摇动的；摆动的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "violent",
+      "pos": "adjective",
+      "chinese": "剧烈的，猛力的；强暴的，由暴力引起的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "video",
+      "pos": "adjective/noun",
+      "chinese": "电视的，视频的；录像的/电视，录像",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "very",
+      "pos": "adverb/adjective",
+      "chinese": "很，非常；完全/正是的；真正，真实的",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "vegetable",
+      "pos": "noun/adjective",
+      "chinese": "蔬菜，植物/植物的，蔬菜的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "vast",
+      "pos": "adjective",
+      "chinese": "广阔的，浩瀚的；巨大的，庞大的，大量的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "various",
+      "pos": "adjective",
+      "chinese": "各种各样的，不同的；多方面的，多种的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "valuable",
+      "pos": "adjective/noun",
+      "chinese": "贵重的，有价值的/[pl.]贵重物品，财宝",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "usual",
+      "pos": "adjective",
+      "chinese": "通常的，平常的，惯常的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "useless",
+      "pos": "adjective",
+      "chinese": "无用的，无价值的；无益的，无效的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "useful",
+      "pos": "adjective",
+      "chinese": "有用的，实用的；有益的，有帮助的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "used",
+      "pos": "adjective",
+      "chinese": "用旧了的，旧的；习惯于…；过去惯/经常",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "upstairs",
+      "pos": "adverb/adjective",
+      "chinese": "在楼上；往楼上/楼上的；在楼上的",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "upset",
+      "pos": "adjective",
+      "chinese": "unhappyordisappointed心烦的，苦恼的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "upper",
+      "pos": "adjective",
+      "chinese": "上部的，在……之上的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "unusual",
+      "pos": "adjective",
+      "chinese": "不平常的，少有的；与众不同的，独特的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "unsold",
+      "pos": "adjective",
+      "chinese": "未卖掉的，未售出的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "unreserved",
+      "pos": "adjective",
+      "chinese": "没有被预订的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "unpleasant",
+      "pos": "adjective",
+      "chinese": "令人不快的；爱争执的[反]amiable",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "unmarried",
+      "pos": "adjective",
+      "chinese": "未婚的,独身的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "unlike",
+      "pos": "preposition/adjective",
+      "chinese": "不像…，和…不同/不相似的，不同的",
+      "pos_list": [
+        "preposition",
+        "adjective"
+      ]
+    },
+    {
+      "word": "unknown",
+      "pos": "adjective/noun",
+      "chinese": "未知的；不出名的/不知名，未知数(量)",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "united",
+      "pos": "adjective",
+      "chinese": "和谐的；团结的；联合的，统一的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "uniform",
+      "pos": "noun/adjective",
+      "chinese": "制服，军服/相同的，一律的，一贯的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "unhealthy",
+      "pos": "adjective",
+      "chinese": "有碍健康的；体弱多病的，不健康的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "unfit",
+      "pos": "adjective",
+      "chinese": "(for)不适宜的，不适当的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "unfair",
+      "pos": "adjective",
+      "chinese": "notfairorright;unjust",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "undivided",
+      "pos": "adjective",
+      "chinese": "没有分开的；专一的；专心的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "underwater",
+      "pos": "adjective/adverb",
+      "chinese": "水下面的（地）",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "understanding",
+      "pos": "noun/adjective",
+      "chinese": "洞察力；理解力；领会/体谅的，宽容的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "underground",
+      "pos": "adjective/adverb",
+      "chinese": "地(面)下的，秘密的，不公开的/秘密地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "uncertain",
+      "pos": "adjective",
+      "chinese": "不定的，不确知的；不可靠的，易变的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "unboiled",
+      "pos": "adjective",
+      "chinese": "未煮开的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "unable",
+      "pos": "adjective",
+      "chinese": "不能的，不会的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "ugly",
+      "pos": "adjective",
+      "chinese": "难看的，丑陋的；讨厌的，丑恶的，卑劣的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "twin",
+      "pos": "adjective/noun",
+      "chinese": "双的，成对的，孪生的/孪生子，双生子",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "twenty",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "二十/二十(个，只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "twelve",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "十二/十二(个，只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "true",
+      "pos": "adjective",
+      "chinese": "真实，不假的；忠实，可靠的；正确无误的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "troublesome",
+      "pos": "adjective",
+      "chinese": "令人烦恼的，讨厌的；麻烦的，难处理的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "tough",
+      "pos": "adjective",
+      "chinese": "坚韧的，困难的；强健的；粗暴的，凶恶的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "total",
+      "pos": "adjective/noun",
+      "chinese": "总的，完全的/总计，合计[同]complete",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "top",
+      "pos": "noun/adjective",
+      "chinese": "顶，顶端；首位；顶点/最高的；顶上的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "tiring",
+      "pos": "adjective",
+      "chinese": "令人疲累的(修饰事物)",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "tiresome",
+      "pos": "adjective",
+      "chinese": "令人疲劳的，令人厌倦的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "tired",
+      "pos": "adjective",
+      "chinese": "疲劳的，累的；(of)厌倦的，厌烦的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "tiny",
+      "pos": "adjective",
+      "chinese": "极小的；极少量的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "tight",
+      "pos": "adjective/adverb",
+      "chinese": "紧的；紧身的，紧贴的/紧紧地，牢牢地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "that",
+      "pos": "adjective/pronoun/adverb/conjunction",
+      "chinese": "那，那个/那么/引导从句",
+      "pos_list": [
+        "adjective",
+        "pronoun",
+        "adverb",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "thankful",
+      "pos": "adjective",
+      "chinese": "showing or feeling gratitude; grateful（表示或感到感激的；感激的）",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "terrible",
+      "pos": "adjective",
+      "chinese": "很糟的；可怕的，骇人的；极度的，厉害的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "tense",
+      "pos": "noun/verb/adjective",
+      "chinese": "时态/拉紧，(使)紧张/绷紧的，紧张的",
+      "pos_list": [
+        "noun",
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "ten",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "十/十(个，只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "technical",
+      "pos": "adjective",
+      "chinese": "技术(性)的，工艺的；专门性的，专业性的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "tall",
+      "pos": "adjective",
+      "chinese": "(身材)高的；难以置信的，难以办成的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "Swiss",
+      "pos": "adjective/noun",
+      "chinese": "瑞士人的/瑞士人",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "swift",
+      "pos": "adjective",
+      "chinese": "迅速的，速度快的；敏捷的，反应快的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "sweet",
+      "pos": "adjective/noun",
+      "chinese": "甜的；芳香的；可爱的/甜点；[pl.]糖果",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "surrounding",
+      "pos": "noun/adjective",
+      "chinese": "(pl.)环境，周围的事物/周围的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "surface",
+      "pos": "noun/adjective",
+      "chinese": "表面，面，外表/表面的，肤浅的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "sure",
+      "pos": "adjective",
+      "chinese": "肯定的；一定会…的；有信心的，有把握的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "sunny",
+      "pos": "adjective",
+      "chinese": "阳光充足的，各煦的；像太阳的，金黄色的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "sunburnt",
+      "pos": "adjective",
+      "chinese": "晒伤的；日灼的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "summer",
+      "pos": "noun/adjective",
+      "chinese": "夏天，夏季/夏季的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "summary",
+      "pos": "noun/adjective",
+      "chinese": "摘要，总结/概要的，扼要的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "suitable",
+      "pos": "adjective",
+      "chinese": "(for)合适的，适宜的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "sudden",
+      "pos": "adjective",
+      "chinese": "出乎意料的，突然的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "such",
+      "pos": "adjective/pronoun",
+      "chinese": "这样的，这种的/这样的人，这样的事",
+      "pos_list": [
+        "adjective",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "subject",
+      "pos": "noun/adjective/verb",
+      "chinese": "国民；主题/隶属的，受支配的/征服",
+      "pos_list": [
+        "noun",
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "stupid",
+      "pos": "adjective",
+      "chinese": "愚蠢的，迟钝的；无聊的，恼人的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "strong",
+      "pos": "adjective",
+      "chinese": "强有力的；强壮的；坚强的；强烈的；浓的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "strict",
+      "pos": "adjective",
+      "chinese": "严格的，严厉的；严谨的，精确的；完全的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "strange",
+      "pos": "adjective",
+      "chinese": "奇怪的；奇异的；陌生的，生疏的；外地的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "straight",
+      "pos": "adjective/adverb",
+      "chinese": "直的；整齐的，有条理的；正直的/直接",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "stormy",
+      "pos": "adjective",
+      "chinese": "有暴风雨的；激烈的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "still",
+      "pos": "adjective/adverb",
+      "chinese": "静止的，寂静的/还，仍然；更；安静地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "steep",
+      "pos": "adjective/verb",
+      "chinese": "陡的；过高的；急剧的/浸泡，沉浸",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "steady",
+      "pos": "adjective/verb",
+      "chinese": "稳的；持续的；稳重的/(使)平稳(稳定)",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "standard",
+      "pos": "noun/adjective",
+      "chinese": "标准，水平/普通的，一般的，标准的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "square",
+      "pos": "adjective/noun/verb",
+      "chinese": "正方形的；平方的/正方形；广场/求平方",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "spoonful",
+      "pos": "adjective",
+      "chinese": "一匙的量",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "spoken",
+      "pos": "adjective",
+      "chinese": "口头的，口语的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "split",
+      "pos": "verb/adjective/noun",
+      "chinese": "劈开，裂开/分裂的/裂缝/口；分化/裂",
+      "pos_list": [
+        "verb",
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "splendid",
+      "pos": "adjective",
+      "chinese": "华丽的，漂亮的；优秀的，极好的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "spiritual",
+      "pos": "adjective",
+      "chinese": "精神的，心灵的；神圣的[反]physical",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "special",
+      "pos": "adjective/noun",
+      "chinese": "特殊的；专门的/特价，特刊，特别节目",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "spare",
+      "pos": "verb/adjective",
+      "chinese": "让给，抽出(时间)；饶恕/剩余的/备用的",
+      "pos_list": [
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "panisha",
+      "pos": "adjective/noun",
+      "chinese": "西班牙语的；西班牙(人)的/西班牙语/人",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "Soviet",
+      "pos": "adjective/noun",
+      "chinese": "苏联的，苏维埃的/苏维埃",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "southern",
+      "pos": "adjective",
+      "chinese": "北部的，来自北方的，向北的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "south",
+      "pos": "noun/adjective/adverb",
+      "chinese": "南方，南部/南方的，南部的/在南方",
+      "pos_list": [
+        "noun",
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "sound",
+      "pos": "adjective",
+      "chinese": "健康的，健全的；可靠的，充分的；彻底的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "sorry",
+      "pos": "adjective",
+      "chinese": "对不起，抱歉的；难过，悔恨的；使人伤心",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "solid",
+      "pos": "adjective/noun",
+      "chinese": "固体的；实心的；结实的，可靠的/固体",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "soft",
+      "pos": "adjective",
+      "chinese": "柔软(和)的；温柔的；不含酒精的；光滑的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "socialist",
+      "pos": "adjective/noun",
+      "chinese": "社会主义的/社会主义者，社会党人",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "smooth",
+      "pos": "adjective",
+      "chinese": "光滑的，平滑的；平稳的，顺利的；流畅的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "melly",
+      "pos": "adjective",
+      "chinese": "有臭味的，发出臭气的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "smart",
+      "pos": "adjective/verb",
+      "chinese": "聪明的；(衣服)漂亮的；敏捷的/刺痛",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "small",
+      "pos": "adjective",
+      "chinese": "小的；年幼的；不重要的；小规模(经营)的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "slow",
+      "pos": "adjective/verb",
+      "chinese": "(缓)慢的；迟钝的/(使)放慢；(使)减速",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "slight",
+      "pos": "adjective/verb/noun",
+      "chinese": "轻微的；纤细的/轻视，藐视/轻视，藐视",
+      "pos_list": [
+        "adjective",
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "sleepy",
+      "pos": "adjective",
+      "chinese": "想睡的，困倦的；不热闹的，冷清的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "skilled",
+      "pos": "adjective",
+      "chinese": "having skill; requiring training/skill",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "sixteen",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "十六/十六(个，只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "six",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "六/六(个，只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "single",
+      "pos": "adjective/verb",
+      "chinese": "单个的；独身的；每个的，个别的/挑选",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "simple",
+      "pos": "adjective",
+      "chinese": "简单的，简明的；朴素的；单纯的；迟钝的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "similar",
+      "pos": "adjective",
+      "chinese": "(to)相似的，类似的；与…相似",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "silver",
+      "pos": "noun/adjective/verb",
+      "chinese": "银，银币/银色的/镀银",
+      "pos_list": [
+        "noun",
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "silly",
+      "pos": "adjective",
+      "chinese": "傻的，糊涂的，愚蠢的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "silent",
+      "pos": "adjective",
+      "chinese": "沉默的，无言的；安静的，不吵闹的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "sideway",
+      "pos": "adverb/adjective",
+      "chinese": "斜向一边(的)，侧身(的)",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "sick",
+      "pos": "adjective",
+      "chinese": "有病的，患病的；恶心的；(of)厌恶的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "shy",
+      "pos": "adjective/verb",
+      "chinese": "怕羞的，腼腆的；胆怯的/惊退，畏缩",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "short",
+      "pos": "adjective/noun",
+      "chinese": "短的；矮的；(of)缺乏，不足/[pl.]短裤",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "sharp",
+      "pos": "adjective/adverb",
+      "chinese": "锋利的；急剧的；刺耳的/[时刻]正，准",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "shallow",
+      "pos": "adjective/noun",
+      "chinese": "浅的；浅薄的，肤浅的/(pl.)浅滩，浅处",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "shabby",
+      "pos": "adjective",
+      "chinese": "简陋的，破旧的；卑鄙的，不正当的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "several",
+      "pos": "adjective",
+      "chinese": "几个，若干",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "seventy",
+      "pos": "numeral/adjective",
+      "chinese": "七十",
+      "pos_list": [
+        "numeral",
+        "adjective"
+      ]
+    },
+    {
+      "word": "set",
+      "pos": "noun/verb/adjective",
+      "chinese": "一套，一副；装置/放；日落/规定的",
+      "pos_list": [
+        "noun",
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "serious",
+      "pos": "adjective",
+      "chinese": "严肃的，庄重的；严重的，危急的；认真的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "separate",
+      "pos": "verb/adjective",
+      "chinese": "使分开；区分/分离/不同的；单独的",
+      "pos_list": [
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "senior",
+      "pos": "adjective/noun",
+      "chinese": "年长的；地位较高的/(大学)四年级学生",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "select",
+      "pos": "verb/adjective",
+      "chinese": "选择，挑选，选拔/精选的",
+      "pos_list": [
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "secret",
+      "pos": "adjective/noun",
+      "chinese": "秘密的，机密的/秘密，奥秘",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "secondhand",
+      "pos": "adjective",
+      "chinese": "二手的，用过的，旧的；间接的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "second",
+      "pos": "numeral/adjective/noun",
+      "chinese": "第二/第二的；别的/第二；秒；片刻",
+      "pos_list": [
+        "numeral",
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "seaside",
+      "pos": "noun/adjective",
+      "chinese": "海边(的)；海滨(的)",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "cottish",
+      "pos": "adjective/noun",
+      "chinese": "苏格兰(人)的/苏格兰(人)；苏格兰语",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "scientific",
+      "pos": "adjective",
+      "chinese": "科学(上)的，科学性的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "savage",
+      "pos": "adjective/noun",
+      "chinese": "野蛮的，未开化的；凶恶的/未开化的人",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "satellite",
+      "pos": "noun/adjective",
+      "chinese": "卫星",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "same",
+      "pos": "adjective/pronoun/adverb",
+      "chinese": "相同的/相同的人(或物)/同样地",
+      "pos_list": [
+        "adjective",
+        "pronoun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "salty",
+      "pos": "adjective",
+      "chinese": "盐的；咸的；含盐的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "sailing",
+      "pos": "adjective/noun",
+      "chinese": "启航的/航行",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "safe",
+      "pos": "adjective/noun",
+      "chinese": "安全的；可靠的；有把握的/保险箱",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "sad",
+      "pos": "adjective",
+      "chinese": "悲哀的；十分糟糕的，令人伤心遗憾的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "Russian",
+      "pos": "adjective/noun",
+      "chinese": "俄罗斯人(的)，俄国人(的)，俄语(的)",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "rush",
+      "pos": "verb/noun/adjective",
+      "chinese": "(使)冲，奔/冲，急速行进/交通繁忙的",
+      "pos_list": [
+        "verb",
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "rude",
+      "pos": "adjective",
+      "chinese": "粗鲁的，不礼貌的；粗糙的，粗陋的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "rubber",
+      "pos": "noun/adjective",
+      "chinese": "橡皮擦；橡胶(制品)；(pl.)胶鞋；橡胶的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "round",
+      "pos": "adjective/preposition/adverb/noun/verb",
+      "chinese": "圆的；围绕；在周围；一周；绕行",
+      "pos_list": [
+        "adjective",
+        "preposition",
+        "adverb",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "rough",
+      "pos": "adjective",
+      "chinese": "粗糙的；粗略的，大致的；粗野的，粗暴的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "rocking",
+      "pos": "adjective",
+      "chinese": "摇动的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "roadside",
+      "pos": "noun/adjective",
+      "chinese": "路边；路边的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "ripe",
+      "pos": "adjective",
+      "chinese": "成熟的；时机成熟的，准备好的；成年的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "right-handed",
+      "pos": "adjective",
+      "chinese": "右手的；用右手的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "right",
+      "pos": "adjective/noun/adverb/verb",
+      "chinese": "右的；正确的；右；权利；对；纠正",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "adverb",
+        "verb"
+      ]
+    },
+    {
+      "word": "rich",
+      "pos": "adjective",
+      "chinese": "富有的；富饶的；(色彩)浓艳的；贵重的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "revolutionary",
+      "pos": "adjective/noun",
+      "chinese": "革命的；大变革的；革命者；革命党人",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "return",
+      "pos": "verb/noun/adjective",
+      "chinese": "回；归还；报答；回程的；回报的",
+      "pos_list": [
+        "verb",
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "relative",
+      "pos": "noun/adjective",
+      "chinese": "亲戚，亲属/相对的；有关系的，相关的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "regular",
+      "pos": "adjective",
+      "chinese": "定期的；有规律的；正规(式)的；匀称的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "reddish-brown",
+      "pos": "adjective",
+      "chinese": "红棕色的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "red",
+      "pos": "adjective/noun",
+      "chinese": "红的，红色的/红色；红色颜料",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "recent",
+      "pos": "adjective",
+      "chinese": "最近的，近来的；近代的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "reasonable",
+      "pos": "adjective",
+      "chinese": "合理的，有道理的；通情达理的；适度",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "real",
+      "pos": "adjective",
+      "chinese": "真的，真实的；实际的，现实的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "ready",
+      "pos": "adjective",
+      "chinese": "准备好的，现成的；乐意的，情愿；迅速的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "reading",
+      "pos": "noun/adjective",
+      "chinese": "读书；读物；(仪表等的)读数/阅读的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "rapid",
+      "pos": "adjective/noun",
+      "chinese": "快的，迅速的/［pl.］急流，湍滩",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "rainy",
+      "pos": "adjective",
+      "chinese": "下雨的，多雨的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "radioactive",
+      "pos": "adjective",
+      "chinese": "［原］放射性的；放射引起的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "racial",
+      "pos": "adjective",
+      "chinese": "oforhavingtodowithrace",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "quiet",
+      "pos": "adjective/noun/verb",
+      "chinese": "安静的，宁静的；轻声的/安静/使安静",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "quick",
+      "pos": "adjective/adverb",
+      "chinese": "快的；灵敏的；性急的，敏锐的/迅速地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "quarrelsome",
+      "pos": "adjective",
+      "chinese": "喜欢争吵的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "quality",
+      "pos": "noun/adjective",
+      "chinese": "质(量)；品质；性质/优良(质)的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "puzzled",
+      "pos": "adjective",
+      "chinese": "迷惑的；困惑的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "pure",
+      "pos": "adjective",
+      "chinese": "纯，纯洁；抽象的，纯理论的；十足，完全",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "public",
+      "pos": "adjective/noun",
+      "chinese": "公共/用的；公众的；公开/然的/公/大众",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "proud",
+      "pos": "adjective",
+      "chinese": "骄傲的，妄自尊大的；(of)自豪的，得意的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "proper",
+      "pos": "adjective",
+      "chinese": "适当的，正确的；正当的，规矩的；完全的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "promising",
+      "pos": "adjective",
+      "chinese": "有希望的，有前途的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "probable",
+      "pos": "adjective",
+      "chinese": "很可能的，大概的；有希望的，可能的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "private",
+      "pos": "adjective",
+      "chinese": "私人的；秘密的；非官职的；安静的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "primary",
+      "pos": "adjective",
+      "chinese": "初级的，初步的；主要的；首要的；最初的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "priceless",
+      "pos": "adjective",
+      "chinese": "无价的，非常贵重的，珍贵的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "pretty",
+      "pos": "adverb/adjective",
+      "chinese": "相当，很/漂亮的，俊俏的，标致的",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "present",
+      "pos": "adjective/noun/verb",
+      "chinese": "出席的/现在；礼物/赠送；提出；介绍",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "precious",
+      "pos": "adjective",
+      "chinese": "宝贵的，贵重的；珍爱的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "practical",
+      "pos": "adjective",
+      "chinese": "实践的；实用的；实际的；实用主义的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "powerful",
+      "pos": "adjective",
+      "chinese": "强大的，有力的，有权的；强壮的，强健的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "possible",
+      "pos": "adjective",
+      "chinese": "可能的，做得到的；合理的，可允许的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "popular",
+      "pos": "adjective",
+      "chinese": "广受欢迎的，有名的；通俗的，流行的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "poor",
+      "pos": "adjective",
+      "chinese": "贫困的；可怜的；贫乏的；贫瘠的；低劣的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "polite",
+      "pos": "adjective",
+      "chinese": "有礼貌的，客气的；斯文的，有教养的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "police",
+      "pos": "noun/adjective/verb",
+      "chinese": "警察机关；公安部门/警察的/管辖",
+      "pos_list": [
+        "noun",
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "poisonous",
+      "pos": "adjective",
+      "chinese": "有毒的，有害的；恶毒的，有恶意的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "poison",
+      "pos": "noun/verb/adjective",
+      "chinese": "毒物，毒药/毒害，使中毒/有毒的",
+      "pos_list": [
+        "noun",
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "pocket",
+      "pos": "noun/adjective/verb",
+      "chinese": "口袋/袖珍的，小型的/把…装入口袋",
+      "pos_list": [
+        "noun",
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "plus",
+      "pos": "adjective/noun/preposition",
+      "chinese": "正的；标准以上的/正号，正数/加",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "preposition"
+      ]
+    },
+    {
+      "word": "plenty",
+      "pos": "noun/adjective",
+      "chinese": "丰富，充足，大量/充足的；相当多的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "pleased",
+      "pos": "adjective",
+      "chinese": "高兴的，乐意的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "pleasant",
+      "pos": "adjective",
+      "chinese": "令人愉快的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "plastic",
+      "pos": "noun/adjective",
+      "chinese": "塑料(制品)/塑料(制)的；可塑的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "plane",
+      "pos": "noun/adjective",
+      "chinese": "飞机；平面/平的，平坦的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "plain",
+      "pos": "adjective/noun",
+      "chinese": "朴素的，简单的；清晰的，明白的/平原",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "pink",
+      "pos": "adjective/noun",
+      "chinese": "粉红色的，桃红色的/粉红色，桃红色",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "pilot",
+      "pos": "noun/verb/adjective",
+      "chinese": "飞行员；引航员/驾驶；引航/试验性的",
+      "pos_list": [
+        "noun",
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "piano",
+      "pos": "adjective/adverb",
+      "chinese": "柔软的(地)",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "physical",
+      "pos": "adjective",
+      "chinese": "物质的，有形的；肉体的，身体的；物理的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "pet",
+      "pos": "noun/adjective",
+      "chinese": "宠物；受宠的人/宠爱的；表示亲昵的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "persuade",
+      "pos": "verb/adjective",
+      "chinese": "说服，劝服；使相信/空闲的；有闲的",
+      "pos_list": [
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "personal",
+      "pos": "adjective",
+      "chinese": "个人的，私人的；本人的；身体的，容貌的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "perfect",
+      "pos": "adjective/verb",
+      "chinese": "完美的，完满的；完全的/使完美，改善",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "percent",
+      "pos": "noun/adjective/adverb",
+      "chinese": "百分之一，(与基数词连用)百分之.的",
+      "pos_list": [
+        "noun",
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "peaceful",
+      "pos": "adjective",
+      "chinese": "和平的；宁静的；安祥地；爱好和平的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "patient",
+      "pos": "adjective/noun",
+      "chinese": "有耐心的，能忍耐的/病人，患者",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "past",
+      "pos": "adjective/adverb/noun/preposition",
+      "chinese": "过去的/过/过去，昔日/(经)过",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun",
+        "preposition"
+      ]
+    },
+    {
+      "word": "passive",
+      "pos": "adjective",
+      "chinese": "not joining in or taking part",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "part-time",
+      "pos": "adjective/adverb",
+      "chinese": "部分时间的(地)，兼职的(地)",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "particular",
+      "pos": "adjective",
+      "chinese": "个别的；各个的；独有的；特殊的；特别的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "pale",
+      "pos": "adjective/verb",
+      "chinese": "苍白的；淡的/变得苍白，变得暗淡",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "painful",
+      "pos": "adjective",
+      "chinese": "(引起)疼痛的；困难的，令人不快的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "Pacific",
+      "pos": "noun/adjective",
+      "chinese": "[theP-]太平洋/和平的；(P-)太平洋的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "own",
+      "pos": "adjective",
+      "chinese": "(用在所有格后面，加强语气)自己的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "overhead",
+      "pos": "adjective/adverb",
+      "chinese": "在头顶上的；架空的/在头顶上",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "over",
+      "pos": "adverb/preposition/adjective",
+      "chinese": "在上方；遍及地/在的上方/结束的",
+      "pos_list": [
+        "adverb",
+        "preposition",
+        "adjective"
+      ]
+    },
+    {
+      "word": "outward",
+      "pos": "adjective/noun",
+      "chinese": "外面的；公开的；可见的；向外的/外形",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "outside",
+      "pos": "adjective/adverb/preposition/noun",
+      "chinese": "外面的/在外面/在…外面/外表",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "preposition",
+        "noun"
+      ]
+    },
+    {
+      "word": "outer",
+      "pos": "adjective",
+      "chinese": "外面(表)的；远离中心的，外层的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "outdoors",
+      "pos": "adverb/adjective",
+      "chinese": "户外(的)，野外(的)",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "outdoor",
+      "pos": "adjective/adverb",
+      "chinese": "户外的，野外的；户外，野外",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "out",
+      "pos": "adverb/adjective",
+      "chinese": "出去；离家；突出来/外面的，往外去的",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "other",
+      "pos": "adjective/noun/pronoun",
+      "chinese": "另外的，其他的/另一个人(或事)",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "ordinary",
+      "pos": "adjective",
+      "chinese": "平常的，普通的；平凡的，平庸的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "orange",
+      "pos": "adjective/noun",
+      "chinese": "橙色的，赤黄色的/橙色，赤黄色",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "oral",
+      "pos": "adjective",
+      "chinese": "口头的，口语的；口(部)的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "opposite",
+      "pos": "adjective/noun/preposition",
+      "chinese": "对面(立)的/对立面(物)/在.对面",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "preposition"
+      ]
+    },
+    {
+      "word": "open",
+      "pos": "adjective/verb",
+      "chinese": "开(着)的；开阔的/开始/裂开；开始",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "only",
+      "pos": "adverb/adjective/conjunction",
+      "chinese": "仅仅，只不过/唯一的/可是，不过",
+      "pos_list": [
+        "adverb",
+        "adjective",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "Olympic",
+      "pos": "adjective/noun",
+      "chinese": "奥林匹克的/奥林匹克运动会",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "old",
+      "pos": "adjective",
+      "chinese": "年老的；…岁的；长时间的，老的；过去的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "official",
+      "pos": "adjective/noun",
+      "chinese": "官方的，正式的，公务的/官员，行政人员",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "O.K.",
+      "pos": "adjective/adverb",
+      "chinese": "",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "nuclear",
+      "pos": "adjective",
+      "chinese": "核心的，中心的；原子核的，核能的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "nowaday",
+      "pos": "adjective",
+      "chinese": "现今的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "novel",
+      "pos": "adjective/noun",
+      "chinese": "新颖的，新奇的/(长篇)小说",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "northwards",
+      "pos": "adjective/adverb/noun",
+      "chinese": "向北/北方的地区",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "northern",
+      "pos": "adjective",
+      "chinese": "北部的，来自北方的，向北的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "north",
+      "pos": "noun/adverb/adjective",
+      "chinese": "北(方)，北部/向北方/北方(部)的",
+      "pos_list": [
+        "noun",
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "normal",
+      "pos": "adjective",
+      "chinese": "正常的，标准的；正规的；精神健全的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "non-violent",
+      "pos": "adjective",
+      "chinese": "非暴力的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "non-stop",
+      "pos": "adjective/adverb",
+      "chinese": "不停的(地)",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "non-identical",
+      "pos": "adjective",
+      "chinese": "非同一的；不同的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "noisy",
+      "pos": "adjective",
+      "chinese": "喧闹的；嘈杂的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "noble",
+      "pos": "adjective/noun",
+      "chinese": "高尚的；宏伟的；贵族的，高贵的/贵族",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "no",
+      "pos": "adverb/adjective/noun",
+      "chinese": "不是，不/没有的；不允许/不，拒绝",
+      "pos_list": [
+        "adverb",
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "nice",
+      "pos": "adjective",
+      "chinese": "美好的，令人愉快的；友好的，亲切的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "next",
+      "pos": "adjective/adverb",
+      "chinese": "紧接的，其次的；贴近的/其次；居后",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "new",
+      "pos": "adjective",
+      "chinese": "新(近)",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "net",
+      "pos": "noun/adjective",
+      "chinese": "网；罗网；净数；净重/纯净的；实得的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "nervous",
+      "pos": "adjective",
+      "chinese": "紧张不安的，害怕的；神经(方面)的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "neither",
+      "pos": "adjective/pronoun/conjunction/adverb",
+      "chinese": "两者都不的/两者都不/也不",
+      "pos_list": [
+        "adjective",
+        "pronoun",
+        "conjunction",
+        "adverb"
+      ]
+    },
+    {
+      "word": "necessary",
+      "pos": "adjective/noun",
+      "chinese": "必须的，必要的；必然的/必需品",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "neat",
+      "pos": "adjective",
+      "chinese": "整洁的，简洁的；优美的，精致的；利索的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "nearby",
+      "pos": "adjective/adverb/preposition",
+      "chinese": "附近的/在附近/在…附近",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "preposition"
+      ]
+    },
+    {
+      "word": "near",
+      "pos": "adjective/preposition/adverb",
+      "chinese": "近的，接近的；亲近的/靠近/接近",
+      "pos_list": [
+        "adjective",
+        "preposition",
+        "adverb"
+      ]
+    },
+    {
+      "word": "naughty",
+      "pos": "adjective",
+      "chinese": "顽皮的；淘气的，不听话的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "natural",
+      "pos": "adjective",
+      "chinese": "自然的，天然的；出于本性的；自然如此的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "native",
+      "pos": "adjective/noun",
+      "chinese": "本国的，本地的，土生的/土著，当地人",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "nationwide",
+      "pos": "adjective/adverb",
+      "chinese": "全国性的/在全国范围内",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "national",
+      "pos": "adjective",
+      "chinese": "国家的；民族的；国有的;全国性的;全民的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "narrow",
+      "pos": "adjective",
+      "chinese": "狭窄的；范围小的；眼光短浅的，有偏见的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "musical",
+      "pos": "adjective",
+      "chinese": "音乐的，爱好音乐的;悦耳的;有音乐才能的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "mum",
+      "pos": "noun/adjective",
+      "chinese": "妈妈；沉默/沉默的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "much",
+      "pos": "adjective/adverb",
+      "chinese": "多的，大量的/十分，非常；到极大程度",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "moving",
+      "pos": "adjective",
+      "chinese": "活动的，移动的；动人的，令人感动的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "mountainous",
+      "pos": "adjective",
+      "chinese": "多山的；如山一般，巨大的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "motor",
+      "pos": "noun/adjective",
+      "chinese": "马达，电动机；汽车/机动的；汽车的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "most",
+      "pos": "adjective/adverb/noun",
+      "chinese": "最多的；大多数的/最；极其/大多数",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "more",
+      "pos": "adjective/noun/adverb",
+      "chinese": "更多的/更多的人(或东西)/更，更多",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "adverb"
+      ]
+    },
+    {
+      "word": "moral",
+      "pos": "adjective/noun",
+      "chinese": "道德上的/道德，伦理；寓意",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "modest",
+      "pos": "adjective",
+      "chinese": "端庄的，朴素的；谦虚(逊)的；适度的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "modern",
+      "pos": "adjective",
+      "chinese": "现代的，近代的；新式的，时新的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "modal",
+      "pos": "adjective",
+      "chinese": "模态的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "mobile",
+      "pos": "adjective/noun",
+      "chinese": "可动的；易变的；富流动性的/活动装置",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "mistaken",
+      "pos": "adjective",
+      "chinese": "搞错了的，误解的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "minus",
+      "pos": "adjective/preposition/noun",
+      "chinese": "负的，减去的/减(去)/减号，负号",
+      "pos_list": [
+        "adjective",
+        "preposition",
+        "noun"
+      ]
+    },
+    {
+      "word": "mineral",
+      "pos": "noun/adjective",
+      "chinese": "矿物，矿石/矿物的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "middle",
+      "pos": "noun/adjective",
+      "chinese": "中间(部)；中间物/中间的；中等(级)的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "midday",
+      "pos": "noun/adjective",
+      "chinese": "正午，中午/正午的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "metallic",
+      "pos": "adjective",
+      "chinese": "金属(制)的；有金属特性的，像金属的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "metal",
+      "pos": "noun/adjective",
+      "chinese": "金属；金属制品/金属制造的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "merry",
+      "pos": "adjective",
+      "chinese": "欢乐的，愉快的，兴高采烈的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "merciful",
+      "pos": "adjective",
+      "chinese": "仁慈的，宽大的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "merchant",
+      "pos": "noun/verb/adjective",
+      "chinese": "商人/经商/商人的",
+      "pos_list": [
+        "noun",
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "mental",
+      "pos": "adjective",
+      "chinese": "智力的，脑力的；精神的，思想的，内心的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "medical",
+      "pos": "adjective",
+      "chinese": "医学的，医疗的，医药的；内科的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "mean",
+      "pos": "adjective",
+      "chinese": "小气自私的；坏脾气的；难相处的；恶毒的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "maximum",
+      "pos": "noun/adjective",
+      "chinese": "最大限度，最大量,顶点/最高的，最大的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "material",
+      "pos": "noun/adjective",
+      "chinese": "材料/物质的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "many",
+      "pos": "adjective/pronoun",
+      "chinese": "许多的，多的/许多人或物，许多",
+      "pos_list": [
+        "adjective",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "man-made",
+      "pos": "adjective",
+      "chinese": "人造的；人工的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "male",
+      "pos": "adjective/noun",
+      "chinese": "男(性)的；雄的/男性，雄性动、植物",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "major",
+      "pos": "adjective/noun/verb",
+      "chinese": "(较)大的/专业；专业学生；少校/主修",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "main",
+      "pos": "adjective/noun",
+      "chinese": "主要的，最重要的/总管道；干线",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "magic",
+      "pos": "noun/adjective",
+      "chinese": "魔术；魔(魅)力/有魔力的，(似)魔术的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "mad",
+      "pos": "adjective",
+      "chinese": "发疯的；狂热的，着迷的；恼火的，生气的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "lucky",
+      "pos": "adjective",
+      "chinese": "幸运的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "lower",
+      "pos": "adjective/verb",
+      "chinese": "较低的，下级的，下游的/放低，降低",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "low",
+      "pos": "adjective",
+      "chinese": "低，矮；低级的，下层的，卑贱的；低",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "lovely",
+      "pos": "adjective",
+      "chinese": "可爱的，好看的；令人愉快的，美好的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "loud",
+      "pos": "adjective/adverb",
+      "chinese": "大声的，响亮的；吵闹的/响亮，大声地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "lost",
+      "pos": "adjective",
+      "chinese": "失去的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "loose",
+      "pos": "adjective",
+      "chinese": "(宽)松的；不精确的；自由的，散漫的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "long",
+      "pos": "adjective/adverb",
+      "chinese": "长的，长时间的，长期的/长久，长期地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "lonely",
+      "pos": "adjective",
+      "chinese": "孤独的，寂寞的；荒凉的，人迹稀少的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "local",
+      "pos": "adjective/noun",
+      "chinese": "地方性的，当地的；局部的/当地人",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "living",
+      "pos": "adjective/noun",
+      "chinese": "活(着)的，生活(动)的；现行的/生计(活)",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "lively",
+      "pos": "adjective",
+      "chinese": "充满活力的，活泼的；逼真的，栩栩如生的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "live",
+      "pos": "verb/adjective",
+      "chinese": "活着；居住/燃烧的；未爆炸的；直播的",
+      "pos_list": [
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "little",
+      "pos": "adjective/adverb/noun",
+      "chinese": "小，幼小；不多的/不多，几乎没有/不多，几乎没有",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "liquid",
+      "pos": "noun/adjective",
+      "chinese": "液体/液体的，液态的；清澈的；流畅的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "limited",
+      "pos": "adjective",
+      "chinese": "受局限的，有限的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "likely",
+      "pos": "adjective/adverb",
+      "chinese": "可能的；有希望的/很可能；大概，多半",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "like",
+      "pos": "verb/preposition/adjective/noun",
+      "chinese": "喜欢/象；比如/相象的/象…一样",
+      "pos_list": [
+        "verb",
+        "preposition",
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "lightning",
+      "pos": "noun/adjective",
+      "chinese": "闪电/闪电般的，快速的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "lighthearted",
+      "pos": "adjective",
+      "chinese": "轻松愉快的，无优无虑的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "light",
+      "pos": "noun/verb/adjective",
+      "chinese": "光；灯/点燃；照亮/轻(快)；淡；明亮",
+      "pos_list": [
+        "noun",
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "level",
+      "pos": "noun/verb/adjective",
+      "chinese": "水平，水准，等级/弄平，铺平/水平的",
+      "pos_list": [
+        "noun",
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "less",
+      "pos": "adjective/adverb",
+      "chinese": "更小的/更少的；较次的",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "left-handed",
+      "pos": "adjective",
+      "chinese": "左手的；用左手的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "left",
+      "pos": "noun/adjective",
+      "chinese": "左面，左方/左边的，左面的；在左方的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "least",
+      "pos": "adjective/adverb/noun",
+      "chinese": "最小(少)的/最少(小；不)/最小(少)",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "learned",
+      "pos": "adjective",
+      "chinese": "有学问的，博学的；经训练学到的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "lean",
+      "pos": "verb/adjective",
+      "chinese": "倾斜；依靠；靠在.上/瘦的，无脂肪的",
+      "pos_list": [
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "leading",
+      "pos": "adjective",
+      "chinese": "领导的，指导的；第一位的，最重要的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "lazy",
+      "pos": "adjective",
+      "chinese": "懒惰的，懒散的；慢吞吞的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "later",
+      "pos": "adverb/adjective",
+      "chinese": "后来/后面的；新近的；晚年的",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "late",
+      "pos": "adjective/adverb",
+      "chinese": "迟的，晚的，晚期的；已故的/迟，晚",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "last",
+      "pos": "adjective/adverb/noun/verb",
+      "chinese": "最后的，刚过去的/最后/最后/持续",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "large",
+      "pos": "adjective",
+      "chinese": "广大的，大的；规模大的，众多的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "lame",
+      "pos": "adjective",
+      "chinese": "跛的，瘸的；站不住脚的，差劲的，蹩脚的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "kind",
+      "pos": "adjective/noun",
+      "chinese": "仁慈的，友好的，亲切的，和蔼的/种类",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "key",
+      "pos": "noun/adjective",
+      "chinese": "钥匙；答案；关键；键/主要的，关键的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "just",
+      "pos": "adverb/adjective",
+      "chinese": "正好地；刚才；只不过/公正的，公平的",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "junior",
+      "pos": "adjective/noun",
+      "chinese": "年少的，等级低的/年少者，晚辈；下级",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "jungle",
+      "pos": "noun/adjective",
+      "chinese": "丛林；激烈的竞争场合/丛林的，蛮荒的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "joyful",
+      "pos": "adjective",
+      "chinese": "快乐的，高兴的，使人喜悦的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "Japanese",
+      "pos": "noun/adjective",
+      "chinese": "日本人；日语；日文/日本的；日本语的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "Italian",
+      "pos": "adjective/noun",
+      "chinese": "意大利(人)的；意大利语的/意大利人/语",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "iron",
+      "pos": "noun/verb/adjective",
+      "chinese": "铁；熨斗；手铐/烫(衣)/刚强的",
+      "pos_list": [
+        "noun",
+        "verb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "Irish",
+      "pos": "adjective/noun",
+      "chinese": "爱尔兰的；爱尔兰人的/爱尔兰人",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "international",
+      "pos": "adjective",
+      "chinese": "国际的；两个或多个国家之间的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "interesting",
+      "pos": "adjective",
+      "chinese": "有趣味的；对.感兴趣的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "interested",
+      "pos": "adjective",
+      "chinese": "有兴趣的；感兴趣",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "instant",
+      "pos": "adjective/noun",
+      "chinese": "立刻，立即；紧急；速溶的/瞬间，时刻",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "inspiring",
+      "pos": "adjective",
+      "chinese": "鼓舞人心的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "inside",
+      "pos": "adjective/adverb/preposition/noun",
+      "chinese": "里面的/在内部/在…里面/内部",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "preposition",
+        "noun"
+      ]
+    },
+    {
+      "word": "inland",
+      "pos": "adjective/adverb",
+      "chinese": "内地(陆)的；国内的/在内地；向内地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "injured",
+      "pos": "adjective",
+      "chinese": "受伤的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "industrial",
+      "pos": "adjective",
+      "chinese": "工业(上)的，产业(上)的，工业用的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "indirect",
+      "pos": "adjective",
+      "chinese": "间接的，转弯抹角的，非直接的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "Indiana",
+      "pos": "adjective/noun",
+      "chinese": "印度(人)的；印第安人的/印第安(印度)人",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "independent",
+      "pos": "adjective/noun",
+      "chinese": "独立的；自主的/独立派人士，无党派者",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "impossible",
+      "pos": "adjective",
+      "chinese": "不可能的；难以忍受的，很难对付的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "important",
+      "pos": "adjective",
+      "chinese": "重要的，重大的；有地位的，有权力的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "immediate",
+      "pos": "adjective",
+      "chinese": "with nothing between; coming at once",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "ill",
+      "pos": "adjective/adverb",
+      "chinese": "有病的；坏的；恶意的/坏地；不利地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "hurried",
+      "pos": "adjective",
+      "chinese": "仓促的，慌忙的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "hungry",
+      "pos": "adjective",
+      "chinese": "饥饿的，感到饿的；(for)渴望得到的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "hundred",
+      "pos": "numeral/adjective",
+      "chinese": "百，一百；[pl.]许多/一百的；许多",
+      "pos_list": [
+        "numeral",
+        "adjective"
+      ]
+    },
+    {
+      "word": "humorous",
+      "pos": "adjective",
+      "chinese": "富于幽默感的，幽默的；滑稽的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "human",
+      "pos": "adjective/noun",
+      "chinese": "人的，人类的；有人性的，通人情的/人",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "huge",
+      "pos": "adjective",
+      "chinese": "极大的，巨大的，庞大的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "hot",
+      "pos": "adjective",
+      "chinese": "(炎)热的；辣的；急躁的；激动的；热衷的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "horrible",
+      "pos": "adjective",
+      "chinese": "令人恐惧的，可怕的；极讨厌的，糟透的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "hopeless",
+      "pos": "adjective",
+      "chinese": "绝望的，没有希望的；无能的，糟透的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "honest",
+      "pos": "adjective",
+      "chinese": "诚实的，可靠的；坦率的，正直的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "homesick",
+      "pos": "adjective",
+      "chinese": "想家的，患思乡病的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "home",
+      "pos": "adverb/noun/adjective",
+      "chinese": "回家/在家/家；家乡/家庭的；家乡的",
+      "pos_list": [
+        "adverb",
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "historical",
+      "pos": "adjective",
+      "chinese": "历史上著名的，有历史意义的；历史的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "historic",
+      "pos": "adjective",
+      "chinese": "历史上著名的，具有重大历史意义的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "hilly",
+      "pos": "adjective",
+      "chinese": "多小山的；丘陵起伏的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "high-rise",
+      "pos": "adjective",
+      "chinese": "多层的；高层的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "high",
+      "pos": "adjective/adverb",
+      "chinese": "高的，高度的，高级的，高尚的/高高地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "helpful",
+      "pos": "adjective",
+      "chinese": "给予帮助的，肯帮助的；有益的，建设性的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "heavy",
+      "pos": "adjective",
+      "chinese": "重的，重型的；沉重的，大量的，猛烈的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "healthy",
+      "pos": "adjective",
+      "chinese": "健康的，健壮的；有益健康的，合乎卫生的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "harmless",
+      "pos": "adjective",
+      "chinese": "无害的,无恶意的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "harmful",
+      "pos": "adjective",
+      "chinese": "有害的,能造成损害的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "hardworking",
+      "pos": "adjective",
+      "chinese": "努力工作的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "hard",
+      "pos": "adjective/adverb",
+      "chinese": "坚硬的；结实的；困难的；难忍的；严厉的",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "happy",
+      "pos": "adjective",
+      "chinese": "快乐的,幸福的；乐意的；令人满意的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "handsome",
+      "pos": "adjective",
+      "chinese": "(男)漂亮的,英俊的；(女)好看的；相当的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "green",
+      "pos": "adjective/noun",
+      "chinese": "绿色的；生的,未成熟的；生疏的/绿色",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "Greek",
+      "pos": "adjective/noun",
+      "chinese": "希腊(人)的,希腊语的/希腊人；希腊语",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "greedy",
+      "pos": "adjective",
+      "chinese": "贪婪的；贪吃的；(for,after,of)渴望的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "great",
+      "pos": "adjective",
+      "chinese": "伟大的；重要的；大量的；很好的；美好的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "gray",
+      "pos": "adjective/noun",
+      "chinese": "灰色的,灰白的；阴沉的,阴霾的/灰色",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "grand",
+      "pos": "adjective",
+      "chinese": "宏伟的,壮丽的；主要的,重大的；豪华的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "graduate",
+      "pos": "adjective/noun/verb",
+      "chinese": "研究生的/有学位者；大学毕业生/毕业",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "good",
+      "pos": "adjective/noun",
+      "chinese": "(美)好；善良的；擅长的；乖/善；利益",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "golden",
+      "pos": "adjective",
+      "chinese": "金的,金制的；含金的；金色的,贵重的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "gold",
+      "pos": "noun/adjective",
+      "chinese": "金,黄金；金币；金黄色/金的,金制的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "glad",
+      "pos": "adjective",
+      "chinese": "高兴的,快活的；乐意的,情愿的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "gifted",
+      "pos": "adjective",
+      "chinese": "有天赋的；有才华的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "German",
+      "pos": "adjective/noun",
+      "chinese": "德国(语)的；德国人的/德国人；德语",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "gentle",
+      "pos": "adjective",
+      "chinese": "和蔼的,温和的；轻柔的；不陡的；善意的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "general",
+      "pos": "adjective/noun",
+      "chinese": "全体的；普遍的；综合的；普通的/将军",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "gay",
+      "pos": "adjective/noun",
+      "chinese": "快乐的；鲜艳的；同性恋的/同性恋者",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "future",
+      "pos": "noun/adjective",
+      "chinese": "将来,未来；前途,前景/将来的,未来的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "furthest",
+      "pos": "adjective/adverb",
+      "chinese": "最远的/最远地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "further",
+      "pos": "adjective/adverb/verb",
+      "chinese": "更远的/进一步地；此外/促进,推动",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "verb"
+      ]
+    },
+    {
+      "word": "funny",
+      "pos": "adjective",
+      "chinese": "古怪的,反常出格的；滑稽的,逗人发笑的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "full",
+      "pos": "adjective/adverb/noun",
+      "chinese": "充满的,详尽的/完全地,十分/全部",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "front",
+      "pos": "adjective/noun/verb",
+      "chinese": "前面的/前面,正面；前线/面对,朝向",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "frightful",
+      "pos": "adjective",
+      "chinese": "可怕的,令人吃惊的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "frightened",
+      "pos": "adjective",
+      "chinese": "受惊的,害怕的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "friendly",
+      "pos": "adjective",
+      "chinese": "友好的；(竞赛中)不伤和气的,友谊的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "fried",
+      "pos": "adjective",
+      "chinese": "油煎的,油炸的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "fresh",
+      "pos": "adjective",
+      "chinese": "新的,新近的；新鲜的；新颖的,(水)淡的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "frequent",
+      "pos": "adjective",
+      "chinese": "频繁的,时常发生的；常见的,经常的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "french",
+      "pos": "adjective/noun",
+      "chinese": "法国(语)的；法国人的/法语；法国人",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "freezing",
+      "pos": "adjective",
+      "chinese": "极冷的,冻结的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "free",
+      "pos": "adjective/verb",
+      "chinese": "自由的；空闲的；免费的/使自由,解放",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "fragile",
+      "pos": "adjective",
+      "chinese": "易碎的,脆的,易损坏的；虚弱的,脆弱的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "four",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "四/四(个,只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "forward",
+      "pos": "adverb/adjective/verb",
+      "chinese": "向前；从今往后/前部的；向前的/转送",
+      "pos_list": [
+        "adverb",
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "forty",
+      "pos": "numeral/adjective/pronoun",
+      "chinese": "四十/四十(个,只.)",
+      "pos_list": [
+        "numeral",
+        "adjective",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "fortunate",
+      "pos": "adjective",
+      "chinese": "幸福的,吉利的,侥幸的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "former",
+      "pos": "adjective/noun",
+      "chinese": "在前的,以前的,旧时的/[the～]前者",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "foreign",
+      "pos": "adjective",
+      "chinese": "对外的；无关的；外来的；非…的本性的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "foolish",
+      "pos": "adjective",
+      "chinese": "愚蠢的,荒谬的,可笑的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "fond",
+      "pos": "adjective",
+      "chinese": "(不完整",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "folk",
+      "pos": "noun/adjective",
+      "chinese": "人们,世人,(用作定语)民间的,部落的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "flightless",
+      "pos": "adjective",
+      "chinese": "不飞的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "flat",
+      "pos": "adjective/noun",
+      "chinese": "平的；(轮胎)瘪的/平面(图)；公寓套房",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "flaming",
+      "pos": "adjective",
+      "chinese": "熊熊燃烧的；热情的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "five",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "五/五(个,只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "fitting",
+      "pos": "adjective/noun",
+      "chinese": "适合的,恰当的/(pl.)配件；附件；试穿",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "fit",
+      "pos": "adjective/verb/noun",
+      "chinese": "(病的)发作,痉挛/合适,试穿,安装",
+      "pos_list": [
+        "adjective",
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "word": "first",
+      "pos": "adjective/adverb/noun/pronoun",
+      "chinese": "第一；最初;首次/开始/第一名",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "firm",
+      "pos": "adjective/noun",
+      "chinese": "坚固的,结实的；坚定的/公司,商行",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "fine",
+      "pos": "adjective/noun/verb",
+      "chinese": "美好的；纤细的/罚款/(对…)处以罚款",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "final",
+      "pos": "adjective/noun",
+      "chinese": "最后的；决定性的/[pl.]期终考试,决赛",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "fifteen",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "十五(个,只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "fierce",
+      "pos": "adjective",
+      "chinese": "狂暴的,凶猛的,残酷的；巨大的,强烈的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "few",
+      "pos": "determiner/adjective",
+      "chinese": "[表肯定]有些,几个；[表否定]几乎没有的",
+      "pos_list": [
+        "determiner",
+        "adjective"
+      ]
+    },
+    {
+      "word": "feverish",
+      "pos": "adjective",
+      "chinese": "发热的,发烧的；兴奋的,狂热的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "female",
+      "pos": "adjective/noun",
+      "chinese": "女性的,雌性的/女子,妇女,雌性动物",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "fellow",
+      "pos": "noun/adjective",
+      "chinese": "人,家伙；伙伴,同事/同样的,同事的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "fearless",
+      "pos": "adjective",
+      "chinese": "不怕的,无畏的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "favorite",
+      "pos": "adjective/noun",
+      "chinese": "最喜爱的/最喜爱的人或物(=favourite)",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "fat",
+      "pos": "adjective/noun",
+      "chinese": "多脂肪的,肥胖的；丰厚的/脂肪,肥肉",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "fast",
+      "pos": "adjective/adverb",
+      "chinese": "快的,迅速的；坚固的/紧紧地；迅速地",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "farthest",
+      "pos": "adjective/adverb",
+      "chinese": "（far的最高级）最远",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "farther",
+      "pos": "adverb/adjective",
+      "chinese": "更远地；进一步/更远的,进一步的",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "far",
+      "pos": "adjective/adverb",
+      "chinese": "远,久远,遥远/到…程度,…得多",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "famous",
+      "pos": "adjective",
+      "chinese": "著名的,众所周知的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "familiar",
+      "pos": "adjective",
+      "chinese": "(with,to)熟悉的,通晓的；亲近的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "false",
+      "pos": "adjective",
+      "chinese": "不真实的,错误的；人造的,假的；虚伪的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "fair",
+      "pos": "adjective/noun",
+      "chinese": "公平的；相当的；晴朗的；金发的/集市",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "extraordinary",
+      "pos": "adjective",
+      "chinese": "特别的,非凡的,突出的,非常的,奇特的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "extra",
+      "pos": "adjective/adverb/noun",
+      "chinese": "额外的/地,非常,另外/额外的人",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "expert",
+      "pos": "noun/adjective",
+      "chinese": "专家,能手/熟练的,有经验的；专门的",
+      "pos_list": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "expensive",
+      "pos": "adjective",
+      "chinese": "昂贵的,费用大的,高价的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "exciting",
+      "pos": "adjective",
+      "chinese": "刺激的,令人兴奋的,使人激动的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "excited",
+      "pos": "adjective",
+      "chinese": "感到刺激/兴奋的(修饰人)",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "excellent",
+      "pos": "adjective",
+      "chinese": "杰出的,优秀的,卓越的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "exact",
+      "pos": "adjective/verb",
+      "chinese": "精确的,确切的/强求,要求,索取",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "everyday",
+      "pos": "adjective",
+      "chinese": "每日的,日常的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "even",
+      "pos": "adverb/adjective",
+      "chinese": "甚至(更)/均匀的;平的;相等的；偶数的",
+      "pos_list": [
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "European",
+      "pos": "adjective/noun",
+      "chinese": "欧洲的,发生在欧洲的/欧洲人",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "equal",
+      "pos": "adjective/verb",
+      "chinese": "平等的；相等的；胜任的/匹敌,比得上",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "entire",
+      "pos": "adjective",
+      "chinese": "完全的,全部的,完整的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "enough",
+      "pos": "adjective/adverb/noun",
+      "chinese": "足够的/地,充分的/地/充足,足够",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "enjoyable",
+      "pos": "adjective",
+      "chinese": "愉快的；快乐的；有趣的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "English-speaking",
+      "pos": "adjective",
+      "chinese": "说英语的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "English",
+      "pos": "adjective/noun",
+      "chinese": "英国的;英国人的；英语的/英语；英国人",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "energetic",
+      "pos": "adjective",
+      "chinese": "精力充沛的,充满活力的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "endless",
+      "pos": "adjective",
+      "chinese": "无止境的,无尽的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "empty",
+      "pos": "adjective/verb",
+      "chinese": "空的；空闲(虚)的,寂寥的/(使)空,倒出",
+      "pos_list": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "word": "eleven",
+      "pos": "numeral/pronoun/adjective",
+      "chinese": "十一/十一(个,只.)",
+      "pos_list": [
+        "numeral",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "electronic",
+      "pos": "adjective/noun",
+      "chinese": "电子的/[-s]电子学；电子设备",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "electrical",
+      "pos": "adjective",
+      "chinese": "concerned with or using electricity",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "electric",
+      "pos": "adjective",
+      "chinese": "电的,带电的；电动的；刺激的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "elder",
+      "pos": "adjective/noun",
+      "chinese": "年龄较大的,年长的/(pl.)长者；较大者",
+      "pos_list": [
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "either",
+      "pos": "adverb/pronoun/adjective",
+      "chinese": "也(不)/两者之一/(两者中)任一的",
+      "pos_list": [
+        "adverb",
+        "pronoun",
+        "adjective"
+      ]
+    },
+    {
+      "word": "eighty",
+      "pos": "numeral/adjective/pronoun",
+      "chinese": "八十/八十(个,只.)",
+      "pos_list": [
+        "numeral",
+        "adjective",
+        "pronoun"
+      ]
+    },
+    {
+      "word": "easy",
+      "pos": "adjective",
+      "chinese": "容易的,不费力的,安逸的,宽裕的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "eastward",
+      "pos": "adjective/adverb",
+      "chinese": "向东的,向东",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "eastern",
+      "pos": "adjective",
+      "chinese": "东方的,东部的；向东方的,来自东方的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "east",
+      "pos": "noun/adverb/adjective",
+      "chinese": "东,东方/在向/东方/东方的,东部的",
+      "pos_list": [
+        "noun",
+        "adverb",
+        "adjective"
+      ]
+    },
+    {
+      "word": "early",
+      "pos": "adjective/adverb",
+      "chinese": "早(期)的,在前的；早熟的/在早期；早",
+      "pos_list": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "eager",
+      "pos": "adjective",
+      "chinese": "(for)渴望的,热切的",
+      "pos_list": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "each",
+      "pos": "pronoun/adjective/adverb",
+      "chinese": "各(每)个/各,各自的,每/对每个",
+      "pos_list": [
+        "pronoun",
+        "adjective",
+        "adverb"
+      ]
+    }
+  ]
+}

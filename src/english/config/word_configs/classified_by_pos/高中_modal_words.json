@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "title": "情态动词 词库",
+    "description": "从文档中提取的情态动词",
+    "part_of_speech": "modal",
+    "chinese_name": "情态动词",
+    "word_count": 4,
+    "creation_date": "2025-09-27 12:54:20",
+    "source": "extract_words_minimal.py"
+  },
+  "words": [
+    {
+      "word": "would",
+      "pos": "auxiliary/modal",
+      "chinese": "将；可能；将会；总是，总会；宁愿",
+      "pos_list": [
+        "auxiliary",
+        "modal"
+      ]
+    },
+    {
+      "word": "should",
+      "pos": "modal",
+      "chinese": "应该；万一；可能，该；就；竟然会",
+      "pos_list": [
+        "modal"
+      ]
+    },
+    {
+      "word": "shall",
+      "pos": "modal",
+      "chinese": "(我，我们)将要，会；必须，应该",
+      "pos_list": [
+        "modal"
+      ]
+    },
+    {
+      "word": "must",
+      "pos": "modal/verb/noun",
+      "chinese": "必须；很可能；一定要/必须做的事",
+      "pos_list": [
+        "modal",
+        "verb",
+        "noun"
+      ]
+    }
+  ]
+}

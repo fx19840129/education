@@ -1,0 +1,964 @@
+{
+  "metadata": {
+    "title": "短语 词库",
+    "description": "从小学文档中提取的短语",
+    "part_of_speech": "phrase",
+    "chinese_name": "短语",
+    "word_count": 118,
+    "creation_date": "2025-09-27 14:25:21",
+    "source": "process_elementary_words.py"
+  },
+  "words": [
+    {
+      "word": "good afternoon",
+      "pos": "phrase",
+      "chinese": "下午好",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "look at",
+      "pos": "phrase",
+      "chinese": "看",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "Chinese book",
+      "pos": "phrase",
+      "chinese": "语文书",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "English book",
+      "pos": "phrase",
+      "chinese": "英语书",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "math book",
+      "pos": "phrase",
+      "chinese": "数学书",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "teacher's-office",
+      "pos": "phrase",
+      "chinese": "教师办公室",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "this way",
+      "pos": "phrase",
+      "chinese": "这边",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "art room",
+      "pos": "phrase",
+      "chinese": "绘画教室",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "computer room",
+      "pos": "phrase",
+      "chinese": "计算机教室",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "music room",
+      "pos": "phrase",
+      "chinese": "音乐教室",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "TV room",
+      "pos": "phrase",
+      "chinese": "电视机房",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "teacher's desk",
+      "pos": "phrase",
+      "chinese": "讲台",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "English class",
+      "pos": "phrase",
+      "chinese": "英语课",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "music class",
+      "pos": "phrase",
+      "chinese": "音乐课",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "P.E. class",
+      "pos": "phrase",
+      "chinese": "体育课",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "go to the playground",
+      "pos": "phrase",
+      "chinese": "去操场",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "go home",
+      "pos": "phrase",
+      "chinese": "回家",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "just a minute",
+      "pos": "phrase",
+      "chinese": "再多一会",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "get up",
+      "pos": "phrase",
+      "chinese": "起床",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "go to school",
+      "pos": "phrase",
+      "chinese": "上学",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "go to bed",
+      "pos": "phrase",
+      "chinese": "上床睡觉",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "how many",
+      "pos": "phrase",
+      "chinese": "多少",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "how much",
+      "pos": "phrase",
+      "chinese": "多少",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "there be",
+      "pos": "phrase",
+      "chinese": "有（存在）",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "a pair of",
+      "pos": "phrase",
+      "chinese": "一双",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "all right",
+      "pos": "phrase",
+      "chinese": "好的",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "so much",
+      "pos": "phrase",
+      "chinese": "很;非常",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "Moral Education",
+      "pos": "phrase",
+      "chinese": "思想品德课",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "Social Studies",
+      "pos": "phrase",
+      "chinese": "社会课",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "do homework",
+      "pos": "phrase",
+      "chinese": "做作业",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "watch TV",
+      "pos": "phrase",
+      "chinese": "看电视",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "read books",
+      "pos": "phrase",
+      "chinese": "读书",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "what about",
+      "pos": "phrase",
+      "chinese": "怎么样?",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "play computer games",
+      "pos": "phrase",
+      "chinese": "玩电脑游戏",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "do housework",
+      "pos": "phrase",
+      "chinese": "做家务",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "green beans",
+      "pos": "phrase",
+      "chinese": "青豆",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "empty the trash",
+      "pos": "phrase",
+      "chinese": "倒垃圾",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "cook the meals",
+      "pos": "phrase",
+      "chinese": "做饭",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "water the flowers",
+      "pos": "phrase",
+      "chinese": "浇花",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "sweep the floor",
+      "pos": "phrase",
+      "chinese": "扫地",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "clean the bedroom",
+      "pos": "phrase",
+      "chinese": "打扫卧室",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "at home",
+      "pos": "phrase",
+      "chinese": "在家里",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "wash the windows",
+      "pos": "phrase",
+      "chinese": "擦窗户",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "just do it",
+      "pos": "phrase",
+      "chinese": "就这么干吧",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "make the bed",
+      "pos": "phrase",
+      "chinese": "铺床",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "set the table",
+      "pos": "phrase",
+      "chinese": "摆饭桌；摆餐具",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "wash the clothes",
+      "pos": "phrase",
+      "chinese": "洗衣服",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "do the dishes",
+      "pos": "phrase",
+      "chinese": "洗碗碟",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "put away the clothes",
+      "pos": "phrase",
+      "chinese": "收拾衣服",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "I would like to",
+      "pos": "phrase",
+      "chinese": "我想要",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "have a try",
+      "pos": "phrase",
+      "chinese": "试一试",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "play chess",
+      "pos": "phrase",
+      "chinese": "下棋",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "use a computer",
+      "pos": "phrase",
+      "chinese": "使用电脑",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "end table",
+      "pos": "phrase",
+      "chinese": "床头柜",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "in front of",
+      "pos": "phrase",
+      "chinese": "在…前面",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "living room",
+      "pos": "phrase",
+      "chinese": "客厅；起居室",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "nature park",
+      "pos": "phrase",
+      "chinese": "自然公园",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "trash bin",
+      "pos": "phrase",
+      "chinese": "垃圾箱",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "very much",
+      "pos": "phrase",
+      "chinese": "非常；很多",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "eat breakfast",
+      "pos": "phrase",
+      "chinese": "吃早饭",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "have English class",
+      "pos": "phrase",
+      "chinese": "上英语课",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "play sports",
+      "pos": "phrase",
+      "chinese": "进行体育活动",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "eat dinner",
+      "pos": "phrase",
+      "chinese": "吃晚饭",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "climbing mountains",
+      "pos": "phrase",
+      "chinese": "爬山",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "go shopping",
+      "pos": "phrase",
+      "chinese": "购物;买东西",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "play the piano",
+      "pos": "phrase",
+      "chinese": "弹钢琴",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "visit grandparents",
+      "pos": "phrase",
+      "chinese": "看望（外祖父母）",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "go hiking",
+      "pos": "phrase",
+      "chinese": "去远足",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "play with",
+      "pos": "phrase",
+      "chinese": "玩;与…一起玩",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "fly kites",
+      "pos": "phrase",
+      "chinese": "放风筝",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "drink water",
+      "pos": "phrase",
+      "chinese": "喝水",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "take pictures",
+      "pos": "phrase",
+      "chinese": "照相",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "watch insects",
+      "pos": "phrase",
+      "chinese": "观察昆虫",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "pick up leaves",
+      "pos": "phrase",
+      "chinese": "采摘树叶",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "do an experiment",
+      "pos": "phrase",
+      "chinese": "做实验",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "catch butterflies",
+      "pos": "phrase",
+      "chinese": "捉蝴蝶",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "have a look",
+      "pos": "phrase",
+      "chinese": "看一看",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "count insects",
+      "pos": "phrase",
+      "chinese": "数昆虫",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "collect leaves",
+      "pos": "phrase",
+      "chinese": "收集树叶",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "write a report",
+      "pos": "phrase",
+      "chinese": "写报告",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "have a picnic",
+      "pos": "phrase",
+      "chinese": "举行野餐",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "over there",
+      "pos": "phrase",
+      "chinese": "在那边",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "traffic light",
+      "pos": "phrase",
+      "chinese": "交通灯",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "traffic rule",
+      "pos": "phrase",
+      "chinese": "交通规则",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "get to",
+      "pos": "phrase",
+      "chinese": "到达",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "post office",
+      "pos": "phrase",
+      "chinese": "邮局",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "science museum",
+      "pos": "phrase",
+      "chinese": "科学博物馆",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "excuse me",
+      "pos": "phrase",
+      "chinese": "对不起",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "next to",
+      "pos": "phrase",
+      "chinese": "与……相邻",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "after school",
+      "pos": "phrase",
+      "chinese": "放学以后",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "shoe store",
+      "pos": "phrase",
+      "chinese": "鞋店",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "get off",
+      "pos": "phrase",
+      "chinese": "下车",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "look for",
+      "pos": "phrase",
+      "chinese": "寻找",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "next week",
+      "pos": "phrase",
+      "chinese": "下周",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "this morning",
+      "pos": "phrase",
+      "chinese": "今天上午",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "this afternoon",
+      "pos": "phrase",
+      "chinese": "今天下午",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "this evening",
+      "pos": "phrase",
+      "chinese": "今天晚上",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "TV reporter",
+      "pos": "phrase/noun",
+      "chinese": "电视台记者",
+      "pos_list": [
+        "phrase",
+        "noun"
+      ]
+    },
+    {
+      "word": "motor cycle",
+      "pos": "phrase/noun",
+      "chinese": "摩托车",
+      "pos_list": [
+        "phrase",
+        "noun"
+      ]
+    },
+    {
+      "word": "come from",
+      "pos": "phrase/verb",
+      "chinese": "来自……;从……来",
+      "pos_list": [
+        "phrase",
+        "verb"
+      ]
+    },
+    {
+      "word": "wake up",
+      "pos": "phrase/verb",
+      "chinese": "醒；醒来",
+      "pos_list": [
+        "phrase",
+        "verb"
+      ]
+    },
+    {
+      "word": "come out",
+      "pos": "phrase/verb",
+      "chinese": "露出;出现",
+      "pos_list": [
+        "phrase",
+        "verb"
+      ]
+    },
+    {
+      "word": "make sure",
+      "pos": "phrase",
+      "chinese": "核实或查明某事物",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "come on",
+      "pos": "phrase",
+      "chinese": "用于祈使句以鼓励某人做某事,尤指促其加速或努力试一试",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "sperm whale",
+      "pos": "phrase/noun",
+      "chinese": "抹香鲸",
+      "pos_list": [
+        "phrase",
+        "noun"
+      ]
+    },
+    {
+      "word": "killer whale",
+      "pos": "phrase/noun",
+      "chinese": "虎鲸",
+      "pos_list": [
+        "phrase",
+        "noun"
+      ]
+    },
+    {
+      "word": "have a fever",
+      "pos": "phrase",
+      "chinese": "发烧",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "have a cold",
+      "pos": "phrase",
+      "chinese": "感冒;伤风",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "have a toothache",
+      "pos": "phrase",
+      "chinese": "牙疼",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "have a headache",
+      "pos": "phrase",
+      "chinese": "头疼",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "have a sore throat",
+      "pos": "phrase",
+      "chinese": "喉咙疼",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "a little",
+      "pos": "phrase",
+      "chinese": "有些",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "laugh at",
+      "pos": "phrase",
+      "chinese": "因…而发笑",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "go swimming",
+      "pos": "phrase",
+      "chinese": "去游泳",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "go fishing",
+      "pos": "phrase",
+      "chinese": "去钓鱼",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "tongue twister",
+      "pos": "phrase",
+      "chinese": "绕口令",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "go skiing",
+      "pos": "phrase",
+      "chinese": "去滑雪",
+      "pos_list": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "go ice-skating",
+      "pos": "phrase",
+      "chinese": "去滑冰",
+      "pos_list": [
+        "phrase"
+      ]
+    }
+  ]
+}

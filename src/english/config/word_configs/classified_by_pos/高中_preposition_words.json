@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "title": "介词 词库",
+    "description": "从文档中提取的介词",
+    "part_of_speech": "preposition",
+    "chinese_name": "介词",
+    "word_count": 35,
+    "creation_date": "2025-09-27 12:54:20",
+    "source": "extract_words_minimal.py"
+  },
+  "words": [
+    {
+      "word": "without",
+      "pos": "preposition/noun",
+      "chinese": "无，没有/外面，外部",
+      "pos_list": [
+        "preposition",
+        "noun"
+      ]
+    },
+    {
+      "word": "within",
+      "pos": "preposition/adverb/noun",
+      "chinese": "在以内/在内部，在里面/里面",
+      "pos_list": [
+        "preposition",
+        "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "with",
+      "pos": "preposition",
+      "chinese": "跟…一起；用；具有；关于；因；随着",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "upon",
+      "pos": "preposition",
+      "chinese": "在…上；在…旁[=on]",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "up",
+      "pos": "adverb/preposition",
+      "chinese": "向上，起来；完；起床/向上",
+      "pos_list": [
+        "adverb",
+        "preposition"
+      ]
+    },
+    {
+      "word": "until",
+      "pos": "conjunction/preposition",
+      "chinese": "直到…为止，在…以前；直到…",
+      "pos_list": [
+        "conjunction",
+        "preposition"
+      ]
+    },
+    {
+      "word": "unlike",
+      "pos": "preposition/adjective",
+      "chinese": "不像…，和…不同/不相似的，不同的",
+      "pos_list": [
+        "preposition",
+        "adjective"
+      ]
+    },
+    {
+      "word": "unless",
+      "pos": "conjunction/preposition",
+      "chinese": "除非/除…外",
+      "pos_list": [
+        "conjunction",
+        "preposition"
+      ]
+    },
+    {
+      "word": "under",
+      "pos": "preposition/adverb",
+      "chinese": "在…下面；在…以下/在下面；少于",
+      "pos_list": [
+        "preposition",
+        "adverb"
+      ]
+    },
+    {
+      "word": "toward",
+      "pos": "preposition",
+      "chinese": "朝，向；将近；对于；为了(=towards)",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "to",
+      "pos": "preposition",
+      "chinese": "(表示方向)到；向；(表示间接关系)给",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "till",
+      "pos": "preposition",
+      "chinese": "直到，直到…为止，与until意思相同",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "on",
+      "pos": "preposition",
+      "chinese": "在...上",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "since",
+      "pos": "preposition/conjunction/adverb",
+      "chinese": "自从/自从；因为，既然/后来",
+      "pos_list": [
+        "preposition",
+        "conjunction",
+        "adverb"
+      ]
+    },
+    {
+      "word": "save",
+      "pos": "verb/preposition",
+      "chinese": "救；节省；保存/储蓄/除…之外",
+      "pos_list": [
+        "verb",
+        "preposition"
+      ]
+    },
+    {
+      "word": "round",
+      "pos": "adjective/preposition/adverb/noun/verb",
+      "chinese": "圆的；围绕；在周围；一周；绕行",
+      "pos_list": [
+        "adjective",
+        "preposition",
+        "adverb",
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "word": "plus",
+      "pos": "adjective/noun/preposition",
+      "chinese": "正的；标准以上的/正号，正数/加",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "preposition"
+      ]
+    },
+    {
+      "word": "per",
+      "pos": "preposition",
+      "chinese": "每；经，由；(比率)几分之几",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "past",
+      "pos": "adjective/adverb/noun/preposition",
+      "chinese": "过去的/过/过去，昔日/(经)过",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "noun",
+        "preposition"
+      ]
+    },
+    {
+      "word": "over",
+      "pos": "adverb/preposition/adjective",
+      "chinese": "在上方；遍及地/在的上方/结束的",
+      "pos_list": [
+        "adverb",
+        "preposition",
+        "adjective"
+      ]
+    },
+    {
+      "word": "outside",
+      "pos": "adjective/adverb/preposition/noun",
+      "chinese": "外面的/在外面/在…外面/外表",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "preposition",
+        "noun"
+      ]
+    },
+    {
+      "word": "opposite",
+      "pos": "adjective/noun/preposition",
+      "chinese": "对面(立)的/对立面(物)/在.对面",
+      "pos_list": [
+        "adjective",
+        "noun",
+        "preposition"
+      ]
+    },
+    {
+      "word": "onto",
+      "pos": "preposition",
+      "chinese": "在.上面；到.上面",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "off",
+      "pos": "adverb/preposition",
+      "chinese": "离开；在远处；脱开/从，从.离开",
+      "pos_list": [
+        "adverb",
+        "preposition"
+      ]
+    },
+    {
+      "word": "of",
+      "pos": "preposition",
+      "chinese": "…的；在…之中；用…制的；关于…的",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "nearby",
+      "pos": "adjective/adverb/preposition",
+      "chinese": "附近的/在附近/在…附近",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "preposition"
+      ]
+    },
+    {
+      "word": "near",
+      "pos": "adjective/preposition/adverb",
+      "chinese": "近的，接近的；亲近的/靠近/接近",
+      "pos_list": [
+        "adjective",
+        "preposition",
+        "adverb"
+      ]
+    },
+    {
+      "word": "minus",
+      "pos": "adjective/preposition/noun",
+      "chinese": "负的，减去的/减(去)/减号，负号",
+      "pos_list": [
+        "adjective",
+        "preposition",
+        "noun"
+      ]
+    },
+    {
+      "word": "like",
+      "pos": "verb/preposition/adjective/noun",
+      "chinese": "喜欢/象；比如/相象的/象…一样",
+      "pos_list": [
+        "verb",
+        "preposition",
+        "adjective",
+        "noun"
+      ]
+    },
+    {
+      "word": "into",
+      "pos": "preposition",
+      "chinese": "到.里面，进入；成为(表示变化)",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "inside",
+      "pos": "adjective/adverb/preposition/noun",
+      "chinese": "里面的/在内部/在…里面/内部",
+      "pos_list": [
+        "adjective",
+        "adverb",
+        "preposition",
+        "noun"
+      ]
+    },
+    {
+      "word": "in",
+      "pos": "preposition/adverb",
+      "chinese": "在…里(内，上)；用…(表示)/进，入",
+      "pos_list": [
+        "preposition",
+        "adverb"
+      ]
+    },
+    {
+      "word": "from",
+      "pos": "preposition",
+      "chinese": "从,自从；由于；离；根据,按；去除",
+      "pos_list": [
+        "preposition"
+      ]
+    },
+    {
+      "word": "for",
+      "pos": "preposition/conjunction",
+      "chinese": "为了；给；代替；向；支持/因为",
+      "pos_list": [
+        "preposition",
+        "conjunction"
+      ]
+    },
+    {
+      "word": "except",
+      "pos": "conjunction/preposition",
+      "chinese": "只是；要不是；除.之外",
+      "pos_list": [
+        "conjunction",
+        "preposition"
+      ]
+    }
+  ]
+}

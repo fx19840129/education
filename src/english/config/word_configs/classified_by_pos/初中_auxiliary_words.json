@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "title": "助动词 词库",
+    "description": "从文档中提取的助动词",
+    "part_of_speech": "auxiliary",
+    "chinese_name": "助动词",
+    "word_count": 4,
+    "creation_date": "2025-09-27 13:45:24",
+    "source": "extract_words_minimal.py"
+  },
+  "words": [
+    {
+      "word": "dare",
+      "pos": "verb/auxiliary",
+      "chinese": "敢,敢于",
+      "pos_list": [
+        "verb",
+        "auxiliary"
+      ]
+    },
+    {
+      "word": "do",
+      "pos": "verb/auxiliary",
+      "chinese": "做,干",
+      "pos_list": [
+        "verb",
+        "auxiliary"
+      ]
+    },
+    {
+      "word": "might",
+      "pos": "auxiliary/modal",
+      "chinese": "可能,也许,或许",
+      "pos_list": [
+        "auxiliary",
+        "modal"
+      ]
+    },
+    {
+      "word": "need",
+      "pos": "noun/auxiliary/verb",
+      "chinese": "需要,需求/需要,必须",
+      "pos_list": [
+        "noun",
+        "auxiliary",
+        "verb"
+      ]
+    }
+  ]
+}
