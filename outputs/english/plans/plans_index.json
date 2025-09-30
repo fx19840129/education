@@ -1,0 +1,230 @@
+{
+  "last_updated": "2025-09-30T20:45:17.646926",
+  "total_plans": 20,
+  "plans_by_type": {
+    "fsrs_template": 10,
+    "fsrs_standard": 10
+  },
+  "plans": [
+    {
+      "id": "20250930_203311",
+      "filename": "fsrs_template_20250930_203311.json",
+      "created_at": "2025-09-30T20:33:11",
+      "plan_type": "fsrs_template",
+      "stage": "第三阶段：能力构建 (初中低年级)",
+      "days": 30,
+      "minutes_per_day": 45,
+      "file_path": "outputs/english/plans/fsrs_templates/fsrs_template_20250930_203311.json",
+      "file_size": 3115
+    },
+    {
+      "id": "20250930_203311",
+      "filename": "fsrs_standard_20250930_203311.json",
+      "created_at": "2025-09-30T20:33:11",
+      "plan_type": "fsrs_standard",
+      "stage": "未知阶段",
+      "days": 30,
+      "minutes_per_day": 30,
+      "file_path": "outputs/english/plans/fsrs_standard/fsrs_standard_20250930_203311.json",
+      "file_size": 2307
+    },
+    {
+      "id": "20250930_202409",
+      "filename": "fsrs_template_20250930_202409.json",
+      "created_at": "2025-09-30T20:24:09",
+      "plan_type": "fsrs_template",
+      "stage": "第一阶段：基础巩固 (小学中高年级)",
+      "days": 60,
+      "minutes_per_day": 15,
+      "file_path": "outputs/english/plans/fsrs_templates/fsrs_template_20250930_202409.json",
+      "file_size": 3328
+    },
+    {
+      "id": "20250930_202409",
+      "filename": "fsrs_standard_20250930_202409.json",
+      "created_at": "2025-09-30T20:24:09",
+      "plan_type": "fsrs_standard",
+      "stage": "未知阶段",
+      "days": 30,
+      "minutes_per_day": 30,
+      "file_path": "outputs/english/plans/fsrs_standard/fsrs_standard_20250930_202409.json",
+      "file_size": 2308
+    },
+    {
+      "id": "20250930_202202",
+      "filename": "fsrs_template_20250930_202202.json",
+      "created_at": "2025-09-30T20:22:02",
+      "plan_type": "fsrs_template",
+      "stage": "未知阶段",
+      "days": 0,
+      "minutes_per_day": 0,
+      "file_path": "outputs/english/plans/fsrs_templates/fsrs_template_20250930_202202.json",
+      "file_size": 995
+    },
+    {
+      "id": "20250930_202202",
+      "filename": "fsrs_standard_20250930_202202.json",
+      "created_at": "2025-09-30T20:22:02",
+      "plan_type": "fsrs_standard",
+      "stage": "未知阶段",
+      "days": 30,
+      "minutes_per_day": 30,
+      "file_path": "outputs/english/plans/fsrs_standard/fsrs_standard_20250930_202202.json",
+      "file_size": 2172
+    },
+    {
+      "id": "20250930_201549",
+      "filename": "fsrs_template_20250930_201549.json",
+      "created_at": "2025-09-30T20:15:49",
+      "plan_type": "fsrs_template",
+      "stage": "第一阶段：基础巩固 (小学中高年级)",
+      "days": 60,
+      "minutes_per_day": 15,
+      "file_path": "outputs/english/plans/fsrs_templates/fsrs_template_20250930_201549.json",
+      "file_size": 3094
+    },
+    {
+      "id": "20250930_201549",
+      "filename": "fsrs_standard_20250930_201549.json",
+      "created_at": "2025-09-30T20:15:49",
+      "plan_type": "fsrs_standard",
+      "stage": "未知阶段",
+      "days": 30,
+      "minutes_per_day": 30,
+      "file_path": "outputs/english/plans/fsrs_standard/fsrs_standard_20250930_201549.json",
+      "file_size": 2308
+    },
+    {
+      "id": "20250930_201240",
+      "filename": "fsrs_template_20250930_201240.json",
+      "created_at": "2025-09-30T20:12:40",
+      "plan_type": "fsrs_template",
+      "stage": "未知阶段",
+      "days": 60,
+      "minutes_per_day": 15,
+      "file_path": "outputs/english/plans/fsrs_templates/fsrs_template_20250930_201240.json",
+      "file_size": 3069
+    },
+    {
+      "id": "20250930_201240",
+      "filename": "fsrs_standard_20250930_201240.json",
+      "created_at": "2025-09-30T20:12:40",
+      "plan_type": "fsrs_standard",
+      "stage": "未知阶段",
+      "days": 30,
+      "minutes_per_day": 30,
+      "file_path": "outputs/english/plans/fsrs_standard/fsrs_standard_20250930_201240.json",
+      "file_size": 2308
+    },
+    {
+      "id": "20250930_200523",
+      "filename": "fsrs_template_20250930_200523.json",
+      "created_at": "2025-09-30T20:05:23",
+      "plan_type": "fsrs_template",
+      "stage": "未知阶段",
+      "days": 0,
+      "minutes_per_day": 0,
+      "file_path": "outputs/english/plans/fsrs_templates/fsrs_template_20250930_200523.json",
+      "file_size": 2032
+    },
+    {
+      "id": "20250930_200523",
+      "filename": "fsrs_standard_20250930_200523.json",
+      "created_at": "2025-09-30T20:05:23",
+      "plan_type": "fsrs_standard",
+      "stage": "未知阶段",
+      "days": 30,
+      "minutes_per_day": 30,
+      "file_path": "outputs/english/plans/fsrs_standard/fsrs_standard_20250930_200523.json",
+      "file_size": 2299
+    },
+    {
+      "id": "20250930_200149",
+      "filename": "fsrs_template_20250930_200149.json",
+      "created_at": "2025-09-30T20:01:49",
+      "plan_type": "fsrs_template",
+      "stage": "未知阶段",
+      "days": 0,
+      "minutes_per_day": 0,
+      "file_path": "outputs/english/plans/fsrs_templates/fsrs_template_20250930_200149.json",
+      "file_size": 2616
+    },
+    {
+      "id": "20250930_200149",
+      "filename": "fsrs_standard_20250930_200149.json",
+      "created_at": "2025-09-30T20:01:49",
+      "plan_type": "fsrs_standard",
+      "stage": "未知阶段",
+      "days": 30,
+      "minutes_per_day": 30,
+      "file_path": "outputs/english/plans/fsrs_standard/fsrs_standard_20250930_200149.json",
+      "file_size": 2826
+    },
+    {
+      "id": "20250930_193913",
+      "filename": "fsrs_template_20250930_193913.json",
+      "created_at": "2025-09-30T19:39:13",
+      "plan_type": "fsrs_template",
+      "stage": "未知阶段",
+      "days": 0,
+      "minutes_per_day": 0,
+      "file_path": "outputs/english/plans/fsrs_templates/fsrs_template_20250930_193913.json",
+      "file_size": 2043
+    },
+    {
+      "id": "20250930_193913",
+      "filename": "fsrs_standard_20250930_193913.json",
+      "created_at": "2025-09-30T19:39:13",
+      "plan_type": "fsrs_standard",
+      "stage": "未知阶段",
+      "days": 30,
+      "minutes_per_day": 30,
+      "file_path": "outputs/english/plans/fsrs_standard/fsrs_standard_20250930_193913.json",
+      "file_size": 2308
+    },
+    {
+      "id": "20250929_183924",
+      "filename": "fsrs_template_20250929_183924.json",
+      "created_at": "2025-09-29T18:39:24",
+      "plan_type": "fsrs_template",
+      "stage": "未知阶段",
+      "days": 0,
+      "minutes_per_day": 0,
+      "file_path": "outputs/english/plans/fsrs_templates/fsrs_template_20250929_183924.json",
+      "file_size": 2037
+    },
+    {
+      "id": "20250929_183924",
+      "filename": "fsrs_standard_20250929_183924.json",
+      "created_at": "2025-09-29T18:39:24",
+      "plan_type": "fsrs_standard",
+      "stage": "未知阶段",
+      "days": 30,
+      "minutes_per_day": 30,
+      "file_path": "outputs/english/plans/fsrs_standard/fsrs_standard_20250929_183924.json",
+      "file_size": 2308
+    },
+    {
+      "id": "20250929_181158",
+      "filename": "fsrs_template_20250929_181158.json",
+      "created_at": "2025-09-29T18:11:58",
+      "plan_type": "fsrs_template",
+      "stage": "未知阶段",
+      "days": 0,
+      "minutes_per_day": 0,
+      "file_path": "outputs/english/plans/fsrs_templates/fsrs_template_20250929_181158.json",
+      "file_size": 2057
+    },
+    {
+      "id": "20250929_181158",
+      "filename": "fsrs_standard_20250929_181158.json",
+      "created_at": "2025-09-29T18:11:58",
+      "plan_type": "fsrs_standard",
+      "stage": "未知阶段",
+      "days": 30,
+      "minutes_per_day": 30,
+      "file_path": "outputs/english/plans/fsrs_standard/fsrs_standard_20250929_181158.json",
+      "file_size": 2309
+    }
+  ]
+}

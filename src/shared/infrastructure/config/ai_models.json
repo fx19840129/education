@@ -93,14 +93,14 @@
     },
     "openai": {
       "name": "OpenAI",
-      "base_url": "https://api.openai.com/v1",
-      "api_key": "your_openai_api_key_here",
-      "enabled": false,
+      "base_url": "https://chatapi.littlewheat.com/v1",
+      "api_key": "sk-S4RvlMBNg2ka9KsOIRLpguTgBUVWGDOURyMOOq7lNwlI5pUZ",
+      "enabled": true,
       "priority": 3,
       "models": {
-        "gpt-4": {
-          "name": "gpt-4",
-          "display_name": "GPT-4",
+        "gpt-4o-mini": {
+          "name": "gpt-4o-mini",
+          "display_name": "gpt-4o-mini",
           "max_tokens": 8192,
           "supports_chat": true,
           "supports_completion": false,
@@ -110,9 +110,9 @@
           "timeout": 60,
           "description": "OpenAI GPT-4 模型，通用能力强"
         },
-        "gpt-3.5-turbo": {
-          "name": "gpt-3.5-turbo",
-          "display_name": "GPT-3.5 Turbo",
+        "gpt‑4o": {
+          "name": "gpt‑4o",
+          "display_name": "gpt‑4o",
           "max_tokens": 4096,
           "supports_chat": true,
           "supports_completion": false,

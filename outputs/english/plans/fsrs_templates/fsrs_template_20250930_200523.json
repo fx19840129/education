@@ -1,0 +1,60 @@
+{
+  "id": "20250930_200523",
+  "type": "fsrs_learning_template",
+  "metadata": {
+    "stage": "第一阶段：基础巩固 (小学中高年级)",
+    "days": 60,
+    "minutes_per_day": 15,
+    "ai_model": "GLM-GLM-4.5",
+    "generated_at": "2025-09-30T20:05:23.240419",
+    "ai_response_time": 51.48022222518921,
+    "ai_usage": {
+      "completion_tokens": 2932,
+      "prompt_tokens": 1220,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 4152
+    },
+    "retry_count": 1
+  },
+  "fsrs_template": {
+    "metadata": {
+      "estimated_avg_word_rotations_per_cycle": 4.0,
+      "learning_efficiency_estimate": 1.0,
+      "review_efficiency_estimate": 0.6,
+      "morphology_practice_time_estimate": 4,
+      "syntax_practice_time_estimate": 8
+    },
+    "word_categories": {
+      "core_functional_percent": 78.9,
+      "connectors_relational_percent": 11.17,
+      "auxiliary_supplemental_percent": 9.93
+    },
+    "fsrs_initial_parameters": {
+      "default_ease": 1.8,
+      "new_word_first_review_interval_days": 0.28,
+      "morphology_first_review_interval_days": 0.252,
+      "syntax_first_review_interval_days": 0.294
+    },
+    "daily_planning_guidelines": {
+      "avg_new_words_per_day": 8,
+      "avg_review_words_per_day": 8,
+      "avg_new_morphology_units_per_day": 1,
+      "avg_review_morphology_units_per_day": 1,
+      "avg_new_syntax_units_per_day": 1,
+      "avg_review_syntax_units_per_day": 1,
+      "morphology_rotations_per_cycle": 2.3,
+      "syntax_rotations_per_cycle": 1.8,
+      "suggested_morphology_practice_minutes": 0,
+      "suggested_syntax_practice_minutes": 0
+    },
+    "example_review_item_structure_for_fsrs": {
+      "id": "placeholder",
+      "text": "placeholder",
+      "initial_interval_days": 0.28,
+      "status": "review"
+    },
+    "implementation_tip": "For high-intensity 1:1 ratio, shorten intervals by 10%; cap reviews at new words; allocate morphology/syntax evenly with 2.0 rotations/day; trim practice first if time overflows."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "20250930_200149",
+  "type": "fsrs_learning_template",
+  "metadata": {
+    "stage": "第一阶段：基础巩固 (小学中高年级)",
+    "days": 60,
+    "minutes_per_day": 15,
+    "ai_model": "GLM-GLM-4.5",
+    "generated_at": "2025-09-30T20:01:49.831562",
+    "ai_response_time": 160.43253183364868,
+    "ai_usage": {
+      "completion_tokens": 6253,
+      "prompt_tokens": 1238,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 7491
+    },
+    "retry_count": 2
+  },
+  "fsrs_template": {
+    "metadata": {
+      "estimated_avg_word_rotations_per_cycle": 4.0,
+      "learning_efficiency_estimate": 1.0,
+      "review_efficiency_estimate": 0.6,
+      "morphology_practice_time_estimate": 4,
+      "syntax_practice_time_estimate": 8
+    },
+    "word_categories": {
+      "core_functional": {
+        "percentage": 67.0,
+        "avg_new_words_per_day": 4,
+        "components": [
+          "noun",
+          "verb",
+          "adjective"
+        ]
+      },
+      "connectors_relational": {
+        "percentage": 16.5,
+        "avg_new_words_per_day": 1,
+        "components": [
+          "adverb",
+          "preposition",
+          "conjunction",
+          "pronoun",
+          "determiner",
+          "article",
+          "numeral"
+        ]
+      },
+      "auxiliary_supplemental": {
+        "percentage": 16.5,
+        "avg_new_words_per_day": 1,
+        "components": [
+          "interjection",
+          "modal",
+          "auxiliary",
+          "phrase"
+        ]
+      }
+    },
+    "fsrs_initial_parameters": {
+      "default_ease": 1.9,
+      "new_word_first_review_interval_days": 0.3,
+      "morphology_first_review_interval_days": 0.27,
+      "syntax_first_review_interval_days": 0.315
+    },
+    "daily_planning_guidelines": {
+      "avg_new_words_per_day": 6,
+      "avg_review_words_per_day": 6,
+      "avg_new_morphology_units_per_day": 1,
+      "avg_review_morphology_units_per_day": 1,
+      "avg_new_syntax_units_per_day": 1,
+      "avg_review_syntax_units_per_day": 1,
+      "morphology_rotations_per_cycle": 2.3,
+      "syntax_rotations_per_cycle": 1.8,
+      "suggested_morphology_practice_minutes": 4,
+      "suggested_syntax_practice_minutes": 0
+    },
+    "example_review_item_structure_for_fsrs": {
+      "id": "placeholder",
+      "text": "placeholder",
+      "initial_interval_days": 0.3,
+      "status": "review"
+    },
+    "implementation_hint": "For high-intensity 1:1 ratio, shorten intervals by 10%; cap reviews at new words; allocate morphology/syntax evenly with 2.0 rotations/day; trim practice first if time overflows."
+  }
+}

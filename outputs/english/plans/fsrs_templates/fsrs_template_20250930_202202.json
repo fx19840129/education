@@ -1,0 +1,56 @@
+{
+  "id": "20250930_202202",
+  "type": "fsrs_learning_template",
+  "metadata": {
+    "stage": "第一阶段：基础巩固 (小学中高年级)",
+    "days": 60,
+    "minutes_per_day": 15,
+    "ai_model": "GLM-GLM-4.5",
+    "generated_at": "2025-09-30T20:22:02.562138",
+    "ai_response_time": 159.97310209274292,
+    "ai_usage": {
+      "completion_tokens": 5000,
+      "prompt_tokens": 1493,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 6493
+    },
+    "retry_count": 2
+  },
+  "fsrs_template": {
+    "parameters": [
+      1.0,
+      1.0,
+      5.0,
+      -0.5,
+      -0.5,
+      0.2,
+      0.8,
+      2.0,
+      -0.5,
+      0.2,
+      1.4,
+      -0.12,
+      0.8,
+      2.0,
+      -0.14,
+      0.94,
+      2.18,
+      -0.1,
+      0.8,
+      2.0,
+      -0.14
+    ],
+    "desired_retention": 0.9,
+    "learning_steps": [
+      1,
+      10
+    ],
+    "relearning_steps": [
+      10
+    ],
+    "maximum_interval": 365,
+    "enable_fuzzing": true
+  }
+}

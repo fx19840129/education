@@ -3,13 +3,13 @@
 提供英语学习相关的服务接口和实现
 """
 
-from .morphology_service import (
+from .word_morphology_service import (
     MorphologyService, MorphologyPoint
 )
-from .syntax_service import (
+from .sentence_syntax_service import (
     SyntaxService, SyntaxPoint
 )
-from .simple_word_service import (
+from .word_data_service import (
     SimpleWordService
 )
 

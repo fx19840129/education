@@ -1,0 +1,90 @@
+{
+  "scheduler_config": {
+    "parameters": [
+      0.2172,
+      1.1771,
+      3.2602,
+      16.1507,
+      7.0114,
+      0.57,
+      2.0966,
+      0.0069,
+      1.5261,
+      0.112,
+      1.0178,
+      1.849,
+      0.1133,
+      0.3127,
+      2.2934,
+      0.2191,
+      3.0004,
+      0.7536,
+      0.3332,
+      0.1437,
+      0.2
+    ],
+    "desired_retention": 0.9,
+    "learning_steps": [
+      1,
+      10
+    ],
+    "relearning_steps": [
+      10
+    ],
+    "maximum_interval": 730,
+    "enable_fuzzing": true
+  },
+  "cards": [],
+  "learning_plan_metadata": {
+    "total_study_days": 30,
+    "daily_learning_minutes_target": 30,
+    "total_words_in_library": 0,
+    "total_morphology_units_in_library": 0,
+    "total_syntax_units_in_library": 0,
+    "estimated_avg_word_rotations_per_cycle": 2.0,
+    "learning_efficiency_estimate": 1.0,
+    "review_efficiency_estimate": 0.6,
+    "morphology_practice_time_estimate": 4,
+    "syntax_practice_time_estimate": 8
+  },
+  "daily_targets": {
+    "avg_new_words_per_day": 8,
+    "avg_review_words_per_day": 8,
+    "avg_new_morphology_units_per_day": 1,
+    "avg_review_morphology_units_per_day": 1,
+    "avg_new_syntax_units_per_day": 1,
+    "avg_review_syntax_units_per_day": 1,
+    "suggested_morphology_practice_minutes_per_day": 4,
+    "suggested_syntax_practice_minutes_per_day": 8
+  },
+  "word_categories": {
+    "core_functional_percentage": 78.9,
+    "connectors_relational_percentage": 11.16,
+    "auxiliary_supplemental_percentage": 9.94
+  },
+  "card_template": {
+    "id": "PLACEHOLDER_ID",
+    "text": "PLACEHOLDER_TEXT",
+    "category": "core_functional",
+    "part_of_speech": "noun",
+    "due": "2024-01-01T00:00:00Z",
+    "stability": 1.0,
+    "difficulty": 5.0,
+    "elapsed_days": 0,
+    "scheduled_days": 431,
+    "reps": 0,
+    "lapses": 0,
+    "state": 1,
+    "last_review": null,
+    "review_logs": []
+  },
+  "review_rating_guide": {
+    "1": "Again - 完全忘记",
+    "2": "Hard - 困难记起",
+    "3": "Good - 犹豫后记起",
+    "4": "Easy - 轻松记起"
+  },
+  "implementation_notes": "For FSRS implementation: Use scheduler_config to initialize FSRS scheduler, create cards based on card_template, and follow daily_targets for content generation.",
+  "generated_at": "2025-09-30T20:12:40.382279",
+  "format_version": "1.0"
+}

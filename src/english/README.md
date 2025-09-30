@@ -46,7 +46,7 @@ pip install zhipuai python-docx psutil
 #### 交互式学习计划创建（推荐）
 ```bash
 # 启动交互式总入口
-python english_learning_plan_standalone.py
+python src/english/core/plan_creator.py
 
 # 按提示操作：
 # 1. 选择学习阶段
@@ -59,7 +59,7 @@ python english_learning_plan_standalone.py
 #### 命令行模式（高级用户）
 ```bash
 # 直接运行新的学习计划生成器
-python english_learning_plan_standalone.py
+python src/english/core/plan_creator.py
 ```
 
 ### 3. 高级功能
@@ -67,13 +67,13 @@ python english_learning_plan_standalone.py
 #### 学习计划管理
 ```bash
 # 使用新的学习计划生成器
-python english_learning_plan_standalone.py
+python src/english/core/plan_creator.py
 ```
 
 #### 自定义学习计划生成器
 ```bash
 # 使用新的学习计划生成器
-python english_learning_plan_standalone.py
+python src/english/core/plan_creator.py
 ```
 
 ## 学习阶段说明
@@ -117,33 +117,153 @@ python english_learning_plan_standalone.py
 - **多学科支持**：框架设计支持扩展到其他学科
 - **配置驱动**：通过配置文件灵活调整学习参数
 
+## 脚本功能说明
+
+### 主要脚本
+
+#### 1. 核心学习计划脚本
+
+| 脚本名称 | 功能描述 | 使用场景 | 输出结果 |
+|---------|---------|---------|---------|
+| `english_learning_plan_standalone.py` | **主入口脚本**，FSRS算法学习计划生成器 | 创建新的学习计划，设置学习参数 | FSRS模板、标准格式JSON |
+| `fsrs_template_generator.py` | 独立的FSRS模板生成工具 | 单独生成FSRS模板，无需完整流程 | FSRS学习模板JSON |
+
+> **注意**: 这两个脚本位于项目根目录 (`/Users/fengxiao/project/education/`)，其他脚本位于 `src/english/` 目录下。
+
+#### 2. 内容生成脚本
+
+| 脚本名称 | 功能描述 | 依赖关系 | 输出结果 |
+|---------|---------|---------|---------|
+| `learning_content_generator.py` | **学习内容生成主入口**，统一管理各种内容生成 | 基础框架，被其他脚本调用 | 各类学习内容 |
+| `content_generators/vocabulary_generator.py` | 每日单词学习内容生成器，基于FSRS算法 | 需要已有学习计划 | 每日单词列表、学习进度 |
+| `content_generators/exercise_generator.py` | 练习题生成器，支持多种题型 | 依赖词汇、词法、句法内容 | AI生成的练习题 |
+| `content_generators/sentence_generator.py` | 练习句子生成器，结合词汇和语法 | 需要词汇和语法配置 | 语境化练习句子 |
+| `content_generators/grammar_generator.py` | 语法内容生成器（合并词法+句法） | 依赖语法配置文件 | 语法学习内容 |
+| `content_generators/daily_content_generator.py` | 学习文档生成器，输出Word文档 | 需要完整的学习内容 | 格式化的Word文档 |
+
+#### 3. 工具和服务脚本
+
+| 脚本名称 | 功能描述 | 主要用途 | 特点 |
+|---------|---------|---------|-----|
+| `read_learning_plan.py` | 学习计划读取器和分析工具 | 查看已生成的学习计划，分析学习进度 | 只读操作，不修改数据 |
+| `english_prompt_generator.py` | AI提示词生成器 | 为AI模型生成专业的提示词 | 核心AI交互组件 |
+
+### 脚本工作流程
+
+```mermaid
+graph TD
+    A[src/english/english_learning_plan_standalone.py] --> B[生成FSRS学习计划模板]
+    B --> C[fsrs_template_generator.py 可选独立使用]
+    B --> D[content_generators/vocabulary_generator.py]
+    D --> E[content_generators/content_coordinator.py]
+    E --> F[content_generators/grammar_generator.py]
+    E --> H[content_generators/sentence_generator.py]
+    F --> I[content_generators/exercise_generator.py]
+    H --> I
+    I --> J[content_generators/daily_content_generator.py]
+    J --> K[Word文档输出]
+    
+    L[read_learning_plan.py] --> M[分析现有计划]
+    N[english_prompt_generator.py] --> O[为所有AI交互提供提示词]
+```
+
+### 使用建议
+
+#### 🚀 快速开始（推荐路径）
+```bash
+# 1. 生成学习计划（一站式）
+python src/english/core/plan_creator.py
+
+# 2. 查看生成的计划
+python read_learning_plan.py
+```
+
+#### 🔧 高级使用（分步骤）
+```bash
+# 1. 单独生成FSRS模板
+python src/english/core/fsrs_generator.py
+
+# 2. 生成每日词汇内容
+python src/english/content_generators/vocabulary_generator.py
+
+# 3. 生成练习题
+python src/english/content_generators/exercise_generator.py
+
+# 4. 生成学习文档
+python src/english/content_generators/daily_content_generator.py
+```
+
+#### 📊 内容管理
+```bash
+# 查看和分析学习计划
+python read_learning_plan.py
+
+# 生成特定类型内容
+python src/english/content_generators/grammar_generator.py  # 词法内容
+python src/english/content_generators/grammar_generator.py      # 句法内容
+python src/english/content_generators/sentence_generator.py  # 练习句子
+```
+
 ## 项目结构
 
-```
-educational_projects/english/
-├── english_learning_plan_standalone.py  # 英语学习计划生成器（推荐使用）
-├── adapters/                    # 适配器层
-│   └── ai_client_adapter.py     # AI客户端适配器
-├── services/                    # 服务层（简化架构）
-│   ├── morphology_service.py    # 词法服务
-│   ├── syntax_service.py        # 句法服务
-│   └── simple_word_service.py   # 简化单词服务
-├── validators/                  # 内容验证器
-│   ├── english_exercise_validator.py    # 英语练习题验证器
-│   └── english_sentence_validator.py    # 英语句子验证器
-├── generators/                  # 内容生成器
-│   ├── english_exercise_generator.py    # 英语练习题生成器
-│   └── english_document_generator.py    # 英语文档生成器
-├── word_configs/                # 单词配置文件
-│   ├── elementary_words.json    # 小学单词（710个）
-│   └── middle_school_words.json # 初中单词（2292个）
-├── grammar_configs/             # 语法配置文件
-│   ├── elementary/              # 小学语法配置
-│   └── middle_school/           # 初中语法配置
-├── learning_data/               # 学习数据
-│   ├── fsrs_memory.json         # FSRS记忆状态
-│   └── learning_progress.json   # 学习进度
-└── README.md                    # 项目说明文档
+```text
+src/english/
+├── # === 核心功能模块 ===
+├── core/                               # 🎯 核心功能
+│   ├── plan_creator.py                 # 🚀 学习计划创建器
+│   ├── plan_manager.py                 # 🗂️  学习计划管理器
+│   └── fsrs_generator.py               # 🛠️  FSRS模板生成器
+├── 
+├── # === 内容生成器模块 ===
+├── content_generators/                 # 📝 内容生成器
+│   ├── content_coordinator.py          # 📚 内容生成协调器
+│   ├── vocabulary_generator.py         # 📅 词汇内容生成器
+│   ├── grammar_generator.py            # 🔤 语法内容生成器（词法+句法）
+│   ├── exercise_generator.py           # 📝 练习题生成器
+│   ├── sentence_generator.py           # 💬 练习句子生成器
+│   └── daily_content_generator.py      # 📄 日常学习文档生成器
+├── 
+├── # === 工具模块 ===
+├── utils/                              # 🛠️ 工具模块
+│   ├── prompt_generator.py             # 🤖 AI提示词生成器
+│   └── plan_reader.py                  # 👀 学习计划读取器
+├──
+├── # === 服务层 ===
+├── services/                           # 业务逻辑服务
+│   ├── morphology_service.py           # 词法服务
+│   ├── syntax_service.py               # 句法服务
+│   ├── simple_word_service.py          # 简化单词服务
+│   ├── vocab_selector.py               # 词汇选择器
+│   └── fsrs_learning_generator.py      # FSRS学习生成器
+├──
+├── # === 功能模块 ===
+├── adapters/                           # 适配器层
+│   └── ai_client_adapter.py            # AI客户端适配器
+├── validators/                         # 内容验证器
+│   ├── english_exercise_validator.py   # 英语练习题验证器
+│   └── english_sentence_validator.py   # 英语句子验证器
+├── generators/                         # 内容生成器
+│   ├── english_exercise_generator.py   # 英语练习题生成器
+│   └── english_document_generator.py   # 英语文档生成器
+├──
+├── # === 配置和数据 ===
+├── config/                             # 配置文件
+│   ├── word_configs/                   # 单词配置
+│   │   ├── 小学英语单词.json           # 小学单词（710个）
+│   │   ├── 初中英语单词.json           # 初中单词（2292个）
+│   │   ├── 高中英语单词.json           # 高中单词
+│   │   └── classified_by_pos/          # 按词性分类的单词
+│   ├── morphology_configs/             # 词法配置
+│   │   ├── 小学词法.json
+│   │   ├── 初中词法.json
+│   │   └── 高中词法.json
+│   ├── grammar_configs/                # 语法配置
+│   │   ├── 小学句法.json
+│   │   ├── 初中句法.json
+│   │   └── 高中句法.json
+│   └── stage.md                        # 学习阶段定义
+├── docs/                               # 文档目录
+└── README.md                           # 项目说明文档
 ```
 
 ## 共享框架
@@ -254,7 +374,7 @@ A: 系统采用多层验证机制：
 - 自动优化建议
 
 ### Q: 如何查看学习进度？
-A: 使用 `python english_learning_plan_standalone.py` 生成学习计划，系统会自动显示统计信息。
+A: 使用 `python src/english/core/plan_creator.py` 生成学习计划，系统会自动显示统计信息。
 
 ### Q: 生成的Word文档在哪里？
 A: Word文档默认保存在统一的输出目录 `outputs/english/` 下，文件名包含日期和天数信息。
@@ -272,6 +392,172 @@ A: 新架构提供：
 - 松耦合的组件设计
 - 事件驱动的系统架构
 - 更好的测试和扩展性
+
+## 脚本使用示例
+
+### 场景1：完整学习计划创建（推荐新手）
+
+```bash
+# 第一步：创建FSRS学习计划
+python src/english/core/plan_creator.py
+# 交互式选择：
+# - 学习阶段：第三阶段：能力构建 (初中低年级)
+# - 学习周期：30天
+# - 每日学习时间：45分钟
+# - 效率参数：使用默认值
+
+# 第二步：查看生成的学习计划
+python read_learning_plan.py
+# 功能：显示计划详情、学习进度、统计信息
+```
+
+### 场景2：分步骤内容生成（高级用户）
+
+```bash
+# 第一步：独立生成FSRS模板（可选）
+python src/english/core/fsrs_generator.py
+# 输出：FSRS模板JSON文件
+
+# 第二步：生成每日单词内容
+python src/english/content_generators/vocabulary_generator.py
+# 基于FSRS算法计算每日应学习的单词
+# 输出：按天分组的单词列表
+
+# 第三步：生成词法和句法内容
+python src/english/content_generators/grammar_generator.py  # 词法内容
+python src/english/content_generators/grammar_generator.py      # 句法内容
+
+# 第四步：生成练习句子
+python src/english/content_generators/sentence_generator.py
+# 结合当日单词和语法生成练习句子
+
+# 第五步：生成练习题
+python src/english/content_generators/exercise_generator.py
+# 基于单词、词法、句法生成多种题型
+
+# 第六步：生成Word学习文档
+python src/english/content_generators/daily_content_generator.py
+# 输出：完整的学习文档（Word格式）
+```
+
+### 场景3：内容分析和管理
+
+```bash
+# 分析现有学习计划
+python read_learning_plan.py
+# 功能：
+# - 列出所有可用的学习计划
+# - 显示计划详细信息
+# - 统计词汇分布
+# - 分析学习进度
+
+# 查看计划的结构化输出
+python read_learning_plan.py --format json  # JSON格式输出
+python read_learning_plan.py --format table # 表格格式输出
+```
+
+### 场景4：自定义内容生成
+
+```bash
+# 1. 针对特定词性生成内容
+python src/english/content_generators/vocabulary_generator.py --pos noun,verb
+# 只生成名词和动词相关内容
+
+# 2. 生成特定难度的练习题
+python src/english/content_generators/exercise_generator.py --difficulty intermediate
+# 生成中等难度的练习题
+
+# 3. 自定义练习句子数量
+python src/english/content_generators/sentence_generator.py --count 20
+# 生成20个练习句子
+```
+
+### 脚本参数说明
+
+#### english_learning_plan_standalone.py
+```bash
+# 交互模式（默认）
+python src/english/core/plan_creator.py
+
+# 命令行模式
+python src/english/core/plan_creator.py \
+  --stage "第三阶段：能力构建 (初中低年级)" \
+  --days 30 \
+  --minutes 45 \
+  --learning-efficiency 1.0 \
+  --review-efficiency 0.6
+```
+
+#### generate_daily_words.py
+```bash
+# 基础使用
+python src/english/content_generators/vocabulary_generator.py
+
+# 指定学习计划文件
+python src/english/content_generators/vocabulary_generator.py --plan-file path/to/plan.json
+
+# 生成特定天数的内容
+python src/english/content_generators/vocabulary_generator.py --days 1-7
+
+# 指定词性过滤
+python src/english/content_generators/vocabulary_generator.py --pos noun,verb,adjective
+```
+
+#### generate_practice_exercises.py
+```bash
+# 默认生成所有题型
+python src/english/content_generators/exercise_generator.py
+
+# 指定题型
+python src/english/content_generators/exercise_generator.py --types "填空,翻译,选择"
+
+# 指定难度级别
+python src/english/content_generators/exercise_generator.py --difficulty beginner
+
+# 自定义题目数量
+python src/english/content_generators/exercise_generator.py --count 15
+```
+
+### 最佳实践
+
+#### 1. 新用户推荐流程
+```bash
+# 第一次使用
+python src/english/core/plan_creator.py  # 创建计划
+python read_learning_plan.py                # 查看计划
+python src/english/content_generators/vocabulary_generator.py              # 开始学习
+```
+
+#### 2. 日常学习流程
+```bash
+# 每日学习流程
+python src/english/content_generators/vocabulary_generator.py              # 获取今日单词
+python src/english/content_generators/exercise_generator.py       # 生成练习题
+python src/english/content_generators/daily_content_generator.py  # 生成学习文档
+```
+
+#### 3. 高级定制流程
+```bash
+# 完全自定义的学习内容生成
+python src/english/core/fsrs_generator.py           # 自定义FSRS参数
+python src/english/content_generators/grammar_generator.py       # 定制词法内容
+python src/english/content_generators/grammar_generator.py           # 定制句法内容
+python src/english/content_generators/sentence_generator.py       # 定制练习句子
+python src/english/content_generators/exercise_generator.py       # 定制练习题
+python src/english/content_generators/daily_content_generator.py  # 生成最终文档
+```
+
+#### 4. 错误排查
+```bash
+# 检查学习计划是否正确
+python read_learning_plan.py --validate
+
+# 详细日志输出
+python src/english/core/plan_creator.py --verbose
+
+# 测试AI连接
+python english_prompt_generator.py --test-connection
+```
 
 ## Services层服务文档
 

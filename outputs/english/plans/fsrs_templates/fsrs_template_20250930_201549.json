@@ -1,0 +1,114 @@
+{
+  "id": "20250930_201549",
+  "type": "fsrs_learning_template",
+  "metadata": {
+    "stage": "第一阶段：基础巩固 (小学中高年级)",
+    "days": 60,
+    "minutes_per_day": 15,
+    "ai_model": "GLM-GLM-4.5",
+    "generated_at": "2025-09-30T20:15:49.678264",
+    "ai_response_time": 69.219162940979,
+    "ai_usage": {
+      "completion_tokens": 4898,
+      "prompt_tokens": 1493,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 6391
+    },
+    "retry_count": 1
+  },
+  "fsrs_template": {
+    "scheduler_config": {
+      "parameters": [
+        1.8,
+        0.26,
+        0.234,
+        0.273,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "desired_retention": 0.9,
+      "learning_steps": [
+        1,
+        10
+      ],
+      "relearning_steps": [
+        10
+      ],
+      "maximum_interval": 657,
+      "enable_fuzzing": true
+    },
+    "cards": [],
+    "learning_plan_metadata": {
+      "total_study_days": 60,
+      "daily_learning_minutes_target": 15,
+      "total_words": 984,
+      "total_morphology_units": 13,
+      "total_syntax_units": 16,
+      "estimated_avg_word_rotations_per_cycle": 4.0,
+      "learning_efficiency_estimate": 1.0,
+      "review_efficiency_estimate": 0.6,
+      "morphology_practice_time_estimate": 4,
+      "syntax_practice_time_estimate": 8,
+      "stage": "第一阶段：基础巩固 (小学中高年级)"
+    },
+    "daily_targets": {
+      "avg_new_words_per_day": 8,
+      "avg_review_words_per_day": 8,
+      "avg_new_morphology_units_per_day": 1,
+      "avg_review_morphology_units_per_day": 1,
+      "avg_new_syntax_units_per_day": 1,
+      "avg_review_syntax_units_per_day": 1,
+      "suggested_morphology_practice_minutes": 0,
+      "suggested_syntax_practice_minutes": 0,
+      "morphology_rotations_per_day": 2.3,
+      "syntax_rotations_per_day": 1.8
+    },
+    "word_categories": {
+      "core_functional_percentage": 78.9,
+      "connectors_relational_percentage": 11.16,
+      "auxiliary_supplemental_percentage": 9.94
+    },
+    "card_template": {
+      "id": "placeholder",
+      "text": "placeholder",
+      "category": "placeholder",
+      "part_of_speech": "placeholder",
+      "due": 0,
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": "new",
+      "last_review": "",
+      "review_logs": []
+    },
+    "review_rating_guide": {
+      "1": "完全忘记，需要重新学习",
+      "2": "记得模糊，需要提示",
+      "3": "基本记得，稍有犹豫",
+      "4": "完全记得，非常熟悉"
+    },
+    "implementation_notes": "For high-intensity 1:1 ratio, shorten intervals by 10%; cap reviews at new words; allocate morphology/syntax evenly with 2.0 rotations/day; trim practice first if time overflows.",
+    "generated_at": "2023-07-20T00:00:00Z",
+    "format_version": "1.0"
+  }
+}
