@@ -206,12 +206,18 @@ class DailyContentGenerator:
 
     def _generate_review_words(self, requirements: Dict, day: int) -> List[Dict]:
         """生成复习词汇"""
+        
+        # 第一天不应该有复习词汇
+        if day == 1:
+            print(f"📝 第1天无复习词汇")
+            return []
+        
         print(f"✅ 生成复习词汇: {requirements['daily_review_words']}个")
         
         # 从已学词汇中选择复习词汇
         learned_words = list(self.vocab_generator.learned_words_tracker)
         if not learned_words:
-            return []  # 第一天没有复习词汇
+            return []  # 没有已学词汇可供复习
         
         # 使用简单的FSRS逻辑选择复习词汇
         import random

@@ -39,7 +39,7 @@ class VocabularyContentGenerator:
         
         # AI相关组件
         self.prompt_generator = EnglishLearningPromptGenerator()
-        self.openai_client = UnifiedAIClient(default_model=AIModel.OPENAI_GPT4O)
+        self.openai_client = UnifiedAIClient(default_model=AIModel.OPENAI_GPT4O_MINI)
         self.ai_client = UnifiedAIClient(default_model=AIModel.GLM_45)
         
         # 词汇分类到词性的映射

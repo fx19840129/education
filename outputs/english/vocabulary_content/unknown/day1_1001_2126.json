@@ -1,0 +1,360 @@
+{
+  "day": 1,
+  "date": "2025-10-01",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "cousin",
+          "part_of_speech": "noun",
+          "definition": "堂（表）兄弟；堂（表）姐妹",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "skating",
+          "part_of_speech": "noun/verb",
+          "definition": "滑冰",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "stamps",
+          "part_of_speech": "noun",
+          "definition": "邮票",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "river",
+          "part_of_speech": "noun",
+          "definition": "河流",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "shelf",
+          "part_of_speech": "noun",
+          "definition": "架子",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "violin",
+          "part_of_speech": "noun",
+          "definition": "小提琴",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "country",
+          "part_of_speech": "noun",
+          "definition": "国家",
+          "difficulty_level": "elementary"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "when",
+          "part_of_speech": "adverb/conjunction",
+          "definition": "什么时候",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "right",
+          "part_of_speech": "adjective/adverb",
+          "definition": "正确的/正确地",
+          "difficulty_level": "elementary"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "sorry",
+          "part_of_speech": "adjective/interjection",
+          "definition": "对不起",
+          "difficulty_level": "elementary"
+        }
+      ]
+    },
+    "review_words": [],
+    "total_new": 10,
+    "total_review": 0
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "name": "代词 (Pronoun)",
+        "type": "词性",
+        "description": "代替名词使用。",
+        "rules": "代替名词使用。",
+        "examples": [
+          "学习人称代词的主格（I, you, he, she, it, we, they）和宾格（me, you, him, her, it, us, them）。",
+          "学习物主代词（my, your, his, her, its, our, their）。"
+        ]
+      },
+      {
+        "name": "比较级/最高级 (Comparative/Superlative)",
+        "type": "形式变化",
+        "description": "比较事物的大小、多少、好坏等。",
+        "rules": "比较事物的大小、多少、好坏等。",
+        "examples": [
+          "一般加-er/-est (tall-taller-tallest, big-bigger-biggest)",
+          "部分不规则变化 (good-better-best)"
+        ]
+      }
+    ],
+    "stage": "小学",
+    "day": 1,
+    "total_available": 13
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "name": "Do/Does...?",
+        "type": "句型模式",
+        "description": "一般疑问句 (Yes/No Question) - 询问一般现在时动作。",
+        "structure": "一般疑问句 (Yes/No Question) - 询问一般现在时动作。",
+        "examples": [
+          "Do you like ice cream?"
+        ]
+      },
+      {
+        "name": "Let's...",
+        "type": "句型模式",
+        "description": "祈使句 (Imperative Sentence) - 建议 - 提出建议。",
+        "structure": "祈使句 (Imperative Sentence) - 建议 - 提出建议。",
+        "examples": [
+          "Let's go to the park."
+        ]
+      }
+    ],
+    "stage": "小学",
+    "day": 1,
+    "total_available": 16
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "My cousin loves skating on the frozen river.",
+          "translation": "我的表兄弟喜欢在冰冻的河上溜冰。",
+          "morphology_rule": "Present simple tense.",
+          "syntactic_structure": "Subject + Verb + Object.",
+          "difficulty": 2.5,
+          "explanation": "这里使用了代词'my'和'cousin'来表示关系，'loves'是动词的现在时态。"
+        },
+        {
+          "sentence": "I collected stamps from different countries when I was younger.",
+          "translation": "我小时候从不同的国家收集邮票。",
+          "morphology_rule": "Past simple tense.",
+          "syntactic_structure": "Subject + Verb + Object.",
+          "difficulty": 2.5,
+          "explanation": "这里使用了'collected'作为过去时动词，'different'是比较级，表示多样性。"
+        },
+        {
+          "sentence": "The violin on the shelf is my favorite instrument.",
+          "translation": "架子上的小提琴是我最喜欢的乐器。",
+          "morphology_rule": "Present simple tense.",
+          "syntactic_structure": "Subject + Verb + Complement.",
+          "difficulty": 2.5,
+          "explanation": "使用了'violin'和'shelf'，'favorite'是最高级，表示偏好。"
+        },
+        {
+          "sentence": "When we visit the country, we always go to the river.",
+          "translation": "我们去那个国家时，总是去那条河。",
+          "morphology_rule": "Present simple tense.",
+          "syntactic_structure": "Subject + Verb + Adverbial.",
+          "difficulty": 2.5,
+          "explanation": "使用了'when'引导时间状语，'always'表示频率。"
+        },
+        {
+          "sentence": "I'm sorry for missing your birthday party last week.",
+          "translation": "我很抱歉错过了你上周的生日派对。",
+          "morphology_rule": "Present continuous tense.",
+          "syntactic_structure": "Subject + Verb + Object.",
+          "difficulty": 2.5,
+          "explanation": "使用了'I'm sorry'表达歉意，'missing'是动名词形式。"
+        },
+        {
+          "sentence": "The right way to learn the violin is to practice every day.",
+          "translation": "学习小提琴的正确方法是每天练习。",
+          "morphology_rule": "Present simple tense.",
+          "syntactic_structure": "Subject + Verb + Complement.",
+          "difficulty": 2.5,
+          "explanation": "使用了'right'来表示正确性，强调学习方法的重要性。"
+        },
+        {
+          "sentence": "Skating by the river is fun during the winter.",
+          "translation": "冬天在河边滑冰很有趣。",
+          "morphology_rule": "Present simple tense.",
+          "syntactic_structure": "Subject + Verb + Object.",
+          "difficulty": 2.5,
+          "explanation": "使用了'skating'作为动名词，描述活动的乐趣。"
+        },
+        {
+          "sentence": "My cousin sent me postcards with stamps from his travels.",
+          "translation": "我的表兄弟给我寄来了他旅行时的邮票明信片。",
+          "morphology_rule": "Past simple tense.",
+          "syntactic_structure": "Subject + Verb + Object.",
+          "difficulty": 2.5,
+          "explanation": "使用了'sent'作为过去式动词，描述过去的动作。"
+        },
+        {
+          "sentence": "Let's go skating at the river this weekend!",
+          "translation": "这个周末我们去河边滑冰吧！",
+          "morphology_rule": "Imperative sentence.",
+          "syntactic_structure": "Imperative + Object.",
+          "difficulty": 2.5,
+          "explanation": "使用了'let's'表示提议，鼓励进行滑冰活动。"
+        },
+        {
+          "sentence": "I found a beautiful shelf for my books in the country.",
+          "translation": "我在乡下找到了一个漂亮的书架。",
+          "morphology_rule": "Past simple tense.",
+          "syntactic_structure": "Subject + Verb + Object.",
+          "difficulty": 2.5,
+          "explanation": "使用了'found'作为过去式动词，描述发现的情景。"
+        }
+      ],
+      "generated_at": "2025-10-01T21:26:28.392265",
+      "generation_method": "openai_gpt4o_100_coverage"
+    },
+    "practice_exercises": {
+      "practice_exercises": [
+        {
+          "id": 1,
+          "type": "choice",
+          "question": "我的表弟喜欢在冰冻的河上滑冰。表弟喜欢什么？",
+          "options": [
+            "滑冰",
+            "游泳",
+            "打篮球",
+            "骑自行车"
+          ],
+          "correct_answer": "滑冰",
+          "morphology_rule": "动词喜欢后接名词",
+          "syntactic_structure": "主语 + 动词 + 宾语",
+          "difficulty": 2.5,
+          "explanation": "表弟的爱好是滑冰。"
+        },
+        {
+          "id": 2,
+          "type": "choice",
+          "question": "我在年轻时收集了什么？",
+          "options": [
+            "邮票",
+            "水果",
+            "玩具",
+            "书籍"
+          ],
+          "correct_answer": "邮票",
+          "morphology_rule": "动词收集后接名词",
+          "syntactic_structure": "主语 + 动词 + 宾语",
+          "difficulty": 2.5,
+          "explanation": "我年轻时的爱好是收集邮票。"
+        },
+        {
+          "id": 3,
+          "type": "choice",
+          "question": "我最喜欢的乐器是什么？",
+          "options": [
+            "小号",
+            "小提琴",
+            "吉他",
+            "钢琴"
+          ],
+          "correct_answer": "小提琴",
+          "morphology_rule": "名词表示乐器",
+          "syntactic_structure": "主语 + 是 + 名词",
+          "difficulty": 2.5,
+          "explanation": "我最喜欢的乐器是小提琴。"
+        },
+        {
+          "id": 4,
+          "type": "choice",
+          "question": "我们去乡下时总是去哪里？",
+          "options": [
+            "河边",
+            "商店",
+            "学校",
+            "公园"
+          ],
+          "correct_answer": "河边",
+          "morphology_rule": "副词总是表示频率",
+          "syntactic_structure": "主语 + 总是 + 动词 + 地点",
+          "difficulty": 2.5,
+          "explanation": "我们去乡下时总是去河边。"
+        },
+        {
+          "id": 5,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "我对上周错过你的生日派对感到抱歉。",
+          "english_text": "I'm sorry for missing your birthday party last week.",
+          "morphology_rule": "短语表示歉意",
+          "syntactic_structure": "主语 + 动词 + 宾语 + 时间状语",
+          "difficulty": 2.5,
+          "explanation": "这句话表达了对错过生日派对的歉意。"
+        },
+        {
+          "id": 6,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "学习小提琴的正确方法是每天练习。",
+          "english_text": "The right way to learn the violin is to practice every day.",
+          "morphology_rule": "名词短语表示方法",
+          "syntactic_structure": "主语 + 是 + 名词短语",
+          "difficulty": 2.5,
+          "explanation": "这句话说明了学习小提琴的正确方法。"
+        },
+        {
+          "id": 7,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "冬天在河边滑冰很有趣。",
+          "english_text": "Skating by the river is fun during the winter.",
+          "morphology_rule": "动名词用作主语",
+          "syntactic_structure": "动名词 + 是 + 形容词 + 时间状语",
+          "difficulty": 2.5,
+          "explanation": "这句话表达了冬天滑冰的趣味。"
+        },
+        {
+          "id": 8,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "我表弟给我寄来了旅行的明信片。",
+          "english_text": "My cousin sent me postcards with stamps from his travels.",
+          "morphology_rule": "名词短语表示来源",
+          "syntactic_structure": "主语 + 动词 + 宾语 + 伴随状语",
+          "difficulty": 2.5,
+          "explanation": "这句话说明了表弟寄来的明信片。"
+        },
+        {
+          "id": 9,
+          "type": "fill_blank",
+          "question": "请填入适当的单词",
+          "sentence": "这个周末我们去___在河边！",
+          "answer": "滑冰",
+          "morphology_rule": "动词表示活动",
+          "syntactic_structure": "主语 + 动词 + 地点",
+          "difficulty": 2.5,
+          "explanation": "这里需要填入一个表示活动的动词。"
+        },
+        {
+          "id": 10,
+          "type": "fill_blank",
+          "question": "我在乡下找到了一个漂亮的___来放我的书。",
+          "sentence": "我在乡下找到了一个漂亮的___来放我的书。",
+          "answer": "架子",
+          "morphology_rule": "名词表示物品",
+          "syntactic_structure": "主语 + 动词 + 宾语",
+          "difficulty": 2.5,
+          "explanation": "这里需要填入一个表示物品的名词。"
+        }
+      ],
+      "generated_at": "2025-10-01T21:26:40.356448",
+      "generation_method": "openai_gpt4o_from_sentences"
+    },
+    "generated_at": "2025-10-01T21:26:40.356493",
+    "generation_strategy": "sentences_first_exercises_follow"
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T21:26:40.356531",
+  "generation_attempt": 1,
+  "plan_id": "unknown"
+}

@@ -1,0 +1,474 @@
+{
+  "day": 3,
+  "date": "2025-10-03",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "company",
+          "part_of_speech": "noun",
+          "definition": "公司",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "piano",
+          "part_of_speech": "noun",
+          "definition": "钢琴",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "path",
+          "part_of_speech": "noun",
+          "definition": "路；小道",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "October",
+          "part_of_speech": "noun",
+          "definition": "十月",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "game",
+          "part_of_speech": "noun",
+          "definition": "比赛；游戏",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "man",
+          "part_of_speech": "noun",
+          "definition": "男人",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "winter",
+          "part_of_speech": "noun",
+          "definition": "冬天",
+          "difficulty_level": "elementary"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "soon",
+          "part_of_speech": "adverb",
+          "definition": "不久",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "really",
+          "part_of_speech": "adverb",
+          "definition": "真地；确切地",
+          "difficulty_level": "elementary"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "hi",
+          "part_of_speech": "interjection",
+          "definition": "喂, 你",
+          "difficulty_level": "elementary"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "noon",
+        "definition": "noon的定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-25",
+        "review_interval": 3,
+        "retention_rate": 0.72,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "stamps",
+        "definition": "stamps的定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-19",
+        "review_interval": 10,
+        "retention_rate": 0.73,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "right",
+        "definition": "right的定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-03",
+        "review_interval": 2,
+        "retention_rate": 0.88,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "shelf",
+        "definition": "shelf的定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-08",
+        "review_interval": 2,
+        "retention_rate": 0.76,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "country",
+        "definition": "country的定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-14",
+        "review_interval": 5,
+        "retention_rate": 0.82,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "there",
+        "definition": "there的定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 13,
+        "retention_rate": 0.86,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "violin",
+        "definition": "violin的定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-05",
+        "review_interval": 14,
+        "retention_rate": 0.78,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "pot",
+        "definition": "pot的定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-12",
+        "review_interval": 14,
+        "retention_rate": 0.73,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "when",
+        "definition": "when的定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-07",
+        "review_interval": 8,
+        "retention_rate": 0.79,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "bye",
+        "definition": "bye的定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-09",
+        "review_interval": 4,
+        "retention_rate": 0.84,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "name": "从形容词变来 (-ly form)",
+        "type": "形式变化",
+        "description": "大多数副词由形容词加-ly构成。",
+        "rules": "大多数副词由形容词加-ly构成。",
+        "examples": [
+          "quick -> quickly",
+          "happy -> happily"
+        ]
+      },
+      {
+        "name": "be 动词 (be Verb Forms)",
+        "type": "形式变化",
+        "description": "am, is, are 的使用（根据主语和时态）。",
+        "rules": "am, is, are 的使用（根据主语和时态）。",
+        "examples": [
+          "I am",
+          "He/She/It is",
+          "You/We/They are"
+        ]
+      }
+    ],
+    "stage": "小学",
+    "day": 3,
+    "total_available": 13
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "name": "主谓宾结构 (Subject-Verb-Object)",
+        "type": "句法结构",
+        "description": "包含主语、及物动词和直接宾语。",
+        "structure": "包含主语、及物动词和直接宾语。",
+        "examples": [
+          "I eat bread.",
+          "They play football."
+        ]
+      },
+      {
+        "name": "What is...?",
+        "type": "句型模式",
+        "description": "特殊疑问句 (Wh-Question) - 询问事物名称/身份。",
+        "structure": "特殊疑问句 (Wh-Question) - 询问事物名称/身份。",
+        "examples": [
+          "What is this?",
+          "What is your name?"
+        ]
+      }
+    ],
+    "stage": "小学",
+    "day": 3,
+    "total_available": 16
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "The man plays the piano really well at the company event.",
+          "translation": "这个男人在公司活动中弹钢琴弹得很好。",
+          "morphology_rule": "从形容词变来 (-ly form)",
+          "syntactic_structure": "主谓宾结构 (Subject-Verb-Object)",
+          "difficulty": 2.5,
+          "explanation": "使用了新的单词 'man', 'piano', 和 'company', 并且使用了副词 'really' 来修饰动词 'plays'。"
+        },
+        {
+          "sentence": "In October, there is a big game in our country.",
+          "translation": "十月时，我们国家有一场大比赛。",
+          "morphology_rule": "无",
+          "syntactic_structure": "主谓宾结构 (Subject-Verb-Object)",
+          "difficulty": 2.5,
+          "explanation": "句子中使用了新的单词 'October' 和 'game'，并且使用了 'there' 来引入句子。"
+        },
+        {
+          "sentence": "I will go to the path soon to see the winter flowers.",
+          "translation": "我很快会去小路看冬天的花。",
+          "morphology_rule": "无",
+          "syntactic_structure": "主谓宾结构 (Subject-Verb-Object)",
+          "difficulty": 2.5,
+          "explanation": "使用了新的单词 'path', 'soon', 和 'winter'，句子表达了未来的行动。"
+        },
+        {
+          "sentence": "When the man leaves, I say bye to him.",
+          "translation": "当这个男人离开时，我向他说再见。",
+          "morphology_rule": "无",
+          "syntactic_structure": "主谓宾结构 (Subject-Verb-Object)",
+          "difficulty": 2.5,
+          "explanation": "句子中使用了新的单词 'man' 和复习单词 'when' 和 'bye'。"
+        },
+        {
+          "sentence": "The violin is on the shelf next to the piano.",
+          "translation": "小提琴在钢琴旁边的架子上。",
+          "morphology_rule": "无",
+          "syntactic_structure": "主谓宾结构 (Subject-Verb-Object)",
+          "difficulty": 2.5,
+          "explanation": "使用了复习单词 'violin' 和 'shelf'，同时提到 'piano'。"
+        },
+        {
+          "sentence": "I really enjoy playing games during winter.",
+          "translation": "我真的很喜欢在冬天玩游戏。",
+          "morphology_rule": "从形容词变来 (-ly form)",
+          "syntactic_structure": "主谓宾结构 (Subject-Verb-Object)",
+          "difficulty": 2.5,
+          "explanation": "使用了新的单词 'really', 'game', 和 'winter'。"
+        },
+        {
+          "sentence": "The company sent stamps to all its employees.",
+          "translation": "公司给所有员工寄了邮票。",
+          "morphology_rule": "无",
+          "syntactic_structure": "主谓宾结构 (Subject-Verb-Object)",
+          "difficulty": 2.5,
+          "explanation": "句子中使用了新的单词 'company' 和复习单词 'stamps'。"
+        },
+        {
+          "sentence": "I will visit there at noon to play the piano.",
+          "translation": "我将在中午去那里弹钢琴。",
+          "morphology_rule": "无",
+          "syntactic_structure": "主谓宾结构 (Subject-Verb-Object)",
+          "difficulty": 2.5,
+          "explanation": "使用了新的单词 'piano' 和复习单词 'there', 'noon'。"
+        },
+        {
+          "sentence": "The man is coming soon to join the game.",
+          "translation": "这个男人很快会来参加比赛。",
+          "morphology_rule": "无",
+          "syntactic_structure": "主谓宾结构 (Subject-Verb-Object)",
+          "difficulty": 2.5,
+          "explanation": "使用了新的单词 'man', 'soon', 和 'game'。"
+        },
+        {
+          "sentence": "What is your favorite game to play in winter?",
+          "translation": "你最喜欢在冬天玩的游戏是什么？",
+          "morphology_rule": "What is...?",
+          "syntactic_structure": "特殊疑问句 (Wh-Question)",
+          "difficulty": 2.5,
+          "explanation": "使用了新的单词 'game' 和复习单词 'winter'，并形成了疑问句。"
+        }
+      ],
+      "generated_at": "2025-10-01T21:27:24.709170",
+      "generation_method": "openai_gpt4o_100_coverage"
+    },
+    "practice_exercises": {
+      "practice_exercises": [
+        {
+          "id": 1,
+          "type": "choice",
+          "question": "在公司活动中，这个男人做了什么？",
+          "options": [
+            "他打鼓",
+            "他唱歌",
+            "他弹钢琴",
+            "他跳舞"
+          ],
+          "correct_answer": "他弹钢琴",
+          "morphology_rule": "动词的使用",
+          "syntactic_structure": "主谓宾结构",
+          "difficulty": 2.5,
+          "explanation": "在公司活动中，这个男人弹钢琴。"
+        },
+        {
+          "id": 2,
+          "type": "choice",
+          "question": "在十月，什么在我们的国家发生？",
+          "options": [
+            "有一个音乐会",
+            "有一个大比赛",
+            "有一个节日",
+            "有一个展览"
+          ],
+          "correct_answer": "有一个大比赛",
+          "morphology_rule": "名词的使用",
+          "syntactic_structure": "时间短语 + 事件",
+          "difficulty": 2.5,
+          "explanation": "在十月，我们国家有一个大比赛。"
+        },
+        {
+          "id": 3,
+          "type": "choice",
+          "question": "我什么时候去小路看冬天的花？",
+          "options": [
+            "昨天",
+            "现在",
+            "不久后",
+            "明天"
+          ],
+          "correct_answer": "不久后",
+          "morphology_rule": "时间副词的使用",
+          "syntactic_structure": "时间状语 + 动词",
+          "difficulty": 2.5,
+          "explanation": "我很快就会去小路看冬天的花。"
+        },
+        {
+          "id": 4,
+          "type": "choice",
+          "question": "当这个男人离开时，我对他说什么？",
+          "options": [
+            "你好",
+            "再见",
+            "谢谢",
+            "请"
+          ],
+          "correct_answer": "再见",
+          "morphology_rule": "问候语的使用",
+          "syntactic_structure": "主句 + 状语从句",
+          "difficulty": 2.5,
+          "explanation": "当这个男人离开时，我对他说再见。"
+        },
+        {
+          "id": 5,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "小提琴在钢琴旁边的架子上。",
+          "english_text": "The violin is on the shelf next to the piano.",
+          "morphology_rule": "介词短语的使用",
+          "syntactic_structure": "主语 + be动词 + 介词短语",
+          "difficulty": 2.5,
+          "explanation": "描述小提琴的位置。"
+        },
+        {
+          "id": 6,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "我在冬天时非常喜欢玩游戏。",
+          "english_text": "I really enjoy playing games during winter.",
+          "morphology_rule": "动词-ing形式的使用",
+          "syntactic_structure": "主语 + 动词 + 介词短语",
+          "difficulty": 2.5,
+          "explanation": "表明在冬天喜欢的活动。"
+        },
+        {
+          "id": 7,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "公司给所有员工寄了邮票。",
+          "english_text": "The company sent stamps to all its employees.",
+          "morphology_rule": "过去式的使用",
+          "syntactic_structure": "主语 + 动词过去式 + 直接宾语",
+          "difficulty": 2.5,
+          "explanation": "描述公司寄送的动作。"
+        },
+        {
+          "id": 8,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "我中午会去那里弹钢琴。",
+          "english_text": "I will visit there at noon to play the piano.",
+          "morphology_rule": "将来时的使用",
+          "syntactic_structure": "主语 + will + 动词原形",
+          "difficulty": 2.5,
+          "explanation": "描述将来的计划。"
+        },
+        {
+          "id": 9,
+          "type": "fill_blank",
+          "question": "这个男人很快会来参加_____。",
+          "sentence": "这个男人很快会来参加___.",
+          "answer": "比赛",
+          "morphology_rule": "名词的使用",
+          "syntactic_structure": "主语 + 动词 + 宾语",
+          "difficulty": 2.5,
+          "explanation": "填入适当名词，描述活动。"
+        },
+        {
+          "id": 10,
+          "type": "fill_blank",
+          "question": "在冬天，你最喜欢玩什么_____？",
+          "sentence": "在冬天，你最喜欢玩什么___.",
+          "answer": "游戏",
+          "morphology_rule": "名词的使用",
+          "syntactic_structure": "时间状语 + 询问结构",
+          "difficulty": 2.5,
+          "explanation": "填入适当名词，描述兴趣。"
+        }
+      ],
+      "generated_at": "2025-10-01T21:27:38.944471",
+      "generation_method": "openai_gpt4o_from_sentences"
+    },
+    "generated_at": "2025-10-01T21:27:38.944496",
+    "generation_strategy": "sentences_first_exercises_follow"
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T21:27:38.944548",
+  "generation_attempt": 1,
+  "plan_id": "unknown"
+}

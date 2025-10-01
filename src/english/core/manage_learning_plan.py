@@ -25,7 +25,6 @@ try:
     from src.english.content_generators.generate_vocabulary_content import DailyWordsGenerator
     from src.english.content_generators.generate_grammar_content import GrammarContentGenerator
     from src.english.content_generators.generate_practice_exercises import PracticeExercisesGenerator
-    from src.english.content_generators.generate_practice_sentences import PracticeSentencesGenerator
     from src.english.services.word_morphology_service import MorphologyService
     from src.english.services.sentence_syntax_service import SyntaxService
 except ImportError as e:

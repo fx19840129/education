@@ -214,6 +214,56 @@ class MorphologyService:
             stats["total_points"] += len(points)
         
         return stats
+    
+    def get_morphology_content(self, stage_key: str, day: int, count: int = 2) -> Dict:
+        """
+        获取每日词法学习内容
+        
+        Args:
+            stage_key: 学习阶段键值 (elementary, junior_high, high_school)
+            day: 学习天数
+            count: 需要的词法点数量
+            
+        Returns:
+            Dict: 包含词法学习点的字典
+        """
+        # 映射阶段键值到中文阶段名
+        stage_mapping = {
+            "elementary": "小学",
+            "junior_high": "初中", 
+            "high_school": "高中"
+        }
+        
+        stage = stage_mapping.get(stage_key, "小学")
+        morphology_points = self.get_morphology_points(stage)
+        
+        if not morphology_points:
+            return {"learning_points": []}
+        
+        # 使用天数作为种子，确保相同天数生成相同内容
+        import random
+        random.seed(day * 100)
+        
+        # 随机选择指定数量的词法点
+        selected_points = random.sample(morphology_points, min(count, len(morphology_points)))
+        
+        # 转换为字典格式
+        learning_points = []
+        for point in selected_points:
+            learning_points.append({
+                "name": point.name,
+                "type": point.category,
+                "description": point.description,
+                "rules": point.description,  # 使用description作为rules
+                "examples": point.examples[:3]  # 最多3个例句
+            })
+        
+        return {
+            "learning_points": learning_points,
+            "stage": stage,
+            "day": day,
+            "total_available": len(morphology_points)
+        }
 
 
 if __name__ == "__main__":

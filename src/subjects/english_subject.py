@@ -42,6 +42,13 @@ class EnglishSubject(SubjectBase):
                 description="查看、搜索、删除、导出已有计划",
                 script_path="src/english/core/manage_learning_plan.py",
                 function_type="script"
+            ),
+            SubjectFunction(
+                name="generate_content",
+                display_name="📚 生成学习内容",
+                description="生成每日学习内容（词汇、句子、练习、Word文档）",
+                script_path="src/english/content_generators/daily_content_generator.py",
+                function_type="script"
             )
         ]
     

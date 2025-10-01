@@ -22,7 +22,7 @@ class PracticeContentGenerator:
     
     def __init__(self):
         self.prompt_generator = EnglishLearningPromptGenerator()
-        self.openai_client = UnifiedAIClient(default_model=AIModel.OPENAI_GPT4O)
+        self.openai_client = UnifiedAIClient(default_model=AIModel.OPENAI_GPT4O_MINI)
 
     def generate_practice_content(self, daily_words: Dict, daily_morphology: Dict, daily_syntax: Dict, stage: str, review_words: List[Dict]) -> Dict:
         """
@@ -91,12 +91,12 @@ class PracticeContentGenerator:
             
             print(f"📝 100%覆盖策略提示词长度: {len(chinese_prompt)} 字符")
             
-            # 使用OpenAI GPT-4o生成练习句子
+            # 使用OpenAI GPT-4o生成练习句子 (增加max_tokens提升成功率)
             response = self.openai_client.generate_content(
                 prompt=chinese_prompt,
-                model=AIModel.OPENAI_GPT4O,
+                model=AIModel.OPENAI_GPT4O_MINI,
                 temperature=0.7,
-                max_tokens=2000
+                max_tokens=4000  # 增加到4000，给模型更多思考和输出空间
             )
             
             # 提取响应内容
@@ -142,12 +142,12 @@ class PracticeContentGenerator:
             
             print(f"📝 基于句子的练习题提示词长度: {len(chinese_prompt)} 字符")
             
-            # 使用OpenAI GPT-4o生成练习题
+            # 使用OpenAI GPT-4o生成练习题 (增加max_tokens提升成功率)
             response = self.openai_client.generate_content(
                 prompt=chinese_prompt,
-                model=AIModel.OPENAI_GPT4O,
+                model=AIModel.OPENAI_GPT4O_MINI,
                 temperature=0.7,
-                max_tokens=2000
+                max_tokens=5000  # 练习题需要更多空间：题目+选项+解析
             )
             
             # 提取响应内容
@@ -207,3 +207,5 @@ class PracticeContentGenerator:
         
         print(f"❌ 无法从响应中提取有效JSON")
         return None
+
+

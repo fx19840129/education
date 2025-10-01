@@ -235,9 +235,7 @@ class LearningContentGenerator:
             print(f"✅ 获取到 {len(syntax_points)} 个语法知识点")
         
         elif generator_type == "practice_sentences":
-            from generate_practice_sentences import PracticeSentencesGenerator
-            generator = PracticeSentencesGenerator()
-            generator.generate_and_display(plan, kwargs.get('days', 7))
+            print("⚠️ 旧的练习句子生成器已被移除，请使用新的 DailyContentGenerator")
         
         elif generator_type == "practice_exercises":
             from generate_practice_exercises import PracticeExercisesGenerator

@@ -9,8 +9,9 @@ from pathlib import Path
 from datetime import datetime
 from typing import Dict, List, Optional
 from docx import Document
-from docx.shared import Inches
-from docx.enum.text import WD_PARAGRAPH_ALIGNMENT
+from docx.shared import Inches, Pt
+from docx.enum.text import WD_PARAGRAPH_ALIGNMENT, WD_LINE_SPACING
+from docx.oxml.shared import OxmlElement, qn
 
 # 添加项目根目录到Python路径
 project_root = Path(__file__).parent.parent.parent.parent
@@ -22,6 +23,13 @@ class DocumentGenerator:
     
     def __init__(self):
         self.project_root = Path(__file__).parent.parent.parent.parent
+    
+    def _set_paragraph_spacing(self, paragraph):
+        """设置段落行间距为单倍行距"""
+        paragraph_format = paragraph.paragraph_format
+        paragraph_format.space_before = Pt(0)
+        paragraph_format.space_after = Pt(0)
+        paragraph_format.line_spacing_rule = WD_LINE_SPACING.SINGLE  # 设置为单倍行距
 
     def generate_word_document(self, content: Dict, filename: str = None) -> str:
         """生成Word文档"""
@@ -162,16 +170,21 @@ class DocumentGenerator:
         if learning_points:
             for point in learning_points:
                 doc.add_heading(f"{point.get('name', '词法规则')}", level=3)
-                doc.add_paragraph(f"类型: {point.get('type', 'N/A')}")
-                doc.add_paragraph(f"描述: {point.get('description', 'N/A')}")
+                type_p = doc.add_paragraph(f"类型: {point.get('type', 'N/A')}")
+                self._set_paragraph_spacing(type_p)
+                desc_p = doc.add_paragraph(f"描述: {point.get('description', 'N/A')}")
+                self._set_paragraph_spacing(desc_p)
                 
                 if point.get('rules'):
-                    doc.add_paragraph(f"规则: {point['rules']}")
+                    rules_p = doc.add_paragraph(f"规则: {point['rules']}")
+                    self._set_paragraph_spacing(rules_p)
                 
                 if point.get('examples'):
-                    doc.add_paragraph("例句:")
+                    examples_p = doc.add_paragraph("例句:")
+                    self._set_paragraph_spacing(examples_p)
                     for example in point['examples'][:3]:  # 最多显示3个例句
-                        doc.add_paragraph(f"  • {example}")
+                        example_p = doc.add_paragraph(f"  • {example}")
+                        self._set_paragraph_spacing(example_p)
 
     def _add_syntax_section(self, doc: Document, syntax: Dict) -> None:
         """添加句法部分"""
@@ -181,20 +194,28 @@ class DocumentGenerator:
         if learning_points:
             for point in learning_points:
                 doc.add_heading(f"{point.get('name', '句法规则')}", level=3)
-                doc.add_paragraph(f"类型: {point.get('type', 'N/A')}")
-                doc.add_paragraph(f"结构: {point.get('structure', 'N/A')}")
+                type_p = doc.add_paragraph(f"类型: {point.get('type', 'N/A')}")
+                self._set_paragraph_spacing(type_p)
+                struct_p = doc.add_paragraph(f"结构: {point.get('structure', 'N/A')}")
+                self._set_paragraph_spacing(struct_p)
                 
                 if point.get('description'):
-                    doc.add_paragraph(f"描述: {point['description']}")
+                    desc_p = doc.add_paragraph(f"描述: {point['description']}")
+                    self._set_paragraph_spacing(desc_p)
                 
                 if point.get('examples'):
-                    doc.add_paragraph("例句:")
+                    examples_p = doc.add_paragraph("例句:")
+                    self._set_paragraph_spacing(examples_p)
                     for example in point['examples'][:3]:  # 最多显示3个例句
-                        doc.add_paragraph(f"  • {example}")
+                        example_p = doc.add_paragraph(f"  • {example}")
+                        self._set_paragraph_spacing(example_p)
 
     def _add_practice_section(self, doc: Document, practice: Dict) -> None:
         """添加练习部分"""
         doc.add_heading('💪 练习部分', level=2)
+        
+        # 收集练习题答案，稍后单独输出
+        exercise_answers = []
         
         # 练习句子
         if 'practice_sentences' in practice:
@@ -204,14 +225,19 @@ class DocumentGenerator:
                 if sentences:
                     doc.add_heading('📝 练习句子', level=3)
                     for i, sentence in enumerate(sentences, 1):
-                        doc.add_paragraph(f"{i}. {sentence.get('sentence', '')}")
-                        doc.add_paragraph(f"   翻译: {sentence.get('translation', '')}")
-                        doc.add_paragraph(f"   词法规则: {sentence.get('morphology_rule', '')}")
-                        doc.add_paragraph(f"   句法结构: {sentence.get('syntactic_structure', '')}")
-                        doc.add_paragraph(f"   解析: {sentence.get('explanation', '')}")
-                        doc.add_paragraph("")  # 空行分隔
+                        p1 = doc.add_paragraph(f"{i}. {sentence.get('sentence', '')}")
+                        self._set_paragraph_spacing(p1)
+                        p2 = doc.add_paragraph(f"   翻译: {sentence.get('translation', '')}")
+                        self._set_paragraph_spacing(p2)
+                        p3 = doc.add_paragraph(f"   词法规则: {sentence.get('morphology_rule', '')}")
+                        self._set_paragraph_spacing(p3)
+                        p4 = doc.add_paragraph(f"   句法结构: {sentence.get('syntactic_structure', '')}")
+                        self._set_paragraph_spacing(p4)
+                        p5 = doc.add_paragraph(f"   解析: {sentence.get('explanation', '')}")
+                        self._set_paragraph_spacing(p5)
+                        # 去掉空行分隔
         
-        # 练习题
+        # 练习题（不显示答案）
         if 'practice_exercises' in practice:
             exercises_data = practice['practice_exercises']
             if isinstance(exercises_data, dict) and 'practice_exercises' in exercises_data:
@@ -222,24 +248,98 @@ class DocumentGenerator:
                         ex_id = exercise.get('id', '')
                         ex_type = exercise.get('type', '')
                         
-                        doc.add_paragraph(f"{ex_id}. [{ex_type}] {exercise.get('question', '')}")
+                        # 去掉题型标记[]
+                        question_p = doc.add_paragraph(f"{ex_id}. {exercise.get('question', '')}")
+                        self._set_paragraph_spacing(question_p)
+                        
+                        # 收集答案信息
+                        answer_info = {
+                            'id': ex_id,
+                            'type': ex_type,
+                            'question': exercise.get('question', ''),
+                            'answer': '',
+                            'explanation': exercise.get('explanation', '')
+                        }
                         
                         if ex_type == 'choice' and 'options' in exercise:
-                            for option in exercise['options']:
-                                doc.add_paragraph(f"   {option}")
-                            doc.add_paragraph(f"   正确答案: {exercise.get('correct_answer', '')}")
+                            # 为选择题添加A、B、C、D标题
+                            option_labels = ['A', 'B', 'C', 'D']
+                            for i, option in enumerate(exercise['options']):
+                                if i < len(option_labels):
+                                    option_p = doc.add_paragraph(f"   {option_labels[i]}. {option}")
+                                    self._set_paragraph_spacing(option_p)
+                            # 收集答案，不在题目中显示
+                            answer_info['answer'] = exercise.get('correct_answer', '')
                         
                         elif ex_type == 'translation':
-                            if 'chinese_text' in exercise:
-                                doc.add_paragraph(f"   中文: {exercise['chinese_text']}")
-                            if 'english_text' in exercise:
-                                doc.add_paragraph(f"   英文: {exercise['english_text']}")
+                            # 翻译题只显示题目内容，不显示答案
+                            # 根据题目描述判断翻译方向
+                            question = exercise.get('question', '').lower()
+                            if 'chinese_text' in exercise and 'english_text' in exercise:
+                                if '中文翻译成英文' in exercise.get('question', '') or 'chinese to english' in question:
+                                    # 中译英：显示中文，答案是英文
+                                    chinese_p = doc.add_paragraph(f"   中文: {exercise['chinese_text']}")
+                                    self._set_paragraph_spacing(chinese_p)
+                                    answer_info['answer'] = exercise.get('english_text', '')
+                                elif '英文翻译成中文' in exercise.get('question', '') or 'english to chinese' in question:
+                                    # 英译中：显示英文，答案是中文
+                                    english_p = doc.add_paragraph(f"   英文: {exercise['english_text']}")
+                                    self._set_paragraph_spacing(english_p)
+                                    answer_info['answer'] = exercise.get('chinese_text', '')
+                                else:
+                                    # 默认中译英
+                                    chinese_p = doc.add_paragraph(f"   中文: {exercise['chinese_text']}")
+                                    self._set_paragraph_spacing(chinese_p)
+                                    answer_info['answer'] = exercise.get('english_text', '')
+                            elif 'chinese_text' in exercise:
+                                chinese_p = doc.add_paragraph(f"   中文: {exercise['chinese_text']}")
+                                self._set_paragraph_spacing(chinese_p)
+                                answer_info['answer'] = exercise.get('english_text', '')
+                            elif 'english_text' in exercise:
+                                english_p = doc.add_paragraph(f"   英文: {exercise['english_text']}")
+                                self._set_paragraph_spacing(english_p)
+                                answer_info['answer'] = exercise.get('chinese_text', '')
                         
                         elif ex_type == 'fill_blank':
                             if 'sentence' in exercise:
-                                doc.add_paragraph(f"   句子: {exercise['sentence']}")
-                            if 'answer' in exercise:
-                                doc.add_paragraph(f"   答案: {exercise['answer']}")
+                                sentence_p = doc.add_paragraph(f"   句子: {exercise['sentence']}")
+                                self._set_paragraph_spacing(sentence_p)
+                            # 收集答案，不在题目中显示
+                            answer_info['answer'] = exercise.get('answer', '')
                         
-                        doc.add_paragraph(f"   解析: {exercise.get('explanation', '')}")
-                        doc.add_paragraph("")  # 空行分隔
+                        exercise_answers.append(answer_info)
+                        # 去掉空行分隔
+        
+        # 添加答案页（如果有练习题）
+        if exercise_answers:
+            self._add_answers_page(doc, exercise_answers)
+
+    def _add_answers_page(self, doc: Document, exercise_answers: List[Dict]) -> None:
+        """添加答案页"""
+        # 添加分页符
+        doc.add_page_break()
+        
+        # 添加答案页标题
+        doc.add_heading('📋 练习题答案', level=2)
+        
+        for answer_info in exercise_answers:
+            ex_id = answer_info['id']
+            ex_type = answer_info['type']
+            answer = answer_info['answer']
+            explanation = answer_info['explanation']
+            
+            # 题目编号（去掉题型标记[]）
+            id_p = doc.add_paragraph(f"{ex_id}.")
+            self._set_paragraph_spacing(id_p)
+            
+            # 答案
+            if answer:
+                answer_p = doc.add_paragraph(f"   答案: {answer}")
+                self._set_paragraph_spacing(answer_p)
+            
+            # 解析
+            if explanation:
+                explanation_p = doc.add_paragraph(f"   解析: {explanation}")
+                self._set_paragraph_spacing(explanation_p)
+            
+            # 去掉空行分隔

@@ -447,176 +447,6 @@ class EnglishLearningPromptGenerator:
         
         return learning_plan
     
-    def generate_practice_sentences_prompt(self, daily_words: Dict, daily_morphology: Dict, daily_syntax: Dict, stage: str, review_words: List[Dict] = None) -> str:
-        """
-        生成练习句子的AI提示词
-        
-        根据当日学习的单词、词法、句法内容，生成用于AI模型创建练习句子的提示词。
-        生成的练习句子会包含当日学习的目标单词、词法规则和句法结构。
-        
-        Args:
-            daily_words (Dict): 当日学习的单词内容，格式：
-                {
-                    "pos_content": {
-                        "noun": [{"word": "apple", "translation": "苹果", "difficulty": 3.0}, ...],
-                        "verb": [...],
-                        ...
-                    }
-                }
-            daily_morphology (Dict): 当日学习的词法内容，格式：
-                {
-                    "morphology_items": [
-                        {"name": "名词复数", "type": "词形变化", "description": "...", "rules": [...]},
-                        ...
-                    ]
-                }
-            daily_syntax (Dict): 当日学习的句法内容，格式：
-                {
-                    "syntax_items": [
-                        {"name": "主谓宾结构", "type": "句型", "structure": "S+V+O", "examples": [...]},
-                        ...
-                    ]
-                }
-            stage (str): 学习阶段名称
-            review_words (List[Dict]): 复习单词列表，可选
-            
-        Returns:
-            str: 用于生成练习句子的AI提示词，包含：
-            - 学习阶段信息
-            - 当日学习内容详情
-            - 练习句子生成要求
-            - 期望的JSON输出格式
-        """
-        # 收集新学单词信息
-        new_words_info = []
-        for pos, words in daily_words.get('pos_content', {}).items():
-            for word in words:
-                new_words_info.append({
-                    'word': word['word'],
-                    'pos': pos,
-                    'translation': word.get('translation', ''),
-                    'difficulty': word.get('difficulty', 3.0),
-                    'type': 'new'
-                })
-        
-        # 收集复习单词信息
-        review_words_info = []
-        if review_words:
-            for word in review_words:
-                review_words_info.append({
-                    'word': word['word'],
-                    'pos': word.get('part_of_speech', 'unknown'),
-                    'translation': word.get('definition', ''),
-                    'difficulty': word.get('difficulty', 3.0),
-                    'type': 'review'
-                })
-        
-        # 合并所有单词
-        all_words_info = new_words_info + review_words_info
-        
-        # 收集词法信息
-        morphology_info = []
-        # 支持两种数据结构：morphology_items 和 learning_points
-        morph_items = daily_morphology.get('morphology_items', []) or daily_morphology.get('learning_points', [])
-        for item in morph_items:
-            morphology_info.append({
-                'name': item.get('name', '未知词法'),
-                'type': item.get('type', item.get('category', 'unknown')),
-                'description': item.get('description', '词法描述'),
-                'rules': item.get('rules', item.get('examples', []))[:3]  # 只取前3个规则/例句
-            })
-        
-        # 收集句法信息
-        syntax_info = []
-        # 支持两种数据结构：syntax_items 和 learning_points
-        syntax_items = daily_syntax.get('syntax_items', []) or daily_syntax.get('learning_points', [])
-        for item in syntax_items:
-            syntax_info.append({
-                'name': item.get('name', '未知句法'),
-                'type': item.get('type', item.get('category', 'unknown')),
-                'description': item.get('description', '句法描述'),
-                'structure': item.get('structure', item.get('description', '')),
-                'examples': item.get('examples', [])[:2]  # 只取前2个例句
-            })
-        
-        # 构建新学单词和复习单词列表
-        new_words_list = [word['word'] for word in new_words_info]
-        review_words_list = [word['word'] for word in review_words_info] if review_words_info else []
-        
-        # 构建词法信息
-        morphology_content = ""
-        if morphology_info:
-            morphology_content = "\n### 今日词法重点：\n"
-            for morph in morphology_info:
-                morphology_content += f"- **{morph['name']}**: {morph['description']}\n"
-                if morph.get('rules'):
-                    morphology_content += f"  - 规则/例句: {'; '.join(morph['rules'][:3])}\n"
-        
-        # 构建句法信息
-        syntax_content = ""
-        if syntax_info:
-            syntax_content = "\n### 今日句法重点：\n"
-            for syntax in syntax_info:
-                syntax_content += f"- **{syntax['name']}**: {syntax['description']}\n"
-                if syntax.get('examples'):
-                    syntax_content += f"  - 例句: {'; '.join(syntax['examples'][:2])}\n"
-        
-        # 分段式提示词生成
-        prompt = f"""请作为一名英语教学专家，为小学中高年级学生（{stage}）生成一套包含 10个 练习句子。
-
-## 核心要求：
-
-### 强制包含新学单词：
-每个句子都必须包含至少一个今日新学单词。
-
-### 新学单词列表 (必须使用)：
-{new_words_list}
-
-### 新学单词是重点：
-至少80%的句子应以新学单词为主要目标词汇。
-
-### 包含所有复习单词：
-在生成的10个句子中，要 完全包含 所有的复习单词：{review_words_list}，每个复习单词至少在10个句子中的一个句子里出现。
-{morphology_content}{syntax_content}
-### 词汇和句法要求：
-- 句子必须体现上述词法规则的运用
-- 句子必须使用上述句法结构
-- 在explanation字段中说明具体运用了哪些词法和句法知识点
-
-### 难度级别：
-句子难度适合小学中高年级学生。
-
-## 输出格式：
-以JSON格式返回，结构如下：
-
-```json
-{{
-  "practice_sentences": [
-    {{
-      "sentence": "英文句子（必须包含新学单词）",
-      "translation": "中文翻译",
-      "morphology_rule": "词法规则描述",
-      "syntactic_structure": "句法结构",
-      "difficulty": 2.5,
-      "explanation": "句子解释，说明词汇和句法的运用"
-    }}
-  ]
-}}
-```
-
-## 句子数量：
-严格生成 **10个** 练习句子。
-
-## 任务目标：
-生成一套高质量的练习，既巩固了新学的核心词汇和短语，又将复习的单词巧妙地融入其中，同时符合小学生认知和学习的特点。
-
-## 请注意：
-- difficulty 值应根据句子复杂度、词汇量和句法结构进行合理评估。
-- 句子必须包含当日新学单词，并巧妙融入复习单词。
-
-只返回JSON，不要其他文字说明。"""
-        
-        return prompt
     
     def generate_practice_sentences_prompt_v2(self, daily_words: dict, daily_morphology: list, daily_syntax: list, stage: str, review_words: list = None) -> str:
         """
@@ -728,28 +558,44 @@ class EnglishLearningPromptGenerator:
         # 100%新学单词使用策略
         new_words_count = len(new_words_list)
         
-        prompt = f"""🎯 TASK: Create 10 practice sentences with 100% new vocabulary coverage.
+        # 计算复习单词要求
+        review_words_count = len(review_words_list)
+        target_review_coverage = max(int(review_words_count * 0.7), 1) if review_words_count > 0 else 0
+        target_sentences_with_review = max(int(10 * 0.4), 1) if review_words_count > 0 else 0
+        
+        prompt = f"""🎯 TASK: Create 10 practice sentences with 100% new vocabulary coverage AND 70%+ review word coverage.
 
 📋 NEW WORDS (MUST USE ALL): {new_words_list}
-📊 COVERAGE REQUIREMENT: All {new_words_count} new words MUST appear across the 10 sentences.
+📊 NEW WORDS REQUIREMENT: All {new_words_count} new words MUST appear across the 10 sentences.
 
-🔥 MANDATORY STRATEGY:
-Create sentences ensuring each new word appears at least once:
-- If 10 new words: 1 word per sentence
-- If fewer than 10: some words appear multiple times  
-- If more than 10: multiple words per sentence
+📖 REVIEW WORDS (MUST USE 70%+): {review_words_list}
+📊 REVIEW WORDS REQUIREMENT: At least {target_review_coverage}/{review_words_count} review words MUST be used across sentences.
+📊 SENTENCE DISTRIBUTION: At least {target_sentences_with_review}/10 sentences MUST contain review words.
 
-💡 ADDITIONAL REQUIREMENTS:
-- Include review words when possible: {review_words_list}
+🔥 MANDATORY DUAL STRATEGY:
+1. NEW WORDS: Ensure each new word appears at least once:
+   - If 10 new words: 1 word per sentence
+   - If fewer than 10: some words appear multiple times  
+   - If more than 10: multiple words per sentence
+
+2. REVIEW WORDS: Strategically distribute review words:
+   - Prioritize natural integration with new vocabulary
+   - Aim for {target_sentences_with_review}+ sentences containing review words
+   - Use high-frequency review words first
+   - Combine review words with new words in meaningful contexts
+
+💡 INTEGRATION REQUIREMENTS:
 - Level: Elementary ({stage})
 - Grammar focus: 
 {morphology_content}{syntax_content}
+- Natural sentence flow combining new and review vocabulary
+- Contextually appropriate usage of both word types
 
 📝 JSON OUTPUT FORMAT:
 {{
   "practice_sentences": [
     {{
-      "sentence": "[English sentence with assigned new word]",
+      "sentence": "[English sentence with new word + review word when possible]",
       "translation": "[Chinese translation]",
       "morphology_rule": "[Grammar rule description]",
       "syntactic_structure": "[Sentence structure]",
@@ -759,13 +605,19 @@ Create sentences ensuring each new word appears at least once:
   ]
 }}
 
-🚨 VERIFICATION CHECKLIST:
+🚨 ENHANCED VERIFICATION CHECKLIST:
 □ All {new_words_count} new words used? 
+□ At least {target_review_coverage}/{review_words_count} review words used?
+□ At least {target_sentences_with_review}/10 sentences contain review words?
 □ Each sentence contains at least one new word?
+□ Review words naturally integrated with new words?
 □ Exactly 10 sentences generated?
 □ JSON format correct?
 
-⚠️ CRITICAL: Every new word from the list MUST appear in at least one sentence.
+⚠️ CRITICAL DUAL REQUIREMENTS:
+1. Every new word from the list MUST appear in at least one sentence.
+2. At least 70% of review words MUST be used across all sentences.
+3. At least 40% of sentences MUST contain review words.
 
 RETURN ONLY JSON - NO OTHER TEXT"""
         
@@ -864,7 +716,7 @@ RETURN ONLY JSON - NO OTHER TEXT"""
         
         使用示例：
             # 先生成中文提示词
-            chinese_prompt = generator.generate_practice_sentences_prompt(...)
+            chinese_prompt = generator.generate_practice_sentences_prompt_v2(...)
             # 再翻译为英文
             english_prompt = generator.translate_prompt_to_english(chinese_prompt)
             
@@ -1109,7 +961,6 @@ VERIFICATION CHECKLIST:
 RETURN ONLY THE JSON - NO OTHER TEXT"""
         
         return prompt
-    
     
 
 def main():

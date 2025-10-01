@@ -1,0 +1,474 @@
+{
+  "day": 2,
+  "date": "2025-10-02",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "beef",
+          "part_of_speech": "noun",
+          "definition": "牛肉",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "Monday",
+          "part_of_speech": "noun",
+          "definition": "星期一",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "pot",
+          "part_of_speech": "noun",
+          "definition": "锅；碗；瓢；盆",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "egg",
+          "part_of_speech": "noun",
+          "definition": "蛋",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "noon",
+          "part_of_speech": "noun",
+          "definition": "中午",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "help",
+          "part_of_speech": "verb/noun",
+          "definition": "帮助",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "actress",
+          "part_of_speech": "noun",
+          "definition": "女演员",
+          "difficulty_level": "elementary"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "there",
+          "part_of_speech": "adverb",
+          "definition": "哪儿;那里",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "straight",
+          "part_of_speech": "adjective/adverb",
+          "definition": "成直线地",
+          "difficulty_level": "elementary"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "bye",
+          "part_of_speech": "interjection",
+          "definition": "再见",
+          "difficulty_level": "elementary"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "country",
+        "definition": "country的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-08",
+        "review_interval": 1,
+        "retention_rate": 0.79,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "shelf",
+        "definition": "shelf的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-16",
+        "review_interval": 4,
+        "retention_rate": 0.74,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "sorry",
+        "definition": "sorry的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-21",
+        "review_interval": 12,
+        "retention_rate": 0.84,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "river",
+        "definition": "river的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-10",
+        "review_interval": 2,
+        "retention_rate": 0.79,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "right",
+        "definition": "right的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-09",
+        "review_interval": 8,
+        "retention_rate": 0.76,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "when",
+        "definition": "when的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-07",
+        "review_interval": 3,
+        "retention_rate": 0.87,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "cousin",
+        "definition": "cousin的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-15",
+        "review_interval": 3,
+        "retention_rate": 0.87,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "violin",
+        "definition": "violin的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-15",
+        "review_interval": 14,
+        "retention_rate": 0.89,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "stamps",
+        "definition": "stamps的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-13",
+        "review_interval": 11,
+        "retention_rate": 0.83,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "skating",
+        "definition": "skating的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-05",
+        "review_interval": 2,
+        "retention_rate": 0.73,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "name": "名词 (Noun)",
+        "type": "词性",
+        "description": "表示人、事物、地点、概念等。",
+        "rules": "表示人、事物、地点、概念等。",
+        "examples": [
+          "识别常见名词（如：apple, book, cat, school, teacher）。",
+          "区分可数名词与不可数名词（初步）。",
+          "学习名词的单数形式。"
+        ]
+      },
+      {
+        "name": "动词 (Verb)",
+        "type": "词性",
+        "description": "表示动作或状态。",
+        "rules": "表示动作或状态。",
+        "examples": [
+          "学习一般现在时（Present Simple）的动词原形和第三人称单数形式（加-s）。",
+          "识别常见情态动词（can, may - 初步）。",
+          "识别 be 动词（am, is, are）的不同形式。"
+        ]
+      }
+    ],
+    "stage": "小学",
+    "day": 2,
+    "total_available": 13
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "name": "Is/Am/Are...?",
+        "type": "句型模式",
+        "description": "一般疑问句 (Yes/No Question) - 询问状态/身份（be 动词）。",
+        "structure": "一般疑问句 (Yes/No Question) - 询问状态/身份（be 动词）。",
+        "examples": [
+          "Is she your friend?"
+        ]
+      },
+      {
+        "name": "主谓双宾结构 (Subject-Verb-Indirect Object-Direct Object)",
+        "type": "句法结构",
+        "description": "动词后跟两个宾语。",
+        "structure": "动词后跟两个宾语。",
+        "examples": [
+          "He gave me a pen.",
+          "He gave a pen to me."
+        ]
+      }
+    ],
+    "stage": "小学",
+    "day": 2,
+    "total_available": 16
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "On Monday, my cousin cooked beef in a big pot.",
+          "translation": "星期一，我的表弟在一个大锅里煮牛肉。",
+          "morphology_rule": "使用一般现在时，动词形式不变。",
+          "syntactic_structure": "主语 + 谓语 + 宾语 + 地点状语",
+          "difficulty": 2.5,
+          "explanation": "星期一是一个时间状语，牛肉是可数名词，锅是可数名词。"
+        },
+        {
+          "sentence": "There is an actress who plays the violin beautifully.",
+          "translation": "有一位女演员演奏小提琴非常美妙。",
+          "morphology_rule": "使用一般现在时，be动词用于描述状态。",
+          "syntactic_structure": "There is + 主语 + 谓语 + 补语",
+          "difficulty": 2.5,
+          "explanation": "女演员是名词，表示一个人，小提琴是可数名词。"
+        },
+        {
+          "sentence": "At noon, I will help my cousin with his stamps.",
+          "translation": "中午时，我会帮我的表弟处理他的邮票。",
+          "morphology_rule": "使用一般现在时，will用于表示将来时。",
+          "syntactic_structure": "时间状语 + 主语 + 谓语 + 宾语",
+          "difficulty": 2.5,
+          "explanation": "邮票是可数名词，帮助是动词，表示动作。"
+        },
+        {
+          "sentence": "I saw an actress skating straight down the river.",
+          "translation": "我看到一位女演员在河边直直地滑冰。",
+          "morphology_rule": "使用一般过去时，动词变化为过去式。",
+          "syntactic_structure": "主语 + 谓语 + 宾语 + 状语",
+          "difficulty": 2.5,
+          "explanation": "滑冰是一个动词，河是一个可数名词，状态描述使用过去时。"
+        },
+        {
+          "sentence": "I have an egg on the shelf next to the beef.",
+          "translation": "我在牛肉旁边的架子上有一个鸡蛋。",
+          "morphology_rule": "have用于表示拥有，结构简单。",
+          "syntactic_structure": "主语 + 谓语 + 宾语 + 地点状语",
+          "difficulty": 2.5,
+          "explanation": "鸡蛋是可数名词，架子也是可数名词，牛肉是不可数名词。"
+        },
+        {
+          "sentence": "When I say bye, I feel sorry for leaving.",
+          "translation": "当我说再见时，我为离开感到抱歉。",
+          "morphology_rule": "使用一般现在时，动词形式不变。",
+          "syntactic_structure": "时间状语 + 主语 + 谓语 + 补语",
+          "difficulty": 2.5,
+          "explanation": "再见是一个常见表达，抱歉是形容词，表示情感。"
+        },
+        {
+          "sentence": "The beef stew will be ready at noon.",
+          "translation": "牛肉炖菜将在中午时做好。",
+          "morphology_rule": "使用将来时，be动词用于描述状态。",
+          "syntactic_structure": "主语 + 谓语 + 补语 + 时间状语",
+          "difficulty": 2.5,
+          "explanation": "牛肉是不可数名词，炖菜是名词，描述将来的状态。"
+        },
+        {
+          "sentence": "I will go straight to the river after school.",
+          "translation": "放学后，我会直接去河边。",
+          "morphology_rule": "使用将来时，结构简单。",
+          "syntactic_structure": "主语 + 谓语 + 状语",
+          "difficulty": 2.5,
+          "explanation": "河是可数名词，直接是副词，表示方向。"
+        },
+        {
+          "sentence": "My cousin loves to skate and play the violin.",
+          "translation": "我的表弟喜欢滑冰和演奏小提琴。",
+          "morphology_rule": "使用一般现在时，动词形式不变。",
+          "syntactic_structure": "主语 + 谓语 + 宾语",
+          "difficulty": 2.5,
+          "explanation": "滑冰和小提琴都是名词，表示爱好。"
+        },
+        {
+          "sentence": "The actress waved goodbye after her performance.",
+          "translation": "女演员在她的表演后挥手再见。",
+          "morphology_rule": "使用一般过去时，动词变化为过去式。",
+          "syntactic_structure": "主语 + 谓语 + 状语",
+          "difficulty": 2.5,
+          "explanation": "挥手再见是一个常见表达，表演是名词，表示事件。"
+        }
+      ],
+      "generated_at": "2025-10-01T21:26:53.478813",
+      "generation_method": "openai_gpt4o_100_coverage"
+    },
+    "practice_exercises": {
+      "practice_exercises": [
+        {
+          "id": 1,
+          "type": "choice",
+          "question": "在星期一，我的表弟做了什么？",
+          "options": [
+            "鸡肉",
+            "牛肉",
+            "鱼",
+            "蔬菜"
+          ],
+          "correct_answer": "牛肉",
+          "morphology_rule": "动词过去式",
+          "syntactic_structure": "主语 + 动词 + 宾语",
+          "difficulty": 2.5,
+          "explanation": "根据句子内容选择正确的食物。"
+        },
+        {
+          "id": 2,
+          "type": "choice",
+          "question": "谁在演奏小提琴？",
+          "options": [
+            "我的表弟",
+            "一位女演员",
+            "一位歌手",
+            "一位老师"
+          ],
+          "correct_answer": "一位女演员",
+          "morphology_rule": "名词短语",
+          "syntactic_structure": "主语 + 动词 + 宾语",
+          "difficulty": 2.5,
+          "explanation": "根据句子内容选择正确的角色。"
+        },
+        {
+          "id": 3,
+          "type": "choice",
+          "question": "我将在中午做什么？",
+          "options": [
+            "吃午饭",
+            "帮助我的表弟",
+            "滑冰",
+            "看电影"
+          ],
+          "correct_answer": "帮助我的表弟",
+          "morphology_rule": "将来时",
+          "syntactic_structure": "主语 + will + 动词",
+          "difficulty": 2.5,
+          "explanation": "根据句子内容选择正确的活动。"
+        },
+        {
+          "id": 4,
+          "type": "choice",
+          "question": "牛肉炖汤什么时候准备好？",
+          "options": [
+            "早上",
+            "中午",
+            "晚上",
+            "下午"
+          ],
+          "correct_answer": "中午",
+          "morphology_rule": "时间状语",
+          "syntactic_structure": "主语 + 动词 + 时间状语",
+          "difficulty": 2.5,
+          "explanation": "根据句子内容选择正确的时间。"
+        },
+        {
+          "id": 5,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "我在架子上有一个鸡蛋。",
+          "english_text": "I have an egg on the shelf.",
+          "morphology_rule": "名词短语",
+          "syntactic_structure": "主语 + 动词 + 宾语",
+          "difficulty": 2.5,
+          "explanation": "翻译简单的句子结构。"
+        },
+        {
+          "id": 6,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "她在表演后挥手告别。",
+          "english_text": "The actress waved goodbye after her performance.",
+          "morphology_rule": "动词过去式",
+          "syntactic_structure": "主语 + 动词 + 宾语",
+          "difficulty": 2.5,
+          "explanation": "翻译包含动作的句子。"
+        },
+        {
+          "id": 7,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "我看到一位女演员在河上滑冰。",
+          "english_text": "I saw an actress skating straight down the river.",
+          "morphology_rule": "动词过去式",
+          "syntactic_structure": "主语 + 动词 + 宾语",
+          "difficulty": 2.5,
+          "explanation": "翻译描述某个场景的句子。"
+        },
+        {
+          "id": 8,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "在学校后我会直接去河边。",
+          "english_text": "I will go straight to the river after school.",
+          "morphology_rule": "将来时",
+          "syntactic_structure": "主语 + will + 动词",
+          "difficulty": 2.5,
+          "explanation": "翻译描述未来计划的句子。"
+        },
+        {
+          "id": 9,
+          "type": "fill_blank",
+          "question": "请填入适当的单词",
+          "sentence": "当我说___，我感到很遗憾。",
+          "answer": "再见",
+          "morphology_rule": "名词",
+          "syntactic_structure": "主语 + 动词 + 宾语",
+          "difficulty": 2.5,
+          "explanation": "根据句子逻辑填入合适的词。"
+        },
+        {
+          "id": 10,
+          "type": "fill_blank",
+          "question": "我表弟喜欢滑冰和弹___。",
+          "sentence": "小提琴",
+          "answer": "小提琴",
+          "morphology_rule": "名词",
+          "syntactic_structure": "主语 + 动词 + 宾语",
+          "difficulty": 2.5,
+          "explanation": "根据句子内容填入合适的词。"
+        }
+      ],
+      "generated_at": "2025-10-01T21:27:11.202843",
+      "generation_method": "openai_gpt4o_from_sentences"
+    },
+    "generated_at": "2025-10-01T21:27:11.202872",
+    "generation_strategy": "sentences_first_exercises_follow"
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T21:27:11.202927",
+  "generation_attempt": 1,
+  "plan_id": "unknown"
+}
