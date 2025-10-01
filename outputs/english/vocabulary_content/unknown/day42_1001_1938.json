@@ -1,0 +1,412 @@
+{
+  "day": 42,
+  "date": "2025-11-11",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [],
+      "connectors_relational": [],
+      "auxiliary_supplemental": []
+    },
+    "review_words": [
+      {
+        "word": "ate",
+        "definition": "ate的定义",
+        "part_of_speech": "noun",
+        "review_day": 42,
+        "last_reviewed": "2025-09-20",
+        "review_interval": 6,
+        "retention_rate": 0.76,
+        "fsrs_due": true,
+        "days_since_learned": 19
+      },
+      {
+        "word": "singer",
+        "definition": "singer的定义",
+        "part_of_speech": "noun",
+        "review_day": 42,
+        "last_reviewed": "2025-09-14",
+        "review_interval": 5,
+        "retention_rate": 0.84,
+        "fsrs_due": true,
+        "days_since_learned": 14
+      },
+      {
+        "word": "bye",
+        "definition": "bye的定义",
+        "part_of_speech": "noun",
+        "review_day": 42,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 7,
+        "retention_rate": 0.78,
+        "fsrs_due": true,
+        "days_since_learned": 14
+      },
+      {
+        "word": "find",
+        "definition": "find的定义",
+        "part_of_speech": "noun",
+        "review_day": 42,
+        "last_reviewed": "2025-09-01",
+        "review_interval": 14,
+        "retention_rate": 0.89,
+        "fsrs_due": true,
+        "days_since_learned": 38
+      },
+      {
+        "word": "Sun.",
+        "definition": "Sun.的定义",
+        "part_of_speech": "noun",
+        "review_day": 42,
+        "last_reviewed": "2025-09-22",
+        "review_interval": 5,
+        "retention_rate": 0.79,
+        "fsrs_due": true,
+        "days_since_learned": 19
+      },
+      {
+        "word": "class",
+        "definition": "class的定义",
+        "part_of_speech": "noun",
+        "review_day": 42,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 5,
+        "retention_rate": 0.87,
+        "fsrs_due": true,
+        "days_since_learned": 29
+      },
+      {
+        "word": "hen",
+        "definition": "hen的定义",
+        "part_of_speech": "noun",
+        "review_day": 42,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 15,
+        "retention_rate": 0.84,
+        "fsrs_due": true,
+        "days_since_learned": 12
+      },
+      {
+        "word": "kites",
+        "definition": "kites的定义",
+        "part_of_speech": "noun",
+        "review_day": 42,
+        "last_reviewed": "2025-09-22",
+        "review_interval": 3,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 28
+      },
+      {
+        "word": "just a minute",
+        "definition": "just a minute的定义",
+        "part_of_speech": "noun",
+        "review_day": 42,
+        "last_reviewed": "2025-09-25",
+        "review_interval": 4,
+        "retention_rate": 0.74,
+        "fsrs_due": true,
+        "days_since_learned": 3
+      },
+      {
+        "word": "teaches",
+        "definition": "teaches的定义",
+        "part_of_speech": "noun",
+        "review_day": 42,
+        "last_reviewed": "2025-09-21",
+        "review_interval": 14,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 31
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "name": "形容词 (Adjective)",
+        "type": "词性",
+        "description": "修饰名词，表示性质或特征。",
+        "rules": "形容词修饰名词",
+        "examples": [
+          "big",
+          "red",
+          "happy"
+        ]
+      },
+      {
+        "name": "名词 (Noun)",
+        "type": "词性",
+        "description": "表示人、事物、地点、概念等。",
+        "rules": "识别常见名词",
+        "examples": [
+          "apple",
+          "book",
+          "cat"
+        ]
+      }
+    ],
+    "total_points": 2,
+    "difficulty": "elementary",
+    "learning_day": 42
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "name": "疑问句 (Questions)",
+        "type": "句法结构",
+        "structure": "Wh-questions",
+        "description": "特殊疑问句",
+        "examples": [
+          "What is this?",
+          "Where are you?"
+        ]
+      },
+      {
+        "name": "基本语序 (Basic Word Order)",
+        "type": "句法结构",
+        "structure": "SVO",
+        "description": "主语-谓语-宾语",
+        "examples": [
+          "I eat apples.",
+          "She reads books."
+        ]
+      }
+    ],
+    "total_points": 2,
+    "difficulty": "elementary",
+    "learning_day": 42
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "The singer ate an apple.",
+          "translation": "歌手吃了一个苹果。",
+          "morphology_rule": "名词 (Noun)",
+          "syntactic_structure": "主语-谓语-宾语",
+          "difficulty": 2.5,
+          "explanation": "名词'singer'表示人，名词'apple'表示物品。"
+        },
+        {
+          "sentence": "What color is the kite?",
+          "translation": "风筝是什么颜色的？",
+          "morphology_rule": "名词 (Noun)",
+          "syntactic_structure": "疑问句",
+          "difficulty": 2.5,
+          "explanation": "名词'kite'表示事物，疑问句询问颜色。"
+        },
+        {
+          "sentence": "The hen teaches its chicks.",
+          "translation": "母鸡教小鸡。",
+          "morphology_rule": "动词 (Verb)",
+          "syntactic_structure": "主语-谓语-宾语",
+          "difficulty": 2.5,
+          "explanation": "动词'teaches'描述动作，名词'hen'和'chicks'表示动物。"
+        },
+        {
+          "sentence": "Where is the class today?",
+          "translation": "今天的课在哪里？",
+          "morphology_rule": "名词 (Noun)",
+          "syntactic_structure": "疑问句",
+          "difficulty": 2.5,
+          "explanation": "名词'class'表示课程，疑问句询问地点。"
+        },
+        {
+          "sentence": "He will find the book.",
+          "translation": "他会找到那本书。",
+          "morphology_rule": "动词 (Verb)",
+          "syntactic_structure": "主语-谓语-宾语",
+          "difficulty": 2.5,
+          "explanation": "动词'find'描述动作，名词'book'表示物品。"
+        },
+        {
+          "sentence": "Bye! See you on Sun.",
+          "translation": "再见！星期天见。",
+          "morphology_rule": "名词 (Noun)",
+          "syntactic_structure": "主语-谓语",
+          "difficulty": 2.5,
+          "explanation": "名词'Sun.'表示星期日，常用于告别。"
+        },
+        {
+          "sentence": "Just a minute, I need to prepare.",
+          "translation": "稍等，我需要准备一下。",
+          "morphology_rule": "名词 (Noun)",
+          "syntactic_structure": "主语-谓语",
+          "difficulty": 2.5,
+          "explanation": "短语'just a minute'表示请求稍等。"
+        },
+        {
+          "sentence": "The sky is blue and clear.",
+          "translation": "天空是蓝色且清澈的。",
+          "morphology_rule": "形容词 (Adjective)",
+          "syntactic_structure": "主语-系动词-表语",
+          "difficulty": 2.5,
+          "explanation": "形容词'blue'和'clear'描述天空的特征。"
+        },
+        {
+          "sentence": "He teaches math every day.",
+          "translation": "他每天教数学。",
+          "morphology_rule": "动词 (Verb)",
+          "syntactic_structure": "主语-谓语-宾语",
+          "difficulty": 2.5,
+          "explanation": "动词'teaches'描述经常性动作，名词'math'表示学科。"
+        },
+        {
+          "sentence": "The kites are flying high.",
+          "translation": "风筝飞得很高。",
+          "morphology_rule": "动词 (Verb)",
+          "syntactic_structure": "主语-谓语-状语",
+          "difficulty": 2.5,
+          "explanation": "动词'are flying'描述正在进行的动作，名词'kites'表示事物。"
+        }
+      ],
+      "generated_at": "2025-10-01T19:38:31.014265",
+      "generation_method": "openai_gpt4o_100_coverage"
+    },
+    "practice_exercises": {
+      "practice_exercises": [
+        {
+          "id": 1,
+          "type": "choice",
+          "question": "What fruit did the singer eat?",
+          "options": [
+            "An orange",
+            "An apple",
+            "A banana",
+            "A grape"
+          ],
+          "correct_answer": "An apple",
+          "morphology_rule": "名词的单复数和冠词的使用",
+          "syntactic_structure": "主语 + 动词 + 宾语",
+          "difficulty": 2.5,
+          "explanation": "根据句子结构，名词 'apple' 需要与冠词 'an' 搭配使用。"
+        },
+        {
+          "id": 2,
+          "type": "choice",
+          "question": "What does the hen do?",
+          "options": [
+            "It flies",
+            "It swims",
+            "It teaches",
+            "It sings"
+          ],
+          "correct_answer": "It teaches",
+          "morphology_rule": "动词的使用",
+          "syntactic_structure": "主语 + 动词 + 宾语",
+          "difficulty": 2.5,
+          "explanation": "句子中描述母鸡正在做的事情，动词 'teaches' 表示教导。"
+        },
+        {
+          "id": 3,
+          "type": "choice",
+          "question": "What color is the sky?",
+          "options": [
+            "Red",
+            "Blue",
+            "Green",
+            "Yellow"
+          ],
+          "correct_answer": "Blue",
+          "morphology_rule": "形容词的使用",
+          "syntactic_structure": "名词 + 系动词 + 形容词",
+          "difficulty": 2.5,
+          "explanation": "形容词 'blue' 用来描述天空的颜色。"
+        },
+        {
+          "id": 4,
+          "type": "choice",
+          "question": "When will he find the book?",
+          "options": [
+            "Tomorrow",
+            "Today",
+            "Next week",
+            "Yesterday"
+          ],
+          "correct_answer": "Tomorrow",
+          "morphology_rule": "动词时态的使用",
+          "syntactic_structure": "主语 + 助动词 + 动词原形 + 宾语",
+          "difficulty": 2.5,
+          "explanation": "句子使用将来时态，表示未来找到书的时间。"
+        },
+        {
+          "id": 5,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "风筝飞得很高。",
+          "english_text": "The kites are flying high.",
+          "morphology_rule": "动词的进行时态",
+          "syntactic_structure": "主语 + be动词 + 现在分词",
+          "difficulty": 2.5,
+          "explanation": "句子使用现在进行时态，描述动作正在进行。"
+        },
+        {
+          "id": 6,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "再见！周日见。",
+          "english_text": "Bye! See you on Sun.",
+          "morphology_rule": "简洁用语和缩写",
+          "syntactic_structure": "问候语 + 时间表达",
+          "difficulty": 2.5,
+          "explanation": "使用简洁的问候语和时间表达方式。"
+        },
+        {
+          "id": 7,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "他每天都教数学。",
+          "english_text": "He teaches math every day.",
+          "morphology_rule": "动词的第三人称单数形式",
+          "syntactic_structure": "主语 + 动词 + 宾语 + 时间状语",
+          "difficulty": 2.5,
+          "explanation": "动词 'teaches' 需要加 'es' 因为主语是第三人称单数。"
+        },
+        {
+          "id": 8,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "今天的课在哪里？",
+          "english_text": "Where is the class today?",
+          "morphology_rule": "疑问词的使用",
+          "syntactic_structure": "疑问词 + 系动词 + 主语 + 时间状语",
+          "difficulty": 2.5,
+          "explanation": "使用疑问词 'where' 来询问地点。"
+        },
+        {
+          "id": 9,
+          "type": "fill_blank",
+          "question": "请填入适当的单词",
+          "sentence": "The sky is ___ and clear.",
+          "answer": "blue",
+          "morphology_rule": "形容词的使用",
+          "syntactic_structure": "主语 + 系动词 + 形容词 + 连词 + 形容词",
+          "difficulty": 2.5,
+          "explanation": "形容词 'blue' 用于描述天空的颜色。"
+        },
+        {
+          "id": 10,
+          "type": "fill_blank",
+          "question": "请填入适当的单词",
+          "sentence": "Just a minute, I need to ___.",
+          "answer": "prepare",
+          "morphology_rule": "动词不定式的使用",
+          "syntactic_structure": "短语 + 句子",
+          "difficulty": 2.5,
+          "explanation": "动词不定式 'to prepare' 表示需要准备。"
+        }
+      ],
+      "generated_at": "2025-10-01T19:38:42.658900",
+      "generation_method": "openai_gpt4o_from_sentences"
+    },
+    "generated_at": "2025-10-01T19:38:42.658931",
+    "generation_strategy": "sentences_first_exercises_follow"
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T19:38:42.658982",
+  "generation_attempt": 1,
+  "plan_id": "unknown"
+}

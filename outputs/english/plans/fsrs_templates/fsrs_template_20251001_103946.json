@@ -1,0 +1,122 @@
+{
+  "id": "20251001_103946",
+  "type": "fsrs_learning_template",
+  "metadata": {
+    "stage": "第二阶段：小学初中过渡 (小学高年级 - 初一)",
+    "days": 25,
+    "minutes_per_day": 25,
+    "ai_model": "GLM-GLM-4.5",
+    "generated_at": "2025-10-01T10:39:46.433994",
+    "ai_response_time": 48.65569090843201,
+    "ai_usage": {
+      "completion_tokens": 5777,
+      "prompt_tokens": 1673,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "total_tokens": 7450
+    },
+    "retry_count": 1
+  },
+  "fsrs_template": {
+    "scheduler_config": {
+      "parameters": [
+        1.0,
+        1.0,
+        5.0,
+        -0.5,
+        -0.5,
+        0.2,
+        0.8,
+        2.0,
+        -0.5,
+        0.2,
+        0.8,
+        -0.15,
+        0.15,
+        3.0,
+        -15.0,
+        5.0,
+        2.0,
+        0.15,
+        0.3,
+        1.4,
+        1.6
+      ],
+      "desired_retention": 0.9,
+      "learning_steps": [
+        1,
+        10
+      ],
+      "relearning_steps": [
+        10
+      ],
+      "maximum_interval": 694,
+      "enable_fuzzing": true
+    },
+    "cards": [],
+    "learning_plan_metadata": {
+      "total_study_days": 25,
+      "daily_learning_minutes_target": 25,
+      "total_words": 3294,
+      "estimated_avg_word_rotations_per_cycle": 4.0,
+      "learning_efficiency_estimate": 1.0,
+      "review_efficiency_estimate": 0.6,
+      "morphology_practice_time_estimate": 4,
+      "syntax_practice_time_estimate": 8,
+      "stage": "第二阶段：小学初中过渡 (小学高年级 - 初一)"
+    },
+    "daily_targets": {
+      "avg_new_words_per_day": 10,
+      "avg_review_words_per_day": 10,
+      "avg_new_morphology_units_per_day": 1,
+      "avg_review_morphology_units_per_day": 1,
+      "avg_new_syntax_units_per_day": 1,
+      "avg_review_syntax_units_per_day": 1,
+      "morphology_rotations_per_day": 1.834,
+      "syntax_rotations_per_day": 1.4505,
+      "new_word_first_review_interval_days": 0.35,
+      "morphology_first_review_interval_days": 0.315,
+      "syntax_first_review_interval_days": 0.3675,
+      "default_ease": 1.9,
+      "suggested_morphology_practice_minutes": 0,
+      "suggested_syntax_practice_minutes": 0,
+      "time_allocation_minutes": {
+        "new_words": 10,
+        "review_words": 6,
+        "morphology_practice": 4,
+        "syntax_practice": 5
+      }
+    },
+    "word_categories": {
+      "core_functional_percentage": 89.51,
+      "connectors_relational_percentage": 7.79,
+      "auxiliary_supplemental_percentage": 2.7
+    },
+    "card_template": {
+      "id": "PLACEHOLDER_ID",
+      "text": "PLACEHOLDER_TEXT",
+      "category": "core_functional",
+      "part_of_speech": "noun",
+      "due": "2024-01-01T00:00:00Z",
+      "stability": 1.0,
+      "difficulty": 5.0,
+      "elapsed_days": 0,
+      "scheduled_days": 1440,
+      "reps": 0,
+      "lapses": 0,
+      "state": 1,
+      "last_review": null,
+      "review_logs": []
+    },
+    "review_rating_guide": {
+      "1": "Forgot completely",
+      "2": "Forgot but remembered after hint",
+      "3": "Remembered with difficulty",
+      "4": "Remembered easily"
+    },
+    "implementation_notes": "For high-intensity 1:1 ratio, shorten intervals by 10%; cap reviews at new words; allocate morphology/syntax evenly with 2.0 rotations/day; trim practice first if time overflows.",
+    "generated_at": "2023-11-01T00:00:00Z",
+    "format_version": "1.0"
+  }
+}

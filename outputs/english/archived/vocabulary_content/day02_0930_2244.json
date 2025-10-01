@@ -1,0 +1,312 @@
+{
+  "day": 2,
+  "date": "2025-10-01",
+  "plan_id": "20250930_214712",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "knife",
+          "definition": "刀",
+          "part_of_speech": "noun",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "sang",
+          "definition": "唱（过去式）",
+          "part_of_speech": "verb",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "dear",
+          "definition": "亲爱的/亲爱的称呼",
+          "part_of_speech": "adjective/noun",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "stream",
+          "definition": "（小）河；（小）溪",
+          "part_of_speech": "noun",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "grandmother",
+          "definition": "外祖母",
+          "part_of_speech": "noun",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "cloudy",
+          "definition": "多云的",
+          "part_of_speech": "adjective",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "danced",
+          "definition": "跳舞（过去式）",
+          "part_of_speech": "verb",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "down",
+          "definition": "从高到低；向下",
+          "part_of_speech": "adverb/preposition",
+          "learning_day": 2,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "how much",
+          "definition": "多少",
+          "part_of_speech": "phrase",
+          "learning_day": 2,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "P.E. class",
+          "definition": "体育课",
+          "part_of_speech": "phrase",
+          "learning_day": 2,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "how much",
+        "definition": "how much的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.71,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "giraffe",
+        "definition": "giraffe的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 1,
+        "retention_rate": 0.8,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "cloudy",
+        "definition": "cloudy的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 1,
+        "retention_rate": 0.92,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "sure",
+        "definition": "sure的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.79,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "grandmother",
+        "definition": "grandmother的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.83,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "yesterday",
+        "definition": "yesterday的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.9,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "sang",
+        "definition": "sang的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.84,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "floor",
+        "definition": "floor的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 1,
+        "retention_rate": 0.85,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "come out",
+        "definition": "come out的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.91,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "danced",
+        "definition": "danced的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "morphology_2_1",
+        "name": "名词复数形式",
+        "category": "词形变化",
+        "description": "学习名词的复数变化规则",
+        "examples": [
+          "book → books",
+          "child → children",
+          "mouse → mice"
+        ],
+        "difficulty": "easy",
+        "learning_day": 2
+      },
+      {
+        "id": "morphology_2_2",
+        "name": "动词过去式",
+        "category": "时态变化",
+        "description": "学习规则和不规则动词的过去式",
+        "examples": [
+          "walk → walked",
+          "go → went",
+          "see → saw"
+        ],
+        "difficulty": "medium",
+        "learning_day": 2
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "syntax_2_1",
+        "name": "简单句结构",
+        "category": "句子结构",
+        "description": "学习主语+谓语+宾语的基本句子结构",
+        "examples": [
+          "I like books.",
+          "She reads novels.",
+          "We play games."
+        ],
+        "difficulty": "easy",
+        "learning_day": 2
+      },
+      {
+        "id": "syntax_2_2",
+        "name": "疑问句形式",
+        "category": "句型转换",
+        "description": "学习一般疑问句和特殊疑问句的构成",
+        "examples": [
+          "Do you like books?",
+          "What do you like?",
+          "Where is she?"
+        ],
+        "difficulty": "medium",
+        "learning_day": 2
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "study_time_estimate": "15分钟",
+  "generated_at": "2025-09-30T22:44:51.447696"
+}

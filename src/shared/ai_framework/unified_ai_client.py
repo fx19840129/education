@@ -39,6 +39,8 @@ class AIModel(Enum):
     # OpenAI模型
     OPENAI_GPT4 = "openai_gpt4"
     OPENAI_GPT35_TURBO = "openai_gpt35_turbo"
+    OPENAI_GPT4O_MINI = "openai_gpt4o_mini"
+    OPENAI_GPT4O = "openai_gpt4o"
 
 
 @dataclass
@@ -187,9 +189,17 @@ class OpenAIClientWrapper(BaseAIClient):
         
         try:
             # 根据模型类型选择具体的模型名称
-            model_name = "gpt-3.5-turbo"
-            if "gpt4" in str(request.model).lower():
+            model_str = str(request.model).lower()
+            if "gpt4o_mini" in model_str:
+                model_name = "gpt-4o-mini"
+            elif "gpt4o" in model_str:
+                model_name = "gpt-4o"
+            elif "gpt4" in model_str:
                 model_name = "gpt-4"
+            elif "gpt35" in model_str:
+                model_name = "gpt-3.5-turbo"
+            else:
+                model_name = "gpt-3.5-turbo"  # 默认模型
             
             response = self.client.generate_content(
                 prompt=request.prompt,
@@ -401,6 +411,8 @@ class UnifiedAIClient:
             # 初始化OpenAI客户端
             self.clients[AIModel.OPENAI_GPT4] = OpenAIClientWrapper(self.config_path)
             self.clients[AIModel.OPENAI_GPT35_TURBO] = OpenAIClientWrapper(self.config_path)
+            self.clients[AIModel.OPENAI_GPT4O_MINI] = OpenAIClientWrapper(self.config_path)
+            self.clients[AIModel.OPENAI_GPT4O] = OpenAIClientWrapper(self.config_path)
             
             print(f"✅ 统一AI客户端初始化完成，支持模型: {list(self.clients.keys())}")
             

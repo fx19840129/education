@@ -1,0 +1,312 @@
+{
+  "day": 3,
+  "date": "2025-10-02",
+  "plan_id": "20250930_214712",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "plant",
+          "definition": "种植",
+          "part_of_speech": "verb",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "farm",
+          "definition": "农场,农田",
+          "part_of_speech": "noun",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "game",
+          "definition": "比赛；游戏",
+          "part_of_speech": "noun",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "August",
+          "definition": "八月",
+          "part_of_speech": "noun",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "lamb",
+          "definition": "小羊;羔羊",
+          "part_of_speech": "noun",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "make",
+          "definition": "制作",
+          "part_of_speech": "verb",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "stop",
+          "definition": "停；停车站",
+          "part_of_speech": "verb/noun",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "either",
+          "definition": "也",
+          "part_of_speech": "adverb/conjunction",
+          "learning_day": 3,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "do",
+          "definition": "做",
+          "part_of_speech": "verb/auxiliary",
+          "learning_day": 3,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "motor cycle",
+          "definition": "摩托车",
+          "part_of_speech": "phrase/noun",
+          "learning_day": 3,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "game",
+        "definition": "game的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 3,
+        "retention_rate": 0.87,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "yesterday",
+        "definition": "yesterday的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 3,
+        "retention_rate": 0.8,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "August",
+        "definition": "August的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 3,
+        "retention_rate": 0.78,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "at home",
+        "definition": "at home的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 1,
+        "retention_rate": 0.87,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "giraffe",
+        "definition": "giraffe的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 1,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "sang",
+        "definition": "sang的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 3,
+        "retention_rate": 0.83,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "stream",
+        "definition": "stream的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 2,
+        "retention_rate": 0.94,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "knife",
+        "definition": "knife的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.91,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "come out",
+        "definition": "come out的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 3,
+        "retention_rate": 0.89,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "sure",
+        "definition": "sure的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 3,
+        "retention_rate": 0.88,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "morphology_3_1",
+        "name": "名词复数形式",
+        "category": "词形变化",
+        "description": "学习名词的复数变化规则",
+        "examples": [
+          "book → books",
+          "child → children",
+          "mouse → mice"
+        ],
+        "difficulty": "easy",
+        "learning_day": 3
+      },
+      {
+        "id": "morphology_3_2",
+        "name": "动词过去式",
+        "category": "时态变化",
+        "description": "学习规则和不规则动词的过去式",
+        "examples": [
+          "walk → walked",
+          "go → went",
+          "see → saw"
+        ],
+        "difficulty": "medium",
+        "learning_day": 3
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "syntax_3_1",
+        "name": "简单句结构",
+        "category": "句子结构",
+        "description": "学习主语+谓语+宾语的基本句子结构",
+        "examples": [
+          "I like books.",
+          "She reads novels.",
+          "We play games."
+        ],
+        "difficulty": "easy",
+        "learning_day": 3
+      },
+      {
+        "id": "syntax_3_2",
+        "name": "疑问句形式",
+        "category": "句型转换",
+        "description": "学习一般疑问句和特殊疑问句的构成",
+        "examples": [
+          "Do you like books?",
+          "What do you like?",
+          "Where is she?"
+        ],
+        "difficulty": "medium",
+        "learning_day": 3
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "study_time_estimate": "15分钟",
+  "generated_at": "2025-09-30T22:44:51.447813"
+}

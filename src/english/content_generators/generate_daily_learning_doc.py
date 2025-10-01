@@ -14,12 +14,12 @@ from typing import Dict, List, Optional
 project_root = Path(__file__).parent.parent.parent.parent
 sys.path.append(str(project_root))
 
-from src.english.learning_content_generator import LearningContentGenerator
-from src.english.services.fsrs_learning_generator import FSRSLearningGenerator
-from src.english.generate_morphology_content import MorphologyContentGenerator
-from src.english.generate_syntax_content import SyntaxContentGenerator
-from src.english.generate_practice_sentences import PracticeSentencesGenerator
-from src.english.generate_practice_exercises import PracticeExercisesGenerator
+from src.english.content_generators.coordinate_learning_content import LearningContentGenerator
+from src.english.services.fsrs_learning_service import FSRSLearningGenerator
+from src.english.services.word_morphology_service import MorphologyService
+from src.english.services.sentence_syntax_service import SyntaxService
+from src.english.content_generators.generate_practice_sentences import PracticeSentencesGenerator
+from src.english.content_generators.generate_practice_exercises import PracticeExercisesGenerator
 
 try:
     from docx import Document
@@ -38,8 +38,8 @@ class DailyLearningDocumentGenerator:
     def __init__(self):
         self.plan_reader = LearningContentGenerator()
         self.fsrs_generator = FSRSLearningGenerator()
-        self.morphology_generator = MorphologyContentGenerator()
-        self.syntax_generator = SyntaxContentGenerator()
+        self.morphology_service = MorphologyService()
+        self.syntax_service = SyntaxService()
         self.sentence_generator = PracticeSentencesGenerator()
         self.exercise_generator = PracticeExercisesGenerator()
         

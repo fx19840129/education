@@ -1,0 +1,412 @@
+{
+  "day": 40,
+  "date": "2025-11-09",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [],
+      "connectors_relational": [],
+      "auxiliary_supplemental": []
+    },
+    "review_words": [
+      {
+        "word": "think",
+        "definition": "think的定义",
+        "part_of_speech": "noun",
+        "review_day": 40,
+        "last_reviewed": "2025-09-18",
+        "review_interval": 11,
+        "retention_rate": 0.72,
+        "fsrs_due": true,
+        "days_since_learned": 23
+      },
+      {
+        "word": "just a minute",
+        "definition": "just a minute的定义",
+        "part_of_speech": "noun",
+        "review_day": 40,
+        "last_reviewed": "2025-09-20",
+        "review_interval": 1,
+        "retention_rate": 0.76,
+        "fsrs_due": true,
+        "days_since_learned": 8
+      },
+      {
+        "word": "climber",
+        "definition": "climber的定义",
+        "part_of_speech": "noun",
+        "review_day": 40,
+        "last_reviewed": "2025-09-18",
+        "review_interval": 10,
+        "retention_rate": 0.87,
+        "fsrs_due": true,
+        "days_since_learned": 33
+      },
+      {
+        "word": "aren't",
+        "definition": "aren't的定义",
+        "part_of_speech": "noun",
+        "review_day": 40,
+        "last_reviewed": "2025-09-19",
+        "review_interval": 3,
+        "retention_rate": 0.88,
+        "fsrs_due": true,
+        "days_since_learned": 14
+      },
+      {
+        "word": "go to bed",
+        "definition": "go to bed的定义",
+        "part_of_speech": "noun",
+        "review_day": 40,
+        "last_reviewed": "2025-09-04",
+        "review_interval": 7,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 29
+      },
+      {
+        "word": "know",
+        "definition": "know的定义",
+        "part_of_speech": "noun",
+        "review_day": 40,
+        "last_reviewed": "2025-09-06",
+        "review_interval": 6,
+        "retention_rate": 0.81,
+        "fsrs_due": true,
+        "days_since_learned": 7
+      },
+      {
+        "word": "have to",
+        "definition": "have to的定义",
+        "part_of_speech": "noun",
+        "review_day": 40,
+        "last_reviewed": "2025-09-20",
+        "review_interval": 13,
+        "retention_rate": 0.72,
+        "fsrs_due": true,
+        "days_since_learned": 18
+      },
+      {
+        "word": "old",
+        "definition": "old的定义",
+        "part_of_speech": "noun",
+        "review_day": 40,
+        "last_reviewed": "2025-09-13",
+        "review_interval": 9,
+        "retention_rate": 0.86,
+        "fsrs_due": true,
+        "days_since_learned": 24
+      },
+      {
+        "word": "pot",
+        "definition": "pot的定义",
+        "part_of_speech": "noun",
+        "review_day": 40,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 10,
+        "retention_rate": 0.75,
+        "fsrs_due": true,
+        "days_since_learned": 22
+      },
+      {
+        "word": "let's",
+        "definition": "let's的定义",
+        "part_of_speech": "noun",
+        "review_day": 40,
+        "last_reviewed": "2025-09-05",
+        "review_interval": 15,
+        "retention_rate": 0.8,
+        "fsrs_due": true,
+        "days_since_learned": 35
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "name": "形容词 (Adjective)",
+        "type": "词性",
+        "description": "修饰名词，表示性质或特征。",
+        "rules": "形容词修饰名词",
+        "examples": [
+          "big",
+          "red",
+          "happy"
+        ]
+      },
+      {
+        "name": "动词 (Verb)",
+        "type": "词性",
+        "description": "表示动作或状态。",
+        "rules": "学习动词原形",
+        "examples": [
+          "run",
+          "eat",
+          "sleep"
+        ]
+      }
+    ],
+    "total_points": 2,
+    "difficulty": "elementary",
+    "learning_day": 40
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "name": "基本语序 (Basic Word Order)",
+        "type": "句法结构",
+        "structure": "SVO",
+        "description": "主语-谓语-宾语",
+        "examples": [
+          "I eat apples.",
+          "She reads books."
+        ]
+      },
+      {
+        "name": "否定句 (Negation)",
+        "type": "句法结构",
+        "structure": "Subject + don't/doesn't + Verb",
+        "description": "否定句结构",
+        "examples": [
+          "I don't like it.",
+          "She doesn't know."
+        ]
+      }
+    ],
+    "total_points": 2,
+    "difficulty": "elementary",
+    "learning_day": 40
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "Let's go to bed early.",
+          "translation": "我们早点睡觉吧。",
+          "morphology_rule": "动词 (Verb)",
+          "syntactic_structure": "主语-谓语-宾语",
+          "difficulty": 2.5,
+          "explanation": "句子使用建议 (let's) 表达建议，结合动词 (go) 和副词 (early) 表达动作的时间。"
+        },
+        {
+          "sentence": "I think the pot is old.",
+          "translation": "我觉得这个锅很旧。",
+          "morphology_rule": "形容词 (Adjective)",
+          "syntactic_structure": "主语-谓语-宾语",
+          "difficulty": 2.5,
+          "explanation": "句子使用形容词 (old) 描述名词 (pot) 的特征，表达对物品的看法。"
+        },
+        {
+          "sentence": "She doesn't know the climber.",
+          "translation": "她不认识那个攀岩者。",
+          "morphology_rule": "动词 (Verb)",
+          "syntactic_structure": "否定句",
+          "difficulty": 2.5,
+          "explanation": "句子使用否定形式 (doesn't know) 表示不认识，结合名词 (climber) 表达对人的不熟悉。"
+        },
+        {
+          "sentence": "Aren't they coming just a minute?",
+          "translation": "他们不是马上就来吗？",
+          "morphology_rule": "否定句",
+          "syntactic_structure": "否定句",
+          "difficulty": 2.5,
+          "explanation": "句子使用否定缩写 (aren't) 表示疑问否定，结合时间短语 (just a minute) 表达时间上的不确定性。"
+        },
+        {
+          "sentence": "You have to know this.",
+          "translation": "你必须知道这个。",
+          "morphology_rule": "动词 (Verb)",
+          "syntactic_structure": "主语-谓语-宾语",
+          "difficulty": 2.5,
+          "explanation": "句子使用情态动词 (have to) 表达必要性，结合动词 (know) 表达对信息的掌握。"
+        },
+        {
+          "sentence": "The old climber is very strong.",
+          "translation": "这位年长的攀岩者非常强壮。",
+          "morphology_rule": "形容词 (Adjective)",
+          "syntactic_structure": "主语-谓语-宾语",
+          "difficulty": 2.5,
+          "explanation": "句子使用形容词 (old) 描述名词 (climber) 的年龄特征，结合形容词 (strong) 表达身体特征。"
+        },
+        {
+          "sentence": "Let's think about it.",
+          "translation": "我们考虑一下。",
+          "morphology_rule": "动词 (Verb)",
+          "syntactic_structure": "主语-谓语-宾语",
+          "difficulty": 2.5,
+          "explanation": "句子使用建议 (let's) 表达共同的动作意图，结合动词 (think) 表达思考的行为。"
+        },
+        {
+          "sentence": "Isn't the pot too big?",
+          "translation": "这个锅是不是太大了？",
+          "morphology_rule": "形容词 (Adjective)",
+          "syntactic_structure": "否定句",
+          "difficulty": 2.5,
+          "explanation": "句子使用否定缩写 (isn't) 表达疑问否定，结合形容词 (big) 描述物体的大小。"
+        },
+        {
+          "sentence": "He doesn't have to go to bed now.",
+          "translation": "他现在不必去睡觉。",
+          "morphology_rule": "否定句",
+          "syntactic_structure": "否定句",
+          "difficulty": 2.5,
+          "explanation": "句子使用否定形式 (doesn't have to) 表达不必要性，结合动词短语 (go to bed) 表达动作。"
+        },
+        {
+          "sentence": "Let's know more about the old pot.",
+          "translation": "我们多了解一下这个旧锅。",
+          "morphology_rule": "动词 (Verb)",
+          "syntactic_structure": "主语-谓语-宾语",
+          "difficulty": 2.5,
+          "explanation": "句子使用建议 (let's) 表达共同探索，结合动词 (know) 和形容词 (old) 描述物体。"
+        }
+      ],
+      "generated_at": "2025-10-01T19:19:54.278978",
+      "generation_method": "openai_gpt4o_100_coverage"
+    },
+    "practice_exercises": {
+      "practice_exercises": [
+        {
+          "id": 1,
+          "type": "choice",
+          "question": "What is the old climber described as?",
+          "options": [
+            "Weak",
+            "Strong",
+            "Young",
+            "Tall"
+          ],
+          "correct_answer": "Strong",
+          "morphology_rule": "形容词描述名词",
+          "syntactic_structure": "定语+名词",
+          "difficulty": 2.5,
+          "explanation": "根据句子“The old climber is very strong”，老登山者被描述为强壮。"
+        },
+        {
+          "id": 2,
+          "type": "choice",
+          "question": "What do we want to do early?",
+          "options": [
+            "Go to school",
+            "Go to bed",
+            "Go to work",
+            "Go to the park"
+          ],
+          "correct_answer": "Go to bed",
+          "morphology_rule": "动词短语",
+          "syntactic_structure": "动词+介词+名词",
+          "difficulty": 2.5,
+          "explanation": "根据句子“Let's go to bed early”，我们想早点上床睡觉。"
+        },
+        {
+          "id": 3,
+          "type": "choice",
+          "question": "What is the pot described as?",
+          "options": [
+            "New",
+            "Hot",
+            "Old",
+            "Small"
+          ],
+          "correct_answer": "Old",
+          "morphology_rule": "形容词描述名词",
+          "syntactic_structure": "定语+名词",
+          "difficulty": 2.5,
+          "explanation": "根据句子“I think the pot is old”，锅子被描述为旧的。"
+        },
+        {
+          "id": 4,
+          "type": "choice",
+          "question": "What should we do more about the old pot?",
+          "options": [
+            "Forget",
+            "Know",
+            "Ignore",
+            "Sell"
+          ],
+          "correct_answer": "Know",
+          "morphology_rule": "动词短语",
+          "syntactic_structure": "动词+副词+介词短语",
+          "difficulty": 2.5,
+          "explanation": "根据句子“Let's know more about the old pot”，我们应该了解更多关于旧锅的信息。"
+        },
+        {
+          "id": 5,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "我们早点去睡觉吧。",
+          "english_text": "Let's go to bed early.",
+          "morphology_rule": "祈使句",
+          "syntactic_structure": "让我们+动词短语",
+          "difficulty": 2.5,
+          "explanation": "使用‘Let's’表示建议一起做某事。"
+        },
+        {
+          "id": 6,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "她不认识那个登山者。",
+          "english_text": "She doesn't know the climber.",
+          "morphology_rule": "否定句",
+          "syntactic_structure": "主语+助动词否定+动词+宾语",
+          "difficulty": 2.5,
+          "explanation": "使用‘doesn't’构成一般现在时的否定形式。"
+        },
+        {
+          "id": 7,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "那个锅是不是太大了？",
+          "english_text": "Isn't the pot too big?",
+          "morphology_rule": "反问句",
+          "syntactic_structure": "否定疑问句",
+          "difficulty": 2.5,
+          "explanation": "使用‘Isn't’构成反问句以表达怀疑或确认。"
+        },
+        {
+          "id": 8,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "让我们想一想。",
+          "english_text": "Let's think about it.",
+          "morphology_rule": "祈使句",
+          "syntactic_structure": "让我们+动词短语",
+          "difficulty": 2.5,
+          "explanation": "使用‘Let's’表示建议一起做某事。"
+        },
+        {
+          "id": 9,
+          "type": "fill_blank",
+          "question": "请填入适当的单词",
+          "sentence": "___ they coming just a minute?",
+          "answer": "Aren't",
+          "morphology_rule": "反问句",
+          "syntactic_structure": "否定疑问句",
+          "difficulty": 2.5,
+          "explanation": "使用‘Aren't’构成反问句以表达疑问。"
+        },
+        {
+          "id": 10,
+          "type": "fill_blank",
+          "question": "请填入适当的单词",
+          "sentence": "The old climber is very ___.",
+          "answer": "strong",
+          "morphology_rule": "形容词描述名词",
+          "syntactic_structure": "定语+名词",
+          "difficulty": 2.5,
+          "explanation": "使用‘strong’描述名词‘climber’。"
+        }
+      ],
+      "generated_at": "2025-10-01T19:20:11.197006",
+      "generation_method": "openai_gpt4o_from_sentences"
+    },
+    "generated_at": "2025-10-01T19:20:11.197016",
+    "generation_strategy": "sentences_first_exercises_follow"
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T19:20:11.197034",
+  "generation_attempt": 1,
+  "plan_id": "unknown"
+}

@@ -14,7 +14,7 @@ from typing import Dict, List, Optional
 project_root = Path(__file__).parent.parent.parent.parent
 sys.path.append(str(project_root))
 
-from src.english.services.vocab_selector import VocabSelector
+from src.english.services.vocabulary_selection_service import VocabSelector
 
 
 class LearningContentGenerator:
@@ -219,14 +219,20 @@ class LearningContentGenerator:
             generator.display_daily_words(generator.generate_daily_words_schedule(plan['id'], kwargs.get('days', 7)), kwargs.get('show_details', True))
         
         elif generator_type == "morphology":
-            from generate_morphology_content import MorphologyContentGenerator
-            generator = MorphologyContentGenerator()
-            generator.generate_and_display(plan, kwargs.get('days', 7))
+            from src.english.services.word_morphology_service import MorphologyService
+            service = MorphologyService()
+            # 获取形态学内容并显示
+            stage = plan.get('stage', '第一阶段：基础巩固 (小学中高年级)')
+            morphology_points = service.get_morphology_points(stage, kwargs.get('days', 7))
+            print(f"✅ 获取到 {len(morphology_points)} 个形态学知识点")
         
         elif generator_type == "syntax":
-            from generate_syntax_content import SyntaxContentGenerator
-            generator = SyntaxContentGenerator()
-            generator.generate_and_display(plan, kwargs.get('days', 7))
+            from src.english.services.sentence_syntax_service import SyntaxService
+            service = SyntaxService()
+            # 获取语法内容并显示
+            stage = plan.get('stage', '第一阶段：基础巩固 (小学中高年级)')
+            syntax_points = service.get_syntax_points(stage, kwargs.get('days', 7))
+            print(f"✅ 获取到 {len(syntax_points)} 个语法知识点")
         
         elif generator_type == "practice_sentences":
             from generate_practice_sentences import PracticeSentencesGenerator

@@ -15,10 +15,10 @@ project_root = Path(__file__).parent.parent.parent.parent
 sys.path.append(str(project_root))
 
 from src.english.content_generators.coordinate_learning_content import LearningContentGenerator
-from src.english.services.fsrs_learning_generator import FSRSLearningGenerator
-from src.english.generate_morphology_content import MorphologyContentGenerator
-from src.english.generate_syntax_content import SyntaxContentGenerator
-from src.english.english_prompt_generator import EnglishLearningPromptGenerator
+from src.english.services.fsrs_learning_service import FSRSLearningGenerator
+from src.english.services.word_morphology_service import MorphologyService
+from src.english.services.sentence_syntax_service import SyntaxService
+from src.english.utils.ai_prompt_builder import EnglishLearningPromptGenerator
 from src.shared.ai_framework.unified_ai_client import UnifiedAIClient, AIModel
 
 
@@ -28,8 +28,8 @@ class PracticeExercisesGenerator:
     def __init__(self):
         self.plan_reader = LearningContentGenerator()
         self.fsrs_generator = FSRSLearningGenerator()
-        self.morphology_generator = MorphologyContentGenerator()
-        self.syntax_generator = SyntaxContentGenerator()
+        self.morphology_service = MorphologyService()
+        self.syntax_service = SyntaxService()
         self.prompt_generator = EnglishLearningPromptGenerator()
         self.ai_client = UnifiedAIClient(default_model=AIModel.GLM_45)
     

@@ -1,0 +1,322 @@
+{
+  "day": 25,
+  "date": "2025-10-25",
+  "plan_id": "20251001_110940",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "piano",
+          "definition": "钢琴",
+          "part_of_speech": "noun",
+          "learning_day": 25,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "kangaroo",
+          "definition": "袋鼠",
+          "part_of_speech": "noun",
+          "learning_day": 25,
+          "category": "core_functional",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "talk",
+          "definition": "讲话",
+          "part_of_speech": "verb",
+          "learning_day": 25,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "sport",
+          "definition": "运动",
+          "part_of_speech": "noun",
+          "learning_day": 25,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "collect",
+          "definition": "收集",
+          "part_of_speech": "verb",
+          "learning_day": 25,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "water",
+          "definition": "水",
+          "part_of_speech": "noun",
+          "learning_day": 25,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "home",
+          "definition": "家",
+          "part_of_speech": "noun",
+          "learning_day": 25,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "let's",
+          "definition": "让我们",
+          "part_of_speech": "verb/pronoun",
+          "learning_day": 25,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "come on",
+          "definition": "用于祈使句以鼓励某人做某事,尤指促其加速或努力试一试",
+          "part_of_speech": "phrase",
+          "learning_day": 25,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "may",
+          "definition": "可以",
+          "part_of_speech": "modal",
+          "learning_day": 25,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "goodbye",
+        "definition": "goodbye的定义",
+        "part_of_speech": "noun",
+        "review_day": 25,
+        "last_reviewed": "2025-09-17",
+        "review_interval": 7,
+        "retention_rate": 0.9,
+        "fsrs_due": true,
+        "days_since_learned": 24
+      },
+      {
+        "word": "work",
+        "definition": "work的定义",
+        "part_of_speech": "noun",
+        "review_day": 25,
+        "last_reviewed": "2025-09-16",
+        "review_interval": 13,
+        "retention_rate": 0.88,
+        "fsrs_due": true,
+        "days_since_learned": 24
+      },
+      {
+        "word": "about",
+        "definition": "about的定义",
+        "part_of_speech": "noun",
+        "review_day": 25,
+        "last_reviewed": "2025-09-20",
+        "review_interval": 11,
+        "retention_rate": 0.84,
+        "fsrs_due": true,
+        "days_since_learned": 24
+      },
+      {
+        "word": "cook the meals",
+        "definition": "cook the meals的定义",
+        "part_of_speech": "noun",
+        "review_day": 25,
+        "last_reviewed": "2025-09-13",
+        "review_interval": 8,
+        "retention_rate": 0.87,
+        "fsrs_due": true,
+        "days_since_learned": 24
+      },
+      {
+        "word": "lamb",
+        "definition": "lamb的定义",
+        "part_of_speech": "noun",
+        "review_day": 25,
+        "last_reviewed": "2025-09-12",
+        "review_interval": 3,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 24
+      },
+      {
+        "word": "kites",
+        "definition": "kites的定义",
+        "part_of_speech": "noun",
+        "review_day": 25,
+        "last_reviewed": "2025-09-24",
+        "review_interval": 11,
+        "retention_rate": 0.84,
+        "fsrs_due": true,
+        "days_since_learned": 24
+      },
+      {
+        "word": "son",
+        "definition": "son的定义",
+        "part_of_speech": "noun",
+        "review_day": 25,
+        "last_reviewed": "2025-09-11",
+        "review_interval": 2,
+        "retention_rate": 0.79,
+        "fsrs_due": true,
+        "days_since_learned": 24
+      },
+      {
+        "word": "riding",
+        "definition": "riding的定义",
+        "part_of_speech": "noun",
+        "review_day": 25,
+        "last_reviewed": "2025-09-20",
+        "review_interval": 8,
+        "retention_rate": 0.87,
+        "fsrs_due": true,
+        "days_since_learned": 24
+      },
+      {
+        "word": "two",
+        "definition": "two的定义",
+        "part_of_speech": "noun",
+        "review_day": 25,
+        "last_reviewed": "2025-09-27",
+        "review_interval": 8,
+        "retention_rate": 0.7,
+        "fsrs_due": true,
+        "days_since_learned": 24
+      },
+      {
+        "word": "we'll",
+        "definition": "we'll的定义",
+        "part_of_speech": "noun",
+        "review_day": 25,
+        "last_reviewed": "2025-09-16",
+        "review_interval": 11,
+        "retention_rate": 0.91,
+        "fsrs_due": true,
+        "days_since_learned": 24
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "动词 (Verb)_3",
+        "name": "动词 (Verb)",
+        "category": "词性",
+        "description": "表示动作或状态。",
+        "examples": [
+          "学习一般现在时（Present Simple）的动词原形和第三人称单数形式（加-s）。",
+          "识别常见情态动词（can, may - 初步）。",
+          "识别 be 动词（am, is, are）的不同形式。",
+          "识别常见动词词组（如: play, eat, go, have, like）。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 25
+      },
+      {
+        "id": "be 动词 (be Verb Forms)_5",
+        "name": "be 动词 (be Verb Forms)",
+        "category": "形式变化",
+        "description": "am, is, are 的使用（根据主语和时态）。",
+        "examples": [
+          "I am",
+          "He/She/It is",
+          "You/We/They are"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 25
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "主谓宾补结构 (Subject-Verb-Object-Object Complement)_6",
+        "name": "主谓宾补结构 (Subject-Verb-Object-Object Complement)",
+        "category": "句法结构",
+        "description": "在宾语后跟宾语补足语。",
+        "examples": [
+          "They made him happy.",
+          "We elected her monitor."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 25
+      },
+      {
+        "id": "Let's..._14",
+        "name": "Let's...",
+        "category": "句型模式",
+        "description": "祈使句 (Imperative Sentence) - 建议 - 提出建议。",
+        "examples": [
+          "Let's go to the park."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 25
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": []
+    },
+    "practice_exercises": {
+      "practice_exercises": []
+    },
+    "generated_at": "2025-10-01T13:19:37.768395",
+    "error": "生成失败: 已达到最大重试次数",
+    "generation_attempt": 3
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T13:19:37.768471",
+  "generation_attempt": 1
+}

@@ -1,0 +1,533 @@
+{
+  "day": 35,
+  "date": "2025-11-04",
+  "plan_id": "20251001_110940",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "ready",
+          "definition": "准备好了",
+          "part_of_speech": "adjective",
+          "learning_day": 35,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "tourist",
+          "definition": "旅行者；旅游者",
+          "part_of_speech": "noun",
+          "learning_day": 35,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "Tue.",
+          "definition": "星期二",
+          "part_of_speech": "noun",
+          "learning_day": 35,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "swim",
+          "definition": "游泳",
+          "part_of_speech": "verb/noun",
+          "learning_day": 35,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "far",
+          "definition": "远",
+          "part_of_speech": "adjective/adverb",
+          "learning_day": 35,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "aunt",
+          "definition": "姑姑",
+          "part_of_speech": "noun",
+          "learning_day": 35,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "pot",
+          "definition": "锅；碗；瓢；盆",
+          "part_of_speech": "noun",
+          "learning_day": 35,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "if",
+          "definition": "如果",
+          "part_of_speech": "conjunction",
+          "learning_day": 35,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "aren't",
+          "definition": "不是",
+          "part_of_speech": "verb/auxiliary",
+          "learning_day": 35,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "English class",
+          "definition": "英语课",
+          "part_of_speech": "phrase",
+          "learning_day": 35,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "two",
+        "definition": "two的定义",
+        "part_of_speech": "noun",
+        "review_day": 35,
+        "last_reviewed": "2025-09-24",
+        "review_interval": 7,
+        "retention_rate": 0.75,
+        "fsrs_due": true,
+        "days_since_learned": 34
+      },
+      {
+        "word": "wears",
+        "definition": "wears的定义",
+        "part_of_speech": "noun",
+        "review_day": 35,
+        "last_reviewed": "2025-09-25",
+        "review_interval": 14,
+        "retention_rate": 0.83,
+        "fsrs_due": true,
+        "days_since_learned": 34
+      },
+      {
+        "word": "sleep",
+        "definition": "sleep的定义",
+        "part_of_speech": "noun",
+        "review_day": 35,
+        "last_reviewed": "2025-09-17",
+        "review_interval": 5,
+        "retention_rate": 0.82,
+        "fsrs_due": true,
+        "days_since_learned": 34
+      },
+      {
+        "word": "thing",
+        "definition": "thing的定义",
+        "part_of_speech": "noun",
+        "review_day": 35,
+        "last_reviewed": "2025-09-17",
+        "review_interval": 7,
+        "retention_rate": 0.92,
+        "fsrs_due": true,
+        "days_since_learned": 34
+      },
+      {
+        "word": "please",
+        "definition": "please的定义",
+        "part_of_speech": "noun",
+        "review_day": 35,
+        "last_reviewed": "2025-09-19",
+        "review_interval": 13,
+        "retention_rate": 0.76,
+        "fsrs_due": true,
+        "days_since_learned": 34
+      },
+      {
+        "word": "Mr",
+        "definition": "Mr的定义",
+        "part_of_speech": "noun",
+        "review_day": 35,
+        "last_reviewed": "2025-09-22",
+        "review_interval": 11,
+        "retention_rate": 0.83,
+        "fsrs_due": true,
+        "days_since_learned": 34
+      },
+      {
+        "word": "work",
+        "definition": "work的定义",
+        "part_of_speech": "noun",
+        "review_day": 35,
+        "last_reviewed": "2025-09-22",
+        "review_interval": 1,
+        "retention_rate": 0.83,
+        "fsrs_due": true,
+        "days_since_learned": 34
+      },
+      {
+        "word": "watch insects",
+        "definition": "watch insects的定义",
+        "part_of_speech": "noun",
+        "review_day": 35,
+        "last_reviewed": "2025-09-04",
+        "review_interval": 8,
+        "retention_rate": 0.93,
+        "fsrs_due": true,
+        "days_since_learned": 34
+      },
+      {
+        "word": "win",
+        "definition": "win的定义",
+        "part_of_speech": "noun",
+        "review_day": 35,
+        "last_reviewed": "2025-09-06",
+        "review_interval": 4,
+        "retention_rate": 0.94,
+        "fsrs_due": true,
+        "days_since_learned": 34
+      },
+      {
+        "word": "taller",
+        "definition": "taller的定义",
+        "part_of_speech": "noun",
+        "review_day": 35,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 3,
+        "retention_rate": 0.8,
+        "fsrs_due": true,
+        "days_since_learned": 34
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "be 动词 (be Verb Forms)_5",
+        "name": "be 动词 (be Verb Forms)",
+        "category": "形式变化",
+        "description": "am, is, are 的使用（根据主语和时态）。",
+        "examples": [
+          "I am",
+          "He/She/It is",
+          "You/We/They are"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 35
+      },
+      {
+        "id": "名词 (Noun)_0",
+        "name": "名词 (Noun)",
+        "category": "词性",
+        "description": "表示人、事物、地点、概念等。",
+        "examples": [
+          "识别常见名词（如：apple, book, cat, school, teacher）。",
+          "区分可数名词与不可数名词（初步）。",
+          "学习名词的单数形式。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 35
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "基本语序 (Basic Word Order)_0",
+        "name": "基本语序 (Basic Word Order)",
+        "category": "句法结构",
+        "description": "英语句子的基本语序是 SVO (主语-谓语-宾语)，这是最核心的语序规则。",
+        "examples": [
+          "I like apples.",
+          "She reads a book."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 35
+      },
+      {
+        "id": "主谓表结构 (Subject-Verb-Complement)_2",
+        "name": "主谓表结构 (Subject-Verb-Complement)",
+        "category": "句法结构",
+        "description": "使用系动词（如 be, look, get）连接主语和表语。",
+        "examples": [
+          "She is a teacher.",
+          "He looks happy."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 35
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "Are you ready for the English class?",
+          "translation": "你准备好上英语课了吗？",
+          "morphology_rule": "使用了be动词 'are' 和名词短语 'English class'",
+          "syntactic_structure": "SVC (主语-谓语-表语)",
+          "difficulty": 2.0,
+          "explanation": "句子使用了be动词'are'来询问状态，并以'English class'作为名词短语的表语。"
+        },
+        {
+          "sentence": "My aunt is taller than my mom.",
+          "translation": "我姑姑比我妈妈高。",
+          "morphology_rule": "使用了be动词 'is' 和名词 'aunt'",
+          "syntactic_structure": "SVC (主语-谓语-表语)",
+          "difficulty": 2.5,
+          "explanation": "句子使用了be动词'is'连接主语'aunt'和表语，比较结构'taller than'说明高度差异。"
+        },
+        {
+          "sentence": "Tourists aren't allowed to swim in this lake.",
+          "translation": "游客不允许在这个湖里游泳。",
+          "morphology_rule": "使用了be动词 'aren't' 和名词 'tourists'",
+          "syntactic_structure": "SVO (主语-谓语-宾语)",
+          "difficulty": 3.0,
+          "explanation": "句子使用了be动词的否定形式'aren't'说明禁止行为，主语为名词'tourists'。"
+        },
+        {
+          "sentence": "Mr. Smith works far from here.",
+          "translation": "史密斯先生在离这里很远的地方工作。",
+          "morphology_rule": "使用了名词 'Mr.' 和副词 'far'",
+          "syntactic_structure": "SVO (主语-谓语-宾语)",
+          "difficulty": 2.5,
+          "explanation": "句子使用名词'Mr. Smith'作为主语，动词'works'描述动作，'far from here'描述地点。"
+        },
+        {
+          "sentence": "If you win the game, you can sleep early.",
+          "translation": "如果你赢得比赛，你可以早点睡觉。",
+          "morphology_rule": "使用了连词 'if' 和动词 'win'",
+          "syntactic_structure": "复合句",
+          "difficulty": 3.0,
+          "explanation": "句子使用连词'if'引导条件从句，'win'作为主要动词，展示条件与结果的关系。"
+        },
+        {
+          "sentence": "Please put the pot on the table.",
+          "translation": "请把锅放在桌子上。",
+          "morphology_rule": "使用了名词 'pot' 和礼貌用语 'please'",
+          "syntactic_structure": "SVO (主语-谓语-宾语)",
+          "difficulty": 2.0,
+          "explanation": "句子开始使用礼貌用语'please'，'put'为动词，'pot'为名词宾语。"
+        },
+        {
+          "sentence": "She wears a hat on Tue.",
+          "translation": "她在星期二戴帽子。",
+          "morphology_rule": "使用了动词 'wears' 和缩写 'Tue.'",
+          "syntactic_structure": "SVO (主语-谓语-宾语)",
+          "difficulty": 2.0,
+          "explanation": "句子使用动词'wears'描述动作，主语为'She'，'Tue.'为星期的缩写。"
+        },
+        {
+          "sentence": "Watch insects if you aren't busy.",
+          "translation": "如果你不忙，就去观察昆虫。",
+          "morphology_rule": "使用了动词短语 'watch insects' 和连词 'if'",
+          "syntactic_structure": "复合句",
+          "difficulty": 3.0,
+          "explanation": "句子用连词'if'引导条件从句，动词短语'watch insects'作为建议。"
+        },
+        {
+          "sentence": "The thing I like is to swim in the ocean.",
+          "translation": "我喜欢的事情是在海里游泳。",
+          "morphology_rule": "使用了名词 'thing' 和动词 'swim'",
+          "syntactic_structure": "SVC (主语-谓语-表语)",
+          "difficulty": 3.0,
+          "explanation": "句子使用名词'thing'作为主语，动词'infinitive'短语作为表语。"
+        },
+        {
+          "sentence": "Is she ready to work now?",
+          "translation": "她现在准备好工作了吗？",
+          "morphology_rule": "使用了be动词 'is' 和形容词 'ready'",
+          "syntactic_structure": "SVC (主语-谓语-表语)",
+          "difficulty": 2.5,
+          "explanation": "句子使用be动词'is'询问状态，形容词'ready'作为表语。"
+        }
+      ]
+    },
+    "practice_exercises": {
+      "practice_exercises": [
+        {
+          "id": 1,
+          "type": "choice",
+          "question": "What does the robot ___?",
+          "options": [
+            "do",
+            "does",
+            "doing",
+            "did"
+          ],
+          "correct_answer": "do",
+          "morphology_rule": "使用助动词do",
+          "syntactic_structure": "Do/Does疑问句",
+          "difficulty": 2.5,
+          "explanation": "考察助动词do的使用"
+        },
+        {
+          "id": 2,
+          "type": "choice",
+          "question": "Which word is a noun?",
+          "options": [
+            "run",
+            "blue",
+            "robot",
+            "quickly"
+          ],
+          "correct_answer": "robot",
+          "morphology_rule": "名词识别",
+          "syntactic_structure": "名词识别",
+          "difficulty": 2.0,
+          "explanation": "识别名词robot"
+        },
+        {
+          "id": 3,
+          "type": "choice",
+          "question": "The ___ is on the table.",
+          "options": [
+            "book",
+            "run",
+            "quickly",
+            "happy"
+          ],
+          "correct_answer": "book",
+          "morphology_rule": "名词使用",
+          "syntactic_structure": "主谓表结构",
+          "difficulty": 1.5,
+          "explanation": "选择合适的名词"
+        },
+        {
+          "id": 4,
+          "type": "choice",
+          "question": "They ___ happy.",
+          "options": [
+            "is",
+            "are",
+            "am",
+            "be"
+          ],
+          "correct_answer": "are",
+          "morphology_rule": "be动词的使用",
+          "syntactic_structure": "主谓表结构",
+          "difficulty": 2.5,
+          "explanation": "根据主语选择正确的be动词"
+        },
+        {
+          "id": 5,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "他是一个学生",
+          "english_text": "He is a student",
+          "morphology_rule": "使用be动词is",
+          "syntactic_structure": "主谓表结构",
+          "difficulty": 2.0,
+          "explanation": "翻译包含be动词的使用"
+        },
+        {
+          "id": 6,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "学校很大",
+          "english_text": "The school is big",
+          "morphology_rule": "使用定冠词the",
+          "syntactic_structure": "主谓表结构",
+          "difficulty": 2.0,
+          "explanation": "使用定冠词和be动词"
+        },
+        {
+          "id": 7,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "她是一名老师",
+          "english_text": "She is a teacher",
+          "morphology_rule": "使用不定冠词a",
+          "syntactic_structure": "主谓表结构",
+          "difficulty": 2.0,
+          "explanation": "使用不定冠词和be动词"
+        },
+        {
+          "id": 8,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "猫在椅子上",
+          "english_text": "The cat is on the chair",
+          "morphology_rule": "使用定冠词the",
+          "syntactic_structure": "介词短语的使用",
+          "difficulty": 2.5,
+          "explanation": "使用定冠词和介词短语"
+        },
+        {
+          "id": 9,
+          "type": "fill_blank",
+          "question": "请填入适当的单词",
+          "sentence": "She has a ___ friend.",
+          "answer": "good",
+          "morphology_rule": "形容词的使用",
+          "syntactic_structure": "主谓宾结构",
+          "difficulty": 2.0,
+          "explanation": "填空考察形容词good的使用"
+        },
+        {
+          "id": 10,
+          "type": "fill_blank",
+          "question": "请填入适当的单词",
+          "sentence": "I live in a ___ apartment.",
+          "answer": "flat",
+          "morphology_rule": "使用不定冠词a",
+          "syntactic_structure": "主谓宾结构",
+          "difficulty": 2.0,
+          "explanation": "填空考察新学词汇flat的使用"
+        }
+      ]
+    },
+    "generated_at": "2025-10-01T15:15:02.221806",
+    "generation_attempt": 1
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T15:15:02.221984",
+  "generation_attempt": 1
+}

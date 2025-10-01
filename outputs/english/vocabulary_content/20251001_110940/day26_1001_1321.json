@@ -1,0 +1,495 @@
+{
+  "day": 26,
+  "date": "2025-10-26",
+  "plan_id": "20251001_110940",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "cook",
+          "definition": "做饭",
+          "part_of_speech": "verb",
+          "learning_day": 26,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "jump",
+          "definition": "跳",
+          "part_of_speech": "verb",
+          "learning_day": 26,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "actor",
+          "definition": "男演员",
+          "part_of_speech": "noun",
+          "learning_day": 26,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "study",
+          "definition": "学习/书房",
+          "part_of_speech": "verb/noun",
+          "learning_day": 26,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "matter",
+          "definition": "事情, 麻烦",
+          "part_of_speech": "noun",
+          "learning_day": 26,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "teacher",
+          "definition": "教师",
+          "part_of_speech": "noun",
+          "learning_day": 26,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "leave",
+          "definition": "离开",
+          "part_of_speech": "verb",
+          "learning_day": 26,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "he",
+          "definition": "他",
+          "part_of_speech": "pronoun",
+          "learning_day": 26,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "post office",
+          "definition": "邮局",
+          "part_of_speech": "phrase",
+          "learning_day": 26,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "have a picnic",
+          "definition": "举行野餐",
+          "part_of_speech": "phrase",
+          "learning_day": 26,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "brother",
+        "definition": "brother的定义",
+        "part_of_speech": "noun",
+        "review_day": 26,
+        "last_reviewed": "2025-09-09",
+        "review_interval": 11,
+        "retention_rate": 0.75,
+        "fsrs_due": true,
+        "days_since_learned": 25
+      },
+      {
+        "word": "feel",
+        "definition": "feel的定义",
+        "part_of_speech": "noun",
+        "review_day": 26,
+        "last_reviewed": "2025-09-21",
+        "review_interval": 5,
+        "retention_rate": 0.83,
+        "fsrs_due": true,
+        "days_since_learned": 25
+      },
+      {
+        "word": "south",
+        "definition": "south的定义",
+        "part_of_speech": "noun",
+        "review_day": 26,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 7,
+        "retention_rate": 0.85,
+        "fsrs_due": true,
+        "days_since_learned": 25
+      },
+      {
+        "word": "o'clock",
+        "definition": "o'clock的定义",
+        "part_of_speech": "noun",
+        "review_day": 26,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 13,
+        "retention_rate": 0.87,
+        "fsrs_due": true,
+        "days_since_learned": 25
+      },
+      {
+        "word": "living room",
+        "definition": "living room的定义",
+        "part_of_speech": "noun",
+        "review_day": 26,
+        "last_reviewed": "2025-09-16",
+        "review_interval": 4,
+        "retention_rate": 0.79,
+        "fsrs_due": true,
+        "days_since_learned": 25
+      },
+      {
+        "word": "longer",
+        "definition": "longer的定义",
+        "part_of_speech": "noun",
+        "review_day": 26,
+        "last_reviewed": "2025-09-30",
+        "review_interval": 9,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 25
+      },
+      {
+        "word": "it's",
+        "definition": "it's的定义",
+        "part_of_speech": "noun",
+        "review_day": 26,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 6,
+        "retention_rate": 0.86,
+        "fsrs_due": true,
+        "days_since_learned": 25
+      },
+      {
+        "word": "water",
+        "definition": "water的定义",
+        "part_of_speech": "noun",
+        "review_day": 26,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 5,
+        "retention_rate": 0.8,
+        "fsrs_due": true,
+        "days_since_learned": 25
+      },
+      {
+        "word": "bye",
+        "definition": "bye的定义",
+        "part_of_speech": "noun",
+        "review_day": 26,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 12,
+        "retention_rate": 0.94,
+        "fsrs_due": true,
+        "days_since_learned": 25
+      },
+      {
+        "word": "piano",
+        "definition": "piano的定义",
+        "part_of_speech": "noun",
+        "review_day": 26,
+        "last_reviewed": "2025-09-19",
+        "review_interval": 9,
+        "retention_rate": 0.72,
+        "fsrs_due": true,
+        "days_since_learned": 25
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "连词 (Conjunction)_11",
+        "name": "连词 (Conjunction)",
+        "category": "词性",
+        "description": "连接词、短语或句子的词。",
+        "examples": [
+          "学习并列连词 (and, but, or) 的基本用法。",
+          "初步接触从属连词 (because, when - 初步)。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 26
+      },
+      {
+        "id": "从形容词变来 (-ly form)_9",
+        "name": "从形容词变来 (-ly form)",
+        "category": "形式变化",
+        "description": "大多数副词由形容词加-ly构成。",
+        "examples": [
+          "quick -> quickly",
+          "happy -> happily"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 26
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "主谓宾状结构 (Subject-Verb-Object-Adverbial)_4",
+        "name": "主谓宾状结构 (Subject-Verb-Object-Adverbial)",
+        "category": "句法结构",
+        "description": "在 SVO 基础上增加状语。",
+        "examples": [
+          "She reads a book in the library.",
+          "He came home yesterday."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 26
+      },
+      {
+        "id": "Is/Am/Are...?_11",
+        "name": "Is/Am/Are...?",
+        "category": "句型模式",
+        "description": "一般疑问句 (Yes/No Question) - 询问状态/身份（be 动词）。",
+        "examples": [
+          "Is she your friend?"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 26
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "He can cook delicious food in the living room.",
+          "translation": "他可以在客厅里做美味的食物。",
+          "target_words": [
+            "cook"
+          ],
+          "new_words": [
+            "cook"
+          ],
+          "review_words": [
+            "living room"
+          ],
+          "morphology_rule": "动词不定式 'can' + 动词原形 'cook'",
+          "syntactic_structure": "SVOA",
+          "difficulty": 2.5,
+          "exercise_type": "translation",
+          "explanation": "这个句子使用了动词 'cook'，同时包含了复习单词 'living room'，展示了主谓宾状结构。"
+        },
+        {
+          "sentence": "When he jumps, he feels very happy.",
+          "translation": "当他跳的时候，他感到非常快乐。",
+          "target_words": [
+            "jump"
+          ],
+          "new_words": [
+            "jump"
+          ],
+          "review_words": [
+            "feel"
+          ],
+          "morphology_rule": "使用时间状语从句 'When he jumps'",
+          "syntactic_structure": "SVO",
+          "difficulty": 2.5,
+          "exercise_type": "translation",
+          "explanation": "句子使用了 'jump' 作为新学单词，并通过 'When' 引导的从句展示了时间关系。"
+        },
+        {
+          "sentence": "Let's study together because it's fun.",
+          "translation": "让我们一起学习，因为这很有趣。",
+          "target_words": [
+            "study"
+          ],
+          "new_words": [
+            "study"
+          ],
+          "review_words": [
+            "it's"
+          ],
+          "morphology_rule": "使用连词 'because' 引导从句",
+          "syntactic_structure": "SVOA",
+          "difficulty": 2.5,
+          "exercise_type": "translation",
+          "explanation": "句子中 'study' 是新学单词，'it's' 是复习单词，使用了从属连词 'because' 连接两个句子。"
+        },
+        {
+          "sentence": "He will leave early tomorrow.",
+          "translation": "他明天会早早离开。",
+          "target_words": [
+            "leave"
+          ],
+          "new_words": [
+            "leave"
+          ],
+          "review_words": [],
+          "morphology_rule": "将 'leave' 作为动词，表示将来的动作",
+          "syntactic_structure": "SVOA",
+          "difficulty": 2.0,
+          "exercise_type": "translation",
+          "explanation": "句子中 'leave' 是新学单词，展示了将来时态的使用。"
+        },
+        {
+          "sentence": "My brother wants to be an actor when he grows up.",
+          "translation": "我哥哥长大后想成为一名演员。",
+          "target_words": [
+            "actor"
+          ],
+          "new_words": [
+            "actor"
+          ],
+          "review_words": [
+            "brother"
+          ],
+          "morphology_rule": "使用不定式 'to be' 表达愿望",
+          "syntactic_structure": "SVOA",
+          "difficulty": 2.5,
+          "exercise_type": "translation",
+          "explanation": "句子使用了新学单词 'actor'，并通过 'when he grows up' 引导时间状语从句。"
+        },
+        {
+          "sentence": "It doesn't matter if we have a picnic in the south.",
+          "translation": "我们在南方野餐并不重要。",
+          "target_words": [
+            "matter"
+          ],
+          "new_words": [
+            "matter"
+          ],
+          "review_words": [
+            "south"
+          ],
+          "morphology_rule": "使用 'doesn't' 表示否定",
+          "syntactic_structure": "SVO",
+          "difficulty": 2.5,
+          "exercise_type": "translation",
+          "explanation": "句子中 'matter' 是新学单词，'south' 是复习单词，展示了主谓宾的结构。"
+        },
+        {
+          "sentence": "My teacher said we can have a picnic this weekend.",
+          "translation": "我的老师说我们这个周末可以去野餐。",
+          "target_words": [
+            "have a picnic"
+          ],
+          "new_words": [
+            "have a picnic"
+          ],
+          "review_words": [
+            "teacher"
+          ],
+          "morphology_rule": "使用 'can' 表示能力或可能性",
+          "syntactic_structure": "SVO",
+          "difficulty": 2.5,
+          "exercise_type": "translation",
+          "explanation": "句子中 'have a picnic' 是新学短语，'teacher' 是复习单词，展示了主谓宾结构。"
+        },
+        {
+          "sentence": "Is he your brother or your friend?",
+          "translation": "他是你的兄弟还是你的朋友？",
+          "target_words": [
+            "he"
+          ],
+          "new_words": [
+            "he"
+          ],
+          "review_words": [
+            "brother"
+          ],
+          "morphology_rule": "使用 'Is' 构成一般疑问句",
+          "syntactic_structure": "Yes/No Question",
+          "difficulty": 2.0,
+          "exercise_type": "translation",
+          "explanation": "句子中 'he' 是新学单词，通过 'Is' 提出一般疑问，检查身份。"
+        },
+        {
+          "sentence": "He plays the piano beautifully.",
+          "translation": "他钢琴弹得很美。",
+          "target_words": [
+            "piano"
+          ],
+          "new_words": [
+            "piano"
+          ],
+          "review_words": [],
+          "morphology_rule": "使用副词 'beautifully' 修饰动词",
+          "syntactic_structure": "SVOA",
+          "difficulty": 2.5,
+          "exercise_type": "translation",
+          "explanation": "句子中 'piano' 是新学单词，使用副词 'beautifully' 修饰动词 'plays'。"
+        },
+        {
+          "sentence": "I drink water every day at 8 o'clock.",
+          "translation": "我每天在八点喝水。",
+          "target_words": [
+            "water"
+          ],
+          "new_words": [
+            "water"
+          ],
+          "review_words": [
+            "o'clock"
+          ],
+          "morphology_rule": "使用时间状语 'at 8 o'clock'",
+          "syntactic_structure": "SVOA",
+          "difficulty": 2.5,
+          "exercise_type": "translation",
+          "explanation": "句子中 'water' 是新学单词，'o'clock' 是复习单词，展示了主谓宾状结构。"
+        }
+      ]
+    },
+    "practice_exercises": {
+      "practice_exercises": []
+    },
+    "generated_at": "2025-10-01T13:21:59.471485",
+    "generation_attempt": 1
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T13:21:59.471538",
+  "generation_attempt": 1
+}

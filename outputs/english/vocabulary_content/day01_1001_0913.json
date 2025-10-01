@@ -1,0 +1,492 @@
+{
+  "day": 1,
+  "date": "2025-10-01",
+  "plan_id": "20250930_214712",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "lamb",
+          "definition": "小羊;羔羊",
+          "part_of_speech": "noun",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "stay",
+          "definition": "在;逗留",
+          "part_of_speech": "verb",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "walk",
+          "definition": "走",
+          "part_of_speech": "verb",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "fourth",
+          "definition": "第四",
+          "part_of_speech": "numeral/adjective",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "busy",
+          "definition": "忙碌的",
+          "part_of_speech": "adjective",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "work",
+          "definition": "工作",
+          "part_of_speech": "noun/verb",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "welcome",
+          "definition": "欢迎",
+          "part_of_speech": "verb/noun/adjective",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "about",
+          "definition": "关于/大约",
+          "part_of_speech": "preposition/adverb",
+          "learning_day": 1,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "put away the clothes",
+          "definition": "收拾衣服",
+          "part_of_speech": "phrase",
+          "learning_day": 1,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "come out",
+          "definition": "露出;出现",
+          "part_of_speech": "phrase/verb",
+          "learning_day": 1,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "名词 (Noun)_0",
+        "name": "名词 (Noun)",
+        "category": "词性",
+        "description": "表示人、事物、地点、概念等。",
+        "examples": [
+          "识别常见名词（如：apple, book, cat, school, teacher）。",
+          "区分可数名词与不可数名词（初步）。",
+          "学习名词的单数形式。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 1
+      },
+      {
+        "id": "动词 (Verb)_3",
+        "name": "动词 (Verb)",
+        "category": "词性",
+        "description": "表示动作或状态。",
+        "examples": [
+          "学习一般现在时（Present Simple）的动词原形和第三人称单数形式（加-s）。",
+          "识别常见情态动词（can, may - 初步）。",
+          "识别 be 动词（am, is, are）的不同形式。",
+          "识别常见动词词组（如: play, eat, go, have, like）。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 1
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "Is/Am/Are...?_11",
+        "name": "Is/Am/Are...?",
+        "category": "句型模式",
+        "description": "一般疑问句 (Yes/No Question) - 询问状态/身份（be 动词）。",
+        "examples": [
+          "Is she your friend?"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 1
+      },
+      {
+        "id": "主谓双宾结构 (Subject-Verb-Indirect Object-Direct Object)_5",
+        "name": "主谓双宾结构 (Subject-Verb-Indirect Object-Direct Object)",
+        "category": "句法结构",
+        "description": "动词后跟两个宾语。",
+        "examples": [
+          "He gave me a pen.",
+          "He gave a pen to me."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 1
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "Is the lamb in the field?",
+          "translation": "羊羔在田里吗？",
+          "target_words": [
+            "lamb",
+            "is"
+          ],
+          "new_words": [
+            "lamb"
+          ],
+          "review_words": [
+            "is"
+          ],
+          "morphology_rule": "Noun, Verb",
+          "syntactic_structure": "Is/Am/Are...?",
+          "exercise_type": "Yes/No Question"
+        },
+        {
+          "sentence": "She stays busy with her work.",
+          "translation": "她忙于她的工作。",
+          "target_words": [
+            "stays",
+            "busy",
+            "work"
+          ],
+          "new_words": [
+            "stays",
+            "busy",
+            "work"
+          ],
+          "review_words": [],
+          "morphology_rule": "Verb, Adjective, Noun",
+          "syntactic_structure": "Subject-Verb-Direct Object",
+          "exercise_type": "Translation"
+        },
+        {
+          "sentence": "He walks the lamb to the barn.",
+          "translation": "他把羊羔走到谷仓。",
+          "target_words": [
+            "walks",
+            "lamb"
+          ],
+          "new_words": [
+            "walks",
+            "lamb"
+          ],
+          "review_words": [],
+          "morphology_rule": "Verb, Noun",
+          "syntactic_structure": "Subject-Verb-Direct Object",
+          "exercise_type": "Translation"
+        },
+        {
+          "sentence": "Is today the fourth day?",
+          "translation": "今天是第四天吗？",
+          "target_words": [
+            "is",
+            "fourth"
+          ],
+          "new_words": [
+            "fourth"
+          ],
+          "review_words": [
+            "is"
+          ],
+          "morphology_rule": "Verb, Adjective",
+          "syntactic_structure": "Is/Am/Are...?",
+          "exercise_type": "Yes/No Question"
+        },
+        {
+          "sentence": "Can you help me put away the clothes?",
+          "translation": "你能帮我把衣服收起来吗？",
+          "target_words": [
+            "can",
+            "put away the clothes"
+          ],
+          "new_words": [
+            "put away the clothes"
+          ],
+          "review_words": [
+            "can"
+          ],
+          "morphology_rule": "Modal Verb, Phrase",
+          "syntactic_structure": "Subject-Verb",
+          "exercise_type": "Translation"
+        },
+        {
+          "sentence": "They welcome us warmly.",
+          "translation": "他们热情地欢迎我们。",
+          "target_words": [
+            "welcome"
+          ],
+          "new_words": [
+            "welcome"
+          ],
+          "review_words": [
+            "us"
+          ],
+          "morphology_rule": "Verb",
+          "syntactic_structure": "Subject-Verb-Indirect Object",
+          "exercise_type": "Translation"
+        },
+        {
+          "sentence": "The sun comes out every morning.",
+          "translation": "太阳每天早上出来。",
+          "target_words": [
+            "comes out"
+          ],
+          "new_words": [
+            "comes out"
+          ],
+          "review_words": [
+            "every",
+            "morning"
+          ],
+          "morphology_rule": "Verb",
+          "syntactic_structure": "Subject-Verb",
+          "exercise_type": "Translation"
+        },
+        {
+          "sentence": "She gives her friend a welcome gift.",
+          "translation": "她给她的朋友一个欢迎礼物。",
+          "target_words": [
+            "gives",
+            "welcome"
+          ],
+          "new_words": [
+            "welcome"
+          ],
+          "review_words": [
+            "gives",
+            "friend"
+          ],
+          "morphology_rule": "Verb, Noun",
+          "syntactic_structure": "Subject-Verb-Indirect Object-Direct Object",
+          "exercise_type": "Translation"
+        }
+      ]
+    },
+    "practice_exercises": {
+      "practice_exercises": [
+        {
+          "id": 1,
+          "type": "choice",
+          "question": "Which word is a noun?",
+          "options": [
+            "stay",
+            "walk",
+            "lamb",
+            "busy"
+          ],
+          "correct_answer": "C",
+          "explanation": "A noun is a word that represents a person, place, thing, or idea. 'Lamb' is a noun because it represents a thing.",
+          "target_words": [
+            "lamb"
+          ],
+          "morphology_points": [
+            "Identify common nouns"
+          ],
+          "syntax_structure": null,
+          "difficulty": 3.0
+        },
+        {
+          "id": 2,
+          "type": "choice",
+          "question": "Which sentence uses a verb correctly?",
+          "options": [
+            "He work hard every day.",
+            "She works hard every day.",
+            "They works hard every day.",
+            "I works hard every day."
+          ],
+          "correct_answer": "B",
+          "explanation": "In present simple tense, we add '-s' to the verb for third-person singular subjects like 'she'.",
+          "target_words": [
+            "work"
+          ],
+          "morphology_points": [
+            "Learn the base form and third-person singular form of verbs in Present Simple"
+          ],
+          "syntax_structure": null,
+          "difficulty": 3.0
+        },
+        {
+          "id": 3,
+          "type": "translation",
+          "question": "Please translate the following Chinese into English:",
+          "chinese_text": "请把衣服收起来。",
+          "english_text": "Please put away the clothes.",
+          "explanation": "The phrase 'put away the clothes' means to tidy up or store clothes correctly.",
+          "target_words": [
+            "put away the clothes"
+          ],
+          "morphology_points": [
+            "Phrase"
+          ],
+          "syntax_structure": null,
+          "difficulty": 3.0
+        },
+        {
+          "id": 4,
+          "type": "translation",
+          "question": "Please translate the following Chinese into English:",
+          "chinese_text": "他是你的朋友吗？",
+          "english_text": "Is he your friend?",
+          "explanation": "The question uses the 'Is/Am/Are' structure to ask about identity or state.",
+          "target_words": [],
+          "morphology_points": [
+            "Is/Am/Are...? - Yes/No Question"
+          ],
+          "syntax_structure": "Is/Am/Are...?",
+          "difficulty": 3.0
+        },
+        {
+          "id": 5,
+          "type": "fill_blank",
+          "question": "Please fill in the appropriate word:",
+          "sentence": "The dog ___ out of the house.",
+          "answer": "came",
+          "explanation": "The phrase 'come out' is used here to describe the action of the dog leaving the house.",
+          "target_words": [
+            "come out"
+          ],
+          "morphology_points": [
+            "Phrase"
+          ],
+          "syntax_structure": null,
+          "difficulty": 3.0
+        },
+        {
+          "id": 6,
+          "type": "fill_blank",
+          "question": "Please fill in the appropriate word:",
+          "sentence": "She gave her friend a ___.",
+          "answer": "welcome",
+          "explanation": "In this context, 'welcome' is used as a noun to describe the action of greeting someone.",
+          "target_words": [
+            "welcome"
+          ],
+          "morphology_points": [
+            "Identify common nouns"
+          ],
+          "syntax_structure": "Subject-Verb-Indirect Object-Direct Object Structure",
+          "difficulty": 3.0
+        },
+        {
+          "id": 7,
+          "type": "choice",
+          "question": "Which word is an adjective?",
+          "options": [
+            "lamb",
+            "busy",
+            "stay",
+            "work"
+          ],
+          "correct_answer": "B",
+          "explanation": "An adjective describes a noun. 'Busy' is an adjective because it describes the state of being occupied.",
+          "target_words": [
+            "busy"
+          ],
+          "morphology_points": [
+            "Identify adjectives"
+          ],
+          "syntax_structure": null,
+          "difficulty": 3.0
+        },
+        {
+          "id": 8,
+          "type": "choice",
+          "question": "What is the fourth item in this list: apple, banana, cherry, date?",
+          "options": [
+            "apple",
+            "banana",
+            "cherry",
+            "date"
+          ],
+          "correct_answer": "D",
+          "explanation": "The numeral 'fourth' indicates the position in a sequence. 'Date' is the fourth item.",
+          "target_words": [
+            "fourth"
+          ],
+          "morphology_points": [
+            "Numeral"
+          ],
+          "syntax_structure": null,
+          "difficulty": 3.0
+        }
+      ]
+    },
+    "generated_at": "2025-10-01T09:13:18.300153"
+  },
+  "study_time_estimate": "15分钟",
+  "generated_at": "2025-10-01T09:13:18.300179"
+}

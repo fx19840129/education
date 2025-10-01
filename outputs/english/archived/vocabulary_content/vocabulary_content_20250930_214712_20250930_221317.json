@@ -1,0 +1,226 @@
+{
+  "day": 2,
+  "date": "2025-10-01",
+  "plan_id": "20250930_214712",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "book_2_1",
+          "definition": "book的定义 (第2天)",
+          "part_of_speech": "noun",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "easy",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "elementary"
+        },
+        {
+          "word": "big_2_2",
+          "definition": "big的定义 (第2天)",
+          "part_of_speech": "adjective",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "elementary"
+        },
+        {
+          "word": "eat_2_3",
+          "definition": "eat的定义 (第2天)",
+          "part_of_speech": "verb",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "easy",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "elementary"
+        },
+        {
+          "word": "happy_2_4",
+          "definition": "happy的定义 (第2天)",
+          "part_of_speech": "verb",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "elementary"
+        },
+        {
+          "word": "small_2_5",
+          "definition": "small的定义 (第2天)",
+          "part_of_speech": "noun",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "elementary"
+        },
+        {
+          "word": "tree_2_6",
+          "definition": "tree的定义 (第2天)",
+          "part_of_speech": "verb",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "easy",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "elementary"
+        },
+        {
+          "word": "run_2_7",
+          "definition": "run的定义 (第2天)",
+          "part_of_speech": "verb",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "easy",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "elementary"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "on_2_1",
+          "definition": "on的定义 (第2天)",
+          "part_of_speech": "pronoun",
+          "learning_day": 2,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "elementary"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "maybe_2_1",
+          "definition": "maybe的定义 (第2天)",
+          "part_of_speech": "modal",
+          "learning_day": 2,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "elementary"
+        },
+        {
+          "word": "can_2_2",
+          "definition": "can的定义 (第2天)",
+          "part_of_speech": "modal",
+          "learning_day": 2,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "elementary"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "review_word_2_1",
+        "definition": "复习词汇1的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 3,
+        "retention_rate": 0.8
+      },
+      {
+        "word": "review_word_2_2",
+        "definition": "复习词汇2的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-25",
+        "review_interval": 9,
+        "retention_rate": 0.76
+      },
+      {
+        "word": "review_word_2_3",
+        "definition": "复习词汇3的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 14,
+        "retention_rate": 0.9
+      },
+      {
+        "word": "review_word_2_4",
+        "definition": "复习词汇4的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-27",
+        "review_interval": 5,
+        "retention_rate": 0.75
+      },
+      {
+        "word": "review_word_2_5",
+        "definition": "复习词汇5的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 12,
+        "retention_rate": 0.73
+      },
+      {
+        "word": "review_word_2_6",
+        "definition": "复习词汇6的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-25",
+        "review_interval": 9,
+        "retention_rate": 0.89
+      },
+      {
+        "word": "review_word_2_7",
+        "definition": "复习词汇7的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-24",
+        "review_interval": 13,
+        "retention_rate": 0.82
+      },
+      {
+        "word": "review_word_2_8",
+        "definition": "复习词汇8的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 11,
+        "retention_rate": 0.75
+      },
+      {
+        "word": "review_word_2_9",
+        "definition": "复习词汇9的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-24",
+        "review_interval": 7,
+        "retention_rate": 0.73
+      },
+      {
+        "word": "review_word_2_10",
+        "definition": "复习词汇10的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-23",
+        "review_interval": 13,
+        "retention_rate": 0.83
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "study_time_estimate": "15分钟",
+  "generated_at": "2025-09-30T22:13:17.550730"
+}

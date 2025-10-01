@@ -1,0 +1,310 @@
+{
+  "day": 3,
+  "date": "2025-10-02",
+  "plan_id": "20250930_214712",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "like",
+          "definition": "喜欢/像",
+          "part_of_speech": "verb/preposition",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "girl",
+          "definition": "女孩",
+          "part_of_speech": "noun",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "take",
+          "definition": "买/拿",
+          "part_of_speech": "verb",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "best",
+          "definition": "最;极",
+          "part_of_speech": "adjective/adverb",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "November",
+          "definition": "十一月",
+          "part_of_speech": "noun",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "plate",
+          "definition": "盘子",
+          "part_of_speech": "noun",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "need",
+          "definition": "需要/需求",
+          "part_of_speech": "verb/noun",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "it's",
+          "definition": "它是",
+          "part_of_speech": "pronoun/verb",
+          "learning_day": 3,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "read books",
+          "definition": "读书",
+          "part_of_speech": "phrase",
+          "learning_day": 3,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "wash the clothes",
+          "definition": "洗衣服",
+          "part_of_speech": "phrase",
+          "learning_day": 3,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "girl",
+        "definition": "girl的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 3,
+        "retention_rate": 0.87,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "at home",
+        "definition": "at home的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 3,
+        "retention_rate": 0.8,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "boots",
+        "definition": "boots的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 3,
+        "retention_rate": 0.78,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "to",
+        "definition": "to的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 1,
+        "retention_rate": 0.87,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "draw",
+        "definition": "draw的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 1,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "come",
+        "definition": "come的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 3,
+        "retention_rate": 0.83,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "reads",
+        "definition": "reads的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 2,
+        "retention_rate": 0.94,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "climb",
+        "definition": "climb的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.91,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "salty",
+        "definition": "salty的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 3,
+        "retention_rate": 0.89,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "pork",
+        "definition": "pork的复习定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 3,
+        "retention_rate": 0.88,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "第三人称单数 (Third Person Singular - Present Simple)_4",
+        "name": "第三人称单数 (Third Person Singular - Present Simple)",
+        "category": "形式变化",
+        "description": "当主语是第三人称单数（he, she, it, 或单数名词）时，现在时动词形式变化。",
+        "examples": [
+          "一般加-s (plays, eats, likes)",
+          "以-s, -x, -ch, -sh 结尾加-es (watches, goes)",
+          "以辅音+y 结尾变y为i加-es (studies)"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 3
+      },
+      {
+        "id": "be 动词 (be Verb Forms)_5",
+        "name": "be 动词 (be Verb Forms)",
+        "category": "形式变化",
+        "description": "am, is, are 的使用（根据主语和时态）。",
+        "examples": [
+          "I am",
+          "He/She/It is",
+          "You/We/They are"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 3
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "What is...?_7",
+        "name": "What is...?",
+        "category": "句型模式",
+        "description": "特殊疑问句 (Wh-Question) - 询问事物名称/身份。",
+        "examples": [
+          "What is this?",
+          "What is your name?"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 3
+      },
+      {
+        "id": "主谓双宾结构 (Subject-Verb-Indirect Object-Direct Object)_5",
+        "name": "主谓双宾结构 (Subject-Verb-Indirect Object-Direct Object)",
+        "category": "句法结构",
+        "description": "动词后跟两个宾语。",
+        "examples": [
+          "He gave me a pen.",
+          "He gave a pen to me."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 3
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "study_time_estimate": "15分钟",
+  "generated_at": "2025-09-30T22:49:37.229000"
+}

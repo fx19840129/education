@@ -1,0 +1,380 @@
+{
+  "day": 12,
+  "date": "2025-10-12",
+  "plan_id": "20251001_110940",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "win",
+          "definition": "赢",
+          "part_of_speech": "verb",
+          "learning_day": 12,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "flu",
+          "definition": "流感",
+          "part_of_speech": "noun",
+          "learning_day": 12,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "feel",
+          "definition": "感觉到；感受到",
+          "part_of_speech": "verb",
+          "learning_day": 12,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "show",
+          "definition": "展示",
+          "part_of_speech": "verb/noun",
+          "learning_day": 12,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "shine",
+          "definition": "照耀",
+          "part_of_speech": "verb",
+          "learning_day": 12,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "schoolbag",
+          "definition": "书包",
+          "part_of_speech": "noun",
+          "learning_day": 12,
+          "category": "core_functional",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "holiday",
+          "definition": "假期",
+          "part_of_speech": "noun",
+          "learning_day": 12,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "a",
+          "definition": "一(个)",
+          "part_of_speech": "article",
+          "learning_day": 12,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "come from",
+          "definition": "来自……;从……来",
+          "part_of_speech": "phrase/verb",
+          "learning_day": 12,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "play computer games",
+          "definition": "玩电脑游戏",
+          "part_of_speech": "phrase",
+          "learning_day": 12,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "reporter",
+        "definition": "reporter的定义",
+        "part_of_speech": "noun",
+        "review_day": 12,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 11,
+        "retention_rate": 0.78,
+        "fsrs_due": true,
+        "days_since_learned": 11
+      },
+      {
+        "word": "stay",
+        "definition": "stay的定义",
+        "part_of_speech": "noun",
+        "review_day": 12,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 3,
+        "retention_rate": 0.76,
+        "fsrs_due": true,
+        "days_since_learned": 11
+      },
+      {
+        "word": "go to school",
+        "definition": "go to school的定义",
+        "part_of_speech": "noun",
+        "review_day": 12,
+        "last_reviewed": "2025-09-22",
+        "review_interval": 2,
+        "retention_rate": 0.75,
+        "fsrs_due": true,
+        "days_since_learned": 11
+      },
+      {
+        "word": "make",
+        "definition": "make的定义",
+        "part_of_speech": "noun",
+        "review_day": 12,
+        "last_reviewed": "2025-09-20",
+        "review_interval": 1,
+        "retention_rate": 0.92,
+        "fsrs_due": true,
+        "days_since_learned": 11
+      },
+      {
+        "word": "fork",
+        "definition": "fork的定义",
+        "part_of_speech": "noun",
+        "review_day": 12,
+        "last_reviewed": "2025-09-20",
+        "review_interval": 7,
+        "retention_rate": 0.78,
+        "fsrs_due": true,
+        "days_since_learned": 11
+      },
+      {
+        "word": "breakfast",
+        "definition": "breakfast的定义",
+        "part_of_speech": "noun",
+        "review_day": 12,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 5,
+        "retention_rate": 0.76,
+        "fsrs_due": true,
+        "days_since_learned": 11
+      },
+      {
+        "word": "honey",
+        "definition": "honey的定义",
+        "part_of_speech": "noun",
+        "review_day": 12,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 5,
+        "retention_rate": 0.72,
+        "fsrs_due": true,
+        "days_since_learned": 11
+      },
+      {
+        "word": "canteen",
+        "definition": "canteen的定义",
+        "part_of_speech": "noun",
+        "review_day": 12,
+        "last_reviewed": "2025-09-30",
+        "review_interval": 12,
+        "retention_rate": 0.92,
+        "fsrs_due": true,
+        "days_since_learned": 11
+      },
+      {
+        "word": "Halloween",
+        "definition": "Halloween的定义",
+        "part_of_speech": "noun",
+        "review_day": 12,
+        "last_reviewed": "2025-09-30",
+        "review_interval": 9,
+        "retention_rate": 0.72,
+        "fsrs_due": true,
+        "days_since_learned": 11
+      },
+      {
+        "word": "now",
+        "definition": "now的定义",
+        "part_of_speech": "noun",
+        "review_day": 12,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 5,
+        "retention_rate": 0.9,
+        "fsrs_due": true,
+        "days_since_learned": 11
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "复数 (Plural)_1",
+        "name": "复数 (Plural)",
+        "category": "形式变化",
+        "description": "表示一个以上的事物。",
+        "examples": [
+          "一般加-s (cats, books)",
+          "以-s, -x, -ch, -sh 结尾加-es (boxes, watches)",
+          "不规则复数（初步接触，如 children, men）"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 12
+      },
+      {
+        "id": "冠词 (Article)_12",
+        "name": "冠词 (Article)",
+        "category": "词性",
+        "description": "放在名词前，表示其确定性。",
+        "examples": [
+          "学习不定冠词 a/an (根据发音)。",
+          "学习定冠词 the 的基本用法。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 12
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "What is...?_7",
+        "name": "What is...?",
+        "category": "句型模式",
+        "description": "特殊疑问句 (Wh-Question) - 询问事物名称/身份。",
+        "examples": [
+          "What is this?",
+          "What is your name?"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 12
+      },
+      {
+        "id": "Where is...?_8",
+        "name": "Where is...?",
+        "category": "句型模式",
+        "description": "特殊疑问句 (Wh-Question) - 询问事物地点。",
+        "examples": [
+          "Where is the book?"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 12
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "The pizza is delicious.",
+          "translation": "这个披萨很美味。",
+          "target_words": [
+            "delicious"
+          ],
+          "new_words": [
+            "delicious"
+          ],
+          "review_words": [],
+          "explanation": "使用'delicious'（美味的）来形容食物的味道很好。"
+        },
+        {
+          "sentence": "She has a beautiful voice.",
+          "translation": "她有一个美丽的嗓音。",
+          "target_words": [
+            "beautiful"
+          ],
+          "new_words": [
+            "beautiful"
+          ],
+          "review_words": [],
+          "explanation": "使用'beautiful'（美丽的）来形容某事物或某人具有美感。"
+        },
+        {
+          "sentence": "This book is very interesting.",
+          "translation": "这本书非常有趣。",
+          "target_words": [
+            "interesting"
+          ],
+          "new_words": [
+            "interesting"
+          ],
+          "review_words": [],
+          "explanation": "使用'interesting'（有趣的）来形容某事物能够引起人的兴趣或好奇心。"
+        },
+        {
+          "sentence": "Math is a difficult subject for me.",
+          "translation": "数学对我来说是一门困难的学科。",
+          "target_words": [
+            "difficult"
+          ],
+          "new_words": [
+            "difficult"
+          ],
+          "review_words": [],
+          "explanation": "使用'difficult'（困难的）来形容某事需要很多努力或技巧才能完成或理解。"
+        },
+        {
+          "sentence": "It is important to drink water every day.",
+          "translation": "每天喝水很重要。",
+          "target_words": [
+            "important"
+          ],
+          "new_words": [
+            "important"
+          ],
+          "review_words": [],
+          "explanation": "使用'important'（重要的）来形容某事物具有很大的价值或意义。"
+        }
+      ]
+    },
+    "practice_exercises": {
+      "practice_exercises": []
+    },
+    "generated_at": "2025-10-01T12:51:04.759750",
+    "generation_attempt": 1
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T12:51:04.759800",
+  "generation_attempt": 1
+}

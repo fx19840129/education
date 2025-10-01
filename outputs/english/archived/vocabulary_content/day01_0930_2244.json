@@ -1,0 +1,201 @@
+{
+  "day": 1,
+  "date": "2025-09-30",
+  "plan_id": "20250930_214712",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "yesterday",
+          "definition": "昨天",
+          "part_of_speech": "noun/adverb",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "shoe",
+          "definition": "鞋",
+          "part_of_speech": "noun",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "have to",
+          "definition": "不得不",
+          "part_of_speech": "verb/auxiliary",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "giraffe",
+          "definition": "长颈鹿",
+          "part_of_speech": "noun",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "floor",
+          "definition": "地板",
+          "part_of_speech": "noun",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "come out",
+          "definition": "露出;出现",
+          "part_of_speech": "phrase/verb",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "skate",
+          "definition": "滑冰；滑冰鞋",
+          "part_of_speech": "verb/noun",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "sure",
+          "definition": "确定地",
+          "part_of_speech": "adjective/adverb",
+          "learning_day": 1,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "go hiking",
+          "definition": "去远足",
+          "part_of_speech": "phrase",
+          "learning_day": 1,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "at home",
+          "definition": "在家里",
+          "part_of_speech": "phrase",
+          "learning_day": 1,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "morphology_1_1",
+        "name": "名词复数形式",
+        "category": "词形变化",
+        "description": "学习名词的复数变化规则",
+        "examples": [
+          "book → books",
+          "child → children",
+          "mouse → mice"
+        ],
+        "difficulty": "easy",
+        "learning_day": 1
+      },
+      {
+        "id": "morphology_1_2",
+        "name": "动词过去式",
+        "category": "时态变化",
+        "description": "学习规则和不规则动词的过去式",
+        "examples": [
+          "walk → walked",
+          "go → went",
+          "see → saw"
+        ],
+        "difficulty": "medium",
+        "learning_day": 1
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "syntax_1_1",
+        "name": "简单句结构",
+        "category": "句子结构",
+        "description": "学习主语+谓语+宾语的基本句子结构",
+        "examples": [
+          "I like books.",
+          "She reads novels.",
+          "We play games."
+        ],
+        "difficulty": "easy",
+        "learning_day": 1
+      },
+      {
+        "id": "syntax_1_2",
+        "name": "疑问句形式",
+        "category": "句型转换",
+        "description": "学习一般疑问句和特殊疑问句的构成",
+        "examples": [
+          "Do you like books?",
+          "What do you like?",
+          "Where is she?"
+        ],
+        "difficulty": "medium",
+        "learning_day": 1
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "study_time_estimate": "15分钟",
+  "generated_at": "2025-09-30T22:44:51.447545"
+}

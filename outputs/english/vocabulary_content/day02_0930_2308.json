@@ -1,0 +1,309 @@
+{
+  "day": 2,
+  "date": "2025-10-01",
+  "plan_id": "20250930_214712",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "kg",
+          "definition": "千克；公斤",
+          "part_of_speech": "noun",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "river",
+          "definition": "河流",
+          "part_of_speech": "noun",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "honey",
+          "definition": "蜂蜜",
+          "part_of_speech": "noun",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "hurry",
+          "definition": "抓紧;赶快",
+          "part_of_speech": "verb",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "brother",
+          "definition": "兄弟",
+          "part_of_speech": "noun",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "pal",
+          "definition": "朋友",
+          "part_of_speech": "noun",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "fall",
+          "definition": "秋天",
+          "part_of_speech": "noun/verb",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "o'clock",
+          "definition": "……点钟",
+          "part_of_speech": "noun/adverb",
+          "learning_day": 2,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "go to school",
+          "definition": "上学",
+          "part_of_speech": "phrase",
+          "learning_day": 2,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "go swimming",
+          "definition": "去游泳",
+          "part_of_speech": "phrase",
+          "learning_day": 2,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "any",
+        "definition": "任何的；所有的",
+        "part_of_speech": "determiner",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.79,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "wait",
+        "definition": "等",
+        "part_of_speech": "verb",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 1,
+        "retention_rate": 0.73,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "longer",
+        "definition": "更长的",
+        "part_of_speech": "adjective",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 1,
+        "retention_rate": 0.92,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "first",
+        "definition": "第一",
+        "part_of_speech": "numeral/adverb/adjective",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.79,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "TV room",
+        "definition": "电视机房",
+        "part_of_speech": "phrase",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.83,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "dear",
+        "definition": "亲爱的/亲爱的称呼",
+        "part_of_speech": "adjective/noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.9,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "reporter",
+        "definition": "记者",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.84,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "rowed",
+        "definition": "划（船）（过去式）",
+        "part_of_speech": "verb",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 1,
+        "retention_rate": 0.85,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "go home",
+        "definition": "回家",
+        "part_of_speech": "phrase",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.91,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "please",
+        "definition": "请/使高兴",
+        "part_of_speech": "verb/interjection",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "第三人称单数 (Third Person Singular - Present Simple)_4",
+        "name": "第三人称单数 (Third Person Singular - Present Simple)",
+        "category": "形式变化",
+        "description": "当主语是第三人称单数（he, she, it, 或单数名词）时，现在时动词形式变化。",
+        "examples": [
+          "一般加-s (plays, eats, likes)",
+          "以-s, -x, -ch, -sh 结尾加-es (watches, goes)",
+          "以辅音+y 结尾变y为i加-es (studies)"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 2
+      },
+      {
+        "id": "副词 (Adverb)_8",
+        "name": "副词 (Adverb)",
+        "category": "词性",
+        "description": "修饰动词、形容词或其他副词。",
+        "examples": [
+          "学习常见副词（如：very, quickly - 初步）。",
+          "许多副词由形容词加-ly构成。",
+          "表示时间、地点、方式等（初步）。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 2
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "Where is...?_8",
+        "name": "Where is...?",
+        "category": "句型模式",
+        "description": "特殊疑问句 (Wh-Question) - 询问事物地点。",
+        "examples": [
+          "Where is the book?"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 2
+      },
+      {
+        "id": "主谓双宾结构 (Subject-Verb-Indirect Object-Direct Object)_5",
+        "name": "主谓双宾结构 (Subject-Verb-Indirect Object-Direct Object)",
+        "category": "句法结构",
+        "description": "动词后跟两个宾语。",
+        "examples": [
+          "He gave me a pen.",
+          "He gave a pen to me."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 2
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "study_time_estimate": "15分钟",
+  "generated_at": "2025-09-30T23:08:21.164031"
+}

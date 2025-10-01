@@ -38,6 +38,7 @@
   "learning_plan_metadata": {
     "total_study_days": 30,
     "daily_learning_minutes_target": 30,
+    "stage": "第一阶段：基础巩固 (小学中高年级)",
     "total_words_in_library": 0,
     "total_morphology_units_in_library": 0,
     "total_syntax_units_in_library": 0,
@@ -85,6 +86,6 @@
     "4": "Easy - 轻松记起"
   },
   "implementation_notes": "For FSRS implementation: Use scheduler_config to initialize FSRS scheduler, create cards based on card_template, and follow daily_targets for content generation.",
-  "generated_at": "2025-09-30T21:47:12.306871",
+  "generated_at": "2025-10-01T11:09:40.048150",
   "format_version": "1.0"
 }

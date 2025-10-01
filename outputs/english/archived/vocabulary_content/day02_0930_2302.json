@@ -1,0 +1,309 @@
+{
+  "day": 2,
+  "date": "2025-10-01",
+  "plan_id": "20250930_214712",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "summer",
+          "definition": "夏天",
+          "part_of_speech": "noun",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "bored",
+          "definition": "无聊的；烦人的",
+          "part_of_speech": "adjective",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "sore",
+          "definition": "疼的",
+          "part_of_speech": "adjective",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "listen",
+          "definition": "听",
+          "part_of_speech": "verb",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "lovely",
+          "definition": "可爱的；美丽的",
+          "part_of_speech": "adjective",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "same",
+          "definition": "相同的",
+          "part_of_speech": "adjective",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "west",
+          "definition": "西",
+          "part_of_speech": "noun/adjective",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "ninth",
+          "definition": "第九",
+          "part_of_speech": "numeral/adjective",
+          "learning_day": 2,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "do housework",
+          "definition": "做家务",
+          "part_of_speech": "phrase",
+          "learning_day": 2,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "I would like to",
+          "definition": "我想要",
+          "part_of_speech": "phrase",
+          "learning_day": 2,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "Friday",
+        "definition": "星期五",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.71,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "same",
+        "definition": "相同的",
+        "part_of_speech": "adjective",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 1,
+        "retention_rate": 0.8,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "chart",
+        "definition": "图表",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 1,
+        "retention_rate": 0.92,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "ninth",
+        "definition": "第九",
+        "part_of_speech": "numeral/adjective",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.79,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "forest",
+        "definition": "森林",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.83,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "do housework",
+        "definition": "做家务",
+        "part_of_speech": "phrase",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.9,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "pear",
+        "definition": "梨",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.84,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "listen",
+        "definition": "听",
+        "part_of_speech": "verb",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 1,
+        "retention_rate": 0.85,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "summer",
+        "definition": "夏天",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.91,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "lovely",
+        "definition": "可爱的；美丽的",
+        "part_of_speech": "adjective",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "第三人称单数 (Third Person Singular - Present Simple)_4",
+        "name": "第三人称单数 (Third Person Singular - Present Simple)",
+        "category": "形式变化",
+        "description": "当主语是第三人称单数（he, she, it, 或单数名词）时，现在时动词形式变化。",
+        "examples": [
+          "一般加-s (plays, eats, likes)",
+          "以-s, -x, -ch, -sh 结尾加-es (watches, goes)",
+          "以辅音+y 结尾变y为i加-es (studies)"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 2
+      },
+      {
+        "id": "副词 (Adverb)_8",
+        "name": "副词 (Adverb)",
+        "category": "词性",
+        "description": "修饰动词、形容词或其他副词。",
+        "examples": [
+          "学习常见副词（如：very, quickly - 初步）。",
+          "许多副词由形容词加-ly构成。",
+          "表示时间、地点、方式等（初步）。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 2
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "Where is...?_8",
+        "name": "Where is...?",
+        "category": "句型模式",
+        "description": "特殊疑问句 (Wh-Question) - 询问事物地点。",
+        "examples": [
+          "Where is the book?"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 2
+      },
+      {
+        "id": "主谓双宾结构 (Subject-Verb-Indirect Object-Direct Object)_5",
+        "name": "主谓双宾结构 (Subject-Verb-Indirect Object-Direct Object)",
+        "category": "句法结构",
+        "description": "动词后跟两个宾语。",
+        "examples": [
+          "He gave me a pen.",
+          "He gave a pen to me."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 2
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "study_time_estimate": "15分钟",
+  "generated_at": "2025-09-30T23:02:55.149077"
+}

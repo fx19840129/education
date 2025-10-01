@@ -1,0 +1,490 @@
+{
+  "day": 18,
+  "date": "2025-10-18",
+  "plan_id": "20251001_110940",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "taxi",
+          "definition": "出租车",
+          "part_of_speech": "noun",
+          "learning_day": 18,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "soup",
+          "definition": "汤",
+          "part_of_speech": "noun",
+          "learning_day": 18,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "excited",
+          "definition": "兴奋的；激动的",
+          "part_of_speech": "adjective",
+          "learning_day": 18,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "collecting",
+          "definition": "收集（动名词）/收集",
+          "part_of_speech": "verb/noun",
+          "learning_day": 18,
+          "category": "core_functional",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "open",
+          "definition": "开着的/打开",
+          "part_of_speech": "verb/adjective",
+          "learning_day": 18,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "want",
+          "definition": "想要",
+          "part_of_speech": "verb",
+          "learning_day": 18,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "store",
+          "definition": "商店",
+          "part_of_speech": "noun",
+          "learning_day": 18,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "two",
+          "definition": "二",
+          "part_of_speech": "numeral",
+          "learning_day": 18,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "yeah",
+          "definition": "是;行",
+          "part_of_speech": "interjection",
+          "learning_day": 18,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "look for",
+          "definition": "寻找",
+          "part_of_speech": "phrase",
+          "learning_day": 18,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "goodbye",
+        "definition": "goodbye的定义",
+        "part_of_speech": "noun",
+        "review_day": 18,
+        "last_reviewed": "2025-09-17",
+        "review_interval": 8,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 17
+      },
+      {
+        "word": "Sun.",
+        "definition": "Sun.的定义",
+        "part_of_speech": "noun",
+        "review_day": 18,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 14,
+        "retention_rate": 0.93,
+        "fsrs_due": true,
+        "days_since_learned": 17
+      },
+      {
+        "word": "get to",
+        "definition": "get to的定义",
+        "part_of_speech": "noun",
+        "review_day": 18,
+        "last_reviewed": "2025-09-20",
+        "review_interval": 7,
+        "retention_rate": 0.74,
+        "fsrs_due": true,
+        "days_since_learned": 17
+      },
+      {
+        "word": "work",
+        "definition": "work的定义",
+        "part_of_speech": "noun",
+        "review_day": 18,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 3,
+        "retention_rate": 0.9,
+        "fsrs_due": true,
+        "days_since_learned": 17
+      },
+      {
+        "word": "this",
+        "definition": "this的定义",
+        "part_of_speech": "noun",
+        "review_day": 18,
+        "last_reviewed": "2025-09-17",
+        "review_interval": 3,
+        "retention_rate": 0.84,
+        "fsrs_due": true,
+        "days_since_learned": 17
+      },
+      {
+        "word": "again",
+        "definition": "again的定义",
+        "part_of_speech": "noun",
+        "review_day": 18,
+        "last_reviewed": "2025-09-19",
+        "review_interval": 6,
+        "retention_rate": 0.71,
+        "fsrs_due": true,
+        "days_since_learned": 17
+      },
+      {
+        "word": "pal",
+        "definition": "pal的定义",
+        "part_of_speech": "noun",
+        "review_day": 18,
+        "last_reviewed": "2025-09-24",
+        "review_interval": 14,
+        "retention_rate": 0.8,
+        "fsrs_due": true,
+        "days_since_learned": 17
+      },
+      {
+        "word": "find",
+        "definition": "find的定义",
+        "part_of_speech": "noun",
+        "review_day": 18,
+        "last_reviewed": "2025-09-25",
+        "review_interval": 5,
+        "retention_rate": 0.88,
+        "fsrs_due": true,
+        "days_since_learned": 17
+      },
+      {
+        "word": "country",
+        "definition": "country的定义",
+        "part_of_speech": "noun",
+        "review_day": 18,
+        "last_reviewed": "2025-09-17",
+        "review_interval": 3,
+        "retention_rate": 0.93,
+        "fsrs_due": true,
+        "days_since_learned": 17
+      },
+      {
+        "word": "Walkman",
+        "definition": "Walkman的定义",
+        "part_of_speech": "noun",
+        "review_day": 18,
+        "last_reviewed": "2025-09-14",
+        "review_interval": 6,
+        "retention_rate": 0.83,
+        "fsrs_due": true,
+        "days_since_learned": 17
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "动词 (Verb)_3",
+        "name": "动词 (Verb)",
+        "category": "词性",
+        "description": "表示动作或状态。",
+        "examples": [
+          "学习一般现在时（Present Simple）的动词原形和第三人称单数形式（加-s）。",
+          "识别常见情态动词（can, may - 初步）。",
+          "识别 be 动词（am, is, are）的不同形式。",
+          "识别常见动词词组（如: play, eat, go, have, like）。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 18
+      },
+      {
+        "id": "副词 (Adverb)_8",
+        "name": "副词 (Adverb)",
+        "category": "词性",
+        "description": "修饰动词、形容词或其他副词。",
+        "examples": [
+          "学习常见副词（如：very, quickly - 初步）。",
+          "许多副词由形容词加-ly构成。",
+          "表示时间、地点、方式等（初步）。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 18
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "I like..._12",
+        "name": "I like...",
+        "category": "句型模式",
+        "description": "陈述句 (Declarative Sentence) - 表达喜好。",
+        "examples": [
+          "I like animals."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 18
+      },
+      {
+        "id": "主谓表结构 (Subject-Verb-Complement)_2",
+        "name": "主谓表结构 (Subject-Verb-Complement)",
+        "category": "句法结构",
+        "description": "使用系动词（如 be, look, get）连接主语和表语。",
+        "examples": [
+          "She is a teacher.",
+          "He looks happy."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 18
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "I want to accumulate more books for my collection.",
+          "translation": "我想为我的收藏积累更多的书。",
+          "target_words": [
+            "accumulate"
+          ],
+          "new_words": [
+            "accumulate"
+          ],
+          "review_words": [],
+          "explanation": "这个句子展示了'accumulate'作为动词的用法，表示'积累'或'收集'。"
+        },
+        {
+          "sentence": "There has been a significant improvement in her grades.",
+          "translation": "她的成绩有了显著的提高。",
+          "target_words": [
+            "significant"
+          ],
+          "new_words": [
+            "significant"
+          ],
+          "review_words": [],
+          "explanation": "这个句子展示了'significant'作为形容词的用法，表示'重要的'或'显著的'。"
+        },
+        {
+          "sentence": "Scientists need to analyze the data carefully.",
+          "translation": "科学家需要仔细分析这些数据。",
+          "target_words": [
+            "analyze"
+          ],
+          "new_words": [
+            "analyze"
+          ],
+          "review_words": [],
+          "explanation": "这个句子展示了'analyze'作为动词的用法，表示'分析'。"
+        },
+        {
+          "sentence": "Regular exercise has many health benefits.",
+          "translation": "定期锻炼有很多健康益处。",
+          "target_words": [
+            "benefit"
+          ],
+          "new_words": [
+            "benefit"
+          ],
+          "review_words": [],
+          "explanation": "这个句子展示了'benefit'作为名词的用法，表示'益处'或'好处'。"
+        },
+        {
+          "sentence": "The concept of time is difficult to understand.",
+          "translation": "时间的概念很难理解。",
+          "target_words": [
+            "concept"
+          ],
+          "new_words": [
+            "concept"
+          ],
+          "review_words": [],
+          "explanation": "这个句子展示了'concept'作为名词的用法，表示'概念'。"
+        }
+      ]
+    },
+    "practice_exercises": {
+      "practice_exercises": [
+        {
+          "id": 1,
+          "type": "choice",
+          "question": "Which word means 'to make something better'?",
+          "options": [
+            "Improve",
+            "Worsen",
+            "Ignore",
+            "Destroy"
+          ],
+          "correct_answer": "Improve",
+          "explanation": "这个问题考察你对'améliore'的理解。'Improve'表示改善或提高某事。",
+          "target_words": [
+            "Improve"
+          ],
+          "morphology_points": [
+            "improving",
+            "improvement"
+          ],
+          "syntax_structure": "Verb usage in context",
+          "difficulty": 3.0
+        },
+        {
+          "id": 2,
+          "type": "choice",
+          "question": "What is the opposite of 'happy'?",
+          "options": [
+            "Joyful",
+            "Sad",
+            "Excited",
+            "Pleased"
+          ],
+          "correct_answer": "Sad",
+          "explanation": "这个问题考察你对'sad'一词的理解。'Sad'意味着不快乐，与'happy'相反。",
+          "target_words": [
+            "Sad"
+          ],
+          "morphology_points": [
+            "sadder",
+            "saddest"
+          ],
+          "syntax_structure": "Adjective usage",
+          "difficulty": 3.0
+        },
+        {
+          "id": 3,
+          "type": "translation",
+          "question": "Please translate the following Chinese into English:",
+          "chinese_text": "我希望你能快乐。",
+          "english_text": "I hope you can be happy.",
+          "explanation": "在这个句子中，'希望'是一个表达愿望的动词，'快乐'是形容词，描述情感状态。",
+          "target_words": [
+            "Happy"
+          ],
+          "morphology_points": [
+            "happiness"
+          ],
+          "syntax_structure": "Subject + verb + object structure",
+          "difficulty": 3.0
+        },
+        {
+          "id": 4,
+          "type": "translation",
+          "question": "Please translate the following Chinese into English:",
+          "chinese_text": "她的成绩提高了。",
+          "english_text": "Her grades have improved.",
+          "explanation": "这里使用了'提高'这个词，表示成绩的变化，强调了'改善'的过程。",
+          "target_words": [
+            "Improve"
+          ],
+          "morphology_points": [
+            "improves",
+            "improving"
+          ],
+          "syntax_structure": "Present perfect tense usage",
+          "difficulty": 3.0
+        },
+        {
+          "id": 5,
+          "type": "fill-in-the-blank",
+          "question": "He was very ______ when he received the good news.",
+          "correct_answer": "happy",
+          "explanation": "在这个句子中，我们用'happy'这个形容词来描述他的情绪。",
+          "target_words": [
+            "Happy"
+          ],
+          "morphology_points": [
+            "happiness"
+          ],
+          "syntax_structure": "Adjective placement",
+          "difficulty": 3.0
+        },
+        {
+          "id": 6,
+          "type": "fill-in-the-blank",
+          "question": "The teacher said I could ______ my project to make it better.",
+          "correct_answer": "improve",
+          "explanation": "在这个句子中，'improve'是动词，表示我们可以对项目进行改进。",
+          "target_words": [
+            "Improve"
+          ],
+          "morphology_points": [
+            "improving"
+          ],
+          "syntax_structure": "Verb usage in an infinitive form",
+          "difficulty": 3.0
+        }
+      ]
+    },
+    "generated_at": "2025-10-01T13:07:34.275078",
+    "generation_attempt": 1
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T13:07:34.275142",
+  "generation_attempt": 1
+}

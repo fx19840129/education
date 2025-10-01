@@ -1,0 +1,489 @@
+{
+  "day": 17,
+  "date": "2025-10-17",
+  "plan_id": "20251001_110940",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "Sun.",
+          "definition": "星期天",
+          "part_of_speech": "noun",
+          "learning_day": 17,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "swing",
+          "definition": "荡；荡秋千",
+          "part_of_speech": "verb/noun",
+          "learning_day": 17,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "guess",
+          "definition": "猜测",
+          "part_of_speech": "verb/noun",
+          "learning_day": 17,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "sun",
+          "definition": "太阳",
+          "part_of_speech": "noun",
+          "learning_day": 17,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "speak",
+          "definition": "讲",
+          "part_of_speech": "verb",
+          "learning_day": 17,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "help",
+          "definition": "帮助",
+          "part_of_speech": "verb/noun",
+          "learning_day": 17,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "date",
+          "definition": "日期",
+          "part_of_speech": "noun",
+          "learning_day": 17,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "again",
+          "definition": "再一次；又",
+          "part_of_speech": "adverb",
+          "learning_day": 17,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "have a headache",
+          "definition": "头疼",
+          "part_of_speech": "phrase",
+          "learning_day": 17,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "does",
+          "definition": "做/助动词（第三人称单数）",
+          "part_of_speech": "verb/auxiliary",
+          "learning_day": 17,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "tip",
+        "definition": "tip的定义",
+        "part_of_speech": "noun",
+        "review_day": 17,
+        "last_reviewed": "2025-09-22",
+        "review_interval": 8,
+        "retention_rate": 0.92,
+        "fsrs_due": true,
+        "days_since_learned": 16
+      },
+      {
+        "word": "weekend",
+        "definition": "weekend的定义",
+        "part_of_speech": "noun",
+        "review_day": 17,
+        "last_reviewed": "2025-09-20",
+        "review_interval": 4,
+        "retention_rate": 0.87,
+        "fsrs_due": true,
+        "days_since_learned": 16
+      },
+      {
+        "word": "sick",
+        "definition": "sick的定义",
+        "part_of_speech": "noun",
+        "review_day": 17,
+        "last_reviewed": "2025-09-22",
+        "review_interval": 11,
+        "retention_rate": 0.71,
+        "fsrs_due": true,
+        "days_since_learned": 16
+      },
+      {
+        "word": "kg",
+        "definition": "kg的定义",
+        "part_of_speech": "noun",
+        "review_day": 17,
+        "last_reviewed": "2025-09-24",
+        "review_interval": 8,
+        "retention_rate": 0.87,
+        "fsrs_due": true,
+        "days_since_learned": 16
+      },
+      {
+        "word": "make",
+        "definition": "make的定义",
+        "part_of_speech": "noun",
+        "review_day": 17,
+        "last_reviewed": "2025-09-19",
+        "review_interval": 4,
+        "retention_rate": 0.95,
+        "fsrs_due": true,
+        "days_since_learned": 16
+      },
+      {
+        "word": "than",
+        "definition": "than的定义",
+        "part_of_speech": "noun",
+        "review_day": 17,
+        "last_reviewed": "2025-09-27",
+        "review_interval": 4,
+        "retention_rate": 0.71,
+        "fsrs_due": true,
+        "days_since_learned": 16
+      },
+      {
+        "word": "canteen",
+        "definition": "canteen的定义",
+        "part_of_speech": "noun",
+        "review_day": 17,
+        "last_reviewed": "2025-09-24",
+        "review_interval": 6,
+        "retention_rate": 0.92,
+        "fsrs_due": true,
+        "days_since_learned": 16
+      },
+      {
+        "word": "making",
+        "definition": "making的定义",
+        "part_of_speech": "noun",
+        "review_day": 17,
+        "last_reviewed": "2025-09-30",
+        "review_interval": 2,
+        "retention_rate": 0.73,
+        "fsrs_due": true,
+        "days_since_learned": 16
+      },
+      {
+        "word": "magazine",
+        "definition": "magazine的定义",
+        "part_of_speech": "noun",
+        "review_day": 17,
+        "last_reviewed": "2025-09-15",
+        "review_interval": 4,
+        "retention_rate": 0.71,
+        "fsrs_due": true,
+        "days_since_learned": 16
+      },
+      {
+        "word": "rabbit",
+        "definition": "rabbit的定义",
+        "part_of_speech": "noun",
+        "review_day": 17,
+        "last_reviewed": "2025-09-18",
+        "review_interval": 6,
+        "retention_rate": 0.83,
+        "fsrs_due": true,
+        "days_since_learned": 16
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "介词 (Preposition)_10",
+        "name": "介词 (Preposition)",
+        "category": "词性",
+        "description": "表示名词或代词与句子其他成分的关系，常表示时间、地点、方向。",
+        "examples": [
+          "学习常见介词（如：in, on, at, to, for, with, from）。",
+          "掌握其基本用法，如 in the morning, on the desk, at school, go to bed。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 17
+      },
+      {
+        "id": "比较级/最高级 (Comparative/Superlative)_7",
+        "name": "比较级/最高级 (Comparative/Superlative)",
+        "category": "形式变化",
+        "description": "比较事物的大小、多少、好坏等。",
+        "examples": [
+          "一般加-er/-est (tall-taller-tallest, big-bigger-biggest)",
+          "部分不规则变化 (good-better-best)"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 17
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "What is...?_7",
+        "name": "What is...?",
+        "category": "句型模式",
+        "description": "特殊疑问句 (Wh-Question) - 询问事物名称/身份。",
+        "examples": [
+          "What is this?",
+          "What is your name?"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 17
+      },
+      {
+        "id": "Imperative (Command/Request)_15",
+        "name": "Imperative (Command/Request)",
+        "category": "句型模式",
+        "description": "祈使句 (Imperative Sentence) - 发出指令或请求。",
+        "examples": [
+          "Open the door.",
+          "Please sit down.",
+          "Don't run."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 17
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "I appreciate your help with my homework.",
+          "translation": "我很感激你帮助我做作业。",
+          "target_words": [
+            "appreciate"
+          ],
+          "new_words": [
+            "appreciate"
+          ],
+          "review_words": [],
+          "explanation": "这个句子展示了\"appreciate\"作为动词\"感激\"的用法。"
+        },
+        {
+          "sentence": "Learning a new language is a big challenge.",
+          "translation": "学习一门新语言是一个很大的挑战。",
+          "target_words": [
+            "challenge"
+          ],
+          "new_words": [
+            "challenge"
+          ],
+          "review_words": [],
+          "explanation": "这个句子展示了\"challenge\"作为名词\"挑战\"的用法。"
+        },
+        {
+          "sentence": "We should protect our natural environment.",
+          "translation": "我们应该保护我们的自然环境。",
+          "target_words": [
+            "environment"
+          ],
+          "new_words": [
+            "environment"
+          ],
+          "review_words": [],
+          "explanation": "这个句子展示了\"environment\"作为名词\"环境\"的用法。"
+        },
+        {
+          "sentence": "Studying abroad is a great opportunity to learn about different cultures.",
+          "translation": "出国留学是了解不同文化的好机会。",
+          "target_words": [
+            "opportunity"
+          ],
+          "new_words": [
+            "opportunity"
+          ],
+          "review_words": [],
+          "explanation": "这个句子展示了\"opportunity\"作为名词\"机会\"的用法。"
+        },
+        {
+          "sentence": "With hard work, you can achieve your goals.",
+          "translation": "通过努力工作，你可以实现你的目标。",
+          "target_words": [
+            "achieve"
+          ],
+          "new_words": [
+            "achieve"
+          ],
+          "review_words": [],
+          "explanation": "这个句子展示了\"achieve\"作为动词\"实现\"的用法。"
+        }
+      ]
+    },
+    "practice_exercises": {
+      "practice_exercises": [
+        {
+          "id": 1,
+          "type": "choice",
+          "question": "Which word means '去' in English?",
+          "options": [
+            "come",
+            "go",
+            "stay",
+            "leave"
+          ],
+          "correct_answer": "go",
+          "explanation": "‘去’的英文翻译是‘go’。",
+          "target_words": [
+            "go"
+          ],
+          "morphology_points": [
+            "动词变化"
+          ],
+          "syntax_structure": "动词的基本用法",
+          "difficulty": 3.0
+        },
+        {
+          "id": 2,
+          "type": "choice",
+          "question": "What is the opposite of '大'?",
+          "options": [
+            "small",
+            "big",
+            "tall",
+            "short"
+          ],
+          "correct_answer": "small",
+          "explanation": "‘大’的反义词是‘小’（small）。",
+          "target_words": [
+            "big",
+            "small"
+          ],
+          "morphology_points": [
+            "形容词的比较级"
+          ],
+          "syntax_structure": "形容词的用法",
+          "difficulty": 3.0
+        },
+        {
+          "id": 3,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文：",
+          "chinese_text": "我每天去学校。",
+          "english_text": "I go to school every day.",
+          "explanation": "句子结构简单，主语是‘I’，动词是‘go’，后面跟地点‘to school’。",
+          "target_words": [
+            "go"
+          ],
+          "morphology_points": [
+            "动词时态"
+          ],
+          "syntax_structure": "主谓宾结构",
+          "difficulty": 3.0
+        },
+        {
+          "id": 4,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文：",
+          "chinese_text": "她的书很大。",
+          "english_text": "Her book is big.",
+          "explanation": "句中‘她的’是物主代词，‘书’是名词，‘很大’是形容词描述。",
+          "target_words": [
+            "big"
+          ],
+          "morphology_points": [
+            "形容词的用法"
+          ],
+          "syntax_structure": "主系表结构",
+          "difficulty": 3.0
+        },
+        {
+          "id": 5,
+          "type": "fill_blank",
+          "question": "请填入适当的单词：",
+          "sentence": "I ___ to the park on weekends.",
+          "answer": "go",
+          "explanation": "句子中需要动词，表示去公园的动作，答案是‘go’。",
+          "target_words": [
+            "go"
+          ],
+          "morphology_points": [
+            "动词时态"
+          ],
+          "syntax_structure": "简单句结构",
+          "difficulty": 3.0
+        },
+        {
+          "id": 6,
+          "type": "fill_blank",
+          "question": "请填入适当的单词：",
+          "sentence": "This box is too ___.",
+          "answer": "big",
+          "explanation": "句子需要形容词来描述箱子的大小，答案是‘big’。",
+          "target_words": [
+            "big"
+          ],
+          "morphology_points": [
+            "形容词的位置"
+          ],
+          "syntax_structure": "主系表结构",
+          "difficulty": 3.0
+        }
+      ]
+    },
+    "generated_at": "2025-10-01T13:06:32.620021",
+    "generation_attempt": 1
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T13:06:32.620081",
+  "generation_attempt": 1
+}

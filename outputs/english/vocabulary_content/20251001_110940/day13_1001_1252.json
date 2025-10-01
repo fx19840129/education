@@ -1,0 +1,381 @@
+{
+  "day": 13,
+  "date": "2025-10-13",
+  "plan_id": "20251001_110940",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "cow",
+          "definition": "奶牛",
+          "part_of_speech": "noun",
+          "learning_day": 13,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "bread",
+          "definition": "面包",
+          "part_of_speech": "noun",
+          "learning_day": 13,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "milk",
+          "definition": "牛奶",
+          "part_of_speech": "noun",
+          "learning_day": 13,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "Wednesday",
+          "definition": "星期三",
+          "part_of_speech": "noun",
+          "learning_day": 13,
+          "category": "core_functional",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "nose",
+          "definition": "鼻子",
+          "part_of_speech": "noun",
+          "learning_day": 13,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "design",
+          "definition": "设计",
+          "part_of_speech": "noun/verb",
+          "learning_day": 13,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "chicken",
+          "definition": "鸡肉",
+          "part_of_speech": "noun",
+          "learning_day": 13,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "how",
+          "definition": "多么；怎么样",
+          "part_of_speech": "adverb/interjection",
+          "learning_day": 13,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "just a minute",
+          "definition": "再多一会",
+          "part_of_speech": "phrase",
+          "learning_day": 13,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "excuse me",
+          "definition": "对不起",
+          "part_of_speech": "phrase",
+          "learning_day": 13,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "colour",
+        "definition": "colour的定义",
+        "part_of_speech": "noun",
+        "review_day": 13,
+        "last_reviewed": "2025-09-25",
+        "review_interval": 3,
+        "retention_rate": 0.88,
+        "fsrs_due": true,
+        "days_since_learned": 12
+      },
+      {
+        "word": "snowy",
+        "definition": "snowy的定义",
+        "part_of_speech": "noun",
+        "review_day": 13,
+        "last_reviewed": "2025-09-22",
+        "review_interval": 4,
+        "retention_rate": 0.89,
+        "fsrs_due": true,
+        "days_since_learned": 12
+      },
+      {
+        "word": "lobster",
+        "definition": "lobster的定义",
+        "part_of_speech": "noun",
+        "review_day": 13,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 13,
+        "retention_rate": 0.93,
+        "fsrs_due": true,
+        "days_since_learned": 12
+      },
+      {
+        "word": "love",
+        "definition": "love的定义",
+        "part_of_speech": "noun",
+        "review_day": 13,
+        "last_reviewed": "2025-09-25",
+        "review_interval": 10,
+        "retention_rate": 0.91,
+        "fsrs_due": true,
+        "days_since_learned": 12
+      },
+      {
+        "word": "trees",
+        "definition": "trees的定义",
+        "part_of_speech": "noun",
+        "review_day": 13,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 5,
+        "retention_rate": 0.7,
+        "fsrs_due": true,
+        "days_since_learned": 12
+      },
+      {
+        "word": "shopping",
+        "definition": "shopping的定义",
+        "part_of_speech": "noun",
+        "review_day": 13,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 3,
+        "retention_rate": 0.85,
+        "fsrs_due": true,
+        "days_since_learned": 12
+      },
+      {
+        "word": "Chinese book",
+        "definition": "Chinese book的定义",
+        "part_of_speech": "noun",
+        "review_day": 13,
+        "last_reviewed": "2025-09-27",
+        "review_interval": 5,
+        "retention_rate": 0.82,
+        "fsrs_due": true,
+        "days_since_learned": 12
+      },
+      {
+        "word": "mountain",
+        "definition": "mountain的定义",
+        "part_of_speech": "noun",
+        "review_day": 13,
+        "last_reviewed": "2025-09-23",
+        "review_interval": 7,
+        "retention_rate": 0.79,
+        "fsrs_due": true,
+        "days_since_learned": 12
+      },
+      {
+        "word": "lamb",
+        "definition": "lamb的定义",
+        "part_of_speech": "noun",
+        "review_day": 13,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 10,
+        "retention_rate": 0.86,
+        "fsrs_due": true,
+        "days_since_learned": 12
+      },
+      {
+        "word": "now",
+        "definition": "now的定义",
+        "part_of_speech": "noun",
+        "review_day": 13,
+        "last_reviewed": "2025-09-22",
+        "review_interval": 1,
+        "retention_rate": 0.92,
+        "fsrs_due": true,
+        "days_since_learned": 12
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "副词 (Adverb)_8",
+        "name": "副词 (Adverb)",
+        "category": "词性",
+        "description": "修饰动词、形容词或其他副词。",
+        "examples": [
+          "学习常见副词（如：very, quickly - 初步）。",
+          "许多副词由形容词加-ly构成。",
+          "表示时间、地点、方式等（初步）。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 13
+      },
+      {
+        "id": "比较级/最高级 (Comparative/Superlative)_7",
+        "name": "比较级/最高级 (Comparative/Superlative)",
+        "category": "形式变化",
+        "description": "比较事物的大小、多少、好坏等。",
+        "examples": [
+          "一般加-er/-est (tall-taller-tallest, big-bigger-biggest)",
+          "部分不规则变化 (good-better-best)"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 13
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "主谓表结构 (Subject-Verb-Complement)_2",
+        "name": "主谓表结构 (Subject-Verb-Complement)",
+        "category": "句法结构",
+        "description": "使用系动词（如 be, look, get）连接主语和表语。",
+        "examples": [
+          "She is a teacher.",
+          "He looks happy."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 13
+      },
+      {
+        "id": "主谓宾状结构 (Subject-Verb-Object-Adverbial)_4",
+        "name": "主谓宾状结构 (Subject-Verb-Object-Adverbial)",
+        "category": "句法结构",
+        "description": "在 SVO 基础上增加状语。",
+        "examples": [
+          "She reads a book in the library.",
+          "He came home yesterday."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 13
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "She is a diligent student who always completes her homework on time.",
+          "translation": "她是一个勤奋的学生，总是按时完成作业。",
+          "target_words": [
+            "diligent"
+          ],
+          "new_words": [
+            "diligent"
+          ],
+          "review_words": [],
+          "explanation": "这个句子描述了一个勤奋的学生，强调了'diligent'一词的含义，即勤奋、努力的。"
+        },
+        {
+          "sentence": "I appreciate your help with my project.",
+          "translation": "我很感激你对我的项目提供的帮助。",
+          "target_words": [
+            "appreciate"
+          ],
+          "new_words": [
+            "appreciate"
+          ],
+          "review_words": [],
+          "explanation": "这个句子表达了对他人帮助的感激之情，展示了'appreciate'作为'感激'意思的用法。"
+        },
+        {
+          "sentence": "We should protect the environment for future generations.",
+          "translation": "我们应该为子孙后代保护环境。",
+          "target_words": [
+            "environment"
+          ],
+          "new_words": [
+            "environment"
+          ],
+          "review_words": [],
+          "explanation": "这个句子讨论了环境保护的重要性，示范了'environment'一词在讨论自然和生态问题时的用法。"
+        },
+        {
+          "sentence": "The discovery had a significant impact on medical research.",
+          "translation": "这一发现对医学研究产生了重大影响。",
+          "target_words": [
+            "significant"
+          ],
+          "new_words": [
+            "significant"
+          ],
+          "review_words": [],
+          "explanation": "这个句子强调了某项发现的重要性，展示了'significant'表示'重要的、重大的'含义。"
+        },
+        {
+          "sentence": "Learning a new language is an exciting challenge.",
+          "translation": "学习一门新语言是一个令人兴奋的挑战。",
+          "target_words": [
+            "challenge"
+          ],
+          "new_words": [
+            "challenge"
+          ],
+          "review_words": [],
+          "explanation": "这个句子描述了学习新语言的难度和刺激性，示范了'challenge'作为'挑战'的用法。"
+        }
+      ]
+    },
+    "practice_exercises": {
+      "practice_exercises": []
+    },
+    "generated_at": "2025-10-01T12:52:51.675867",
+    "generation_attempt": 1
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T12:52:51.675927",
+  "generation_attempt": 1
+}

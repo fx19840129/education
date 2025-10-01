@@ -1,0 +1,292 @@
+{
+  "day": 2,
+  "date": "2025-10-01",
+  "plan_id": "20250930_214712",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "big_2_1",
+          "definition": "big的定义 (第2天)",
+          "part_of_speech": "verb",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "easy",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "elementary"
+        },
+        {
+          "word": "tree_2_2",
+          "definition": "tree的定义 (第2天)",
+          "part_of_speech": "verb",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "easy",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "elementary"
+        },
+        {
+          "word": "eat_2_3",
+          "definition": "eat的定义 (第2天)",
+          "part_of_speech": "verb",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "easy",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "elementary"
+        },
+        {
+          "word": "small_2_4",
+          "definition": "small的定义 (第2天)",
+          "part_of_speech": "verb",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "elementary"
+        },
+        {
+          "word": "read_2_5",
+          "definition": "read的定义 (第2天)",
+          "part_of_speech": "verb",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "easy",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "elementary"
+        },
+        {
+          "word": "happy_2_6",
+          "definition": "happy的定义 (第2天)",
+          "part_of_speech": "noun",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "elementary"
+        },
+        {
+          "word": "house_2_7",
+          "definition": "house的定义 (第2天)",
+          "part_of_speech": "verb",
+          "learning_day": 2,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "elementary"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "quickly_2_1",
+          "definition": "quickly的定义 (第2天)",
+          "part_of_speech": "pronoun",
+          "learning_day": 2,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "elementary"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "yes_2_1",
+          "definition": "yes的定义 (第2天)",
+          "part_of_speech": "interjection",
+          "learning_day": 2,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "elementary"
+        },
+        {
+          "word": "please_2_2",
+          "definition": "please的定义 (第2天)",
+          "part_of_speech": "auxiliary",
+          "learning_day": 2,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "elementary"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "review_word_2_1",
+        "definition": "复习词汇1的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 6,
+        "retention_rate": 0.82
+      },
+      {
+        "word": "review_word_2_2",
+        "definition": "复习词汇2的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 11,
+        "retention_rate": 0.72
+      },
+      {
+        "word": "review_word_2_3",
+        "definition": "复习词汇3的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 9,
+        "retention_rate": 0.9
+      },
+      {
+        "word": "review_word_2_4",
+        "definition": "复习词汇4的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-23",
+        "review_interval": 6,
+        "retention_rate": 0.72
+      },
+      {
+        "word": "review_word_2_5",
+        "definition": "复习词汇5的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 7,
+        "retention_rate": 0.84
+      },
+      {
+        "word": "review_word_2_6",
+        "definition": "复习词汇6的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.86
+      },
+      {
+        "word": "review_word_2_7",
+        "definition": "复习词汇7的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-25",
+        "review_interval": 3,
+        "retention_rate": 0.94
+      },
+      {
+        "word": "review_word_2_8",
+        "definition": "复习词汇8的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-23",
+        "review_interval": 3,
+        "retention_rate": 0.75
+      },
+      {
+        "word": "review_word_2_9",
+        "definition": "复习词汇9的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 11,
+        "retention_rate": 0.84
+      },
+      {
+        "word": "review_word_2_10",
+        "definition": "复习词汇10的定义",
+        "part_of_speech": "noun",
+        "review_day": 2,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 9,
+        "retention_rate": 0.89
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "morphology_2_1",
+        "name": "名词复数形式",
+        "category": "词形变化",
+        "description": "学习名词的复数变化规则",
+        "examples": [
+          "book → books",
+          "child → children",
+          "mouse → mice"
+        ],
+        "difficulty": "easy",
+        "learning_day": 2
+      },
+      {
+        "id": "morphology_2_2",
+        "name": "动词过去式",
+        "category": "时态变化",
+        "description": "学习规则和不规则动词的过去式",
+        "examples": [
+          "walk → walked",
+          "go → went",
+          "see → saw"
+        ],
+        "difficulty": "medium",
+        "learning_day": 2
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "syntax_2_1",
+        "name": "简单句结构",
+        "category": "句子结构",
+        "description": "学习主语+谓语+宾语的基本句子结构",
+        "examples": [
+          "I like books.",
+          "She reads novels.",
+          "We play games."
+        ],
+        "difficulty": "easy",
+        "learning_day": 2
+      },
+      {
+        "id": "syntax_2_2",
+        "name": "疑问句形式",
+        "category": "句型转换",
+        "description": "学习一般疑问句和特殊疑问句的构成",
+        "examples": [
+          "Do you like books?",
+          "What do you like?",
+          "Where is she?"
+        ],
+        "difficulty": "medium",
+        "learning_day": 2
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "study_time_estimate": "15分钟",
+  "generated_at": "2025-09-30T22:26:01.968838"
+}

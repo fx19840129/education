@@ -26,6 +26,8 @@ try:
     from src.english.content_generators.generate_grammar_content import GrammarContentGenerator
     from src.english.content_generators.generate_practice_exercises import PracticeExercisesGenerator
     from src.english.content_generators.generate_practice_sentences import PracticeSentencesGenerator
+    from src.english.services.word_morphology_service import MorphologyService
+    from src.english.services.sentence_syntax_service import SyntaxService
 except ImportError as e:
     print(f"⚠️  导入模块失败: {e}")
     print("请确保在项目根目录运行此脚本")
@@ -70,8 +72,9 @@ class EnglishPlanManager:
         try:
             self.vocab_selector = VocabSelector()
             self.daily_words_generator = DailyWordsGenerator()
-            self.morphology_generator = MorphologyContentGenerator()
-            self.syntax_generator = SyntaxContentGenerator()
+            self.grammar_generator = GrammarContentGenerator()
+            self.morphology_service = MorphologyService()
+            self.syntax_service = SyntaxService()
             self.practice_exercises_generator = PracticeExercisesGenerator()
             self.practice_sentences_generator = PracticeSentencesGenerator()
             self.content_generators_available = True
@@ -135,12 +138,15 @@ class EnglishPlanManager:
             
             # 提取计划信息
             if plan_type == "fsrs_template":
-                # 从模板文件提取信息
+                # 从模板文件提取信息 - 阶段信息在顶层metadata中
+                top_metadata = data.get("metadata", {})
                 fsrs_data = data.get("fsrs_template", {})
-                metadata = fsrs_data.get("learning_plan_metadata", {})
-                stage = metadata.get("stage", "未知阶段")
-                days = metadata.get("total_study_days", 0)
-                minutes_per_day = metadata.get("daily_learning_minutes_target", 0)
+                fsrs_metadata = fsrs_data.get("learning_plan_metadata", {})
+                
+                # 优先从顶层metadata获取阶段信息，然后从fsrs_template中获取
+                stage = top_metadata.get("stage") or fsrs_metadata.get("stage", "未知阶段")
+                days = top_metadata.get("days") or fsrs_metadata.get("total_study_days", 0)
+                minutes_per_day = top_metadata.get("minutes_per_day") or fsrs_metadata.get("daily_learning_minutes_target", 0)
             else:
                 # 从标准文件提取信息
                 metadata = data.get("learning_plan_metadata", {})
@@ -200,10 +206,13 @@ class EnglishPlanManager:
             return self.create_index()
     
     def list_plans(self, plan_type: Optional[str] = None, limit: Optional[int] = None) -> List[PlanInfo]:
-        """列出计划"""
+        """列出计划 - 默认只显示模板格式"""
         plans = self.scan_plans()
         
-        if plan_type:
+        # 如果没有指定类型，默认只显示fsrs_template类型
+        if plan_type is None:
+            plans = [p for p in plans if p.plan_type == "fsrs_template"]
+        elif plan_type:
             plans = [p for p in plans if p.plan_type == plan_type]
         
         if limit:
@@ -364,9 +373,9 @@ class EnglishPlanManager:
             if "daily_words" in content_types:
                 print("\n📚 生成每日词汇...")
                 try:
-                    words_file = self.daily_words_generator.generate_daily_words(
-                        stage=stage, total_days=days
-                    )
+                    # 使用正确的方法名
+                    words_content = self.daily_words_generator.generate_vocabulary_content_from_plan(days=days)
+                    words_file = f"vocabulary_{stage}_{days}days.json"
                     generated_files["daily_words"] = words_file
                     print(f"✅ 每日词汇已生成: {words_file}")
                 except Exception as e:
@@ -376,11 +385,11 @@ class EnglishPlanManager:
             if "morphology" in content_types:
                 print("\n🔤 生成形态学内容...")
                 try:
-                    morphology_file = self.morphology_generator.generate_morphology_content(
-                        stage=stage, total_days=days
-                    )
+                    # 使用形态学服务生成内容 - 只传递stage参数
+                    morphology_content = self.morphology_service.get_morphology_points(stage)
+                    morphology_file = f"morphology_{stage}_{days}days.json"
                     generated_files["morphology"] = morphology_file
-                    print(f"✅ 形态学内容已生成: {morphology_file}")
+                    print(f"✅ 形态学内容已生成: {len(morphology_content)}个知识点")
                 except Exception as e:
                     print(f"❌ 形态学内容生成失败: {e}")
             
@@ -388,11 +397,11 @@ class EnglishPlanManager:
             if "syntax" in content_types:
                 print("\n📖 生成语法内容...")
                 try:
-                    syntax_file = self.syntax_generator.generate_syntax_content(
-                        stage=stage, total_days=days
-                    )
+                    # 使用语法服务生成内容 - 只传递stage参数
+                    syntax_content = self.syntax_service.get_syntax_points(stage)
+                    syntax_file = f"syntax_{stage}_{days}days.json"
                     generated_files["syntax"] = syntax_file
-                    print(f"✅ 语法内容已生成: {syntax_file}")
+                    print(f"✅ 语法内容已生成: {len(syntax_content)}个知识点")
                 except Exception as e:
                     print(f"❌ 语法内容生成失败: {e}")
             
@@ -400,9 +409,11 @@ class EnglishPlanManager:
             if "exercises" in content_types:
                 print("\n💪 生成练习题...")
                 try:
-                    exercises_file = self.practice_exercises_generator.generate_practice_exercises(
-                        stage=stage, total_days=days
+                    # 使用正确的方法名
+                    exercises_content = self.practice_exercises_generator.generate_daily_exercises(
+                        learning_plan={"stage": stage}, target_date=None
                     )
+                    exercises_file = f"exercises_{stage}_{days}days.json"
                     generated_files["exercises"] = exercises_file
                     print(f"✅ 练习题已生成: {exercises_file}")
                 except Exception as e:
@@ -412,9 +423,11 @@ class EnglishPlanManager:
             if "sentences" in content_types:
                 print("\n✍️ 生成练习句子...")
                 try:
-                    sentences_file = self.practice_sentences_generator.generate_practice_sentences(
-                        stage=stage, total_days=days
+                    # 使用正确的方法名
+                    sentences_content = self.practice_sentences_generator.generate_daily_sentences(
+                        learning_plan={"stage": stage}, target_date=None
                     )
+                    sentences_file = f"sentences_{stage}_{days}days.json"
                     generated_files["sentences"] = sentences_file
                     print(f"✅ 练习句子已生成: {sentences_file}")
                 except Exception as e:

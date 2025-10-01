@@ -1,0 +1,465 @@
+{
+  "day": 1,
+  "date": "2025-10-01",
+  "plan_id": "20250930_214712",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "worry",
+          "definition": "烦恼；忧虑",
+          "part_of_speech": "verb/noun",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "lady",
+          "definition": "女士;小姐;夫人",
+          "part_of_speech": "noun",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "tip",
+          "definition": "有用的小建议",
+          "part_of_speech": "noun",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "stop",
+          "definition": "停；停车站",
+          "part_of_speech": "verb/noun",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "September",
+          "definition": "九月",
+          "part_of_speech": "noun",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "Monday",
+          "definition": "星期一",
+          "part_of_speech": "noun",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "farmer",
+          "definition": "农民",
+          "part_of_speech": "noun",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "next",
+          "definition": "下一个",
+          "part_of_speech": "adjective/adverb",
+          "learning_day": 1,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "have to",
+          "definition": "不得不",
+          "part_of_speech": "verb/auxiliary",
+          "learning_day": 1,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "write a report",
+          "definition": "写报告",
+          "part_of_speech": "phrase",
+          "learning_day": 1,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "名词 (Noun)_0",
+        "name": "名词 (Noun)",
+        "category": "词性",
+        "description": "表示人、事物、地点、概念等。",
+        "examples": [
+          "识别常见名词（如：apple, book, cat, school, teacher）。",
+          "区分可数名词与不可数名词（初步）。",
+          "学习名词的单数形式。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 1
+      },
+      {
+        "id": "动词 (Verb)_3",
+        "name": "动词 (Verb)",
+        "category": "词性",
+        "description": "表示动作或状态。",
+        "examples": [
+          "学习一般现在时（Present Simple）的动词原形和第三人称单数形式（加-s）。",
+          "识别常见情态动词（can, may - 初步）。",
+          "识别 be 动词（am, is, are）的不同形式。",
+          "识别常见动词词组（如: play, eat, go, have, like）。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 1
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "Is/Am/Are...?_11",
+        "name": "Is/Am/Are...?",
+        "category": "句型模式",
+        "description": "一般疑问句 (Yes/No Question) - 询问状态/身份（be 动词）。",
+        "examples": [
+          "Is she your friend?"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 1
+      },
+      {
+        "id": "主谓双宾结构 (Subject-Verb-Indirect Object-Direct Object)_5",
+        "name": "主谓双宾结构 (Subject-Verb-Indirect Object-Direct Object)",
+        "category": "句法结构",
+        "description": "动词后跟两个宾语。",
+        "examples": [
+          "He gave me a pen.",
+          "He gave a pen to me."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 1
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "Is September next on the calendar?",
+          "translation": "九月是日历上的下一个月吗？",
+          "target_words": [
+            "September",
+            "next"
+          ],
+          "new_words": [
+            "September",
+            "next"
+          ],
+          "review_words": [],
+          "morphology_rule": "Noun: Represents a month.",
+          "syntactic_structure": "Is/Am/Are...?: A Yes/No Question",
+          "difficulty": 3.0,
+          "exercise_type": "translation"
+        },
+        {
+          "sentence": "The farmer gave the lady a tip.",
+          "translation": "农民给了那位女士一个建议。",
+          "target_words": [
+            "farmer",
+            "lady",
+            "tip"
+          ],
+          "new_words": [
+            "farmer",
+            "lady",
+            "tip"
+          ],
+          "review_words": [],
+          "morphology_rule": "Noun: Represents a person and a helpful piece of advice.",
+          "syntactic_structure": "Subject-Verb-Indirect Object-Direct Object (SVIODO)",
+          "difficulty": 3.0,
+          "exercise_type": "fill-in-the-blank"
+        },
+        {
+          "sentence": "Do you have to stop at the bus stop?",
+          "translation": "你必须在公交车站停吗？",
+          "target_words": [
+            "have to",
+            "stop"
+          ],
+          "new_words": [
+            "have to",
+            "stop"
+          ],
+          "review_words": [],
+          "morphology_rule": "Verb: Represents a required action.",
+          "syntactic_structure": "Is/Am/Are...?: A Yes/No Question",
+          "difficulty": 3.0,
+          "exercise_type": "translation"
+        },
+        {
+          "sentence": "The lady writes a report every Monday.",
+          "translation": "那位女士每个星期一写报告。",
+          "target_words": [
+            "lady",
+            "write a report",
+            "Monday"
+          ],
+          "new_words": [
+            "lady",
+            "write a report",
+            "Monday"
+          ],
+          "review_words": [],
+          "morphology_rule": "Noun: Represents a person and a day of the week.",
+          "syntactic_structure": "Subject-Verb-Indirect Object-Direct Object (SVIODO)",
+          "difficulty": 3.0,
+          "exercise_type": "translation"
+        },
+        {
+          "sentence": "Is she worried about the report?",
+          "translation": "她在担心报告吗？",
+          "target_words": [
+            "worry"
+          ],
+          "new_words": [
+            "worry"
+          ],
+          "review_words": [],
+          "morphology_rule": "Verb: Represents a state of anxiety.",
+          "syntactic_structure": "Is/Am/Are...?: A Yes/No Question",
+          "difficulty": 3.0,
+          "exercise_type": "translation"
+        },
+        {
+          "sentence": "The next farmer will have to write a report.",
+          "translation": "下一个农民将不得不写报告。",
+          "target_words": [
+            "next",
+            "farmer",
+            "have to",
+            "write a report"
+          ],
+          "new_words": [
+            "next",
+            "farmer",
+            "have to",
+            "write a report"
+          ],
+          "review_words": [],
+          "morphology_rule": "Verb: Represents a future required action.",
+          "syntactic_structure": "Subject-Verb-Indirect Object-Direct Object (SVIODO)",
+          "difficulty": 3.0,
+          "exercise_type": "fill-in-the-blank"
+        },
+        {
+          "sentence": "Is September a busy month for farmers?",
+          "translation": "九月对农民来说是个忙碌的月份吗？",
+          "target_words": [
+            "September",
+            "farmer"
+          ],
+          "new_words": [
+            "September",
+            "farmer"
+          ],
+          "review_words": [],
+          "morphology_rule": "Noun: Represents a month and a person.",
+          "syntactic_structure": "Is/Am/Are...?: A Yes/No Question",
+          "difficulty": 3.0,
+          "exercise_type": "multiple choice"
+        },
+        {
+          "sentence": "The lady gave him a tip on Monday.",
+          "translation": "那位女士在星期一给了他一个建议。",
+          "target_words": [
+            "lady",
+            "tip",
+            "Monday"
+          ],
+          "new_words": [
+            "lady",
+            "tip",
+            "Monday"
+          ],
+          "review_words": [],
+          "morphology_rule": "Noun: Represents a person, a piece of advice, and a day of the week.",
+          "syntactic_structure": "Subject-Verb-Indirect Object-Direct Object (SVIODO)",
+          "difficulty": 3.0,
+          "exercise_type": "translation"
+        }
+      ]
+    },
+    "practice_exercises": {
+      "practice_exercises": [
+        {
+          "id": 1,
+          "type": "choice",
+          "question": "Which sentence correctly uses the word 'worry'?",
+          "options": [
+            "She worry about the test.",
+            "They worries about the test.",
+            "He worries about the test.",
+            "I worrys about the test."
+          ],
+          "correct_answer": "C",
+          "explanation": "在使用动词worry时，注意第三人称单数需要加-s，所以选C。",
+          "target_words": [
+            "worry"
+          ],
+          "morphology_points": [
+            "base form and third-person singular form"
+          ],
+          "syntax_structure": null,
+          "difficulty": 3.0
+        },
+        {
+          "id": 2,
+          "type": "choice",
+          "question": "What is the correct form of the verb in this sentence: 'He ___ to the farm every Monday.'",
+          "options": [
+            "go",
+            "goes",
+            "going",
+            "gone"
+          ],
+          "correct_answer": "B",
+          "explanation": "第三人称单数形式需要加-s，所以He goes是正确的。",
+          "target_words": [
+            "Monday",
+            "farm"
+          ],
+          "morphology_points": [
+            "base form and third-person singular form"
+          ],
+          "syntax_structure": null,
+          "difficulty": 3.0
+        },
+        {
+          "id": 3,
+          "type": "translation",
+          "question": "Please translate the following Chinese into English:",
+          "chinese_text": "她是一位农民。",
+          "english_text": "She is a farmer.",
+          "explanation": "使用be动词来描述身份，farmer是表示职业的名词。",
+          "target_words": [
+            "farmer"
+          ],
+          "morphology_points": [
+            "noun"
+          ],
+          "syntax_structure": "Is/Am/Are...?",
+          "difficulty": 3.0
+        },
+        {
+          "id": 4,
+          "type": "translation",
+          "question": "Please translate the following Chinese into English:",
+          "chinese_text": "星期一我们得写报告。",
+          "english_text": "On Monday, we have to write a report.",
+          "explanation": "注意使用介词On来表示星期几，用have to表示必要性。",
+          "target_words": [
+            "Monday",
+            "have to",
+            "write a report"
+          ],
+          "morphology_points": [
+            "verb/auxiliary"
+          ],
+          "syntax_structure": null,
+          "difficulty": 3.0
+        },
+        {
+          "id": 5,
+          "type": "fill_blank",
+          "question": "Please fill in the appropriate word:",
+          "sentence": "The ___ gave us some tips on farming.",
+          "answer": "farmer",
+          "explanation": "这里需要一个名词来表示给建议的人，farmer表示农民。",
+          "target_words": [
+            "farmer",
+            "tip"
+          ],
+          "morphology_points": [
+            "noun"
+          ],
+          "syntax_structure": "Subject-Verb-Indirect Object-Direct Object",
+          "difficulty": 3.0
+        },
+        {
+          "id": 6,
+          "type": "fill_blank",
+          "question": "Please fill in the appropriate word:",
+          "sentence": "Is the ___ person in line a lady?",
+          "answer": "next",
+          "explanation": "next用作形容词表示下一个，lady表示女性。",
+          "target_words": [
+            "next",
+            "lady"
+          ],
+          "morphology_points": [
+            "adjective"
+          ],
+          "syntax_structure": "Is/Am/Are...?",
+          "difficulty": 3.0
+        }
+      ]
+    },
+    "generated_at": "2025-10-01T10:01:22.137591"
+  },
+  "study_time_estimate": "15分钟",
+  "generated_at": "2025-10-01T10:01:22.137646"
+}

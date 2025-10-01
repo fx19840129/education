@@ -1,0 +1,321 @@
+{
+  "day": 22,
+  "date": "2025-10-22",
+  "plan_id": "20251001_110940",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "November",
+          "definition": "十一月",
+          "part_of_speech": "noun",
+          "learning_day": 22,
+          "category": "core_functional",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "say",
+          "definition": "说；讲",
+          "part_of_speech": "verb",
+          "learning_day": 22,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "twin",
+          "definition": "双胞胎之一/双胞胎的",
+          "part_of_speech": "noun/adjective",
+          "learning_day": 22,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "city",
+          "definition": "城市",
+          "part_of_speech": "noun",
+          "learning_day": 22,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "grandma",
+          "definition": "（口语）外祖母",
+          "part_of_speech": "noun",
+          "learning_day": 22,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "pork",
+          "definition": "猪肉",
+          "part_of_speech": "noun",
+          "learning_day": 22,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "fat",
+          "definition": "胖的",
+          "part_of_speech": "adjective",
+          "learning_day": 22,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "six",
+          "definition": "六",
+          "part_of_speech": "numeral",
+          "learning_day": 22,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "play the piano",
+          "definition": "弹钢琴",
+          "part_of_speech": "phrase",
+          "learning_day": 22,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "hi",
+          "definition": "喂, 你",
+          "part_of_speech": "interjection",
+          "learning_day": 22,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "shine",
+        "definition": "shine的定义",
+        "part_of_speech": "noun",
+        "review_day": 22,
+        "last_reviewed": "2025-09-25",
+        "review_interval": 7,
+        "retention_rate": 0.72,
+        "fsrs_due": true,
+        "days_since_learned": 21
+      },
+      {
+        "word": "it's",
+        "definition": "it's的定义",
+        "part_of_speech": "noun",
+        "review_day": 22,
+        "last_reviewed": "2025-09-27",
+        "review_interval": 14,
+        "retention_rate": 0.74,
+        "fsrs_due": true,
+        "days_since_learned": 21
+      },
+      {
+        "word": "student",
+        "definition": "student的定义",
+        "part_of_speech": "noun",
+        "review_day": 22,
+        "last_reviewed": "2025-09-20",
+        "review_interval": 11,
+        "retention_rate": 0.8,
+        "fsrs_due": true,
+        "days_since_learned": 21
+      },
+      {
+        "word": "motor cycle",
+        "definition": "motor cycle的定义",
+        "part_of_speech": "noun",
+        "review_day": 22,
+        "last_reviewed": "2025-09-17",
+        "review_interval": 9,
+        "retention_rate": 0.85,
+        "fsrs_due": true,
+        "days_since_learned": 21
+      },
+      {
+        "word": "bread",
+        "definition": "bread的定义",
+        "part_of_speech": "noun",
+        "review_day": 22,
+        "last_reviewed": "2025-09-16",
+        "review_interval": 12,
+        "retention_rate": 0.82,
+        "fsrs_due": true,
+        "days_since_learned": 21
+      },
+      {
+        "word": "skate",
+        "definition": "skate的定义",
+        "part_of_speech": "noun",
+        "review_day": 22,
+        "last_reviewed": "2025-09-24",
+        "review_interval": 8,
+        "retention_rate": 0.9,
+        "fsrs_due": true,
+        "days_since_learned": 21
+      },
+      {
+        "word": "pants",
+        "definition": "pants的定义",
+        "part_of_speech": "noun",
+        "review_day": 22,
+        "last_reviewed": "2025-09-12",
+        "review_interval": 3,
+        "retention_rate": 0.92,
+        "fsrs_due": true,
+        "days_since_learned": 21
+      },
+      {
+        "word": "longer",
+        "definition": "longer的定义",
+        "part_of_speech": "noun",
+        "review_day": 22,
+        "last_reviewed": "2025-09-10",
+        "review_interval": 7,
+        "retention_rate": 0.74,
+        "fsrs_due": true,
+        "days_since_learned": 21
+      },
+      {
+        "word": "weekend",
+        "definition": "weekend的定义",
+        "part_of_speech": "noun",
+        "review_day": 22,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 5,
+        "retention_rate": 0.76,
+        "fsrs_due": true,
+        "days_since_learned": 21
+      },
+      {
+        "word": "jeans",
+        "definition": "jeans的定义",
+        "part_of_speech": "noun",
+        "review_day": 22,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 7,
+        "retention_rate": 0.79,
+        "fsrs_due": true,
+        "days_since_learned": 21
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "名词 (Noun)_0",
+        "name": "名词 (Noun)",
+        "category": "词性",
+        "description": "表示人、事物、地点、概念等。",
+        "examples": [
+          "识别常见名词（如：apple, book, cat, school, teacher）。",
+          "区分可数名词与不可数名词（初步）。",
+          "学习名词的单数形式。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 22
+      },
+      {
+        "id": "从形容词变来 (-ly form)_9",
+        "name": "从形容词变来 (-ly form)",
+        "category": "形式变化",
+        "description": "大多数副词由形容词加-ly构成。",
+        "examples": [
+          "quick -> quickly",
+          "happy -> happily"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 22
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "This is... / That is..._13",
+        "name": "This is... / That is...",
+        "category": "句型模式",
+        "description": "陈述句 (Declarative Sentence) - 指示和介绍事物。",
+        "examples": [
+          "This is my cat."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 22
+      },
+      {
+        "id": "Imperative (Command/Request)_15",
+        "name": "Imperative (Command/Request)",
+        "category": "句型模式",
+        "description": "祈使句 (Imperative Sentence) - 发出指令或请求。",
+        "examples": [
+          "Open the door.",
+          "Please sit down.",
+          "Don't run."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 22
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": []
+    },
+    "practice_exercises": {
+      "practice_exercises": []
+    },
+    "generated_at": "2025-10-01T13:12:37.744636",
+    "error": "生成失败: 已达到最大重试次数",
+    "generation_attempt": 3
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T13:12:37.744795",
+  "generation_attempt": 1
+}

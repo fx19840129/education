@@ -293,6 +293,7 @@ class EnglishLearningPlanAI:
                 "learning_plan_metadata": {
                     "total_study_days": metadata.get('total_study_days', 30),
                     "daily_learning_minutes_target": metadata.get('daily_learning_minutes_target', 30),
+                    "stage": template.get('metadata', {}).get('stage', '未知阶段'),  # 从模板的metadata中获取stage信息
                     "total_words_in_library": metadata.get('total_words_in_library', 0),
                     "total_morphology_units_in_library": metadata.get('total_morphology_units_in_library', 0),
                     "total_syntax_units_in_library": metadata.get('total_syntax_units_in_library', 0),
@@ -750,14 +751,18 @@ class EnglishLearningPlanAI:
             
             for i, stage in enumerate(stages, 1):
                 print(f"{i}. {stage}")
+            print("8. 🔙 返回上一级")
             
             while True:
                 try:
-                    stage_choice = input("\n请输入选择 (1-7): ").strip()
-                    if stage_choice.isdigit() and 1 <= int(stage_choice) <= 7:
+                    stage_choice = input("\n请输入选择 (1-8): ").strip()
+                    if stage_choice == "8":
+                        print("🔙 返回上一级...")
+                        return
+                    elif stage_choice.isdigit() and 1 <= int(stage_choice) <= 7:
                         selected_stage = stages[int(stage_choice) - 1]
                         break
-                    print("❌ 请输入有效的选择 (1-7)")
+                    print("❌ 请输入有效的选择 (1-8)")
                 except KeyboardInterrupt:
                     print("\n❌ 用户取消操作")
                     return

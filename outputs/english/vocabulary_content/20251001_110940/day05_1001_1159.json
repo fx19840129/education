@@ -1,0 +1,619 @@
+{
+  "day": 5,
+  "date": "2025-10-05",
+  "plan_id": "20251001_110940",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "week",
+          "definition": "一星期;周",
+          "part_of_speech": "noun",
+          "learning_day": 5,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "New York",
+          "definition": "纽约",
+          "part_of_speech": "noun",
+          "learning_day": 5,
+          "category": "core_functional",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "shop",
+          "definition": "商店/购物",
+          "part_of_speech": "noun/verb",
+          "learning_day": 5,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "time",
+          "definition": "时间",
+          "part_of_speech": "noun",
+          "learning_day": 5,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "need",
+          "definition": "需要/需求",
+          "part_of_speech": "verb/noun",
+          "learning_day": 5,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "sick",
+          "definition": "不舒服的；有病的",
+          "part_of_speech": "adjective",
+          "learning_day": 5,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "nice",
+          "definition": "好的；愉快的",
+          "part_of_speech": "adjective",
+          "learning_day": 5,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "than",
+          "definition": "与…相比较",
+          "part_of_speech": "preposition/conjunction",
+          "learning_day": 5,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "hello",
+          "definition": "喂, 你好",
+          "part_of_speech": "interjection",
+          "learning_day": 5,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "end table",
+          "definition": "床头柜",
+          "part_of_speech": "phrase",
+          "learning_day": 5,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "not",
+        "definition": "not的定义",
+        "part_of_speech": "noun",
+        "review_day": 5,
+        "last_reviewed": "2025-09-30",
+        "review_interval": 3,
+        "retention_rate": 0.7,
+        "fsrs_due": true,
+        "days_since_learned": 4
+      },
+      {
+        "word": "fall",
+        "definition": "fall的定义",
+        "part_of_speech": "noun",
+        "review_day": 5,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 1,
+        "retention_rate": 0.78,
+        "fsrs_due": true,
+        "days_since_learned": 4
+      },
+      {
+        "word": "hospital",
+        "definition": "医院",
+        "part_of_speech": "noun",
+        "review_day": 5,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 5,
+        "retention_rate": 0.83,
+        "fsrs_due": true,
+        "days_since_learned": 4
+      },
+      {
+        "word": "match",
+        "definition": "match的定义",
+        "part_of_speech": "noun",
+        "review_day": 5,
+        "last_reviewed": "2025-09-30",
+        "review_interval": 1,
+        "retention_rate": 0.78,
+        "fsrs_due": true,
+        "days_since_learned": 4
+      },
+      {
+        "word": "that's",
+        "definition": "that's的定义",
+        "part_of_speech": "noun",
+        "review_day": 5,
+        "last_reviewed": "2025-09-27",
+        "review_interval": 2,
+        "retention_rate": 0.72,
+        "fsrs_due": true,
+        "days_since_learned": 4
+      },
+      {
+        "word": "weekend",
+        "definition": "weekend的定义",
+        "part_of_speech": "noun",
+        "review_day": 5,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 4,
+        "retention_rate": 0.92,
+        "fsrs_due": true,
+        "days_since_learned": 4
+      },
+      {
+        "word": "traffic light",
+        "definition": "traffic light的定义",
+        "part_of_speech": "noun",
+        "review_day": 5,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 3,
+        "retention_rate": 0.79,
+        "fsrs_due": true,
+        "days_since_learned": 4
+      },
+      {
+        "word": "o'clock",
+        "definition": "o'clock的定义",
+        "part_of_speech": "noun",
+        "review_day": 5,
+        "last_reviewed": "2025-09-27",
+        "review_interval": 5,
+        "retention_rate": 0.86,
+        "fsrs_due": true,
+        "days_since_learned": 4
+      },
+      {
+        "word": "TV room",
+        "definition": "TV room的定义",
+        "part_of_speech": "noun",
+        "review_day": 5,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 5,
+        "retention_rate": 0.74,
+        "fsrs_due": true,
+        "days_since_learned": 4
+      },
+      {
+        "word": "fail",
+        "definition": "不及格；失败",
+        "part_of_speech": "verb/noun",
+        "review_day": 5,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 4,
+        "retention_rate": 0.84,
+        "fsrs_due": true,
+        "days_since_learned": 4
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "冠词 (Article)_12",
+        "name": "冠词 (Article)",
+        "category": "词性",
+        "description": "放在名词前，表示其确定性。",
+        "examples": [
+          "学习不定冠词 a/an (根据发音)。",
+          "学习定冠词 the 的基本用法。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 5
+      },
+      {
+        "id": "形容词 (Adjective)_6",
+        "name": "形容词 (Adjective)",
+        "category": "词性",
+        "description": "修饰名词，说明事物的性质、状态。",
+        "examples": [
+          "学习常见形容词（如：big, small, tall, nice, good, happy）。",
+          "形容词一般放在名词前。",
+          "初步接触形容词的比较级和最高级（如 big-bigger-biggest）。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 5
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "How old are you?_9",
+        "name": "How old are you?",
+        "category": "句型模式",
+        "description": "特殊疑问句 (Wh-Question) - 询问年龄。",
+        "examples": [
+          "How old are you?"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 5
+      },
+      {
+        "id": "基本语序 (Basic Word Order)_0",
+        "name": "基本语序 (Basic Word Order)",
+        "category": "句法结构",
+        "description": "英语句子的基本语序是 SVO (主语-谓语-宾语)，这是最核心的语序规则。",
+        "examples": [
+          "I like apples.",
+          "She reads a book."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 5
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "I will not go to the hospital today.",
+          "translation": "我今天不去医院。",
+          "target_words": [
+            "not",
+            "hospital"
+          ],
+          "new_words": [],
+          "review_words": [
+            "not",
+            "hospital"
+          ],
+          "morphology_rule": "not作为副词用于否定。",
+          "syntactic_structure": "主语 + will + not + 动词 + 补语。",
+          "difficulty": 2.5,
+          "exercise_type": "translation",
+          "explanation": "这个句子使用了not来否定去医院的计划。"
+        },
+        {
+          "sentence": "The traffic light is red at 5 o'clock.",
+          "translation": "在五点钟，交通信号灯是红色的。",
+          "target_words": [
+            "traffic light",
+            "o'clock"
+          ],
+          "new_words": [],
+          "review_words": [
+            "traffic light",
+            "o'clock"
+          ],
+          "morphology_rule": "o'clock用于表达具体的时间。",
+          "syntactic_structure": "主语 + is + 形容词 + 时间。",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "句子描述了特定时间的交通信号灯状态。"
+        },
+        {
+          "sentence": "I will watch TV in the TV room this weekend.",
+          "translation": "这个周末我将在电视房看电视。",
+          "target_words": [
+            "TV room",
+            "weekend"
+          ],
+          "new_words": [],
+          "review_words": [
+            "TV room",
+            "weekend"
+          ],
+          "morphology_rule": "weekend表示周末的时间段。",
+          "syntactic_structure": "主语 + will + 动词 + 地点 + 时间。",
+          "difficulty": 2.5,
+          "exercise_type": "translation",
+          "explanation": "这个句子说明了观看电视的地点和时间。"
+        },
+        {
+          "sentence": "If I fall, I will fail the test.",
+          "translation": "如果我不及格，我就会在考试中失败。",
+          "target_words": [
+            "fall",
+            "fail"
+          ],
+          "new_words": [],
+          "review_words": [
+            "fall",
+            "fail"
+          ],
+          "morphology_rule": "fail作为动词表示失败。",
+          "syntactic_structure": "条件句：如果 + 主语 + 动词，主句：主语 + will + 动词。",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "句子表达了失败的条件和结果。"
+        },
+        {
+          "sentence": "That's not a good match for me.",
+          "translation": "那对我来说不是一个好的选择。",
+          "target_words": [
+            "that's",
+            "match"
+          ],
+          "new_words": [],
+          "review_words": [
+            "that's",
+            "match"
+          ],
+          "morphology_rule": "that's用于缩写形式表示that is。",
+          "syntactic_structure": "主语 + is + 形容词 + 名词。",
+          "difficulty": 2.5,
+          "exercise_type": "translation",
+          "explanation": "句子表达了对某个选择的看法。"
+        },
+        {
+          "sentence": "I see a traffic light at the weekend.",
+          "translation": "我在周末看到一个交通信号灯。",
+          "target_words": [
+            "traffic light",
+            "weekend"
+          ],
+          "new_words": [],
+          "review_words": [
+            "traffic light",
+            "weekend"
+          ],
+          "morphology_rule": "weekend用来表示时间。",
+          "syntactic_structure": "主语 + see + 名词 + 时间。",
+          "difficulty": 2.0,
+          "exercise_type": "translation",
+          "explanation": "句子描述了在特定时间看到的事物。"
+        },
+        {
+          "sentence": "It's 3 o'clock in the afternoon.",
+          "translation": "现在是下午三点钟。",
+          "target_words": [
+            "o'clock"
+          ],
+          "new_words": [],
+          "review_words": [
+            "o'clock"
+          ],
+          "morphology_rule": "o'clock用于表示具体的时间。",
+          "syntactic_structure": "主语 + 是 + 时间。",
+          "difficulty": 2.0,
+          "exercise_type": "translation",
+          "explanation": "句子用于表达具体的时间。"
+        },
+        {
+          "sentence": "I will not fail my exam this time.",
+          "translation": "这次我不会在考试中失败。",
+          "target_words": [
+            "not",
+            "fail"
+          ],
+          "new_words": [],
+          "review_words": [
+            "not",
+            "fail"
+          ],
+          "morphology_rule": "not用于否定动词fail。",
+          "syntactic_structure": "主语 + will + not + 动词 + 名词。",
+          "difficulty": 3.5,
+          "exercise_type": "translation",
+          "explanation": "句子表达了对考试结果的期望。"
+        },
+        {
+          "sentence": "My brother goes to the hospital on weekends.",
+          "translation": "我哥哥周末去医院。",
+          "target_words": [
+            "hospital",
+            "weekend"
+          ],
+          "new_words": [],
+          "review_words": [
+            "hospital",
+            "weekend"
+          ],
+          "morphology_rule": "on用于表示具体的时间。",
+          "syntactic_structure": "主语 + goes to + 地点 + 时间。",
+          "difficulty": 2.5,
+          "exercise_type": "translation",
+          "explanation": "句子描述了哥哥的活动和时间。"
+        }
+      ]
+    },
+    "practice_exercises": {
+      "practice_exercises": [
+        {
+          "id": 1,
+          "type": "choice",
+          "question": "Which word means 'to make something better'?",
+          "options": [
+            "Improve",
+            "Destroy",
+            "Ignore",
+            "Accept"
+          ],
+          "correct_answer": "Improve",
+          "explanation": "这个问题考察的词是 'improve'，意思是使某事变得更好。",
+          "target_words": [
+            "improve"
+          ],
+          "morphology_points": [
+            "improvement (名词)"
+          ],
+          "syntax_structure": "verb meaning",
+          "difficulty": 2.5
+        },
+        {
+          "id": 2,
+          "type": "choice",
+          "question": "What is the opposite of 'happy'?",
+          "options": [
+            "Joyful",
+            "Sad",
+            "Excited",
+            "Content"
+          ],
+          "correct_answer": "Sad",
+          "explanation": "这个问题考察的是 'happy' 的反义词，正确答案是 'sad'，意思是伤心的。",
+          "target_words": [
+            "happy",
+            "sad"
+          ],
+          "morphology_points": [],
+          "syntax_structure": "opposites",
+          "difficulty": 2.0
+        },
+        {
+          "id": 3,
+          "type": "translation",
+          "question": "Please translate the following Chinese into English:",
+          "chinese_text": "我每天都去学校。",
+          "english_text": "I go to school every day.",
+          "explanation": "翻译时注意主语和动词的搭配，'go' 是去的意思。",
+          "target_words": [
+            "go",
+            "school"
+          ],
+          "morphology_points": [],
+          "syntax_structure": "subject + verb + object",
+          "difficulty": 2.5
+        },
+        {
+          "id": 4,
+          "type": "translation",
+          "question": "Please translate the following Chinese into English:",
+          "chinese_text": "她喜欢和朋友们一起玩。",
+          "english_text": "She likes to play with her friends.",
+          "explanation": "注意动词 'like' 后面需要加动词不定式 'to play'。",
+          "target_words": [
+            "like",
+            "play"
+          ],
+          "morphology_points": [],
+          "syntax_structure": "subject + like + to + verb",
+          "difficulty": 2.5
+        },
+        {
+          "id": 5,
+          "type": "fill_blank",
+          "question": "Please fill in the appropriate word:",
+          "sentence": "They ___ to the park on Sundays.",
+          "answer": "go",
+          "explanation": "这个填空题中需要用动词 'go'，表示他们在星期天去公园。",
+          "target_words": [
+            "go"
+          ],
+          "morphology_points": [],
+          "syntax_structure": "subject + verb + place",
+          "difficulty": 2.0
+        },
+        {
+          "id": 6,
+          "type": "fill_blank",
+          "question": "Please fill in the appropriate word:",
+          "sentence": "She is very ___ at math.",
+          "answer": "good",
+          "explanation": "在这个句子中，'good' 是形容词，表示她在数学方面很好。",
+          "target_words": [
+            "good"
+          ],
+          "morphology_points": [],
+          "syntax_structure": "subject + be + adjective",
+          "difficulty": 2.0
+        },
+        {
+          "id": 7,
+          "type": "choice",
+          "question": "Which of the following is a synonym for 'fast'?",
+          "options": [
+            "Quick",
+            "Slow",
+            "Lazy",
+            "Calm"
+          ],
+          "correct_answer": "Quick",
+          "explanation": "这个问题考察 'fast' 的同义词，'quick' 也是表示快速的意思。",
+          "target_words": [
+            "fast",
+            "quick"
+          ],
+          "morphology_points": [],
+          "syntax_structure": "synonyms",
+          "difficulty": 2.5
+        },
+        {
+          "id": 8,
+          "type": "choice",
+          "question": "What does 'excited' mean?",
+          "options": [
+            "Bored",
+            "Happy",
+            "Angry",
+            "Tired"
+          ],
+          "correct_answer": "Happy",
+          "explanation": "这个问题考察 'excited' 的意思，正确答案是 'happy'，表示高兴的状态。",
+          "target_words": [
+            "excited"
+          ],
+          "morphology_points": [],
+          "syntax_structure": "adjective meaning",
+          "difficulty": 2.5
+        }
+      ]
+    },
+    "generated_at": "2025-10-01T11:59:22.817476",
+    "generation_attempt": 1
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T11:59:22.817568",
+  "generation_attempt": 1
+}

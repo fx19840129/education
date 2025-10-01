@@ -1,0 +1,475 @@
+{
+  "day": 1,
+  "date": "2025-10-01",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "Sat.",
+          "part_of_speech": "noun",
+          "definition": "星期六",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "library",
+          "part_of_speech": "noun",
+          "definition": "图书馆",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "difference",
+          "part_of_speech": "noun",
+          "definition": "差异",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "leaves",
+          "part_of_speech": "noun",
+          "definition": "叶子（复数）",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "friend",
+          "part_of_speech": "noun",
+          "definition": "朋友",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "baby",
+          "part_of_speech": "noun",
+          "definition": "婴儿",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "game",
+          "part_of_speech": "noun",
+          "definition": "比赛；游戏",
+          "difficulty_level": "elementary"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "yesterday",
+          "part_of_speech": "noun/adverb",
+          "definition": "昨天",
+          "difficulty_level": "elementary"
+        },
+        {
+          "word": "tomorrow",
+          "part_of_speech": "noun/adverb",
+          "definition": "明天",
+          "difficulty_level": "elementary"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "should",
+          "part_of_speech": "modal",
+          "definition": "应该",
+          "difficulty_level": "elementary"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "eat",
+        "definition": "eat的定义",
+        "part_of_speech": "noun",
+        "review_day": 1,
+        "last_reviewed": "2025-09-14",
+        "review_interval": 13,
+        "retention_rate": 0.72,
+        "fsrs_due": true,
+        "days_since_learned": 0
+      },
+      {
+        "word": "guess",
+        "definition": "guess的定义",
+        "part_of_speech": "noun",
+        "review_day": 1,
+        "last_reviewed": "2025-09-27",
+        "review_interval": 2,
+        "retention_rate": 0.85,
+        "fsrs_due": true,
+        "days_since_learned": 0
+      },
+      {
+        "word": "cm",
+        "definition": "cm的定义",
+        "part_of_speech": "noun",
+        "review_day": 1,
+        "last_reviewed": "2025-09-22",
+        "review_interval": 1,
+        "retention_rate": 0.83,
+        "fsrs_due": true,
+        "days_since_learned": 0
+      },
+      {
+        "word": "snowy",
+        "definition": "snowy的定义",
+        "part_of_speech": "noun",
+        "review_day": 1,
+        "last_reviewed": "2025-09-10",
+        "review_interval": 4,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 0
+      },
+      {
+        "word": "theme",
+        "definition": "theme的定义",
+        "part_of_speech": "noun",
+        "review_day": 1,
+        "last_reviewed": "2025-09-21",
+        "review_interval": 14,
+        "retention_rate": 0.85,
+        "fsrs_due": true,
+        "days_since_learned": 0
+      },
+      {
+        "word": "lunch",
+        "definition": "lunch的定义",
+        "part_of_speech": "noun",
+        "review_day": 1,
+        "last_reviewed": "2025-09-24",
+        "review_interval": 3,
+        "retention_rate": 0.73,
+        "fsrs_due": true,
+        "days_since_learned": 0
+      },
+      {
+        "word": "hobby",
+        "definition": "hobby的定义",
+        "part_of_speech": "noun",
+        "review_day": 1,
+        "last_reviewed": "2025-09-02",
+        "review_interval": 6,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 0
+      },
+      {
+        "word": "bread",
+        "definition": "bread的定义",
+        "part_of_speech": "noun",
+        "review_day": 1,
+        "last_reviewed": "2025-09-17",
+        "review_interval": 14,
+        "retention_rate": 0.74,
+        "fsrs_due": true,
+        "days_since_learned": 0
+      },
+      {
+        "word": "noodle",
+        "definition": "noodle的定义",
+        "part_of_speech": "noun",
+        "review_day": 1,
+        "last_reviewed": "2025-09-16",
+        "review_interval": 9,
+        "retention_rate": 0.76,
+        "fsrs_due": true,
+        "days_since_learned": 0
+      },
+      {
+        "word": "now",
+        "definition": "now的定义",
+        "part_of_speech": "noun",
+        "review_day": 1,
+        "last_reviewed": "2025-09-05",
+        "review_interval": 14,
+        "retention_rate": 0.78,
+        "fsrs_due": true,
+        "days_since_learned": 0
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "name": "名词 (Noun)",
+        "type": "词性",
+        "description": "表示人、事物、地点、概念等。",
+        "rules": "识别常见名词",
+        "examples": [
+          "apple",
+          "book",
+          "cat"
+        ]
+      },
+      {
+        "name": "形容词 (Adjective)",
+        "type": "词性",
+        "description": "修饰名词，表示性质或特征。",
+        "rules": "形容词修饰名词",
+        "examples": [
+          "big",
+          "red",
+          "happy"
+        ]
+      }
+    ],
+    "total_points": 2,
+    "difficulty": "elementary",
+    "learning_day": 1
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "name": "否定句 (Negation)",
+        "type": "句法结构",
+        "structure": "Subject + don't/doesn't + Verb",
+        "description": "否定句结构",
+        "examples": [
+          "I don't like it.",
+          "She doesn't know."
+        ]
+      },
+      {
+        "name": "疑问句 (Questions)",
+        "type": "句法结构",
+        "structure": "Wh-questions",
+        "description": "特殊疑问句",
+        "examples": [
+          "What is this?",
+          "Where are you?"
+        ]
+      }
+    ],
+    "total_points": 2,
+    "difficulty": "elementary",
+    "learning_day": 1
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "Sat. is a good day to visit the library.",
+          "translation": "星期六是去图书馆的好日子。",
+          "morphology_rule": "名词 (Library) 是场所。",
+          "syntactic_structure": "陈述句 (Affirmative Sentence)",
+          "difficulty": 2.5,
+          "explanation": "Sat. 是星期六的缩写，library 表示图书馆。"
+        },
+        {
+          "sentence": "What is the difference between bread and noodles?",
+          "translation": "面包和面条有什么区别？",
+          "morphology_rule": "名词 (Difference) 表示抽象概念。",
+          "syntactic_structure": "疑问句 (Questions)",
+          "difficulty": 2.5,
+          "explanation": "Difference表示区别，用于提问两个事物之间的不同。"
+        },
+        {
+          "sentence": "The leaves are falling because it's a snowy day.",
+          "translation": "树叶在落下，因为今天是个下雪天。",
+          "morphology_rule": "名词 (Leaves) 是可数名词。",
+          "syntactic_structure": "陈述句 (Affirmative Sentence)",
+          "difficulty": 2.5,
+          "explanation": "Leaves是leaf的复数形式，表示树叶。"
+        },
+        {
+          "sentence": "My friend likes to eat noodles for lunch.",
+          "translation": "我的朋友喜欢午餐吃面条。",
+          "morphology_rule": "名词 (Friend) 是人。",
+          "syntactic_structure": "陈述句 (Affirmative Sentence)",
+          "difficulty": 2.5,
+          "explanation": "Friend表示朋友，是一个常用的名词。"
+        },
+        {
+          "sentence": "The baby should sleep now.",
+          "translation": "婴儿现在应该睡觉。",
+          "morphology_rule": "名词 (Baby) 是人。",
+          "syntactic_structure": "陈述句 (Affirmative Sentence)",
+          "difficulty": 2.5,
+          "explanation": "Baby表示婴儿，should表示应该。"
+        },
+        {
+          "sentence": "Did you enjoy the game yesterday?",
+          "translation": "你昨天喜欢那个游戏吗？",
+          "morphology_rule": "名词 (Game) 是活动。",
+          "syntactic_structure": "疑问句 (Questions)",
+          "difficulty": 2.5,
+          "explanation": "Game表示游戏，yesterday表示昨天，用于询问过去发生的事情。"
+        },
+        {
+          "sentence": "What will you do tomorrow?",
+          "translation": "你明天要做什么？",
+          "morphology_rule": "名词 (Tomorrow) 表示时间。",
+          "syntactic_structure": "疑问句 (Questions)",
+          "difficulty": 2.5,
+          "explanation": "Tomorrow表示明天，用于询问未来计划。"
+        },
+        {
+          "sentence": "You should guess the theme of the book.",
+          "translation": "你应该猜这本书的主题。",
+          "morphology_rule": "动词 (Should) 表示建议。",
+          "syntactic_structure": "陈述句 (Affirmative Sentence)",
+          "difficulty": 2.5,
+          "explanation": "Should用于建议或义务，guess表示猜测。"
+        },
+        {
+          "sentence": "I don't want to eat bread now.",
+          "translation": "我现在不想吃面包。",
+          "morphology_rule": "名词 (Bread) 是食物。",
+          "syntactic_structure": "否定句 (Negation)",
+          "difficulty": 2.5,
+          "explanation": "Bread表示面包，now表示现在。"
+        },
+        {
+          "sentence": "Where is the library?",
+          "translation": "图书馆在哪里？",
+          "morphology_rule": "名词 (Library) 是场所。",
+          "syntactic_structure": "疑问句 (Questions)",
+          "difficulty": 2.5,
+          "explanation": "Library表示图书馆，where用于询问地点。"
+        }
+      ],
+      "generated_at": "2025-10-01T19:51:02.915075",
+      "generation_method": "openai_gpt4o_100_coverage"
+    },
+    "practice_exercises": {
+      "practice_exercises": [
+        {
+          "id": 1,
+          "type": "choice",
+          "question": "Which day is good to visit the library?",
+          "options": [
+            "Sat.",
+            "Sun.",
+            "Mon.",
+            "Fri."
+          ],
+          "correct_answer": "Sat.",
+          "morphology_rule": "名词的缩写形式",
+          "syntactic_structure": "主谓宾结构",
+          "difficulty": 2.5,
+          "explanation": "根据句子“Sat. is a good day to visit the library.”"
+        },
+        {
+          "id": 2,
+          "type": "choice",
+          "question": "What does my friend like to eat for lunch?",
+          "options": [
+            "Noodles",
+            "Bread",
+            "Salad",
+            "Rice"
+          ],
+          "correct_answer": "Noodles",
+          "morphology_rule": "名词复数形式",
+          "syntactic_structure": "主谓宾结构",
+          "difficulty": 2.5,
+          "explanation": "根据句子“My friend likes to eat noodles for lunch.”"
+        },
+        {
+          "id": 3,
+          "type": "choice",
+          "question": "Why are the leaves falling?",
+          "options": [
+            "Because it's a rainy day.",
+            "Because it's a sunny day.",
+            "Because it's a snowy day.",
+            "Because it's a windy day."
+          ],
+          "correct_answer": "Because it's a snowy day.",
+          "morphology_rule": "原因状语从句",
+          "syntactic_structure": "从句结构",
+          "difficulty": 2.5,
+          "explanation": "根据句子“The leaves are falling because it's a snowy day.”"
+        },
+        {
+          "id": 4,
+          "type": "choice",
+          "question": "What should the baby do now?",
+          "options": [
+            "Eat",
+            "Play",
+            "Sleep",
+            "Cry"
+          ],
+          "correct_answer": "Sleep",
+          "morphology_rule": "情态动词的使用",
+          "syntactic_structure": "主谓宾结构",
+          "difficulty": 2.5,
+          "explanation": "根据句子“The baby should sleep now.”"
+        },
+        {
+          "id": 5,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "你昨天享受游戏了吗？",
+          "english_text": "Did you enjoy the game yesterday?",
+          "morphology_rule": "过去式的使用",
+          "syntactic_structure": "疑问句结构",
+          "difficulty": 2.5,
+          "explanation": "根据句子“Did you enjoy the game yesterday?”"
+        },
+        {
+          "id": 6,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "明天你会做什么？",
+          "english_text": "What will you do tomorrow?",
+          "morphology_rule": "将来时的使用",
+          "syntactic_structure": "疑问句结构",
+          "difficulty": 2.5,
+          "explanation": "根据句子“What will you do tomorrow?”"
+        },
+        {
+          "id": 7,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "你应该猜测这本书的主题。",
+          "english_text": "You should guess the theme of the book.",
+          "morphology_rule": "情态动词的使用",
+          "syntactic_structure": "主谓宾结构",
+          "difficulty": 2.5,
+          "explanation": "根据句子“You should guess the theme of the book.”"
+        },
+        {
+          "id": 8,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "我现在不想吃面包。",
+          "english_text": "I don't want to eat bread now.",
+          "morphology_rule": "否定句的使用",
+          "syntactic_structure": "主谓宾结构",
+          "difficulty": 2.5,
+          "explanation": "根据句子“I don't want to eat bread now.”"
+        },
+        {
+          "id": 9,
+          "type": "fill_blank",
+          "question": "请填入适当的单词",
+          "sentence": "Where is the ______?",
+          "answer": "library",
+          "morphology_rule": "名词的使用",
+          "syntactic_structure": "疑问句结构",
+          "difficulty": 2.5,
+          "explanation": "根据句子“Where is the library?”"
+        },
+        {
+          "id": 10,
+          "type": "fill_blank",
+          "question": "请填入适当的单词",
+          "sentence": "The leaves are falling because it's a ______ day.",
+          "answer": "snowy",
+          "morphology_rule": "形容词的使用",
+          "syntactic_structure": "原因状语从句",
+          "difficulty": 2.5,
+          "explanation": "根据句子“The leaves are falling because it's a snowy day.”"
+        }
+      ],
+      "generated_at": "2025-10-01T19:51:11.891561",
+      "generation_method": "openai_gpt4o_from_sentences"
+    },
+    "generated_at": "2025-10-01T19:51:11.891581",
+    "generation_strategy": "sentences_first_exercises_follow"
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T19:51:11.891612",
+  "generation_attempt": 1,
+  "plan_id": "unknown"
+}

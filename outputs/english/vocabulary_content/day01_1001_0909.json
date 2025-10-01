@@ -1,0 +1,391 @@
+{
+  "day": 1,
+  "date": "2025-10-01",
+  "plan_id": "20250930_214712",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "October",
+          "definition": "十月",
+          "part_of_speech": "noun",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "bedroom",
+          "definition": "卧室",
+          "part_of_speech": "noun",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "clean",
+          "definition": "清洁的",
+          "part_of_speech": "adjective/verb",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "English",
+          "definition": "英语；英文",
+          "part_of_speech": "noun/adjective",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "left",
+          "definition": "左边的",
+          "part_of_speech": "adjective/noun/adverb",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "skate",
+          "definition": "滑冰；滑冰鞋",
+          "part_of_speech": "verb/noun",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "pet",
+          "definition": "宠物/爱抚",
+          "part_of_speech": "noun/verb",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "fourteen",
+          "definition": "十四",
+          "part_of_speech": "numeral",
+          "learning_day": 1,
+          "category": "connectors_relational",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "wash the clothes",
+          "definition": "洗衣服",
+          "part_of_speech": "phrase",
+          "learning_day": 1,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "eat breakfast",
+          "definition": "吃早饭",
+          "part_of_speech": "phrase",
+          "learning_day": 1,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "名词 (Noun)_0",
+        "name": "名词 (Noun)",
+        "category": "词性",
+        "description": "表示人、事物、地点、概念等。",
+        "examples": [
+          "识别常见名词（如：apple, book, cat, school, teacher）。",
+          "区分可数名词与不可数名词（初步）。",
+          "学习名词的单数形式。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 1
+      },
+      {
+        "id": "动词 (Verb)_3",
+        "name": "动词 (Verb)",
+        "category": "词性",
+        "description": "表示动作或状态。",
+        "examples": [
+          "学习一般现在时（Present Simple）的动词原形和第三人称单数形式（加-s）。",
+          "识别常见情态动词（can, may - 初步）。",
+          "识别 be 动词（am, is, are）的不同形式。",
+          "识别常见动词词组（如: play, eat, go, have, like）。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 1
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "Is/Am/Are...?_11",
+        "name": "Is/Am/Are...?",
+        "category": "句型模式",
+        "description": "一般疑问句 (Yes/No Question) - 询问状态/身份（be 动词）。",
+        "examples": [
+          "Is she your friend?"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 1
+      },
+      {
+        "id": "主谓双宾结构 (Subject-Verb-Indirect Object-Direct Object)_5",
+        "name": "主谓双宾结构 (Subject-Verb-Indirect Object-Direct Object)",
+        "category": "句法结构",
+        "description": "动词后跟两个宾语。",
+        "examples": [
+          "He gave me a pen.",
+          "He gave a pen to me."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 1
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "Is October your favorite month?",
+          "translation": "十月是你最喜欢的月份吗？",
+          "target_words": [
+            "October"
+          ],
+          "new_words": [
+            "October"
+          ],
+          "review_words": [
+            "favorite",
+            "month"
+          ],
+          "morphology_points": [
+            "Noun"
+          ],
+          "syntax_structure": "Is/Am/Are...?: Yes/No Question",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "Ask about a person's preference using the 'be' verb."
+        },
+        {
+          "sentence": "She left her bedroom clean.",
+          "translation": "她把卧室打扫干净了。",
+          "target_words": [
+            "left",
+            "bedroom",
+            "clean"
+          ],
+          "new_words": [
+            "left",
+            "bedroom",
+            "clean"
+          ],
+          "review_words": [
+            "her"
+          ],
+          "morphology_points": [
+            "Noun",
+            "Verb"
+          ],
+          "syntax_structure": "Subject-Verb-Indirect Object-Direct Object",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "Describe an action done to an object."
+        },
+        {
+          "sentence": "He skates every Saturday.",
+          "translation": "他每个星期六都滑冰。",
+          "target_words": [
+            "skate"
+          ],
+          "new_words": [
+            "skate"
+          ],
+          "review_words": [
+            "every",
+            "Saturday"
+          ],
+          "morphology_points": [
+            "Verb",
+            "Noun"
+          ],
+          "syntax_structure": "Subject-Verb-Indirect Object-Direct Object",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "Use the verb in Present Simple to describe a habitual action."
+        },
+        {
+          "sentence": "Can you wash the clothes?",
+          "translation": "你能洗衣服吗？",
+          "target_words": [
+            "wash the clothes"
+          ],
+          "new_words": [
+            "wash the clothes"
+          ],
+          "review_words": [
+            "can",
+            "you"
+          ],
+          "morphology_points": [
+            "Verb",
+            "Modal Verb"
+          ],
+          "syntax_structure": "Is/Am/Are...?: Yes/No Question",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "Use a modal verb to ask permission or ability."
+        },
+        {
+          "sentence": "We eat breakfast at seven.",
+          "translation": "我们在七点吃早餐。",
+          "target_words": [
+            "eat breakfast"
+          ],
+          "new_words": [
+            "eat breakfast"
+          ],
+          "review_words": [
+            "we",
+            "at",
+            "seven"
+          ],
+          "morphology_points": [
+            "Verb"
+          ],
+          "syntax_structure": "Subject-Verb-Indirect Object-Direct Object",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "Describe a routine action using the Present Simple tense."
+        },
+        {
+          "sentence": "My pet is a cute cat.",
+          "translation": "我的宠物是一只可爱的猫。",
+          "target_words": [
+            "pet"
+          ],
+          "new_words": [
+            "pet"
+          ],
+          "review_words": [
+            "my",
+            "cute",
+            "cat"
+          ],
+          "morphology_points": [
+            "Noun"
+          ],
+          "syntax_structure": "Is/Am/Are...?: Yes/No Question",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "State possession and describe a pet using adjectives."
+        },
+        {
+          "sentence": "Does she have fourteen apples?",
+          "translation": "她有十四个苹果吗？",
+          "target_words": [
+            "fourteen"
+          ],
+          "new_words": [
+            "fourteen"
+          ],
+          "review_words": [
+            "does",
+            "she",
+            "have",
+            "apples"
+          ],
+          "morphology_points": [
+            "Noun",
+            "Verb"
+          ],
+          "syntax_structure": "Is/Am/Are...?: Yes/No Question",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "Ask about quantity using the auxiliary verb 'does'."
+        },
+        {
+          "sentence": "He gave me an English book.",
+          "translation": "他给了我一本英文书。",
+          "target_words": [
+            "English"
+          ],
+          "new_words": [
+            "English"
+          ],
+          "review_words": [
+            "he",
+            "gave",
+            "me",
+            "book"
+          ],
+          "morphology_points": [
+            "Noun",
+            "Verb"
+          ],
+          "syntax_structure": "Subject-Verb-Indirect Object-Direct Object",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "Use a verb with two objects to describe giving something."
+        }
+      ]
+    },
+    "practice_exercises": {
+      "practice_exercises": []
+    },
+    "generated_at": "2025-10-01T09:09:09.163582"
+  },
+  "study_time_estimate": "15分钟",
+  "generated_at": "2025-10-01T09:09:09.163644"
+}

@@ -1,0 +1,493 @@
+{
+  "day": 19,
+  "date": "2025-10-19",
+  "plan_id": "20251001_110940",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "live",
+          "definition": "居住；住/现场的",
+          "part_of_speech": "verb/adjective",
+          "learning_day": 19,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "TV",
+          "definition": "电视",
+          "part_of_speech": "noun",
+          "learning_day": 19,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "grandparents",
+          "definition": "（外祖）父母",
+          "part_of_speech": "noun",
+          "learning_day": 19,
+          "category": "core_functional",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "classroom",
+          "definition": "教室",
+          "part_of_speech": "noun",
+          "learning_day": 19,
+          "category": "core_functional",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "orange",
+          "definition": "橙子",
+          "part_of_speech": "noun",
+          "learning_day": 19,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "second",
+          "definition": "第二",
+          "part_of_speech": "numeral/adjective",
+          "learning_day": 19,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "healthy",
+          "definition": "健康的;有益健康的",
+          "part_of_speech": "adjective",
+          "learning_day": 19,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "what",
+          "definition": "什么",
+          "part_of_speech": "pronoun",
+          "learning_day": 19,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "English book",
+          "definition": "英语书",
+          "part_of_speech": "phrase",
+          "learning_day": 19,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "water the flowers",
+          "definition": "浇花",
+          "part_of_speech": "phrase",
+          "learning_day": 19,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "Mr",
+        "definition": "Mr的定义",
+        "part_of_speech": "noun",
+        "review_day": 19,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 6,
+        "retention_rate": 0.82,
+        "fsrs_due": true,
+        "days_since_learned": 18
+      },
+      {
+        "word": "singer",
+        "definition": "singer的定义",
+        "part_of_speech": "noun",
+        "review_day": 19,
+        "last_reviewed": "2025-09-15",
+        "review_interval": 4,
+        "retention_rate": 0.84,
+        "fsrs_due": true,
+        "days_since_learned": 18
+      },
+      {
+        "word": "TV room",
+        "definition": "TV room的定义",
+        "part_of_speech": "noun",
+        "review_day": 19,
+        "last_reviewed": "2025-09-18",
+        "review_interval": 5,
+        "retention_rate": 0.95,
+        "fsrs_due": true,
+        "days_since_learned": 18
+      },
+      {
+        "word": "just a minute",
+        "definition": "just a minute的定义",
+        "part_of_speech": "noun",
+        "review_day": 19,
+        "last_reviewed": "2025-09-21",
+        "review_interval": 5,
+        "retention_rate": 0.94,
+        "fsrs_due": true,
+        "days_since_learned": 18
+      },
+      {
+        "word": "off",
+        "definition": "off的定义",
+        "part_of_speech": "noun",
+        "review_day": 19,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 1,
+        "retention_rate": 0.76,
+        "fsrs_due": true,
+        "days_since_learned": 18
+      },
+      {
+        "word": "colour",
+        "definition": "colour的定义",
+        "part_of_speech": "noun",
+        "review_day": 19,
+        "last_reviewed": "2025-09-14",
+        "review_interval": 7,
+        "retention_rate": 0.82,
+        "fsrs_due": true,
+        "days_since_learned": 18
+      },
+      {
+        "word": "call",
+        "definition": "call的定义",
+        "part_of_speech": "noun",
+        "review_day": 19,
+        "last_reviewed": "2025-09-23",
+        "review_interval": 5,
+        "retention_rate": 0.73,
+        "fsrs_due": true,
+        "days_since_learned": 18
+      },
+      {
+        "word": "riding",
+        "definition": "riding的定义",
+        "part_of_speech": "noun",
+        "review_day": 19,
+        "last_reviewed": "2025-09-15",
+        "review_interval": 6,
+        "retention_rate": 0.91,
+        "fsrs_due": true,
+        "days_since_learned": 18
+      },
+      {
+        "word": "week",
+        "definition": "week的定义",
+        "part_of_speech": "noun",
+        "review_day": 19,
+        "last_reviewed": "2025-09-24",
+        "review_interval": 1,
+        "retention_rate": 0.84,
+        "fsrs_due": true,
+        "days_since_learned": 18
+      },
+      {
+        "word": "Walkman",
+        "definition": "Walkman的定义",
+        "part_of_speech": "noun",
+        "review_day": 19,
+        "last_reviewed": "2025-09-21",
+        "review_interval": 12,
+        "retention_rate": 0.79,
+        "fsrs_due": true,
+        "days_since_learned": 18
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "be 动词 (be Verb Forms)_5",
+        "name": "be 动词 (be Verb Forms)",
+        "category": "形式变化",
+        "description": "am, is, are 的使用（根据主语和时态）。",
+        "examples": [
+          "I am",
+          "He/She/It is",
+          "You/We/They are"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 19
+      },
+      {
+        "id": "副词 (Adverb)_8",
+        "name": "副词 (Adverb)",
+        "category": "词性",
+        "description": "修饰动词、形容词或其他副词。",
+        "examples": [
+          "学习常见副词（如：very, quickly - 初步）。",
+          "许多副词由形容词加-ly构成。",
+          "表示时间、地点、方式等（初步）。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 19
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "I like..._12",
+        "name": "I like...",
+        "category": "句型模式",
+        "description": "陈述句 (Declarative Sentence) - 表达喜好。",
+        "examples": [
+          "I like animals."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 19
+      },
+      {
+        "id": "主谓宾结构 (Subject-Verb-Object)_3",
+        "name": "主谓宾结构 (Subject-Verb-Object)",
+        "category": "句法结构",
+        "description": "包含主语、及物动词和直接宾语。",
+        "examples": [
+          "I eat bread.",
+          "They play football."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 19
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "I try to accumulate knowledge by reading books every day.",
+          "translation": "我试图通过每天读书来积累知识。",
+          "target_words": [
+            "accumulate"
+          ],
+          "new_words": [
+            "accumulate"
+          ],
+          "review_words": [],
+          "explanation": "这个句子展示了'accumulate'（积累）的用法，表示逐渐增加或收集某物。"
+        },
+        {
+          "sentence": "Eating vegetables is beneficial for your health.",
+          "translation": "吃蔬菜对你的健康有益。",
+          "target_words": [
+            "beneficial"
+          ],
+          "new_words": [
+            "beneficial"
+          ],
+          "review_words": [],
+          "explanation": "这个句子使用了'beneficial'（有益的）来说明某事物有积极的效果。"
+        },
+        {
+          "sentence": "It is crucial to follow the safety rules.",
+          "translation": "遵守安全规则至关重要。",
+          "target_words": [
+            "crucial"
+          ],
+          "new_words": [
+            "crucial"
+          ],
+          "review_words": [],
+          "explanation": "这个句子中'crucial'（至关重要的）强调了某事极其重要。"
+        },
+        {
+          "sentence": "Our city has a diverse population from many countries.",
+          "translation": "我们的城市有来自许多国家的多样化人口。",
+          "target_words": [
+            "diverse"
+          ],
+          "new_words": [
+            "diverse"
+          ],
+          "review_words": [],
+          "explanation": "这个句子用'diverse'（多样的）描述了包含不同种类或元素的事物。"
+        },
+        {
+          "sentence": "Regular exercise can enhance your physical strength.",
+          "translation": "定期锻炼可以增强你的体力。",
+          "target_words": [
+            "enhance"
+          ],
+          "new_words": [
+            "enhance"
+          ],
+          "review_words": [],
+          "explanation": "这个句子展示了'enhance'（增强）的用法，表示提高或改进某物的质量、价值或效果。"
+        }
+      ]
+    },
+    "practice_exercises": {
+      "practice_exercises": [
+        {
+          "id": 1,
+          "type": "choice",
+          "question": "Which of the following words means 'to move from one place to another'?",
+          "options": [
+            "run",
+            "jump",
+            "go",
+            "sit"
+          ],
+          "correct_answer": "go",
+          "explanation": "这个问题考察学生对'go'这个词的理解，它的意思是'去'，表示从一个地方移动到另一个地方。",
+          "target_words": [
+            "go"
+          ],
+          "morphology_points": [
+            "go - present tense",
+            "goes - third person singular"
+          ],
+          "syntax_structure": "Verb usage in sentences",
+          "difficulty": 2.5
+        },
+        {
+          "id": 2,
+          "type": "choice",
+          "question": "What is the opposite of 'go'?",
+          "options": [
+            "come",
+            "stay",
+            "leave",
+            "arrive"
+          ],
+          "correct_answer": "stay",
+          "explanation": "这个问题考察学生对'go'的反义词的理解，'stay'是'停留'的意思，表示不移动。",
+          "target_words": [
+            "go"
+          ],
+          "morphology_points": [
+            "stay - present tense",
+            "stayed - past tense"
+          ],
+          "syntax_structure": "Opposites in vocabulary",
+          "difficulty": 2.5
+        },
+        {
+          "id": 3,
+          "type": "translation",
+          "question": "Please translate the following Chinese into English:",
+          "chinese_text": "我每天去学校。",
+          "english_text": "I go to school every day.",
+          "explanation": "这句话的关键点在于'去'的翻译，用'go'表示日常活动。",
+          "target_words": [
+            "go"
+          ],
+          "morphology_points": [
+            "go - base form",
+            "goes - third person singular"
+          ],
+          "syntax_structure": "Subject + verb + object structure",
+          "difficulty": 3.0
+        },
+        {
+          "id": 4,
+          "type": "translation",
+          "question": "Please translate the following Chinese into English:",
+          "chinese_text": "他们今天去商店。",
+          "english_text": "They go to the store today.",
+          "explanation": "这句话的关键点在于动词'去'的使用，强调现在进行的动作。",
+          "target_words": [
+            "go"
+          ],
+          "morphology_points": [
+            "go - base form",
+            "goes - third person singular"
+          ],
+          "syntax_structure": "Subject + verb + object structure",
+          "difficulty": 3.0
+        },
+        {
+          "id": 5,
+          "type": "fill_blank",
+          "question": "Please fill in the appropriate word:",
+          "sentence": "She ___ to the park on weekends.",
+          "answer": "goes",
+          "explanation": "这个填空题考察的是动词'go'的第三人称单数形式'goes'，适用于主语'she'。",
+          "target_words": [
+            "go"
+          ],
+          "morphology_points": [
+            "go - base form",
+            "goes - third person singular"
+          ],
+          "syntax_structure": "Verb conjugation with subjects",
+          "difficulty": 2.5
+        },
+        {
+          "id": 6,
+          "type": "fill_blank",
+          "question": "Please fill in the appropriate word:",
+          "sentence": "We always ___ to the beach in summer.",
+          "answer": "go",
+          "explanation": "这个填空题考察的是动词'go'的正常使用，适用于主语'we'。",
+          "target_words": [
+            "go"
+          ],
+          "morphology_points": [
+            "go - base form"
+          ],
+          "syntax_structure": "Simple present tense structure",
+          "difficulty": 2.5
+        }
+      ]
+    },
+    "generated_at": "2025-10-01T13:08:29.970534",
+    "generation_attempt": 1
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T13:08:29.970617",
+  "generation_attempt": 1
+}

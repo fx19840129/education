@@ -1,0 +1,450 @@
+{
+  "day": 7,
+  "date": "2025-10-07",
+  "plan_id": "20251001_110940",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "Hong Kong",
+          "definition": "香港",
+          "part_of_speech": "noun",
+          "learning_day": 7,
+          "category": "core_functional",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "tall",
+          "definition": "高的",
+          "part_of_speech": "adjective",
+          "learning_day": 7,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "trees",
+          "definition": "树",
+          "part_of_speech": "noun",
+          "learning_day": 7,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "sister",
+          "definition": "姐妹",
+          "part_of_speech": "noun",
+          "learning_day": 7,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "fork",
+          "definition": "叉子",
+          "part_of_speech": "noun",
+          "learning_day": 7,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "singer",
+          "definition": "歌唱家；歌手",
+          "part_of_speech": "noun",
+          "learning_day": 7,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "chart",
+          "definition": "图表",
+          "part_of_speech": "noun",
+          "learning_day": 7,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "off",
+          "definition": "距；离；离开",
+          "part_of_speech": "preposition/adverb",
+          "learning_day": 7,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "motor cycle",
+          "definition": "摩托车",
+          "part_of_speech": "phrase/noun",
+          "learning_day": 7,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "go fishing",
+          "definition": "去钓鱼",
+          "part_of_speech": "phrase",
+          "learning_day": 7,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "hurry",
+        "definition": "hurry的定义",
+        "part_of_speech": "noun",
+        "review_day": 7,
+        "last_reviewed": "2025-09-30",
+        "review_interval": 1,
+        "retention_rate": 0.76,
+        "fsrs_due": true,
+        "days_since_learned": 6
+      },
+      {
+        "word": "can",
+        "definition": "can的定义",
+        "part_of_speech": "noun",
+        "review_day": 7,
+        "last_reviewed": "2025-09-27",
+        "review_interval": 5,
+        "retention_rate": 0.81,
+        "fsrs_due": true,
+        "days_since_learned": 6
+      },
+      {
+        "word": "ninety-nine",
+        "definition": "ninety-nine的定义",
+        "part_of_speech": "noun",
+        "review_day": 7,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 7,
+        "retention_rate": 0.85,
+        "fsrs_due": true,
+        "days_since_learned": 6
+      },
+      {
+        "word": "write",
+        "definition": "write的定义",
+        "part_of_speech": "noun",
+        "review_day": 7,
+        "last_reviewed": "2025-09-30",
+        "review_interval": 6,
+        "retention_rate": 0.86,
+        "fsrs_due": true,
+        "days_since_learned": 6
+      },
+      {
+        "word": "Moral Education",
+        "definition": "Moral Education的定义",
+        "part_of_speech": "noun",
+        "review_day": 7,
+        "last_reviewed": "2025-09-27",
+        "review_interval": 3,
+        "retention_rate": 0.86,
+        "fsrs_due": true,
+        "days_since_learned": 6
+      },
+      {
+        "word": "student",
+        "definition": "student的定义",
+        "part_of_speech": "noun",
+        "review_day": 7,
+        "last_reviewed": "2025-09-27",
+        "review_interval": 3,
+        "retention_rate": 0.74,
+        "fsrs_due": true,
+        "days_since_learned": 6
+      },
+      {
+        "word": "count insects",
+        "definition": "count insects的定义",
+        "part_of_speech": "noun",
+        "review_day": 7,
+        "last_reviewed": "2025-09-30",
+        "review_interval": 7,
+        "retention_rate": 0.73,
+        "fsrs_due": true,
+        "days_since_learned": 6
+      },
+      {
+        "word": "September",
+        "definition": "September的定义",
+        "part_of_speech": "noun",
+        "review_day": 7,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 6,
+        "retention_rate": 0.91,
+        "fsrs_due": true,
+        "days_since_learned": 6
+      },
+      {
+        "word": "stand",
+        "definition": "stand的定义",
+        "part_of_speech": "noun",
+        "review_day": 7,
+        "last_reviewed": "2025-09-25",
+        "review_interval": 2,
+        "retention_rate": 0.87,
+        "fsrs_due": true,
+        "days_since_learned": 6
+      },
+      {
+        "word": "cause",
+        "definition": "cause的定义",
+        "part_of_speech": "noun",
+        "review_day": 7,
+        "last_reviewed": "2025-09-30",
+        "review_interval": 2,
+        "retention_rate": 0.84,
+        "fsrs_due": true,
+        "days_since_learned": 6
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "代词 (Pronoun)_2",
+        "name": "代词 (Pronoun)",
+        "category": "词性",
+        "description": "代替名词使用。",
+        "examples": [
+          "学习人称代词的主格（I, you, he, she, it, we, they）和宾格（me, you, him, her, it, us, them）。",
+          "学习物主代词（my, your, his, her, its, our, their）。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 7
+      },
+      {
+        "id": "介词 (Preposition)_10",
+        "name": "介词 (Preposition)",
+        "category": "词性",
+        "description": "表示名词或代词与句子其他成分的关系，常表示时间、地点、方向。",
+        "examples": [
+          "学习常见介词（如：in, on, at, to, for, with, from）。",
+          "掌握其基本用法，如 in the morning, on the desk, at school, go to bed。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 7
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "How old are you?_9",
+        "name": "How old are you?",
+        "category": "句型模式",
+        "description": "特殊疑问句 (Wh-Question) - 询问年龄。",
+        "examples": [
+          "How old are you?"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 7
+      },
+      {
+        "id": "What is...?_7",
+        "name": "What is...?",
+        "category": "句型模式",
+        "description": "特殊疑问句 (Wh-Question) - 询问事物名称/身份。",
+        "examples": [
+          "What is this?",
+          "What is your name?"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 7
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "He is always in a hurry to get to school.",
+          "translation": "他总是急着去学校。",
+          "target_words": [
+            "hurry"
+          ],
+          "new_words": [
+            "hurry"
+          ],
+          "review_words": [],
+          "morphology_rule": "The word 'hurry' is used as a noun to indicate urgency.",
+          "syntactic_structure": "Subject + verb + prepositional phrase.",
+          "difficulty": 2.0,
+          "exercise_type": "translation",
+          "explanation": "This sentence shows the urgency of getting to school."
+        },
+        {
+          "sentence": "Can you help me with my homework?",
+          "translation": "你能帮我做作业吗？",
+          "target_words": [
+            "can"
+          ],
+          "new_words": [
+            "can"
+          ],
+          "review_words": [],
+          "morphology_rule": "The word 'can' is used as a noun to express ability.",
+          "syntactic_structure": "Question format: Can + subject + verb.",
+          "difficulty": 2.5,
+          "exercise_type": "translation",
+          "explanation": "This sentence asks for assistance in doing homework."
+        },
+        {
+          "sentence": "I have ninety-nine apples in my basket.",
+          "translation": "我的篮子里有九十九个苹果。",
+          "target_words": [
+            "ninety-nine"
+          ],
+          "new_words": [
+            "ninety-nine"
+          ],
+          "review_words": [],
+          "morphology_rule": "The word 'ninety-nine' is used as a noun to denote quantity.",
+          "syntactic_structure": "Subject + verb + quantity + noun.",
+          "difficulty": 2.0,
+          "exercise_type": "translation",
+          "explanation": "This sentence indicates the number of apples in the basket."
+        },
+        {
+          "sentence": "I like to write stories in my free time.",
+          "translation": "我喜欢在空闲时间写故事。",
+          "target_words": [
+            "write"
+          ],
+          "new_words": [
+            "write"
+          ],
+          "review_words": [],
+          "morphology_rule": "The word 'write' is used as a noun to indicate the action of composing text.",
+          "syntactic_structure": "Subject + verb + noun phrase.",
+          "difficulty": 2.5,
+          "exercise_type": "translation",
+          "explanation": "This sentence expresses a hobby related to writing."
+        },
+        {
+          "sentence": "Moral Education teaches us how to be good people.",
+          "translation": "道德教育教我们如何成为好人。",
+          "target_words": [
+            "Moral Education"
+          ],
+          "new_words": [
+            "Moral Education"
+          ],
+          "review_words": [],
+          "morphology_rule": "The phrase 'Moral Education' is a proper noun used to name a subject.",
+          "syntactic_structure": "Subject + verb + complement.",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "This sentence describes the purpose of Moral Education."
+        },
+        {
+          "sentence": "Every student must count insects for their project.",
+          "translation": "每个学生都必须为他们的项目数算昆虫。",
+          "target_words": [
+            "count insects",
+            "student"
+          ],
+          "new_words": [
+            "count insects"
+          ],
+          "review_words": [
+            "student"
+          ],
+          "morphology_rule": "The phrase 'count insects' indicates a specific action related to a project.",
+          "syntactic_structure": "Subject + verb + object.",
+          "difficulty": 3.5,
+          "exercise_type": "translation",
+          "explanation": "This sentence relates to a school project involving counting insects."
+        },
+        {
+          "sentence": "In September, we will start our new classes.",
+          "translation": "在九月份，我们将开始我们的新课程。",
+          "target_words": [
+            "September"
+          ],
+          "new_words": [
+            "September"
+          ],
+          "review_words": [],
+          "morphology_rule": "The word 'September' is a proper noun indicating a month.",
+          "syntactic_structure": "Prepositional phrase + subject + verb.",
+          "difficulty": 2.0,
+          "exercise_type": "translation",
+          "explanation": "This sentence refers to the time when new classes begin."
+        },
+        {
+          "sentence": "I will stand by my friends when they need help.",
+          "translation": "当我的朋友需要帮助时，我会支持他们。",
+          "target_words": [
+            "stand"
+          ],
+          "new_words": [
+            "stand"
+          ],
+          "review_words": [],
+          "morphology_rule": "The word 'stand' is used as a noun to indicate support.",
+          "syntactic_structure": "Subject + verb + prepositional phrase.",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "This sentence shows loyalty to friends during their time of need."
+        }
+      ]
+    },
+    "practice_exercises": {
+      "practice_exercises": []
+    },
+    "generated_at": "2025-10-01T12:43:18.486104",
+    "generation_attempt": 1
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T12:43:18.486137",
+  "generation_attempt": 1
+}

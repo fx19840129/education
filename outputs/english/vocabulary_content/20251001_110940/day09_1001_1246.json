@@ -1,0 +1,320 @@
+{
+  "day": 9,
+  "date": "2025-10-09",
+  "plan_id": "20251001_110940",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "making",
+          "definition": "制作（动名词）/制作",
+          "part_of_speech": "verb/noun",
+          "learning_day": 9,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "mean",
+          "definition": "意思是",
+          "part_of_speech": "verb",
+          "learning_day": 9,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "Mr",
+          "definition": "先生",
+          "part_of_speech": "noun",
+          "learning_day": 9,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "jeans",
+          "definition": "牛仔裤",
+          "part_of_speech": "noun",
+          "learning_day": 9,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "colour",
+          "definition": "彩色",
+          "part_of_speech": "noun",
+          "learning_day": 9,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "magazine",
+          "definition": "杂志",
+          "part_of_speech": "noun",
+          "learning_day": 9,
+          "category": "core_functional",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "only",
+          "definition": "仅仅",
+          "part_of_speech": "adverb/adjective",
+          "learning_day": 9,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "where",
+          "definition": "在哪里",
+          "part_of_speech": "adverb",
+          "learning_day": 9,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "must",
+          "definition": "必须",
+          "part_of_speech": "modal",
+          "learning_day": 9,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "I would like to",
+          "definition": "我想要",
+          "part_of_speech": "phrase",
+          "learning_day": 9,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "hello",
+        "definition": "hello的定义",
+        "part_of_speech": "noun",
+        "review_day": 9,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 1,
+        "retention_rate": 0.76,
+        "fsrs_due": true,
+        "days_since_learned": 8
+      },
+      {
+        "word": "present",
+        "definition": "present的定义",
+        "part_of_speech": "noun",
+        "review_day": 9,
+        "last_reviewed": "2025-09-27",
+        "review_interval": 3,
+        "retention_rate": 0.81,
+        "fsrs_due": true,
+        "days_since_learned": 8
+      },
+      {
+        "word": "e-mail",
+        "definition": "e-mail的定义",
+        "part_of_speech": "noun",
+        "review_day": 9,
+        "last_reviewed": "2025-09-27",
+        "review_interval": 6,
+        "retention_rate": 0.85,
+        "fsrs_due": true,
+        "days_since_learned": 8
+      },
+      {
+        "word": "wash the clothes",
+        "definition": "wash the clothes的定义",
+        "part_of_speech": "noun",
+        "review_day": 9,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 8,
+        "retention_rate": 0.8,
+        "fsrs_due": true,
+        "days_since_learned": 8
+      },
+      {
+        "word": "tall",
+        "definition": "tall的定义",
+        "part_of_speech": "noun",
+        "review_day": 9,
+        "last_reviewed": "2025-09-23",
+        "review_interval": 8,
+        "retention_rate": 0.84,
+        "fsrs_due": true,
+        "days_since_learned": 8
+      },
+      {
+        "word": "wears",
+        "definition": "wears的定义",
+        "part_of_speech": "noun",
+        "review_day": 9,
+        "last_reviewed": "2025-09-25",
+        "review_interval": 2,
+        "retention_rate": 0.85,
+        "fsrs_due": true,
+        "days_since_learned": 8
+      },
+      {
+        "word": "river",
+        "definition": "river的定义",
+        "part_of_speech": "noun",
+        "review_day": 9,
+        "last_reviewed": "2025-09-24",
+        "review_interval": 3,
+        "retention_rate": 0.89,
+        "fsrs_due": true,
+        "days_since_learned": 8
+      },
+      {
+        "word": "cook the meals",
+        "definition": "cook the meals的定义",
+        "part_of_speech": "noun",
+        "review_day": 9,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 7,
+        "retention_rate": 0.73,
+        "fsrs_due": true,
+        "days_since_learned": 8
+      },
+      {
+        "word": "remember",
+        "definition": "remember的定义",
+        "part_of_speech": "noun",
+        "review_day": 9,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 2,
+        "retention_rate": 0.92,
+        "fsrs_due": true,
+        "days_since_learned": 8
+      },
+      {
+        "word": "love",
+        "definition": "love的定义",
+        "part_of_speech": "noun",
+        "review_day": 9,
+        "last_reviewed": "2025-09-24",
+        "review_interval": 2,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 8
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "be 动词 (be Verb Forms)_5",
+        "name": "be 动词 (be Verb Forms)",
+        "category": "形式变化",
+        "description": "am, is, are 的使用（根据主语和时态）。",
+        "examples": [
+          "I am",
+          "He/She/It is",
+          "You/We/They are"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 9
+      },
+      {
+        "id": "从形容词变来 (-ly form)_9",
+        "name": "从形容词变来 (-ly form)",
+        "category": "形式变化",
+        "description": "大多数副词由形容词加-ly构成。",
+        "examples": [
+          "quick -> quickly",
+          "happy -> happily"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 9
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "What is...?_7",
+        "name": "What is...?",
+        "category": "句型模式",
+        "description": "特殊疑问句 (Wh-Question) - 询问事物名称/身份。",
+        "examples": [
+          "What is this?",
+          "What is your name?"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 9
+      },
+      {
+        "id": "Do/Does...?_10",
+        "name": "Do/Does...?",
+        "category": "句型模式",
+        "description": "一般疑问句 (Yes/No Question) - 询问一般现在时动作。",
+        "examples": [
+          "Do you like ice cream?"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 9
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": []
+    },
+    "practice_exercises": {
+      "practice_exercises": []
+    },
+    "generated_at": "2025-10-01T12:46:30.337962",
+    "error": "生成失败: 已达到最大重试次数",
+    "generation_attempt": 3
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T12:46:30.337988",
+  "generation_attempt": 1
+}

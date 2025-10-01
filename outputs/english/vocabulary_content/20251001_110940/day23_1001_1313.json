@@ -1,0 +1,319 @@
+{
+  "day": 23,
+  "date": "2025-10-23",
+  "plan_id": "20251001_110940",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "skating",
+          "definition": "滑冰",
+          "part_of_speech": "noun/verb",
+          "learning_day": 23,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "Wed.",
+          "definition": "星期三",
+          "part_of_speech": "noun",
+          "learning_day": 23,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "cloud",
+          "definition": "云",
+          "part_of_speech": "noun",
+          "learning_day": 23,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "doctor",
+          "definition": "医生",
+          "part_of_speech": "noun",
+          "learning_day": 23,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "little",
+          "definition": "小的",
+          "part_of_speech": "adjective/adverb",
+          "learning_day": 23,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "drink",
+          "definition": "喝/饮料",
+          "part_of_speech": "verb/noun",
+          "learning_day": 23,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "prepare",
+          "definition": "准备",
+          "part_of_speech": "verb",
+          "learning_day": 23,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "fifty",
+          "definition": "五十",
+          "part_of_speech": "numeral",
+          "learning_day": 23,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "is",
+          "definition": "是",
+          "part_of_speech": "verb/auxiliary",
+          "learning_day": 23,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "green beans",
+          "definition": "青豆",
+          "part_of_speech": "phrase",
+          "learning_day": 23,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "shine",
+        "definition": "shine的定义",
+        "part_of_speech": "noun",
+        "review_day": 23,
+        "last_reviewed": "2025-09-10",
+        "review_interval": 9,
+        "retention_rate": 0.74,
+        "fsrs_due": true,
+        "days_since_learned": 22
+      },
+      {
+        "word": "Center",
+        "definition": "Center的定义",
+        "part_of_speech": "noun",
+        "review_day": 23,
+        "last_reviewed": "2025-09-09",
+        "review_interval": 4,
+        "retention_rate": 0.86,
+        "fsrs_due": true,
+        "days_since_learned": 22
+      },
+      {
+        "word": "bike",
+        "definition": "bike的定义",
+        "part_of_speech": "noun",
+        "review_day": 23,
+        "last_reviewed": "2025-09-23",
+        "review_interval": 6,
+        "retention_rate": 0.74,
+        "fsrs_due": true,
+        "days_since_learned": 22
+      },
+      {
+        "word": "hospital",
+        "definition": "hospital的定义",
+        "part_of_speech": "noun",
+        "review_day": 23,
+        "last_reviewed": "2025-09-24",
+        "review_interval": 12,
+        "retention_rate": 0.94,
+        "fsrs_due": true,
+        "days_since_learned": 22
+      },
+      {
+        "word": "pal",
+        "definition": "pal的定义",
+        "part_of_speech": "noun",
+        "review_day": 23,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 2,
+        "retention_rate": 0.8,
+        "fsrs_due": true,
+        "days_since_learned": 22
+      },
+      {
+        "word": "now",
+        "definition": "now的定义",
+        "part_of_speech": "noun",
+        "review_day": 23,
+        "last_reviewed": "2025-09-12",
+        "review_interval": 9,
+        "retention_rate": 0.74,
+        "fsrs_due": true,
+        "days_since_learned": 22
+      },
+      {
+        "word": "lady",
+        "definition": "lady的定义",
+        "part_of_speech": "noun",
+        "review_day": 23,
+        "last_reviewed": "2025-09-17",
+        "review_interval": 4,
+        "retention_rate": 0.92,
+        "fsrs_due": true,
+        "days_since_learned": 22
+      },
+      {
+        "word": "stand",
+        "definition": "stand的定义",
+        "part_of_speech": "noun",
+        "review_day": 23,
+        "last_reviewed": "2025-09-17",
+        "review_interval": 11,
+        "retention_rate": 0.84,
+        "fsrs_due": true,
+        "days_since_learned": 22
+      },
+      {
+        "word": "lunch",
+        "definition": "lunch的定义",
+        "part_of_speech": "noun",
+        "review_day": 23,
+        "last_reviewed": "2025-09-23",
+        "review_interval": 10,
+        "retention_rate": 0.71,
+        "fsrs_due": true,
+        "days_since_learned": 22
+      },
+      {
+        "word": "sweet",
+        "definition": "sweet的定义",
+        "part_of_speech": "noun",
+        "review_day": 23,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.88,
+        "fsrs_due": true,
+        "days_since_learned": 22
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "连词 (Conjunction)_11",
+        "name": "连词 (Conjunction)",
+        "category": "词性",
+        "description": "连接词、短语或句子的词。",
+        "examples": [
+          "学习并列连词 (and, but, or) 的基本用法。",
+          "初步接触从属连词 (because, when - 初步)。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 23
+      },
+      {
+        "id": "冠词 (Article)_12",
+        "name": "冠词 (Article)",
+        "category": "词性",
+        "description": "放在名词前，表示其确定性。",
+        "examples": [
+          "学习不定冠词 a/an (根据发音)。",
+          "学习定冠词 the 的基本用法。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 23
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "Is/Am/Are...?_11",
+        "name": "Is/Am/Are...?",
+        "category": "句型模式",
+        "description": "一般疑问句 (Yes/No Question) - 询问状态/身份（be 动词）。",
+        "examples": [
+          "Is she your friend?"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 23
+      },
+      {
+        "id": "主谓宾状结构 (Subject-Verb-Object-Adverbial)_4",
+        "name": "主谓宾状结构 (Subject-Verb-Object-Adverbial)",
+        "category": "句法结构",
+        "description": "在 SVO 基础上增加状语。",
+        "examples": [
+          "She reads a book in the library.",
+          "He came home yesterday."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 23
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": []
+    },
+    "practice_exercises": {
+      "practice_exercises": []
+    },
+    "generated_at": "2025-10-01T13:13:02.093198",
+    "error": "生成失败: 已达到最大重试次数",
+    "generation_attempt": 3
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T13:13:02.093281",
+  "generation_attempt": 1
+}

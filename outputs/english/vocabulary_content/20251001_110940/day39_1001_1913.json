@@ -1,0 +1,534 @@
+{
+  "day": 39,
+  "date": "2025-11-08",
+  "plan_id": "20251001_110940",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "carrot",
+          "definition": "胡萝卜",
+          "part_of_speech": "noun",
+          "learning_day": 39,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "wear",
+          "definition": "穿",
+          "part_of_speech": "verb",
+          "learning_day": 39,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "ice",
+          "definition": "冰",
+          "part_of_speech": "noun",
+          "learning_day": 39,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "went",
+          "definition": "去（过去式）",
+          "part_of_speech": "verb",
+          "learning_day": 39,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "last",
+          "definition": "上一个",
+          "part_of_speech": "adjective/adverb",
+          "learning_day": 39,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "stream",
+          "definition": "（小）河；（小）溪",
+          "part_of_speech": "noun",
+          "learning_day": 39,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "reads",
+          "definition": "读；看（第三人称单数）",
+          "part_of_speech": "verb",
+          "learning_day": 39,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "our",
+          "definition": "我们的",
+          "part_of_speech": "determiner/pronoun",
+          "learning_day": 39,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "teacher's desk",
+          "definition": "讲台",
+          "part_of_speech": "phrase",
+          "learning_day": 39,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "next to",
+          "definition": "与……相邻",
+          "part_of_speech": "phrase",
+          "learning_day": 39,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "boy",
+        "definition": "boy的定义",
+        "part_of_speech": "noun",
+        "review_day": 39,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 3,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 38
+      },
+      {
+        "word": "make the bed",
+        "definition": "make the bed的定义",
+        "part_of_speech": "noun",
+        "review_day": 39,
+        "last_reviewed": "2025-09-01",
+        "review_interval": 11,
+        "retention_rate": 0.84,
+        "fsrs_due": true,
+        "days_since_learned": 38
+      },
+      {
+        "word": "breakfast",
+        "definition": "breakfast的定义",
+        "part_of_speech": "noun",
+        "review_day": 39,
+        "last_reviewed": "2025-09-21",
+        "review_interval": 14,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 38
+      },
+      {
+        "word": "sweet",
+        "definition": "sweet的定义",
+        "part_of_speech": "noun",
+        "review_day": 39,
+        "last_reviewed": "2025-09-08",
+        "review_interval": 10,
+        "retention_rate": 0.81,
+        "fsrs_due": true,
+        "days_since_learned": 38
+      },
+      {
+        "word": "end table",
+        "definition": "end table的定义",
+        "part_of_speech": "noun",
+        "review_day": 39,
+        "last_reviewed": "2025-09-18",
+        "review_interval": 2,
+        "retention_rate": 0.9,
+        "fsrs_due": true,
+        "days_since_learned": 38
+      },
+      {
+        "word": "a little",
+        "definition": "a little的定义",
+        "part_of_speech": "noun",
+        "review_day": 39,
+        "last_reviewed": "2025-09-17",
+        "review_interval": 11,
+        "retention_rate": 0.87,
+        "fsrs_due": true,
+        "days_since_learned": 38
+      },
+      {
+        "word": "skate",
+        "definition": "skate的定义",
+        "part_of_speech": "noun",
+        "review_day": 39,
+        "last_reviewed": "2025-09-18",
+        "review_interval": 7,
+        "retention_rate": 0.87,
+        "fsrs_due": true,
+        "days_since_learned": 38
+      },
+      {
+        "word": "feel",
+        "definition": "feel的定义",
+        "part_of_speech": "noun",
+        "review_day": 39,
+        "last_reviewed": "2025-09-14",
+        "review_interval": 7,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 38
+      },
+      {
+        "word": "ship",
+        "definition": "ship的定义",
+        "part_of_speech": "noun",
+        "review_day": 39,
+        "last_reviewed": "2025-09-13",
+        "review_interval": 2,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 38
+      },
+      {
+        "word": "a",
+        "definition": "a的定义",
+        "part_of_speech": "noun",
+        "review_day": 39,
+        "last_reviewed": "2025-09-20",
+        "review_interval": 5,
+        "retention_rate": 0.75,
+        "fsrs_due": true,
+        "days_since_learned": 38
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "代词 (Pronoun)_2",
+        "name": "代词 (Pronoun)",
+        "category": "词性",
+        "description": "代替名词使用。",
+        "examples": [
+          "学习人称代词的主格（I, you, he, she, it, we, they）和宾格（me, you, him, her, it, us, them）。",
+          "学习物主代词（my, your, his, her, its, our, their）。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 39
+      },
+      {
+        "id": "连词 (Conjunction)_11",
+        "name": "连词 (Conjunction)",
+        "category": "词性",
+        "description": "连接词、短语或句子的词。",
+        "examples": [
+          "学习并列连词 (and, but, or) 的基本用法。",
+          "初步接触从属连词 (because, when - 初步)。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 39
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "Do/Does...?_10",
+        "name": "Do/Does...?",
+        "category": "句型模式",
+        "description": "一般疑问句 (Yes/No Question) - 询问一般现在时动作。",
+        "examples": [
+          "Do you like ice cream?"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 39
+      },
+      {
+        "id": "基本语序 (Basic Word Order)_0",
+        "name": "基本语序 (Basic Word Order)",
+        "category": "句法结构",
+        "description": "英语句子的基本语序是 SVO (主语-谓语-宾语)，这是最核心的语序规则。",
+        "examples": [
+          "I like apples.",
+          "She reads a book."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 39
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "The boy eats a carrot.",
+          "translation": "男孩吃一根胡萝卜。",
+          "morphology_rule": "人称代词主格（he, she, it）",
+          "syntactic_structure": "SVO",
+          "difficulty": 2.5,
+          "explanation": "carrot 是胡萝卜，作为名词在这里做了宾语。"
+        },
+        {
+          "sentence": "Do you like ice skating?",
+          "translation": "你喜欢滑冰吗？",
+          "morphology_rule": "一般疑问句 (Do...? / Does...?)",
+          "syntactic_structure": "Yes/No Question",
+          "difficulty": 2.5,
+          "explanation": "ice 是冰，skating 是滑冰，结合在一起构成名词短语。"
+        },
+        {
+          "sentence": "She reads a book by the stream.",
+          "translation": "她在小溪旁读一本书。",
+          "morphology_rule": "人称代词主格（he, she, it）",
+          "syntactic_structure": "SVO",
+          "difficulty": 2.5,
+          "explanation": "stream 是小溪，作为地点状语。"
+        },
+        {
+          "sentence": "We wear jackets when it is cold.",
+          "translation": "天气冷的时候我们穿夹克。",
+          "morphology_rule": "人称代词主格（we）",
+          "syntactic_structure": "SVO",
+          "difficulty": 2.5,
+          "explanation": "wear 是穿，表示穿衣的动作。"
+        },
+        {
+          "sentence": "He went to the ship last night.",
+          "translation": "昨晚他去了船上。",
+          "morphology_rule": "人称代词主格（he）",
+          "syntactic_structure": "SVO",
+          "difficulty": 2.5,
+          "explanation": "went 是go的过去式，表示过去的动作。"
+        },
+        {
+          "sentence": "Our breakfast was sweet.",
+          "translation": "我们的早餐是甜的。",
+          "morphology_rule": "物主代词（our）",
+          "syntactic_structure": "SVC",
+          "difficulty": 2.5,
+          "explanation": "our 是我们的，表示物主代词。"
+        },
+        {
+          "sentence": "The teacher's desk is next to the end table.",
+          "translation": "老师的桌子在边桌旁边。",
+          "morphology_rule": "名词所有格",
+          "syntactic_structure": "SVC",
+          "difficulty": 2.5,
+          "explanation": "teacher's desk 是老师的桌子，表示名词所有格。"
+        },
+        {
+          "sentence": "The cat sleeps next to him.",
+          "translation": "猫睡在他旁边。",
+          "morphology_rule": "人称代词宾格（him）",
+          "syntactic_structure": "SVO",
+          "difficulty": 2.5,
+          "explanation": "next to 是一个介词短语，表示位置。"
+        },
+        {
+          "sentence": "Next to the carrot, there is a little orange.",
+          "translation": "胡萝卜旁边有一个小橙子。",
+          "morphology_rule": "介词短语",
+          "syntactic_structure": "SVO",
+          "difficulty": 2.5,
+          "explanation": "next to 表示位置，a little 表示少量的。"
+        },
+        {
+          "sentence": "He feels happy at our party.",
+          "translation": "他在我们的聚会上感到开心。",
+          "morphology_rule": "人称代词主格（he）",
+          "syntactic_structure": "SVO",
+          "difficulty": 2.5,
+          "explanation": "our 是我们的，表示物主代词。"
+        }
+      ],
+      "generated_at": "2025-10-01T19:13:37.539615",
+      "generation_method": "openai_gpt4o_100_coverage"
+    },
+    "practice_exercises": {
+      "practice_exercises": [
+        {
+          "id": 1,
+          "type": "choice",
+          "question": "What does the boy eat?",
+          "options": [
+            "A banana",
+            "A carrot",
+            "An apple",
+            "A cookie"
+          ],
+          "correct_answer": "A carrot",
+          "morphology_rule": "动词 'eats' 表示动作，名词 'carrot' 表示物体",
+          "syntactic_structure": "主语 + 动词 + 宾语",
+          "difficulty": 2.5,
+          "explanation": "问题询问男孩吃什么，答案是 'A carrot'。"
+        },
+        {
+          "id": 2,
+          "type": "choice",
+          "question": "Where did he go last night?",
+          "options": [
+            "To the park",
+            "To the ship",
+            "To the mall",
+            "To the school"
+          ],
+          "correct_answer": "To the ship",
+          "morphology_rule": "动词 'went' 表示过去的动作",
+          "syntactic_structure": "主语 + 动词 + 地点",
+          "difficulty": 2.5,
+          "explanation": "问题询问他昨晚去了哪里，答案是 'To the ship'。"
+        },
+        {
+          "id": 3,
+          "type": "choice",
+          "question": "What do we wear when it is cold?",
+          "options": [
+            "Shorts",
+            "T-shirts",
+            "Jackets",
+            "Sandals"
+          ],
+          "correct_answer": "Jackets",
+          "morphology_rule": "动词 'wear' 表示穿着，'jackets' 表示衣物",
+          "syntactic_structure": "主语 + 动词 + 宾语",
+          "difficulty": 2.5,
+          "explanation": "问题询问我们在冷的时候穿什么，答案是 'Jackets'。"
+        },
+        {
+          "id": 4,
+          "type": "choice",
+          "question": "What was our breakfast like?",
+          "options": [
+            "Spicy",
+            "Salty",
+            "Sweet",
+            "Bitter"
+          ],
+          "correct_answer": "Sweet",
+          "morphology_rule": "形容词 'sweet' 描述名词 'breakfast'",
+          "syntactic_structure": "主语 + 系动词 + 形容词",
+          "difficulty": 2.5,
+          "explanation": "问题询问我们的早餐是什么味道，答案是 'Sweet'。"
+        },
+        {
+          "id": 5,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "你喜欢滑冰吗？",
+          "english_text": "Do you like ice skating?",
+          "morphology_rule": "动词 'like' 表示喜欢，名词 'ice skating' 表示活动",
+          "syntactic_structure": "疑问句结构",
+          "difficulty": 2.5,
+          "explanation": "翻译为询问对方是否喜欢滑冰。"
+        },
+        {
+          "id": 6,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "她在小溪旁边看书。",
+          "english_text": "She reads a book by the stream.",
+          "morphology_rule": "动词 'reads' 表示阅读，'by the stream' 表示地点",
+          "syntactic_structure": "主语 + 动词 + 宾语 + 地点状语",
+          "difficulty": 2.5,
+          "explanation": "翻译描述她在小溪旁边阅读。"
+        },
+        {
+          "id": 7,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "老师的桌子在小桌子旁边。",
+          "english_text": "The teacher's desk is next to the end table.",
+          "morphology_rule": "名词 'desk' 和 'table' 表示物体，'next to' 表示方位",
+          "syntactic_structure": "主语 + 系动词 + 方位",
+          "difficulty": 2.5,
+          "explanation": "翻译描述老师的桌子的位置。"
+        },
+        {
+          "id": 8,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "他在我们的派对上感到高兴。",
+          "english_text": "He feels happy at our party.",
+          "morphology_rule": "动词 'feels' 表示感觉，'happy' 表示情绪",
+          "syntactic_structure": "主语 + 动词 + 形容词 + 地点状语",
+          "difficulty": 2.5,
+          "explanation": "翻译描述他在派对上的感受。"
+        },
+        {
+          "id": 9,
+          "type": "fill_blank",
+          "question": "请填入适当的单词",
+          "sentence": "The cat sleeps next to ___.",
+          "answer": "him",
+          "morphology_rule": "代词 'him' 用于指代男性",
+          "syntactic_structure": "主语 + 动词 + 方位状语",
+          "difficulty": 2.5,
+          "explanation": "句子描述猫的位置，需要填入 'him'。"
+        },
+        {
+          "id": 10,
+          "type": "fill_blank",
+          "question": "请填入适当的单词",
+          "sentence": "Next to the carrot, there is a little ___.",
+          "answer": "orange",
+          "morphology_rule": "名词 'orange' 表示物体",
+          "syntactic_structure": "方位 + 名词 + 陈述句",
+          "difficulty": 2.5,
+          "explanation": "句子描述胡萝卜旁边的物体，需要填入 'orange'。"
+        }
+      ],
+      "generated_at": "2025-10-01T19:13:51.131283",
+      "generation_method": "openai_gpt4o_from_sentences"
+    },
+    "generated_at": "2025-10-01T19:13:51.131324",
+    "generation_strategy": "sentences_first_exercises_follow"
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T19:13:51.131390",
+  "generation_attempt": 1
+}

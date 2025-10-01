@@ -21,6 +21,12 @@ from pathlib import Path
 from datetime import datetime
 from typing import Dict, List, Optional
 
+# 添加项目根目录到Python路径
+project_root = Path(__file__).parent.parent.parent.parent
+sys.path.append(str(project_root))
+
+from src.shared.ai_framework.unified_ai_client import UnifiedAIClient, AIModel
+
 class EnglishLearningPromptGenerator:
     """
     英语学习计划AI提示词生成器
@@ -441,7 +447,7 @@ class EnglishLearningPromptGenerator:
         
         return learning_plan
     
-    def generate_practice_sentences_prompt(self, daily_words: Dict, daily_morphology: Dict, daily_syntax: Dict, stage: str) -> str:
+    def generate_practice_sentences_prompt(self, daily_words: Dict, daily_morphology: Dict, daily_syntax: Dict, stage: str, review_words: List[Dict] = None) -> str:
         """
         生成练习句子的AI提示词
         
@@ -472,6 +478,7 @@ class EnglishLearningPromptGenerator:
                     ]
                 }
             stage (str): 学习阶段名称
+            review_words (List[Dict]): 复习单词列表，可选
             
         Returns:
             str: 用于生成练习句子的AI提示词，包含：
@@ -480,226 +487,629 @@ class EnglishLearningPromptGenerator:
             - 练习句子生成要求
             - 期望的JSON输出格式
         """
-        # 收集单词信息
-        words_info = []
+        # 收集新学单词信息
+        new_words_info = []
         for pos, words in daily_words.get('pos_content', {}).items():
             for word in words:
-                words_info.append({
+                new_words_info.append({
                     'word': word['word'],
                     'pos': pos,
                     'translation': word.get('translation', ''),
-                    'difficulty': word.get('difficulty', 3.0)
+                    'difficulty': word.get('difficulty', 3.0),
+                    'type': 'new'
                 })
+        
+        # 收集复习单词信息
+        review_words_info = []
+        if review_words:
+            for word in review_words:
+                review_words_info.append({
+                    'word': word['word'],
+                    'pos': word.get('part_of_speech', 'unknown'),
+                    'translation': word.get('definition', ''),
+                    'difficulty': word.get('difficulty', 3.0),
+                    'type': 'review'
+                })
+        
+        # 合并所有单词
+        all_words_info = new_words_info + review_words_info
         
         # 收集词法信息
         morphology_info = []
-        for item in daily_morphology.get('morphology_items', []):
+        # 支持两种数据结构：morphology_items 和 learning_points
+        morph_items = daily_morphology.get('morphology_items', []) or daily_morphology.get('learning_points', [])
+        for item in morph_items:
             morphology_info.append({
-                'name': item['name'],
-                'type': item['type'],
-                'description': item['description'],
-                'rules': item.get('rules', [])[:3]  # 只取前3个规则
+                'name': item.get('name', '未知词法'),
+                'type': item.get('type', item.get('category', 'unknown')),
+                'description': item.get('description', '词法描述'),
+                'rules': item.get('rules', item.get('examples', []))[:3]  # 只取前3个规则/例句
             })
         
         # 收集句法信息
         syntax_info = []
-        for item in daily_syntax.get('syntax_items', []):
+        # 支持两种数据结构：syntax_items 和 learning_points
+        syntax_items = daily_syntax.get('syntax_items', []) or daily_syntax.get('learning_points', [])
+        for item in syntax_items:
             syntax_info.append({
-                'name': item['name'],
-                'type': item['type'],
-                'structure': item['structure'],
+                'name': item.get('name', '未知句法'),
+                'type': item.get('type', item.get('category', 'unknown')),
+                'description': item.get('description', '句法描述'),
+                'structure': item.get('structure', item.get('description', '')),
                 'examples': item.get('examples', [])[:2]  # 只取前2个例句
             })
         
-        # 生成提示词
-        prompt = f"""你是一个英语教学专家，需要根据每日学习的单词、词法、句法生成练习句子。
-
-学习阶段：{stage}
-
-今日学习内容：
-1. 单词列表：
-"""
+        # 构建新学单词和复习单词列表
+        new_words_list = [word['word'] for word in new_words_info]
+        review_words_list = [word['word'] for word in review_words_info] if review_words_info else []
         
-        for word in words_info:
-            prompt += f"   - {word['word']} ({word['pos']})\n"
-        
+        # 构建词法信息
+        morphology_content = ""
         if morphology_info:
-            prompt += f"\n2. 词法项目：\n"
+            morphology_content = "\n### 今日词法重点：\n"
             for morph in morphology_info:
-                prompt += f"   - {morph['name']}: {morph['description']}\n"
-                if morph['rules']:
-                    prompt += f"     规则: {'; '.join(morph['rules'][:2])}\n"
+                morphology_content += f"- **{morph['name']}**: {morph['description']}\n"
+                if morph.get('rules'):
+                    morphology_content += f"  - 规则/例句: {'; '.join(morph['rules'][:3])}\n"
         
+        # 构建句法信息
+        syntax_content = ""
         if syntax_info:
-            prompt += f"\n3. 句法结构：\n"
+            syntax_content = "\n### 今日句法重点：\n"
             for syntax in syntax_info:
-                prompt += f"   - {syntax['name']}: {syntax['structure']}\n"
-                if syntax['examples']:
-                    prompt += f"     例句: {'; '.join(syntax['examples'][:1])}\n"
+                syntax_content += f"- **{syntax['name']}**: {syntax['description']}\n"
+                if syntax.get('examples'):
+                    syntax_content += f"  - 例句: {'; '.join(syntax['examples'][:2])}\n"
         
-        prompt += f"""
-请根据以上学习内容生成练习句子，要求：
-1. 每个句子必须包含至少一个今日学习的单词
-2. 句子要体现今日学习的词法规则
-3. 句子要使用今日学习的句法结构
-4. 句子难度要适合{stage}阶段
-5. 每个句子都要有中文翻译
-6. 提供练习类型（翻译、填空、选择等）
+        # 分段式提示词生成
+        prompt = f"""请作为一名英语教学专家，为小学中高年级学生（{stage}）生成一套包含 10个 练习句子。
 
-请生成8-12个练习句子，以JSON格式返回：
+## 核心要求：
+
+### 强制包含新学单词：
+每个句子都必须包含至少一个今日新学单词。
+
+### 新学单词列表 (必须使用)：
+{new_words_list}
+
+### 新学单词是重点：
+至少80%的句子应以新学单词为主要目标词汇。
+
+### 包含所有复习单词：
+在生成的10个句子中，要 完全包含 所有的复习单词：{review_words_list}，每个复习单词至少在10个句子中的一个句子里出现。
+{morphology_content}{syntax_content}
+### 词汇和句法要求：
+- 句子必须体现上述词法规则的运用
+- 句子必须使用上述句法结构
+- 在explanation字段中说明具体运用了哪些词法和句法知识点
+
+### 难度级别：
+句子难度适合小学中高年级学生。
+
+## 输出格式：
+以JSON格式返回，结构如下：
+
+```json
 {{
   "practice_sentences": [
     {{
-      "sentence": "英文句子",
+      "sentence": "英文句子（必须包含新学单词）",
       "translation": "中文翻译",
-      "target_words": ["目标单词1", "目标单词2"],
-      "morphology_points": ["词法点1", "词法点2"],
-      "syntax_structure": "句法结构",
-      "difficulty": 3.0,
-      "exercise_type": "translation",
-      "explanation": "句子解释"
+      "morphology_rule": "词法规则描述",
+      "syntactic_structure": "句法结构",
+      "difficulty": 2.5,
+      "explanation": "句子解释，说明词汇和句法的运用"
     }}
   ]
 }}
+```
+
+## 句子数量：
+严格生成 **10个** 练习句子。
+
+## 任务目标：
+生成一套高质量的练习，既巩固了新学的核心词汇和短语，又将复习的单词巧妙地融入其中，同时符合小学生认知和学习的特点。
+
+## 请注意：
+- difficulty 值应根据句子复杂度、词汇量和句法结构进行合理评估。
+- 句子必须包含当日新学单词，并巧妙融入复习单词。
 
 只返回JSON，不要其他文字说明。"""
         
         return prompt
     
-    def generate_practice_exercises_prompt(self, daily_words: Dict, daily_morphology: Dict, daily_syntax: Dict, stage: str) -> str:
+    def generate_practice_sentences_prompt_v2(self, daily_words: dict, daily_morphology: list, daily_syntax: list, stage: str, review_words: list = None) -> str:
         """
-        生成练习题的AI提示词
-        
-        根据当日学习的单词、词法、句法内容，生成用于AI模型创建练习题的提示词。
-        生成的练习题包括选择题、翻译题、填空题三种题型，每种题型都会涉及当日学习的内容。
+        生成练习句子提示词 - 100%新学单词覆盖策略
         
         Args:
-            daily_words (Dict): 当日学习的单词内容，格式同 generate_practice_sentences_prompt
-            daily_morphology (Dict): 当日学习的词法内容，格式同 generate_practice_sentences_prompt
-            daily_syntax (Dict): 当日学习的句法内容，格式同 generate_practice_sentences_prompt
-            stage (str): 学习阶段名称
+            daily_words: 每日词汇数据
+            daily_morphology: 每日词法内容
+            daily_syntax: 每日句法内容
+            stage: 学习阶段
+            review_words: 复习词汇列表
             
         Returns:
-            str: 用于生成练习题的AI提示词，包含：
-            - 学习阶段信息
-            - 当日学习内容详情
-            - 三种题型的生成要求（选择题、翻译题、填空题）
-            - 题目难度和内容关联要求
-            - 期望的JSON输出格式
+            str: 生成的提示词
         """
-        # 收集单词信息
-        words_info = []
-        for pos, words in daily_words.get('pos_content', {}).items():
-            for word in words:
-                words_info.append({
-                    'word': word['word'],
-                    'pos': pos,
-                    'translation': word.get('translation', ''),
-                    'difficulty': word.get('difficulty', 3.0)
-                })
+        # 提取新学单词
+        new_words_list = []
+        pos_content = daily_words.get('pos_content', {})
+        for pos, words in pos_content.items():
+            for word_data in words:
+                if isinstance(word_data, dict):
+                    new_words_list.append(word_data.get('word', ''))
+                else:
+                    new_words_list.append(str(word_data))
         
-        # 收集词法信息
-        morphology_info = []
-        for item in daily_morphology.get('morphology_items', []):
-            morphology_info.append({
-                'name': item['name'],
-                'type': item['type'],
-                'description': item['description'],
-                'rules': item.get('rules', [])[:3]  # 只取前3个规则
-            })
+        # 处理复习词汇
+        review_words_list = []
+        if review_words:
+            for word in review_words:
+                if isinstance(word, dict):
+                    review_words_list.append(word.get('word', ''))
+                else:
+                    review_words_list.append(str(word))
         
-        # 收集句法信息
-        syntax_info = []
-        for item in daily_syntax.get('syntax_items', []):
-            syntax_info.append({
-                'name': item['name'],
-                'type': item['type'],
-                'structure': item['structure'],
-                'examples': item.get('examples', [])[:2]  # 只取前2个例句
-            })
-        
-        # 生成提示词
-        prompt = f"""你是一个英语教学专家，需要根据每日学习的单词、词法、句法生成练习题。
-
-学习阶段：{stage}
-
-今日学习内容：
-1. 单词列表：
-"""
-        
-        for word in words_info:
-            prompt += f"   - {word['word']} ({word['pos']})\n"
-        
-        if morphology_info:
-            prompt += f"\n2. 词法项目：\n"
+        # 构建词法内容
+        morphology_content = ""
+        if daily_morphology:
+            morphology_content += "### 今日词法重点：\n"
+            morphology_info = []
+            
+            # 处理字典或列表类型的daily_morphology
+            if isinstance(daily_morphology, dict):
+                # 如果是字典，检查learning_points键
+                if 'learning_points' in daily_morphology:
+                    morphology_info.extend(daily_morphology['learning_points'])
+                else:
+                    # 如果没有learning_points，将整个字典作为一个条目
+                    morphology_info.append(daily_morphology)
+            elif isinstance(daily_morphology, list):
+                # 如果是列表，遍历每个元素
+                for morph in daily_morphology:
+                    if isinstance(morph, dict):
+                        # 检查是否有 morphology_items 或 learning_points
+                        if 'morphology_items' in morph:
+                            morphology_info.extend(morph['morphology_items'])
+                        elif 'learning_points' in morph:
+                            morphology_info.extend(morph['learning_points'])
+                        else:
+                            # 直接使用当前字典
+                            morphology_info.append(morph)
+                    else:
+                        morphology_info.append(morph)
+            
             for morph in morphology_info:
-                prompt += f"   - {morph['name']}: {morph['description']}\n"
-                if morph['rules']:
-                    prompt += f"     规则: {'; '.join(morph['rules'][:2])}\n"
+                name = morph.get('name', morph.get('type', '词法规则'))
+                description = morph.get('description', morph.get('rules', ''))
+                morphology_content += f"- **{name}**: {description}\n"
+                if morph.get('examples'):
+                    morphology_content += f"  - 规则/例句: {'; '.join(morph['examples'][:2])}\n"
+                elif morph.get('rules'):
+                    morphology_content += f"  - 规则/例句: {morph['rules']}\n"
         
-        if syntax_info:
-            prompt += f"\n3. 句法结构：\n"
+        # 构建句法内容
+        syntax_content = ""
+        if daily_syntax:
+            syntax_content += "### 今日句法重点：\n"
+            syntax_info = []
+            
+            # 处理字典或列表类型的daily_syntax
+            if isinstance(daily_syntax, dict):
+                # 如果是字典，检查learning_points键
+                if 'learning_points' in daily_syntax:
+                    syntax_info.extend(daily_syntax['learning_points'])
+                else:
+                    # 如果没有learning_points，将整个字典作为一个条目
+                    syntax_info.append(daily_syntax)
+            elif isinstance(daily_syntax, list):
+                # 如果是列表，遍历每个元素
+                for syntax in daily_syntax:
+                    if isinstance(syntax, dict):
+                        # 检查是否有 syntax_items 或 learning_points
+                        if 'syntax_items' in syntax:
+                            syntax_info.extend(syntax['syntax_items'])
+                        elif 'learning_points' in syntax:
+                            syntax_info.extend(syntax['learning_points'])
+                        else:
+                            # 直接使用当前字典
+                            syntax_info.append(syntax)
+                    else:
+                        syntax_info.append(syntax)
+            
             for syntax in syntax_info:
-                prompt += f"   - {syntax['name']}: {syntax['structure']}\n"
-                if syntax['examples']:
-                    prompt += f"     例句: {'; '.join(syntax['examples'][:1])}\n"
+                name = syntax.get('name', syntax.get('type', '句法规则'))
+                description = syntax.get('description', syntax.get('structure', ''))
+                syntax_content += f"- **{name}**: {description}\n"
+                if syntax.get('examples'):
+                    syntax_content += f"  - 例句: {'; '.join(syntax['examples'][:2])}\n"
         
-        prompt += f"""
-请根据以上学习内容生成练习题，要求：
-1. 每个题目必须涉及今日学习的单词、词法或句法
-2. 题目难度要适合{stage}阶段
-3. 包含三种题型：选择题、翻译题、填空题
-4. 每种题型至少2道题，总共8-12道题
-5. 选择题要有4个选项，其中1个正确答案
-6. 翻译题要有中英文对照
-7. 填空题要有明确的填空位置和答案
-8. 每道题都要有详细的解析
+        # 100%新学单词使用策略
+        new_words_count = len(new_words_list)
+        
+        prompt = f"""🎯 TASK: Create 10 practice sentences with 100% new vocabulary coverage.
 
-请以JSON格式返回：
+📋 NEW WORDS (MUST USE ALL): {new_words_list}
+📊 COVERAGE REQUIREMENT: All {new_words_count} new words MUST appear across the 10 sentences.
+
+🔥 MANDATORY STRATEGY:
+Create sentences ensuring each new word appears at least once:
+- If 10 new words: 1 word per sentence
+- If fewer than 10: some words appear multiple times  
+- If more than 10: multiple words per sentence
+
+💡 ADDITIONAL REQUIREMENTS:
+- Include review words when possible: {review_words_list}
+- Level: Elementary ({stage})
+- Grammar focus: 
+{morphology_content}{syntax_content}
+
+📝 JSON OUTPUT FORMAT:
+{{
+  "practice_sentences": [
+    {{
+      "sentence": "[English sentence with assigned new word]",
+      "translation": "[Chinese translation]",
+      "morphology_rule": "[Grammar rule description]",
+      "syntactic_structure": "[Sentence structure]",
+      "difficulty": 2.5,
+      "explanation": "[Chinese explanation of vocabulary and grammar usage]"
+    }}
+  ]
+}}
+
+🚨 VERIFICATION CHECKLIST:
+□ All {new_words_count} new words used? 
+□ Each sentence contains at least one new word?
+□ Exactly 10 sentences generated?
+□ JSON format correct?
+
+⚠️ CRITICAL: Every new word from the list MUST appear in at least one sentence.
+
+RETURN ONLY JSON - NO OTHER TEXT"""
+        
+        return prompt
+    
+    def generate_exercises_from_sentences(self, practice_sentences: list, stage: str) -> str:
+        """
+        基于练习句子生成练习题的提示词
+        
+        Args:
+            practice_sentences: 练习句子列表
+            stage: 学习阶段
+            
+        Returns:
+            str: 生成练习题的提示词
+        """
+        # 提取句子中的所有词汇
+        sentences_text = []
+        for sentence in practice_sentences:
+            sentences_text.append(f"- {sentence.get('sentence', '')}")
+        
+        sentences_content = "\n".join(sentences_text)
+        
+        prompt = f"""🎯 TASK: Create 10 practice exercises based on the given practice sentences.
+
+📋 SOURCE SENTENCES:
+{sentences_content}
+
+🔥 MANDATORY REQUIREMENTS:
+- Generate exactly 10 exercises (4 choice + 4 translation + 2 fill-blank)
+- Use vocabulary and structures from the source sentences
+- Ensure all exercises are based on the provided sentences
+- Level: Elementary ({stage})
+
+📝 EXERCISE TYPES:
+1. Multiple Choice (4 exercises): Create questions with 4 options each
+2. Translation (4 exercises): Chinese to English translation
+3. Fill in the Blank (2 exercises): Complete the sentence
+
+📝 JSON OUTPUT FORMAT:
 {{
   "practice_exercises": [
     {{
       "id": 1,
       "type": "choice",
-      "question": "题目内容",
-      "options": ["选项A", "选项B", "选项C", "选项D"],
-      "correct_answer": "A",
-      "explanation": "题目解析",
-      "target_words": ["相关单词"],
-      "morphology_points": ["相关词法点"],
-      "syntax_structure": "相关句法结构",
-      "difficulty": 3.0
+      "question": "[Question based on source sentences]",
+      "options": ["option1", "option2", "option3", "option4"],
+      "correct_answer": "correct_option",
+      "morphology_rule": "语法规则说明",
+      "syntactic_structure": "句法结构",
+      "difficulty": 2.5,
+      "explanation": "中文解释"
     }},
     {{
       "id": 2,
       "type": "translation",
-      "question": "请将以下中文翻译成英文：",
-      "chinese_text": "中文句子",
-      "english_text": "English sentence",
-      "explanation": "翻译要点",
-      "target_words": ["相关单词"],
-      "morphology_points": ["相关词法点"],
-      "syntax_structure": "相关句法结构",
-      "difficulty": 3.0
+      "question": "请将以下中文翻译成英文",
+      "chinese_text": "[Chinese sentence based on source]",
+      "english_text": "[English translation from source sentences]",
+      "morphology_rule": "语法规则说明",
+      "syntactic_structure": "句法结构",
+      "difficulty": 2.5,
+      "explanation": "中文解释"
     }},
     {{
       "id": 3,
       "type": "fill_blank",
-      "question": "请填入适当的单词：",
-      "sentence": "I ___ to school every day.",
-      "answer": "go",
-      "explanation": "填空解析",
-      "target_words": ["相关单词"],
-      "morphology_points": ["相关词法点"],
-      "syntax_structure": "相关句法结构",
-      "difficulty": 3.0
+      "question": "请填入适当的单词",
+      "sentence": "[Sentence with ___ from source sentences]",
+      "answer": "[correct word]",
+      "morphology_rule": "语法规则说明",
+      "syntactic_structure": "句法结构",
+      "difficulty": 2.5,
+      "explanation": "中文解释"
     }}
   ]
 }}
 
-只返回JSON，不要其他文字说明。"""
+🚨 VERIFICATION CHECKLIST:
+□ All exercises based on source sentences?
+□ Exactly 10 exercises generated?
+□ 4 choice + 4 translation + 2 fill-blank?
+□ All explanations in Chinese?
+□ JSON format correct?
+
+RETURN ONLY JSON - NO OTHER TEXT"""
         
         return prompt
+    
+    def translate_prompt_to_english(self, chinese_prompt: str) -> str:
+        """
+        将中文提示词翻译成英文
+        
+        使用智谱GLM模型将中文提示词翻译成英文，保持原有的结构和格式。
+        此方法可独立使用，也可配合其他提示词生成方法使用。
+        
+        使用示例：
+            # 先生成中文提示词
+            chinese_prompt = generator.generate_practice_sentences_prompt(...)
+            # 再翻译为英文
+            english_prompt = generator.translate_prompt_to_english(chinese_prompt)
+            
+            # 或者直接翻译练习题提示词
+            chinese_exercises = generator.generate_practice_exercises_prompt(...)
+            english_exercises = generator.translate_prompt_to_english(chinese_exercises)
+        
+        Args:
+            chinese_prompt (str): 中文提示词（来自任何生成方法）
+            
+        Returns:
+            str: 翻译后的英文提示词
+        """
+        # 初始化AI客户端（使用智谱GLM模型）
+        ai_client = UnifiedAIClient(default_model=AIModel.GLM_45)
+        
+        # 构建翻译提示词
+        translation_prompt = f"""请将以下中文提示词翻译成英文，保持原有的结构、格式和专业术语的准确性。
+要求：
+1. 保持JSON格式示例不变
+2. 保持专业的教学用语
+3. 确保英语教学术语的准确性
+4. 保持提示词的逻辑结构
+
+需要翻译的中文提示词：
+{chinese_prompt}
+
+请只返回翻译后的英文提示词，不要其他说明。"""
+
+        try:
+            # 调用AI进行翻译
+            print("🔄 正在调用智谱GLM模型翻译提示词...")
+            ai_response = ai_client.generate_content(translation_prompt)
+            
+            # 检查响应类型并提取内容
+            if hasattr(ai_response, 'content'):
+                english_prompt = ai_response.content
+            else:
+                english_prompt = str(ai_response)
+            
+            # 验证翻译结果
+            if english_prompt and len(english_prompt.strip()) > 0:
+                print("✅ 提示词翻译完成")
+                return english_prompt.strip()
+            else:
+                print("⚠️ 翻译结果为空，返回原始中文提示词")
+                return chinese_prompt
+                
+        except Exception as e:
+            print(f"❌ 翻译失败: {e}")
+            print("⚠️ 返回原始中文提示词")
+            return chinese_prompt
+    
+    
+    def generate_practice_exercises_prompt(self, daily_words: Dict, daily_morphology: Dict, daily_syntax: Dict, stage: str, review_words: List[Dict] = None) -> str:
+        """
+        生成练习题的AI提示词
+        
+        根据当日学习的单词、词法、句法内容，生成用于AI模型创建练习题的提示词。
+        仿照练习句子的分段式格式，生成包括选择题、翻译题、填空题的综合练习。
+        
+        Args:
+            daily_words (Dict): 当日学习的单词内容，格式：
+                {
+                    "pos_content": {
+                        "noun": [{"word": "apple", "translation": "苹果", "difficulty": 3.0}, ...],
+                        "verb": [...],
+                        ...
+                    }
+                }
+            daily_morphology (Dict): 当日学习的词法内容，格式：
+                {
+                    "learning_points": [
+                        {"name": "名词复数", "category": "词形变化", "description": "...", "examples": [...]},
+                        ...
+                    ]
+                }
+            daily_syntax (Dict): 当日学习的句法内容，格式：
+                {
+                    "learning_points": [
+                        {"name": "主谓宾结构", "category": "句型", "structure": "S+V+O", "examples": [...]},
+                        ...
+                    ]
+                }
+            stage (str): 学习阶段，例如 "第一阶段：基础巩固 (小学中高年级)"
+            review_words (List[Dict]): 当日复习的单词列表
+            
+        Returns:
+            str: 包含所有必要信息的AI提示词
+        """
+        if review_words is None:
+            review_words = []
+        
+        # 收集新学单词信息
+        new_words_info = []
+        for pos, words in daily_words.get('pos_content', {}).items():
+            for word in words:
+                new_words_info.append({
+                    'word': word['word'],
+                    'pos': pos,
+                    'translation': word.get('translation', ''),
+                    'difficulty': word.get('difficulty', 3.0),
+                    'type': 'new'
+                })
+        
+        # 收集复习单词信息
+        review_words_info = []
+        if review_words:
+            for word in review_words:
+                review_words_info.append({
+                    'word': word['word'],
+                    'pos': word.get('part_of_speech', 'unknown'),
+                    'translation': word.get('definition', ''),
+                    'difficulty': word.get('difficulty', 3.0),
+                    'type': 'review'
+                })
+        
+        # 合并所有单词
+        all_words_info = new_words_info + review_words_info
+        
+        # 收集词法信息
+        morphology_info = []
+        # 支持两种数据结构：morphology_items 和 learning_points
+        morph_items = daily_morphology.get('morphology_items', []) or daily_morphology.get('learning_points', [])
+        for item in morph_items:
+            morphology_info.append({
+                'name': item.get('name', '未知词法'),
+                'type': item.get('type', item.get('category', 'unknown')),
+                'description': item.get('description', '词法描述'),
+                'rules': item.get('rules', item.get('examples', []))[:3]  # 只取前3个规则/例句
+            })
+        
+        # 收集句法信息
+        syntax_info = []
+        # 支持两种数据结构：syntax_items 和 learning_points
+        syntax_items = daily_syntax.get('syntax_items', []) or daily_syntax.get('learning_points', [])
+        for item in syntax_items:
+            syntax_info.append({
+                'name': item.get('name', '未知句法'),
+                'type': item.get('type', item.get('category', 'unknown')),
+                'description': item.get('description', '句法描述'),
+                'structure': item.get('structure', item.get('description', '')),
+                'examples': item.get('examples', [])[:2]  # 只取前2个例句
+            })
+        
+        # 构建新学单词和复习单词列表
+        new_words_list = [word['word'] for word in new_words_info]
+        review_words_list = [word['word'] for word in review_words_info] if review_words_info else []
+        
+        # 构建词法内容
+        morphology_content = ""
+        if morphology_info:
+            morphology_content = "\n### 今日词法重点：\n"
+            for morph in morphology_info:
+                morphology_content += f"- **{morph['name']}**: {morph['description']}\n"
+                if morph.get('rules'):
+                    morphology_content += f"  - 规则/例句: {'; '.join(morph['rules'][:3])}\n"
+        
+        # 构建句法内容
+        syntax_content = ""
+        if syntax_info:
+            syntax_content = "\n### 今日句法重点：\n"
+            for syntax in syntax_info:
+                syntax_content += f"- **{syntax['name']}**: {syntax['description']}\n"
+                if syntax.get('examples'):
+                    syntax_content += f"  - 例句: {'; '.join(syntax['examples'][:2])}\n"
+        
+        # 极端优化：逐词指定策略
+        new_words_str = str(new_words_list).replace("'", '"')
+        
+        prompt = f"""TASK: Create exactly 10 English exercises using ALL specified vocabulary words.
+
+TARGET VOCABULARY (MUST USE ALL): {new_words_str}
+
+MANDATORY REQUIREMENTS:
+✅ Use EVERY word from the vocabulary list
+✅ Generate exactly 10 exercises
+✅ 4 multiple choice + 4 translation + 2 fill-blank
+✅ Each vocabulary word appears at least once
+
+STRATEGY: Create exercises one by one, ensuring each vocabulary word is used:
+
+Exercise 1 (choice): Use word 1 from list
+Exercise 2 (choice): Use word 2 from list  
+Exercise 3 (choice): Use word 3 from list
+Exercise 4 (choice): Use word 4 from list
+Exercise 5 (translation): Use word 5 from list
+Exercise 6 (translation): Use word 6 from list
+Exercise 7 (translation): Use word 7 from list
+Exercise 8 (translation): Use word 8 from list
+Exercise 9 (fill_blank): Use word 9 from list
+Exercise 10 (fill_blank): Use word 10 from list
+
+GRAMMAR FOCUS:
+{morphology_content}{syntax_content}
+
+JSON FORMAT (EXACT STRUCTURE):
+{{
+  "practice_exercises": [
+    {{
+      "id": 1,
+      "type": "choice",
+      "question": "[Question using vocabulary word 1]",
+      "options": ["option1", "option2", "option3", "option4"],
+      "correct_answer": "correct_option",
+      "morphology_rule": "语法规则说明",
+      "syntactic_structure": "句法结构",
+      "difficulty": 2.5,
+      "explanation": "中文解释"
+    }},
+    {{
+      "id": 2,
+      "type": "translation", 
+      "question": "请将以下中文翻译成英文",
+      "chinese_text": "[Chinese sentence with vocabulary word]",
+      "english_text": "[English translation]",
+      "morphology_rule": "语法规则说明",
+      "syntactic_structure": "句法结构", 
+      "difficulty": 2.5,
+      "explanation": "中文解释"
+    }},
+    {{
+      "id": 3,
+      "type": "fill_blank",
+      "question": "请填入适当的单词",
+      "sentence": "[Sentence with ___ for vocabulary word]",
+      "answer": "[vocabulary_word]",
+      "morphology_rule": "语法规则说明",
+      "syntactic_structure": "句法结构",
+      "difficulty": 2.5,
+      "explanation": "中文解释"
+    }}
+  ]
+}}
+
+VERIFICATION CHECKLIST:
+□ All {len(eval(new_words_str))} vocabulary words used?
+□ Exactly 10 exercises created?
+□ JSON format correct?
+□ All explanations in Chinese?
+
+RETURN ONLY THE JSON - NO OTHER TEXT"""
+        
+        return prompt
+    
     
 
 def main():

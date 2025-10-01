@@ -1,0 +1,555 @@
+{
+  "day": 3,
+  "date": "2025-10-03",
+  "plan_id": "20251001_110940",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "class",
+          "definition": "班级;课程",
+          "part_of_speech": "noun",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "art",
+          "definition": "绘画；艺术；美术",
+          "part_of_speech": "noun",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "call",
+          "definition": "打电话",
+          "part_of_speech": "verb",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "wears",
+          "definition": "穿",
+          "part_of_speech": "verb",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "cleaner",
+          "definition": "清洁工",
+          "part_of_speech": "noun",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "present",
+          "definition": "礼物",
+          "part_of_speech": "noun",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "weekend",
+          "definition": "周末",
+          "part_of_speech": "noun",
+          "learning_day": 3,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "it's",
+          "definition": "它是",
+          "part_of_speech": "pronoun/verb",
+          "learning_day": 3,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "get to",
+          "definition": "到达",
+          "part_of_speech": "phrase",
+          "learning_day": 3,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "make sure",
+          "definition": "核实或查明某事物",
+          "part_of_speech": "phrase",
+          "learning_day": 3,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "busy",
+        "definition": "busy的定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 3,
+        "retention_rate": 0.8,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "that's",
+        "definition": "那是",
+        "part_of_speech": "pronoun/verb",
+        "review_day": 3,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 3,
+        "retention_rate": 0.78,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "cause",
+        "definition": "原因/引起",
+        "part_of_speech": "noun/verb",
+        "review_day": 3,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 1,
+        "retention_rate": 0.87,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "go swimming",
+        "definition": "go swimming的定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 1,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "lady",
+        "definition": "lady的定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 3,
+        "retention_rate": 0.83,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "set the table",
+        "definition": "摆饭桌；摆餐具",
+        "part_of_speech": "phrase",
+        "review_day": 3,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 2,
+        "retention_rate": 0.94,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "honey",
+        "definition": "honey的定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-30",
+        "review_interval": 2,
+        "retention_rate": 0.91,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "wash the clothes",
+        "definition": "wash the clothes的定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-30",
+        "review_interval": 3,
+        "retention_rate": 0.89,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "Monday",
+        "definition": "Monday的定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-30",
+        "review_interval": 3,
+        "retention_rate": 0.88,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      },
+      {
+        "word": "pet",
+        "definition": "pet的定义",
+        "part_of_speech": "noun",
+        "review_day": 3,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 1,
+        "retention_rate": 0.79,
+        "fsrs_due": true,
+        "days_since_learned": 2
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "第三人称单数 (Third Person Singular - Present Simple)_4",
+        "name": "第三人称单数 (Third Person Singular - Present Simple)",
+        "category": "形式变化",
+        "description": "当主语是第三人称单数（he, she, it, 或单数名词）时，现在时动词形式变化。",
+        "examples": [
+          "一般加-s (plays, eats, likes)",
+          "以-s, -x, -ch, -sh 结尾加-es (watches, goes)",
+          "以辅音+y 结尾变y为i加-es (studies)"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 3
+      },
+      {
+        "id": "be 动词 (be Verb Forms)_5",
+        "name": "be 动词 (be Verb Forms)",
+        "category": "形式变化",
+        "description": "am, is, are 的使用（根据主语和时态）。",
+        "examples": [
+          "I am",
+          "He/She/It is",
+          "You/We/They are"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 3
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "What is...?_7",
+        "name": "What is...?",
+        "category": "句型模式",
+        "description": "特殊疑问句 (Wh-Question) - 询问事物名称/身份。",
+        "examples": [
+          "What is this?",
+          "What is your name?"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 3
+      },
+      {
+        "id": "主谓双宾结构 (Subject-Verb-Indirect Object-Direct Object)_5",
+        "name": "主谓双宾结构 (Subject-Verb-Indirect Object-Direct Object)",
+        "category": "句法结构",
+        "description": "动词后跟两个宾语。",
+        "examples": [
+          "He gave me a pen.",
+          "He gave a pen to me."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 3
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "On Monday, I will go swimming with my lady friend.",
+          "translation": "星期一，我会和我的女士朋友去游泳。",
+          "target_words": [
+            "Monday",
+            "go swimming",
+            "lady"
+          ],
+          "new_words": [],
+          "review_words": [],
+          "morphology_rule": "Use of the future tense with 'will'.",
+          "syntactic_structure": "Subject + will + base verb.",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "The sentence talks about a future plan on Monday."
+        },
+        {
+          "sentence": "She is busy setting the table for dinner.",
+          "translation": "她正在忙着为晚餐摆桌子。",
+          "target_words": [
+            "busy",
+            "set the table"
+          ],
+          "new_words": [],
+          "review_words": [],
+          "morphology_rule": "Present continuous tense.",
+          "syntactic_structure": "Subject + is + verb + ing.",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "The sentence describes what she is doing right now."
+        },
+        {
+          "sentence": "My pet cat loves to play with honey.",
+          "translation": "我的宠物猫喜欢和蜂蜜玩。",
+          "target_words": [
+            "pet",
+            "honey"
+          ],
+          "new_words": [],
+          "review_words": [],
+          "morphology_rule": "Singular noun usage.",
+          "syntactic_structure": "Subject + verb + object.",
+          "difficulty": 2.5,
+          "exercise_type": "translation",
+          "explanation": "The sentence expresses an action involving a pet."
+        },
+        {
+          "sentence": "That’s the reason I wash the clothes every Saturday.",
+          "translation": "那就是我每个星期六洗衣服的原因。",
+          "target_words": [
+            "that's",
+            "cause",
+            "wash the clothes"
+          ],
+          "new_words": [],
+          "review_words": [],
+          "morphology_rule": "Use of possessive pronoun.",
+          "syntactic_structure": "Subject + verb + object.",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "The sentence explains why the speaker does laundry."
+        },
+        {
+          "sentence": "I feel busy when I have to set the table and wash the clothes.",
+          "translation": "当我需要摆桌子和洗衣服时，我觉得很忙。",
+          "target_words": [
+            "busy",
+            "set the table",
+            "wash the clothes"
+          ],
+          "new_words": [],
+          "review_words": [],
+          "morphology_rule": "Use of conjunction 'and'.",
+          "syntactic_structure": "Subject + verb + object + conjunction + verb + object.",
+          "difficulty": 3.5,
+          "exercise_type": "translation",
+          "explanation": "The sentence describes feeling busy due to multiple tasks."
+        },
+        {
+          "sentence": "On a busy Monday, I like to go swimming after school.",
+          "translation": "在一个忙碌的星期一，我喜欢放学后去游泳。",
+          "target_words": [
+            "busy",
+            "Monday",
+            "go swimming"
+          ],
+          "new_words": [],
+          "review_words": [],
+          "morphology_rule": "Adjective use to describe a noun.",
+          "syntactic_structure": "Prepositional phrase + subject + verb + object.",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "The sentence describes a preference after a busy day."
+        },
+        {
+          "sentence": "A lady at the park was busy reading a book.",
+          "translation": "公园里的一个女士正在忙着看书。",
+          "target_words": [
+            "lady",
+            "busy"
+          ],
+          "new_words": [],
+          "review_words": [],
+          "morphology_rule": "Use of present continuous tense.",
+          "syntactic_structure": "Subject + was + verb + ing.",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "The sentence describes what a lady was doing."
+        },
+        {
+          "sentence": "My pet loves honey because it is sweet.",
+          "translation": "我的宠物喜欢蜂蜜，因为它是甜的。",
+          "target_words": [
+            "pet",
+            "honey"
+          ],
+          "new_words": [],
+          "review_words": [],
+          "morphology_rule": "Use of 'because' to explain reason.",
+          "syntactic_structure": "Subject + verb + object + because + clause.",
+          "difficulty": 2.5,
+          "exercise_type": "translation",
+          "explanation": "The sentence explains why the pet loves honey."
+        }
+      ]
+    },
+    "practice_exercises": {
+      "practice_exercises": [
+        {
+          "id": 1,
+          "type": "choice",
+          "question": "Which word means 'to make something clear'? ",
+          "options": [
+            "A. Explain",
+            "B. Confuse",
+            "C. Ignore",
+            "D. Collect"
+          ],
+          "correct_answer": "A",
+          "explanation": "‘Explain’ 表示解释或阐明某事。",
+          "target_words": [
+            "explain"
+          ],
+          "morphology_points": [
+            "verb form"
+          ],
+          "syntax_structure": "verb + object",
+          "difficulty": 3.0
+        },
+        {
+          "id": 2,
+          "type": "choice",
+          "question": "What is the opposite of 'happy'? ",
+          "options": [
+            "A. Sad",
+            "B. Joyful",
+            "C. Excited",
+            "D. Cheerful"
+          ],
+          "correct_answer": "A",
+          "explanation": "‘Sad’ 是 ‘happy’ 的反义词。",
+          "target_words": [
+            "sad"
+          ],
+          "morphology_points": [
+            "adjective form"
+          ],
+          "syntax_structure": "adjective + noun",
+          "difficulty": 3.0
+        },
+        {
+          "id": 3,
+          "type": "translation",
+          "question": "Please translate the following Chinese into English:",
+          "chinese_text": "我每天都去学校。",
+          "english_text": "I go to school every day.",
+          "explanation": "注意时态和动词的使用。",
+          "target_words": [
+            "go",
+            "school"
+          ],
+          "morphology_points": [
+            "present tense"
+          ],
+          "syntax_structure": "subject + verb + object",
+          "difficulty": 3.0
+        },
+        {
+          "id": 4,
+          "type": "translation",
+          "question": "Please translate the following Chinese into English:",
+          "chinese_text": "他总是很高兴。",
+          "english_text": "He is always happy.",
+          "explanation": "注意副词的位置和形容词的使用。",
+          "target_words": [
+            "happy",
+            "always"
+          ],
+          "morphology_points": [
+            "adjective placement"
+          ],
+          "syntax_structure": "subject + verb + complement",
+          "difficulty": 3.0
+        },
+        {
+          "id": 5,
+          "type": "fill_blank",
+          "question": "Please fill in the appropriate word:",
+          "sentence": "She ___ to the store every Saturday.",
+          "answer": "goes",
+          "explanation": "根据主语 ‘She’ 和动词时态选择合适的形式。",
+          "target_words": [
+            "go"
+          ],
+          "morphology_points": [
+            "third person singular"
+          ],
+          "syntax_structure": "subject + verb",
+          "difficulty": 3.0
+        },
+        {
+          "id": 6,
+          "type": "fill_blank",
+          "question": "Please fill in the appropriate word:",
+          "sentence": "They love to ___ football in the park.",
+          "answer": "play",
+          "explanation": "动词 ‘play’ 适合与 ‘football’ 搭配。",
+          "target_words": [
+            "play"
+          ],
+          "morphology_points": [
+            "verb form"
+          ],
+          "syntax_structure": "subject + verb + object",
+          "difficulty": 3.0
+        }
+      ]
+    },
+    "generated_at": "2025-10-01T11:57:00.782925",
+    "generation_attempt": 1
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T11:57:00.782973",
+  "generation_attempt": 1
+}

@@ -1,0 +1,399 @@
+{
+  "day": 37,
+  "date": "2025-11-06",
+  "plan_id": "20251001_110940",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "vapour",
+          "definition": "蒸气；水汽",
+          "part_of_speech": "noun",
+          "learning_day": 37,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "December",
+          "definition": "十二月",
+          "part_of_speech": "noun",
+          "learning_day": 37,
+          "category": "core_functional",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "mountains",
+          "definition": "山",
+          "part_of_speech": "noun",
+          "learning_day": 37,
+          "category": "core_functional",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "Friday",
+          "definition": "星期五",
+          "part_of_speech": "noun",
+          "learning_day": 37,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "tell",
+          "definition": "告诉；说",
+          "part_of_speech": "verb",
+          "learning_day": 37,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "short",
+          "definition": "短的；矮的",
+          "part_of_speech": "adjective",
+          "learning_day": 37,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "theme",
+          "definition": "主题",
+          "part_of_speech": "noun",
+          "learning_day": 37,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "here",
+          "definition": "在这里",
+          "part_of_speech": "adverb",
+          "learning_day": 37,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "wash the windows",
+          "definition": "擦窗户",
+          "part_of_speech": "phrase",
+          "learning_day": 37,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "do homework",
+          "definition": "做作业",
+          "part_of_speech": "phrase",
+          "learning_day": 37,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "Thanksgiving",
+        "definition": "Thanksgiving的定义",
+        "part_of_speech": "noun",
+        "review_day": 37,
+        "last_reviewed": "2025-09-20",
+        "review_interval": 4,
+        "retention_rate": 0.72,
+        "fsrs_due": true,
+        "days_since_learned": 36
+      },
+      {
+        "word": "live",
+        "definition": "live的定义",
+        "part_of_speech": "noun",
+        "review_day": 37,
+        "last_reviewed": "2025-08-28",
+        "review_interval": 1,
+        "retention_rate": 0.87,
+        "fsrs_due": true,
+        "days_since_learned": 36
+      },
+      {
+        "word": "thirty",
+        "definition": "thirty的定义",
+        "part_of_speech": "noun",
+        "review_day": 37,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 9,
+        "retention_rate": 0.9,
+        "fsrs_due": true,
+        "days_since_learned": 36
+      },
+      {
+        "word": "longer",
+        "definition": "longer的定义",
+        "part_of_speech": "noun",
+        "review_day": 37,
+        "last_reviewed": "2025-09-22",
+        "review_interval": 13,
+        "retention_rate": 0.71,
+        "fsrs_due": true,
+        "days_since_learned": 36
+      },
+      {
+        "word": "work",
+        "definition": "work的定义",
+        "part_of_speech": "noun",
+        "review_day": 37,
+        "last_reviewed": "2025-09-05",
+        "review_interval": 12,
+        "retention_rate": 0.8,
+        "fsrs_due": true,
+        "days_since_learned": 36
+      },
+      {
+        "word": "hospital",
+        "definition": "hospital的定义",
+        "part_of_speech": "noun",
+        "review_day": 37,
+        "last_reviewed": "2025-09-09",
+        "review_interval": 1,
+        "retention_rate": 0.93,
+        "fsrs_due": true,
+        "days_since_learned": 36
+      },
+      {
+        "word": "let's",
+        "definition": "let's的定义",
+        "part_of_speech": "noun",
+        "review_day": 37,
+        "last_reviewed": "2025-09-03",
+        "review_interval": 11,
+        "retention_rate": 0.84,
+        "fsrs_due": true,
+        "days_since_learned": 36
+      },
+      {
+        "word": "has",
+        "definition": "has的定义",
+        "part_of_speech": "noun",
+        "review_day": 37,
+        "last_reviewed": "2025-09-17",
+        "review_interval": 14,
+        "retention_rate": 0.82,
+        "fsrs_due": true,
+        "days_since_learned": 36
+      },
+      {
+        "word": "about",
+        "definition": "about的定义",
+        "part_of_speech": "noun",
+        "review_day": 37,
+        "last_reviewed": "2025-09-09",
+        "review_interval": 5,
+        "retention_rate": 0.71,
+        "fsrs_due": true,
+        "days_since_learned": 36
+      },
+      {
+        "word": "speak",
+        "definition": "speak的定义",
+        "part_of_speech": "noun",
+        "review_day": 37,
+        "last_reviewed": "2025-09-19",
+        "review_interval": 10,
+        "retention_rate": 0.91,
+        "fsrs_due": true,
+        "days_since_learned": 36
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "介词 (Preposition)_10",
+        "name": "介词 (Preposition)",
+        "category": "词性",
+        "description": "表示名词或代词与句子其他成分的关系，常表示时间、地点、方向。",
+        "examples": [
+          "学习常见介词（如：in, on, at, to, for, with, from）。",
+          "掌握其基本用法，如 in the morning, on the desk, at school, go to bed。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 37
+      },
+      {
+        "id": "代词 (Pronoun)_2",
+        "name": "代词 (Pronoun)",
+        "category": "词性",
+        "description": "代替名词使用。",
+        "examples": [
+          "学习人称代词的主格（I, you, he, she, it, we, they）和宾格（me, you, him, her, it, us, them）。",
+          "学习物主代词（my, your, his, her, its, our, their）。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 37
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "基本语序 (Basic Word Order)_0",
+        "name": "基本语序 (Basic Word Order)",
+        "category": "句法结构",
+        "description": "英语句子的基本语序是 SVO (主语-谓语-宾语)，这是最核心的语序规则。",
+        "examples": [
+          "I like apples.",
+          "She reads a book."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 37
+      },
+      {
+        "id": "This is... / That is..._13",
+        "name": "This is... / That is...",
+        "category": "句型模式",
+        "description": "陈述句 (Declarative Sentence) - 指示和介绍事物。",
+        "examples": [
+          "This is my cat."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 37
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "The vapour from the kettle is hot.",
+          "translation": "水壶里的蒸汽很热。",
+          "morphology_rule": "使用了介词from表示来源。",
+          "syntactic_structure": "SVO结构",
+          "difficulty": 2.0,
+          "explanation": "使用了介词from和新学单词vapour，简单陈述句。"
+        },
+        {
+          "sentence": "December is colder than November.",
+          "translation": "十二月比十一月更冷。",
+          "morphology_rule": "使用代词is作为be动词。",
+          "syntactic_structure": "This is...结构",
+          "difficulty": 2.0,
+          "explanation": "使用了新学单词December和be动词is进行比较。"
+        },
+        {
+          "sentence": "They climb mountains every summer.",
+          "translation": "他们每年夏天都爬山。",
+          "morphology_rule": "使用人称代词they作为主语。",
+          "syntactic_structure": "SVO结构",
+          "difficulty": 2.0,
+          "explanation": "简单句子，使用了新学单词mountains和代词they。"
+        },
+        {
+          "sentence": "On Friday, let's go to the park.",
+          "translation": "星期五我们去公园吧。",
+          "morphology_rule": "使用了介词on表示时间。",
+          "syntactic_structure": "SVO结构",
+          "difficulty": 2.5,
+          "explanation": "使用了新学单词Friday和介词on来表示时间。"
+        },
+        {
+          "sentence": "The theme of the story is friendship.",
+          "translation": "故事的主题是友谊。",
+          "morphology_rule": "使用了代词the来指代特定的名词。",
+          "syntactic_structure": "This is...结构",
+          "difficulty": 2.5,
+          "explanation": "使用了新学单词theme和简单陈述句结构。"
+        },
+        {
+          "sentence": "Can you tell me about your trip?",
+          "translation": "你能告诉我关于你的旅行吗？",
+          "morphology_rule": "使用代词you和me。",
+          "syntactic_structure": "SVO结构",
+          "difficulty": 2.5,
+          "explanation": "使用了新学单词tell和复习单词about，使用了代词you和me。"
+        },
+        {
+          "sentence": "The book is too short for me.",
+          "translation": "这本书对我来说太短了。",
+          "morphology_rule": "使用了介词for表示对象。",
+          "syntactic_structure": "SVO结构",
+          "difficulty": 2.5,
+          "explanation": "使用了新学单词short和介词for，形成完整句子。"
+        },
+        {
+          "sentence": "Here is the hospital where she works.",
+          "translation": "这是她工作的医院。",
+          "morphology_rule": "使用代词she和介词where。",
+          "syntactic_structure": "This is...结构",
+          "difficulty": 3.0,
+          "explanation": "使用了新学单词here和复习单词hospital，包含从句。"
+        },
+        {
+          "sentence": "Let's wash the windows together.",
+          "translation": "让我们一起擦窗户吧。",
+          "morphology_rule": "使用了复习短语let's。",
+          "syntactic_structure": "SVO结构",
+          "difficulty": 2.5,
+          "explanation": "使用了新学短语wash the windows，体现合作的建议。"
+        },
+        {
+          "sentence": "I do my homework after dinner.",
+          "translation": "我晚饭后做作业。",
+          "morphology_rule": "使用了代词I和my。",
+          "syntactic_structure": "SVO结构",
+          "difficulty": 2.0,
+          "explanation": "使用了新学短语do homework，简单陈述句。"
+        }
+      ]
+    },
+    "practice_exercises": {
+      "practice_exercises": []
+    },
+    "generated_at": "2025-10-01T17:37:00.769857",
+    "generation_attempt": 1
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T17:37:00.769913",
+  "generation_attempt": 1
+}

@@ -1,0 +1,1485 @@
+{
+  "plan_id": "20250930_214712",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "total_days": 5,
+  "requirements": {
+    "plan_id": "20250930_214712",
+    "stage": "第一阶段：基础巩固 (小学中高年级)",
+    "total_days": 80,
+    "daily_minutes": 15,
+    "total_words": 984,
+    "daily_new_words": 10,
+    "daily_review_words": 10,
+    "core_functional_pct": 78.9,
+    "connectors_relational_pct": 11.17,
+    "auxiliary_supplemental_pct": 9.93,
+    "learning_steps": [
+      1,
+      10
+    ],
+    "desired_retention": 0.9
+  },
+  "daily_content": {
+    "day_1": {
+      "day": 1,
+      "date": "2025-09-30",
+      "plan_id": "20250930_214712",
+      "stage": "第一阶段：基础巩固 (小学中高年级)",
+      "daily_target": {
+        "new_words": 10,
+        "review_words": 10,
+        "morphology_units": 1,
+        "syntax_units": 1
+      },
+      "vocabulary": {
+        "new_words": {
+          "core_functional": [
+            {
+              "word": "tree",
+              "definition": "tree的定义",
+              "part_of_speech": "adjective",
+              "learning_day": 1,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "run",
+              "definition": "run的定义",
+              "part_of_speech": "noun",
+              "learning_day": 1,
+              "category": "core_functional",
+              "difficulty_level": "easy",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "cat",
+              "definition": "cat的定义",
+              "part_of_speech": "noun",
+              "learning_day": 1,
+              "category": "core_functional",
+              "difficulty_level": "easy",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "small",
+              "definition": "small的定义",
+              "part_of_speech": "verb",
+              "learning_day": 1,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "house",
+              "definition": "house的定义",
+              "part_of_speech": "verb",
+              "learning_day": 1,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "happy",
+              "definition": "happy的定义",
+              "part_of_speech": "adjective",
+              "learning_day": 1,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "book",
+              "definition": "book的定义",
+              "part_of_speech": "adjective",
+              "learning_day": 1,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            }
+          ],
+          "connectors_relational": [
+            {
+              "word": "on",
+              "definition": "on的定义",
+              "part_of_speech": "conjunction",
+              "learning_day": 1,
+              "category": "connectors_relational",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            }
+          ],
+          "auxiliary_supplemental": [
+            {
+              "word": "maybe",
+              "definition": "maybe的定义",
+              "part_of_speech": "modal",
+              "learning_day": 1,
+              "category": "auxiliary_supplemental",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "must",
+              "definition": "must的定义",
+              "part_of_speech": "modal",
+              "learning_day": 1,
+              "category": "auxiliary_supplemental",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            }
+          ]
+        },
+        "review_words": [
+          {
+            "word": "the",
+            "definition": "the的定义",
+            "part_of_speech": "noun",
+            "review_day": 1,
+            "last_reviewed": "2025-09-29",
+            "review_interval": 2,
+            "retention_rate": 0.73
+          },
+          {
+            "word": "and",
+            "definition": "and的定义",
+            "part_of_speech": "noun",
+            "review_day": 1,
+            "last_reviewed": "2025-09-29",
+            "review_interval": 10,
+            "retention_rate": 0.78
+          },
+          {
+            "word": "to",
+            "definition": "to的定义",
+            "part_of_speech": "noun",
+            "review_day": 1,
+            "last_reviewed": "2025-09-25",
+            "review_interval": 2,
+            "retention_rate": 0.75
+          },
+          {
+            "word": "of",
+            "definition": "of的定义",
+            "part_of_speech": "noun",
+            "review_day": 1,
+            "last_reviewed": "2025-09-26",
+            "review_interval": 10,
+            "retention_rate": 0.72
+          },
+          {
+            "word": "a",
+            "definition": "a的定义",
+            "part_of_speech": "noun",
+            "review_day": 1,
+            "last_reviewed": "2025-09-26",
+            "review_interval": 11,
+            "retention_rate": 0.7
+          },
+          {
+            "word": "in",
+            "definition": "in的定义",
+            "part_of_speech": "noun",
+            "review_day": 1,
+            "last_reviewed": "2025-09-24",
+            "review_interval": 2,
+            "retention_rate": 0.73
+          },
+          {
+            "word": "is",
+            "definition": "is的定义",
+            "part_of_speech": "noun",
+            "review_day": 1,
+            "last_reviewed": "2025-09-27",
+            "review_interval": 11,
+            "retention_rate": 0.92
+          },
+          {
+            "word": "it",
+            "definition": "it的定义",
+            "part_of_speech": "noun",
+            "review_day": 1,
+            "last_reviewed": "2025-09-29",
+            "review_interval": 4,
+            "retention_rate": 0.91
+          },
+          {
+            "word": "you",
+            "definition": "you的定义",
+            "part_of_speech": "noun",
+            "review_day": 1,
+            "last_reviewed": "2025-09-25",
+            "review_interval": 1,
+            "retention_rate": 0.88
+          },
+          {
+            "word": "that",
+            "definition": "that的定义",
+            "part_of_speech": "noun",
+            "review_day": 1,
+            "last_reviewed": "2025-09-25",
+            "review_interval": 14,
+            "retention_rate": 0.94
+          }
+        ],
+        "total_new": 10,
+        "total_review": 10
+      },
+      "morphology": {
+        "learning_points": [
+          {
+            "id": "morphology_1_1",
+            "name": "名词复数形式",
+            "category": "词形变化",
+            "description": "学习名词的复数变化规则",
+            "examples": [
+              "book → books",
+              "child → children",
+              "mouse → mice"
+            ],
+            "difficulty": "easy",
+            "learning_day": 1
+          },
+          {
+            "id": "morphology_1_2",
+            "name": "动词过去式",
+            "category": "时态变化",
+            "description": "学习规则和不规则动词的过去式",
+            "examples": [
+              "walk → walked",
+              "go → went",
+              "see → saw"
+            ],
+            "difficulty": "medium",
+            "learning_day": 1
+          }
+        ],
+        "review_points": [],
+        "total_points": 2
+      },
+      "syntax": {
+        "learning_points": [
+          {
+            "id": "syntax_1_1",
+            "name": "简单句结构",
+            "category": "句子结构",
+            "description": "学习主语+谓语+宾语的基本句子结构",
+            "examples": [
+              "I like books.",
+              "She reads novels.",
+              "We play games."
+            ],
+            "difficulty": "easy",
+            "learning_day": 1
+          },
+          {
+            "id": "syntax_1_2",
+            "name": "疑问句形式",
+            "category": "句型转换",
+            "description": "学习一般疑问句和特殊疑问句的构成",
+            "examples": [
+              "Do you like books?",
+              "What do you like?",
+              "Where is she?"
+            ],
+            "difficulty": "medium",
+            "learning_day": 1
+          }
+        ],
+        "review_points": [],
+        "total_points": 2
+      },
+      "study_time_estimate": "15分钟",
+      "generated_at": "2025-09-30T22:28:48.612752"
+    },
+    "day_2": {
+      "day": 2,
+      "date": "2025-10-01",
+      "plan_id": "20250930_214712",
+      "stage": "第一阶段：基础巩固 (小学中高年级)",
+      "daily_target": {
+        "new_words": 10,
+        "review_words": 10,
+        "morphology_units": 1,
+        "syntax_units": 1
+      },
+      "vocabulary": {
+        "new_words": {
+          "core_functional": [
+            {
+              "word": "big",
+              "definition": "big的定义",
+              "part_of_speech": "verb",
+              "learning_day": 2,
+              "category": "core_functional",
+              "difficulty_level": "easy",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "tree",
+              "definition": "tree的定义",
+              "part_of_speech": "verb",
+              "learning_day": 2,
+              "category": "core_functional",
+              "difficulty_level": "easy",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "eat",
+              "definition": "eat的定义",
+              "part_of_speech": "verb",
+              "learning_day": 2,
+              "category": "core_functional",
+              "difficulty_level": "easy",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "small",
+              "definition": "small的定义",
+              "part_of_speech": "verb",
+              "learning_day": 2,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "read",
+              "definition": "read的定义",
+              "part_of_speech": "verb",
+              "learning_day": 2,
+              "category": "core_functional",
+              "difficulty_level": "easy",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "happy",
+              "definition": "happy的定义",
+              "part_of_speech": "noun",
+              "learning_day": 2,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "house",
+              "definition": "house的定义",
+              "part_of_speech": "verb",
+              "learning_day": 2,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            }
+          ],
+          "connectors_relational": [
+            {
+              "word": "on",
+              "definition": "on的定义",
+              "part_of_speech": "conjunction",
+              "learning_day": 2,
+              "category": "connectors_relational",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            }
+          ],
+          "auxiliary_supplemental": [
+            {
+              "word": "wow",
+              "definition": "wow的定义",
+              "part_of_speech": "auxiliary",
+              "learning_day": 2,
+              "category": "auxiliary_supplemental",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "maybe",
+              "definition": "maybe的定义",
+              "part_of_speech": "auxiliary",
+              "learning_day": 2,
+              "category": "auxiliary_supplemental",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            }
+          ]
+        },
+        "review_words": [
+          {
+            "word": "the",
+            "definition": "the的定义",
+            "part_of_speech": "noun",
+            "review_day": 2,
+            "last_reviewed": "2025-09-25",
+            "review_interval": 12,
+            "retention_rate": 0.93
+          },
+          {
+            "word": "and",
+            "definition": "and的定义",
+            "part_of_speech": "noun",
+            "review_day": 2,
+            "last_reviewed": "2025-09-29",
+            "review_interval": 7,
+            "retention_rate": 0.82
+          },
+          {
+            "word": "to",
+            "definition": "to的定义",
+            "part_of_speech": "noun",
+            "review_day": 2,
+            "last_reviewed": "2025-09-28",
+            "review_interval": 5,
+            "retention_rate": 0.88
+          },
+          {
+            "word": "of",
+            "definition": "of的定义",
+            "part_of_speech": "noun",
+            "review_day": 2,
+            "last_reviewed": "2025-09-27",
+            "review_interval": 2,
+            "retention_rate": 0.9
+          },
+          {
+            "word": "a",
+            "definition": "a的定义",
+            "part_of_speech": "noun",
+            "review_day": 2,
+            "last_reviewed": "2025-09-25",
+            "review_interval": 11,
+            "retention_rate": 0.77
+          },
+          {
+            "word": "in",
+            "definition": "in的定义",
+            "part_of_speech": "noun",
+            "review_day": 2,
+            "last_reviewed": "2025-09-28",
+            "review_interval": 11,
+            "retention_rate": 0.92
+          },
+          {
+            "word": "is",
+            "definition": "is的定义",
+            "part_of_speech": "noun",
+            "review_day": 2,
+            "last_reviewed": "2025-09-27",
+            "review_interval": 14,
+            "retention_rate": 0.84
+          },
+          {
+            "word": "it",
+            "definition": "it的定义",
+            "part_of_speech": "noun",
+            "review_day": 2,
+            "last_reviewed": "2025-09-29",
+            "review_interval": 9,
+            "retention_rate": 0.93
+          },
+          {
+            "word": "you",
+            "definition": "you的定义",
+            "part_of_speech": "noun",
+            "review_day": 2,
+            "last_reviewed": "2025-09-27",
+            "review_interval": 1,
+            "retention_rate": 0.8
+          },
+          {
+            "word": "that",
+            "definition": "that的定义",
+            "part_of_speech": "noun",
+            "review_day": 2,
+            "last_reviewed": "2025-09-28",
+            "review_interval": 6,
+            "retention_rate": 0.94
+          }
+        ],
+        "total_new": 10,
+        "total_review": 10
+      },
+      "morphology": {
+        "learning_points": [
+          {
+            "id": "morphology_2_1",
+            "name": "名词复数形式",
+            "category": "词形变化",
+            "description": "学习名词的复数变化规则",
+            "examples": [
+              "book → books",
+              "child → children",
+              "mouse → mice"
+            ],
+            "difficulty": "easy",
+            "learning_day": 2
+          },
+          {
+            "id": "morphology_2_2",
+            "name": "动词过去式",
+            "category": "时态变化",
+            "description": "学习规则和不规则动词的过去式",
+            "examples": [
+              "walk → walked",
+              "go → went",
+              "see → saw"
+            ],
+            "difficulty": "medium",
+            "learning_day": 2
+          }
+        ],
+        "review_points": [],
+        "total_points": 2
+      },
+      "syntax": {
+        "learning_points": [
+          {
+            "id": "syntax_2_1",
+            "name": "简单句结构",
+            "category": "句子结构",
+            "description": "学习主语+谓语+宾语的基本句子结构",
+            "examples": [
+              "I like books.",
+              "She reads novels.",
+              "We play games."
+            ],
+            "difficulty": "easy",
+            "learning_day": 2
+          },
+          {
+            "id": "syntax_2_2",
+            "name": "疑问句形式",
+            "category": "句型转换",
+            "description": "学习一般疑问句和特殊疑问句的构成",
+            "examples": [
+              "Do you like books?",
+              "What do you like?",
+              "Where is she?"
+            ],
+            "difficulty": "medium",
+            "learning_day": 2
+          }
+        ],
+        "review_points": [],
+        "total_points": 2
+      },
+      "study_time_estimate": "15分钟",
+      "generated_at": "2025-09-30T22:28:48.612826"
+    },
+    "day_3": {
+      "day": 3,
+      "date": "2025-10-02",
+      "plan_id": "20250930_214712",
+      "stage": "第一阶段：基础巩固 (小学中高年级)",
+      "daily_target": {
+        "new_words": 10,
+        "review_words": 10,
+        "morphology_units": 1,
+        "syntax_units": 1
+      },
+      "vocabulary": {
+        "new_words": {
+          "core_functional": [
+            {
+              "word": "run",
+              "definition": "run的定义",
+              "part_of_speech": "adjective",
+              "learning_day": 3,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "read",
+              "definition": "read的定义",
+              "part_of_speech": "noun",
+              "learning_day": 3,
+              "category": "core_functional",
+              "difficulty_level": "easy",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "happy",
+              "definition": "happy的定义",
+              "part_of_speech": "verb",
+              "learning_day": 3,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "book",
+              "definition": "book的定义",
+              "part_of_speech": "adjective",
+              "learning_day": 3,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "eat",
+              "definition": "eat的定义",
+              "part_of_speech": "verb",
+              "learning_day": 3,
+              "category": "core_functional",
+              "difficulty_level": "easy",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "house",
+              "definition": "house的定义",
+              "part_of_speech": "adjective",
+              "learning_day": 3,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "small",
+              "definition": "small的定义",
+              "part_of_speech": "noun",
+              "learning_day": 3,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            }
+          ],
+          "connectors_relational": [
+            {
+              "word": "when",
+              "definition": "when的定义",
+              "part_of_speech": "pronoun",
+              "learning_day": 3,
+              "category": "connectors_relational",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            }
+          ],
+          "auxiliary_supplemental": [
+            {
+              "word": "yes",
+              "definition": "yes的定义",
+              "part_of_speech": "interjection",
+              "learning_day": 3,
+              "category": "auxiliary_supplemental",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "wow",
+              "definition": "wow的定义",
+              "part_of_speech": "interjection",
+              "learning_day": 3,
+              "category": "auxiliary_supplemental",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            }
+          ]
+        },
+        "review_words": [
+          {
+            "word": "the",
+            "definition": "the的定义",
+            "part_of_speech": "noun",
+            "review_day": 3,
+            "last_reviewed": "2025-09-23",
+            "review_interval": 12,
+            "retention_rate": 0.88
+          },
+          {
+            "word": "and",
+            "definition": "and的定义",
+            "part_of_speech": "noun",
+            "review_day": 3,
+            "last_reviewed": "2025-09-29",
+            "review_interval": 8,
+            "retention_rate": 0.86
+          },
+          {
+            "word": "to",
+            "definition": "to的定义",
+            "part_of_speech": "noun",
+            "review_day": 3,
+            "last_reviewed": "2025-09-25",
+            "review_interval": 2,
+            "retention_rate": 0.82
+          },
+          {
+            "word": "of",
+            "definition": "of的定义",
+            "part_of_speech": "noun",
+            "review_day": 3,
+            "last_reviewed": "2025-09-23",
+            "review_interval": 3,
+            "retention_rate": 0.81
+          },
+          {
+            "word": "a",
+            "definition": "a的定义",
+            "part_of_speech": "noun",
+            "review_day": 3,
+            "last_reviewed": "2025-09-26",
+            "review_interval": 11,
+            "retention_rate": 0.74
+          },
+          {
+            "word": "in",
+            "definition": "in的定义",
+            "part_of_speech": "noun",
+            "review_day": 3,
+            "last_reviewed": "2025-09-26",
+            "review_interval": 12,
+            "retention_rate": 0.81
+          },
+          {
+            "word": "is",
+            "definition": "is的定义",
+            "part_of_speech": "noun",
+            "review_day": 3,
+            "last_reviewed": "2025-09-27",
+            "review_interval": 11,
+            "retention_rate": 0.94
+          },
+          {
+            "word": "it",
+            "definition": "it的定义",
+            "part_of_speech": "noun",
+            "review_day": 3,
+            "last_reviewed": "2025-09-26",
+            "review_interval": 6,
+            "retention_rate": 0.72
+          },
+          {
+            "word": "you",
+            "definition": "you的定义",
+            "part_of_speech": "noun",
+            "review_day": 3,
+            "last_reviewed": "2025-09-23",
+            "review_interval": 14,
+            "retention_rate": 0.74
+          },
+          {
+            "word": "that",
+            "definition": "that的定义",
+            "part_of_speech": "noun",
+            "review_day": 3,
+            "last_reviewed": "2025-09-23",
+            "review_interval": 10,
+            "retention_rate": 0.85
+          }
+        ],
+        "total_new": 10,
+        "total_review": 10
+      },
+      "morphology": {
+        "learning_points": [
+          {
+            "id": "morphology_3_1",
+            "name": "名词复数形式",
+            "category": "词形变化",
+            "description": "学习名词的复数变化规则",
+            "examples": [
+              "book → books",
+              "child → children",
+              "mouse → mice"
+            ],
+            "difficulty": "easy",
+            "learning_day": 3
+          },
+          {
+            "id": "morphology_3_2",
+            "name": "动词过去式",
+            "category": "时态变化",
+            "description": "学习规则和不规则动词的过去式",
+            "examples": [
+              "walk → walked",
+              "go → went",
+              "see → saw"
+            ],
+            "difficulty": "medium",
+            "learning_day": 3
+          }
+        ],
+        "review_points": [],
+        "total_points": 2
+      },
+      "syntax": {
+        "learning_points": [
+          {
+            "id": "syntax_3_1",
+            "name": "简单句结构",
+            "category": "句子结构",
+            "description": "学习主语+谓语+宾语的基本句子结构",
+            "examples": [
+              "I like books.",
+              "She reads novels.",
+              "We play games."
+            ],
+            "difficulty": "easy",
+            "learning_day": 3
+          },
+          {
+            "id": "syntax_3_2",
+            "name": "疑问句形式",
+            "category": "句型转换",
+            "description": "学习一般疑问句和特殊疑问句的构成",
+            "examples": [
+              "Do you like books?",
+              "What do you like?",
+              "Where is she?"
+            ],
+            "difficulty": "medium",
+            "learning_day": 3
+          }
+        ],
+        "review_points": [],
+        "total_points": 2
+      },
+      "study_time_estimate": "15分钟",
+      "generated_at": "2025-09-30T22:28:48.612893"
+    },
+    "day_4": {
+      "day": 4,
+      "date": "2025-10-03",
+      "plan_id": "20250930_214712",
+      "stage": "第一阶段：基础巩固 (小学中高年级)",
+      "daily_target": {
+        "new_words": 10,
+        "review_words": 10,
+        "morphology_units": 1,
+        "syntax_units": 1
+      },
+      "vocabulary": {
+        "new_words": {
+          "core_functional": [
+            {
+              "word": "small",
+              "definition": "small的定义",
+              "part_of_speech": "verb",
+              "learning_day": 4,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "tree",
+              "definition": "tree的定义",
+              "part_of_speech": "adjective",
+              "learning_day": 4,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "run",
+              "definition": "run的定义",
+              "part_of_speech": "verb",
+              "learning_day": 4,
+              "category": "core_functional",
+              "difficulty_level": "easy",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "big",
+              "definition": "big的定义",
+              "part_of_speech": "verb",
+              "learning_day": 4,
+              "category": "core_functional",
+              "difficulty_level": "easy",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "happy",
+              "definition": "happy的定义",
+              "part_of_speech": "adjective",
+              "learning_day": 4,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "book",
+              "definition": "book的定义",
+              "part_of_speech": "noun",
+              "learning_day": 4,
+              "category": "core_functional",
+              "difficulty_level": "easy",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "house",
+              "definition": "house的定义",
+              "part_of_speech": "adjective",
+              "learning_day": 4,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            }
+          ],
+          "connectors_relational": [
+            {
+              "word": "he",
+              "definition": "he的定义",
+              "part_of_speech": "conjunction",
+              "learning_day": 4,
+              "category": "connectors_relational",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            }
+          ],
+          "auxiliary_supplemental": [
+            {
+              "word": "should",
+              "definition": "should的定义",
+              "part_of_speech": "modal",
+              "learning_day": 4,
+              "category": "auxiliary_supplemental",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "yes",
+              "definition": "yes的定义",
+              "part_of_speech": "auxiliary",
+              "learning_day": 4,
+              "category": "auxiliary_supplemental",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            }
+          ]
+        },
+        "review_words": [
+          {
+            "word": "the",
+            "definition": "the的定义",
+            "part_of_speech": "noun",
+            "review_day": 4,
+            "last_reviewed": "2025-09-23",
+            "review_interval": 9,
+            "retention_rate": 0.77
+          },
+          {
+            "word": "and",
+            "definition": "and的定义",
+            "part_of_speech": "noun",
+            "review_day": 4,
+            "last_reviewed": "2025-09-29",
+            "review_interval": 4,
+            "retention_rate": 0.82
+          },
+          {
+            "word": "to",
+            "definition": "to的定义",
+            "part_of_speech": "noun",
+            "review_day": 4,
+            "last_reviewed": "2025-09-29",
+            "review_interval": 6,
+            "retention_rate": 0.85
+          },
+          {
+            "word": "of",
+            "definition": "of的定义",
+            "part_of_speech": "noun",
+            "review_day": 4,
+            "last_reviewed": "2025-09-26",
+            "review_interval": 9,
+            "retention_rate": 0.77
+          },
+          {
+            "word": "a",
+            "definition": "a的定义",
+            "part_of_speech": "noun",
+            "review_day": 4,
+            "last_reviewed": "2025-09-24",
+            "review_interval": 9,
+            "retention_rate": 0.94
+          },
+          {
+            "word": "in",
+            "definition": "in的定义",
+            "part_of_speech": "noun",
+            "review_day": 4,
+            "last_reviewed": "2025-09-28",
+            "review_interval": 14,
+            "retention_rate": 0.76
+          },
+          {
+            "word": "is",
+            "definition": "is的定义",
+            "part_of_speech": "noun",
+            "review_day": 4,
+            "last_reviewed": "2025-09-23",
+            "review_interval": 2,
+            "retention_rate": 0.74
+          },
+          {
+            "word": "it",
+            "definition": "it的定义",
+            "part_of_speech": "noun",
+            "review_day": 4,
+            "last_reviewed": "2025-09-27",
+            "review_interval": 9,
+            "retention_rate": 0.71
+          },
+          {
+            "word": "you",
+            "definition": "you的定义",
+            "part_of_speech": "noun",
+            "review_day": 4,
+            "last_reviewed": "2025-09-23",
+            "review_interval": 5,
+            "retention_rate": 0.94
+          },
+          {
+            "word": "that",
+            "definition": "that的定义",
+            "part_of_speech": "noun",
+            "review_day": 4,
+            "last_reviewed": "2025-09-26",
+            "review_interval": 5,
+            "retention_rate": 0.91
+          }
+        ],
+        "total_new": 10,
+        "total_review": 10
+      },
+      "morphology": {
+        "learning_points": [
+          {
+            "id": "morphology_4_1",
+            "name": "名词复数形式",
+            "category": "词形变化",
+            "description": "学习名词的复数变化规则",
+            "examples": [
+              "book → books",
+              "child → children",
+              "mouse → mice"
+            ],
+            "difficulty": "easy",
+            "learning_day": 4
+          },
+          {
+            "id": "morphology_4_2",
+            "name": "动词过去式",
+            "category": "时态变化",
+            "description": "学习规则和不规则动词的过去式",
+            "examples": [
+              "walk → walked",
+              "go → went",
+              "see → saw"
+            ],
+            "difficulty": "medium",
+            "learning_day": 4
+          }
+        ],
+        "review_points": [],
+        "total_points": 2
+      },
+      "syntax": {
+        "learning_points": [
+          {
+            "id": "syntax_4_1",
+            "name": "简单句结构",
+            "category": "句子结构",
+            "description": "学习主语+谓语+宾语的基本句子结构",
+            "examples": [
+              "I like books.",
+              "She reads novels.",
+              "We play games."
+            ],
+            "difficulty": "easy",
+            "learning_day": 4
+          },
+          {
+            "id": "syntax_4_2",
+            "name": "疑问句形式",
+            "category": "句型转换",
+            "description": "学习一般疑问句和特殊疑问句的构成",
+            "examples": [
+              "Do you like books?",
+              "What do you like?",
+              "Where is she?"
+            ],
+            "difficulty": "medium",
+            "learning_day": 4
+          }
+        ],
+        "review_points": [],
+        "total_points": 2
+      },
+      "study_time_estimate": "15分钟",
+      "generated_at": "2025-09-30T22:28:48.612955"
+    },
+    "day_5": {
+      "day": 5,
+      "date": "2025-10-04",
+      "plan_id": "20250930_214712",
+      "stage": "第一阶段：基础巩固 (小学中高年级)",
+      "daily_target": {
+        "new_words": 10,
+        "review_words": 10,
+        "morphology_units": 1,
+        "syntax_units": 1
+      },
+      "vocabulary": {
+        "new_words": {
+          "core_functional": [
+            {
+              "word": "happy",
+              "definition": "happy的定义",
+              "part_of_speech": "noun",
+              "learning_day": 5,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "book",
+              "definition": "book的定义",
+              "part_of_speech": "verb",
+              "learning_day": 5,
+              "category": "core_functional",
+              "difficulty_level": "easy",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "run",
+              "definition": "run的定义",
+              "part_of_speech": "noun",
+              "learning_day": 5,
+              "category": "core_functional",
+              "difficulty_level": "easy",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "tree",
+              "definition": "tree的定义",
+              "part_of_speech": "adjective",
+              "learning_day": 5,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "read",
+              "definition": "read的定义",
+              "part_of_speech": "adjective",
+              "learning_day": 5,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "cat",
+              "definition": "cat的定义",
+              "part_of_speech": "noun",
+              "learning_day": 5,
+              "category": "core_functional",
+              "difficulty_level": "easy",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "small",
+              "definition": "small的定义",
+              "part_of_speech": "noun",
+              "learning_day": 5,
+              "category": "core_functional",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            }
+          ],
+          "connectors_relational": [
+            {
+              "word": "very",
+              "definition": "very的定义",
+              "part_of_speech": "preposition",
+              "learning_day": 5,
+              "category": "connectors_relational",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            }
+          ],
+          "auxiliary_supplemental": [
+            {
+              "word": "will",
+              "definition": "will的定义",
+              "part_of_speech": "modal",
+              "learning_day": 5,
+              "category": "auxiliary_supplemental",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            },
+            {
+              "word": "wow",
+              "definition": "wow的定义",
+              "part_of_speech": "auxiliary",
+              "learning_day": 5,
+              "category": "auxiliary_supplemental",
+              "difficulty_level": "medium",
+              "estimated_learning_time": 1.0,
+              "fsrs_initial_interval": 1,
+              "stage": "elementary"
+            }
+          ]
+        },
+        "review_words": [
+          {
+            "word": "the",
+            "definition": "the的定义",
+            "part_of_speech": "noun",
+            "review_day": 5,
+            "last_reviewed": "2025-09-28",
+            "review_interval": 10,
+            "retention_rate": 0.91
+          },
+          {
+            "word": "and",
+            "definition": "and的定义",
+            "part_of_speech": "noun",
+            "review_day": 5,
+            "last_reviewed": "2025-09-24",
+            "review_interval": 14,
+            "retention_rate": 0.9
+          },
+          {
+            "word": "to",
+            "definition": "to的定义",
+            "part_of_speech": "noun",
+            "review_day": 5,
+            "last_reviewed": "2025-09-29",
+            "review_interval": 14,
+            "retention_rate": 0.75
+          },
+          {
+            "word": "of",
+            "definition": "of的定义",
+            "part_of_speech": "noun",
+            "review_day": 5,
+            "last_reviewed": "2025-09-25",
+            "review_interval": 14,
+            "retention_rate": 0.91
+          },
+          {
+            "word": "a",
+            "definition": "a的定义",
+            "part_of_speech": "noun",
+            "review_day": 5,
+            "last_reviewed": "2025-09-24",
+            "review_interval": 6,
+            "retention_rate": 0.88
+          },
+          {
+            "word": "in",
+            "definition": "in的定义",
+            "part_of_speech": "noun",
+            "review_day": 5,
+            "last_reviewed": "2025-09-23",
+            "review_interval": 5,
+            "retention_rate": 0.9
+          },
+          {
+            "word": "is",
+            "definition": "is的定义",
+            "part_of_speech": "noun",
+            "review_day": 5,
+            "last_reviewed": "2025-09-26",
+            "review_interval": 14,
+            "retention_rate": 0.74
+          },
+          {
+            "word": "it",
+            "definition": "it的定义",
+            "part_of_speech": "noun",
+            "review_day": 5,
+            "last_reviewed": "2025-09-24",
+            "review_interval": 1,
+            "retention_rate": 0.89
+          },
+          {
+            "word": "you",
+            "definition": "you的定义",
+            "part_of_speech": "noun",
+            "review_day": 5,
+            "last_reviewed": "2025-09-25",
+            "review_interval": 7,
+            "retention_rate": 0.84
+          },
+          {
+            "word": "that",
+            "definition": "that的定义",
+            "part_of_speech": "noun",
+            "review_day": 5,
+            "last_reviewed": "2025-09-26",
+            "review_interval": 5,
+            "retention_rate": 0.79
+          }
+        ],
+        "total_new": 10,
+        "total_review": 10
+      },
+      "morphology": {
+        "learning_points": [
+          {
+            "id": "morphology_5_1",
+            "name": "名词复数形式",
+            "category": "词形变化",
+            "description": "学习名词的复数变化规则",
+            "examples": [
+              "book → books",
+              "child → children",
+              "mouse → mice"
+            ],
+            "difficulty": "easy",
+            "learning_day": 5
+          },
+          {
+            "id": "morphology_5_2",
+            "name": "动词过去式",
+            "category": "时态变化",
+            "description": "学习规则和不规则动词的过去式",
+            "examples": [
+              "walk → walked",
+              "go → went",
+              "see → saw"
+            ],
+            "difficulty": "medium",
+            "learning_day": 5
+          }
+        ],
+        "review_points": [],
+        "total_points": 2
+      },
+      "syntax": {
+        "learning_points": [
+          {
+            "id": "syntax_5_1",
+            "name": "简单句结构",
+            "category": "句子结构",
+            "description": "学习主语+谓语+宾语的基本句子结构",
+            "examples": [
+              "I like books.",
+              "She reads novels.",
+              "We play games."
+            ],
+            "difficulty": "easy",
+            "learning_day": 5
+          },
+          {
+            "id": "syntax_5_2",
+            "name": "疑问句形式",
+            "category": "句型转换",
+            "description": "学习一般疑问句和特殊疑问句的构成",
+            "examples": [
+              "Do you like books?",
+              "What do you like?",
+              "Where is she?"
+            ],
+            "difficulty": "medium",
+            "learning_day": 5
+          }
+        ],
+        "review_points": [],
+        "total_points": 2
+      },
+      "study_time_estimate": "15分钟",
+      "generated_at": "2025-09-30T22:28:48.613017"
+    }
+  },
+  "generated_at": "2025-09-30T22:28:48.612616"
+}

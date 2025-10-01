@@ -1,0 +1,322 @@
+{
+  "day": 10,
+  "date": "2025-10-10",
+  "plan_id": "20251001_110940",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "doesn't",
+          "definition": "不",
+          "part_of_speech": "auxiliary/verb",
+          "learning_day": 10,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "sky",
+          "definition": "天空",
+          "part_of_speech": "noun",
+          "learning_day": 10,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "lobster",
+          "definition": "龙虾",
+          "part_of_speech": "noun",
+          "learning_day": 10,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "goat",
+          "definition": "山羊",
+          "part_of_speech": "noun",
+          "learning_day": 10,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "size",
+          "definition": "尺码",
+          "part_of_speech": "noun",
+          "learning_day": 10,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "bag",
+          "definition": "袋, 包",
+          "part_of_speech": "noun",
+          "learning_day": 10,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "kites",
+          "definition": "风筝",
+          "part_of_speech": "noun",
+          "learning_day": 10,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "often",
+          "definition": "常常;经常",
+          "part_of_speech": "adverb",
+          "learning_day": 10,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "this evening",
+          "definition": "今天晚上",
+          "part_of_speech": "phrase",
+          "learning_day": 10,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "watch insects",
+          "definition": "观察昆虫",
+          "part_of_speech": "phrase",
+          "learning_day": 10,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "New York",
+        "definition": "New York的定义",
+        "part_of_speech": "noun",
+        "review_day": 10,
+        "last_reviewed": "2025-09-23",
+        "review_interval": 7,
+        "retention_rate": 0.79,
+        "fsrs_due": true,
+        "days_since_learned": 9
+      },
+      {
+        "word": "see",
+        "definition": "see的定义",
+        "part_of_speech": "noun",
+        "review_day": 10,
+        "last_reviewed": "2025-09-30",
+        "review_interval": 8,
+        "retention_rate": 0.89,
+        "fsrs_due": true,
+        "days_since_learned": 9
+      },
+      {
+        "word": "over",
+        "definition": "over的定义",
+        "part_of_speech": "noun",
+        "review_day": 10,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 10,
+        "retention_rate": 0.94,
+        "fsrs_due": true,
+        "days_since_learned": 9
+      },
+      {
+        "word": "this morning",
+        "definition": "this morning的定义",
+        "part_of_speech": "noun",
+        "review_day": 10,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 4,
+        "retention_rate": 0.94,
+        "fsrs_due": true,
+        "days_since_learned": 9
+      },
+      {
+        "word": "Social Studies",
+        "definition": "Social Studies的定义",
+        "part_of_speech": "noun",
+        "review_day": 10,
+        "last_reviewed": "2025-09-25",
+        "review_interval": 9,
+        "retention_rate": 0.83,
+        "fsrs_due": true,
+        "days_since_learned": 9
+      },
+      {
+        "word": "come",
+        "definition": "come的定义",
+        "part_of_speech": "noun",
+        "review_day": 10,
+        "last_reviewed": "2025-09-25",
+        "review_interval": 4,
+        "retention_rate": 0.8,
+        "fsrs_due": true,
+        "days_since_learned": 9
+      },
+      {
+        "word": "yummy",
+        "definition": "yummy的定义",
+        "part_of_speech": "noun",
+        "review_day": 10,
+        "last_reviewed": "2025-09-29",
+        "review_interval": 7,
+        "retention_rate": 0.94,
+        "fsrs_due": true,
+        "days_since_learned": 9
+      },
+      {
+        "word": "any",
+        "definition": "any的定义",
+        "part_of_speech": "noun",
+        "review_day": 10,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 10,
+        "retention_rate": 0.82,
+        "fsrs_due": true,
+        "days_since_learned": 9
+      },
+      {
+        "word": "match",
+        "definition": "match的定义",
+        "part_of_speech": "noun",
+        "review_day": 10,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 8,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 9
+      },
+      {
+        "word": "Halloween",
+        "definition": "Halloween的定义",
+        "part_of_speech": "noun",
+        "review_day": 10,
+        "last_reviewed": "2025-09-25",
+        "review_interval": 3,
+        "retention_rate": 0.73,
+        "fsrs_due": true,
+        "days_since_learned": 9
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "比较级/最高级 (Comparative/Superlative)_7",
+        "name": "比较级/最高级 (Comparative/Superlative)",
+        "category": "形式变化",
+        "description": "比较事物的大小、多少、好坏等。",
+        "examples": [
+          "一般加-er/-est (tall-taller-tallest, big-bigger-biggest)",
+          "部分不规则变化 (good-better-best)"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 10
+      },
+      {
+        "id": "名词 (Noun)_0",
+        "name": "名词 (Noun)",
+        "category": "词性",
+        "description": "表示人、事物、地点、概念等。",
+        "examples": [
+          "识别常见名词（如：apple, book, cat, school, teacher）。",
+          "区分可数名词与不可数名词（初步）。",
+          "学习名词的单数形式。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 10
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "主谓宾状结构 (Subject-Verb-Object-Adverbial)_4",
+        "name": "主谓宾状结构 (Subject-Verb-Object-Adverbial)",
+        "category": "句法结构",
+        "description": "在 SVO 基础上增加状语。",
+        "examples": [
+          "She reads a book in the library.",
+          "He came home yesterday."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 10
+      },
+      {
+        "id": "Imperative (Command/Request)_15",
+        "name": "Imperative (Command/Request)",
+        "category": "句型模式",
+        "description": "祈使句 (Imperative Sentence) - 发出指令或请求。",
+        "examples": [
+          "Open the door.",
+          "Please sit down.",
+          "Don't run."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 10
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": []
+    },
+    "practice_exercises": {
+      "practice_exercises": []
+    },
+    "generated_at": "2025-10-01T12:47:04.319334",
+    "error": "生成失败: 已达到最大重试次数",
+    "generation_attempt": 3
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T12:47:04.319406",
+  "generation_attempt": 1
+}

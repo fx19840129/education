@@ -129,8 +129,12 @@
     "learning_content": {
       "name": "学习内容生成",
       "description": "生成学习相关的句子、练习和内容",
-      "preferred_models": ["glm-4.5-turbo"],
-      "fallback_models": ["glm-4.5-flash"],
+      "preferred_models": [
+        "glm-4.5-turbo"
+      ],
+      "fallback_models": [
+        "glm-4.5-flash"
+      ],
       "temperature": 0.7,
       "max_tokens": 1000,
       "timeout": 30
@@ -138,8 +142,12 @@
     "grammar_explanation": {
       "name": "语法解释",
       "description": "解释语法规则和用法",
-      "preferred_models": ["glm-4.5-flash"],
-      "fallback_models": ["glm-4.5-turbo"],
+      "preferred_models": [
+        "glm-4.5-flash"
+      ],
+      "fallback_models": [
+        "glm-4.5-turbo"
+      ],
       "temperature": 0.5,
       "max_tokens": 1500,
       "timeout": 45
@@ -147,8 +155,12 @@
     "exercise_generation": {
       "name": "练习生成",
       "description": "生成各种类型的练习题",
-      "preferred_models": ["glm-4.5-flash"],
-      "fallback_models": ["glm-4.5-turbo"],
+      "preferred_models": [
+        "glm-4.5-flash"
+      ],
+      "fallback_models": [
+        "glm-4.5-turbo"
+      ],
       "temperature": 0.8,
       "max_tokens": 2000,
       "timeout": 60
@@ -156,8 +168,12 @@
     "code_generation": {
       "name": "代码生成",
       "description": "生成和优化代码",
-     "preferred_models": ["glm-4.5-flash"],
-      "fallback_models": ["glm-4.5-turbo"],
+      "preferred_models": [
+        "glm-4.5-flash"
+      ],
+      "fallback_models": [
+        "glm-4.5-turbo"
+      ],
       "temperature": 0.3,
       "max_tokens": 4000,
       "timeout": 90
@@ -165,8 +181,12 @@
     "creative_writing": {
       "name": "创意写作",
       "description": "创意内容生成和写作",
-      "preferred_models": ["glm-4.5-flash"],
-      "fallback_models": ["glm-4.5-turbo"],
+      "preferred_models": [
+        "glm-4.5-flash"
+      ],
+      "fallback_models": [
+        "glm-4.5-turbo"
+      ],
       "temperature": 0.9,
       "max_tokens": 3000,
       "timeout": 60
@@ -174,8 +194,12 @@
     "quick_response": {
       "name": "快速响应",
       "description": "需要快速响应的简单任务",
-      "preferred_models": ["glm-4.5-flash"],
-      "fallback_models": ["glm-4.5-turbo"],
+      "preferred_models": [
+        "glm-4.5-flash"
+      ],
+      "fallback_models": [
+        "glm-4.5-turbo"
+      ],
       "temperature": 0.6,
       "max_tokens": 500,
       "timeout": 15
@@ -185,17 +209,30 @@
     "by_cost": {
       "enabled": true,
       "description": "根据成本选择最便宜的可用模型",
-      "order": ["glm-4.5-flash", "glm-4.5-turbo", "deepseek-chat"]
+      "order": [
+        "glm-4.5-flash",
+        "glm-4.5-turbo",
+        "deepseek-chat"
+      ]
     },
     "by_performance": {
       "enabled": true,
       "description": "根据性能选择最快的模型",
-      "order": ["glm-4.5-flash", "glm-4.5-turbo", "deepseek-chat"]
+      "order": [
+        "glm-4.5-flash",
+        "glm-4.5-turbo",
+        "deepseek-chat"
+      ]
     },
     "by_quality": {
       "enabled": true,
       "description": "根据质量选择最好的模型",
-      "order": ["glm-4.5", "deepseek-chat", "gpt-3.5-turbo", "glm-4.5-flash"]
+      "order": [
+        "glm-4.5",
+        "deepseek-chat",
+        "gpt-3.5-turbo",
+        "glm-4.5-flash"
+      ]
     }
   },
   "monitoring": {

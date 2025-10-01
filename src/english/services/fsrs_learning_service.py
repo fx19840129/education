@@ -10,7 +10,7 @@ import sys
 project_root = Path(__file__).parent.parent.parent.parent
 sys.path.append(str(project_root))
 
-from src.english.services.vocab_selector import VocabSelector
+from src.english.services.vocabulary_selection_service import VocabSelector
 
 
 class FSRSLearningGenerator:

@@ -1,48 +1,25 @@
 {
-  "id": "20250930_214712",
+  "id": "20251001_105334",
   "type": "fsrs_learning_template",
   "metadata": {
     "stage": "第一阶段：基础巩固 (小学中高年级)",
     "days": 80,
-    "minutes_per_day": 15,
+    "minutes_per_day": 20,
     "ai_model": "GLM-GLM-4.5",
-    "generated_at": "2025-09-30T21:47:12.305077",
-    "ai_response_time": 58.5188992023468,
+    "generated_at": "2025-10-01T10:53:34.620095",
+    "ai_response_time": 44.974344968795776,
     "ai_usage": {
-      "completion_tokens": 3700,
+      "completion_tokens": 5225,
       "prompt_tokens": 1650,
       "prompt_tokens_details": {
         "cached_tokens": 0
       },
-      "total_tokens": 5350
+      "total_tokens": 6875
     },
     "retry_count": 1
   },
   "fsrs_template": {
     "scheduler_config": {
-      "parameters": [
-        1.2,
-        0.6,
-        2.2,
-        0.09,
-        0.25,
-        0.6,
-        0.15,
-        0.1,
-        0.15,
-        0.15,
-        0.2,
-        0.8,
-        2.5,
-        0.5,
-        0.5,
-        0.2,
-        0.2,
-        0.15,
-        0.15,
-        0.1,
-        0.1
-      ],
       "desired_retention": 0.9,
       "learning_steps": [
         1,
@@ -51,16 +28,37 @@
       "relearning_steps": [
         10
       ],
-      "maximum_interval": 693,
-      "enable_fuzzing": true
+      "maximum_interval": 657,
+      "enable_fuzzing": true,
+      "parameters": [
+        0.40255,
+        1.18385,
+        3.173,
+        15.471,
+        7.2102,
+        0.5316,
+        1.0651,
+        0.0234,
+        1.617,
+        0.154,
+        1.0933,
+        2.7918,
+        0.1467,
+        0.2925,
+        2.2496,
+        0.2375,
+        2.9987,
+        0.9165,
+        0.634,
+        1.5977,
+        0.0
+      ]
     },
     "cards": [],
     "learning_plan_metadata": {
       "total_study_days": 80,
-      "daily_learning_minutes_target": 15,
+      "daily_learning_minutes_target": 20,
       "total_words": 984,
-      "total_morphology_units": 13,
-      "total_syntax_units": 16,
       "estimated_avg_word_rotations_per_cycle": 4.0,
       "learning_efficiency_estimate": 1.0,
       "review_efficiency_estimate": 0.6,
@@ -75,16 +73,18 @@
       "avg_review_morphology_units_per_day": 1,
       "avg_new_syntax_units_per_day": 1,
       "avg_review_syntax_units_per_day": 1,
-      "suggested_morphology_practice_minutes": 0,
+      "morphology_rotations_per_cycle": 2.6,
+      "syntax_rotations_per_cycle": 2.0,
+      "suggested_morphology_practice_minutes": 4,
       "suggested_syntax_practice_minutes": 0,
-      "word_rotation_frequency": 2.0,
-      "morphology_rotation_frequency": 2.566,
-      "syntax_rotation_frequency": 2.0
+      "new_word_first_review_interval_days": 0.355,
+      "morphology_first_review_interval_days": 0.32,
+      "syntax_first_review_interval_days": 0.37
     },
     "word_categories": {
       "core_functional_percentage": 78.9,
-      "connectors_relational_percentage": 11.17,
-      "auxiliary_supplemental_percentage": 9.93
+      "connectors_relational_percentage": 11.16,
+      "auxiliary_supplemental_percentage": 9.94
     },
     "card_template": {
       "id": "PLACEHOLDER_ID",
@@ -103,13 +103,13 @@
       "review_logs": []
     },
     "review_rating_guide": {
-      "1": "Completely forgot",
-      "2": "Barely remembered",
-      "3": "Remembered with effort",
-      "4": "Easily remembered"
+      "1": "完全忘记",
+      "2": "记忆模糊，需要提示",
+      "3": "记忆正确，但需要思考",
+      "4": "完全记住，轻松回忆"
     },
     "implementation_notes": "For high-intensity 1:1 ratio, shorten intervals by 10%; cap reviews at new words; allocate morphology/syntax evenly with 2.0 rotations/day; trim practice first if time overflows.",
-    "generated_at": "2023-11-07T12:00:00Z",
+    "generated_at": "2023-11-15T12:00:00Z",
     "format_version": "1.0"
   }
 }

@@ -1,0 +1,401 @@
+{
+  "day": 33,
+  "date": "2025-11-02",
+  "plan_id": "20251001_110940",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "shark",
+          "definition": "鲨鱼",
+          "part_of_speech": "noun",
+          "learning_day": 33,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "cheap",
+          "definition": "便宜的",
+          "part_of_speech": "adjective",
+          "learning_day": 33,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "cat",
+          "definition": "猫",
+          "part_of_speech": "noun",
+          "learning_day": 33,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "smart",
+          "definition": "聪明的;巧妙的",
+          "part_of_speech": "adjective",
+          "learning_day": 33,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "younger",
+          "definition": "更年轻的",
+          "part_of_speech": "adjective",
+          "learning_day": 33,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "thing",
+          "definition": "东西；物",
+          "part_of_speech": "noun",
+          "learning_day": 33,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "assistant",
+          "definition": "售货员",
+          "part_of_speech": "noun",
+          "learning_day": 33,
+          "category": "core_functional",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "straight",
+          "definition": "成直线地",
+          "part_of_speech": "adjective/adverb",
+          "learning_day": 33,
+          "category": "connectors_relational",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "in front of",
+          "definition": "在…前面",
+          "part_of_speech": "phrase",
+          "learning_day": 33,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "a little",
+          "definition": "有些",
+          "part_of_speech": "phrase",
+          "learning_day": 33,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [
+      {
+        "word": "play",
+        "definition": "play的定义",
+        "part_of_speech": "noun",
+        "review_day": 33,
+        "last_reviewed": "2025-09-06",
+        "review_interval": 8,
+        "retention_rate": 0.85,
+        "fsrs_due": true,
+        "days_since_learned": 32
+      },
+      {
+        "word": "older",
+        "definition": "older的定义",
+        "part_of_speech": "noun",
+        "review_day": 33,
+        "last_reviewed": "2025-09-18",
+        "review_interval": 14,
+        "retention_rate": 0.78,
+        "fsrs_due": true,
+        "days_since_learned": 32
+      },
+      {
+        "word": "piano",
+        "definition": "piano的定义",
+        "part_of_speech": "noun",
+        "review_day": 33,
+        "last_reviewed": "2025-09-24",
+        "review_interval": 2,
+        "retention_rate": 0.81,
+        "fsrs_due": true,
+        "days_since_learned": 32
+      },
+      {
+        "word": "water the flowers",
+        "definition": "water the flowers的定义",
+        "part_of_speech": "noun",
+        "review_day": 33,
+        "last_reviewed": "2025-09-28",
+        "review_interval": 11,
+        "retention_rate": 0.74,
+        "fsrs_due": true,
+        "days_since_learned": 32
+      },
+      {
+        "word": "Mon.",
+        "definition": "Mon.的定义",
+        "part_of_speech": "noun",
+        "review_day": 33,
+        "last_reviewed": "2025-09-01",
+        "review_interval": 14,
+        "retention_rate": 0.71,
+        "fsrs_due": true,
+        "days_since_learned": 32
+      },
+      {
+        "word": "does",
+        "definition": "does的定义",
+        "part_of_speech": "noun",
+        "review_day": 33,
+        "last_reviewed": "2025-09-04",
+        "review_interval": 10,
+        "retention_rate": 0.86,
+        "fsrs_due": true,
+        "days_since_learned": 32
+      },
+      {
+        "word": "just do it",
+        "definition": "just do it的定义",
+        "part_of_speech": "noun",
+        "review_day": 33,
+        "last_reviewed": "2025-09-09",
+        "review_interval": 12,
+        "retention_rate": 0.84,
+        "fsrs_due": true,
+        "days_since_learned": 32
+      },
+      {
+        "word": "must",
+        "definition": "must的定义",
+        "part_of_speech": "noun",
+        "review_day": 33,
+        "last_reviewed": "2025-09-14",
+        "review_interval": 9,
+        "retention_rate": 0.78,
+        "fsrs_due": true,
+        "days_since_learned": 32
+      },
+      {
+        "word": "pork",
+        "definition": "pork的定义",
+        "part_of_speech": "noun",
+        "review_day": 33,
+        "last_reviewed": "2025-09-25",
+        "review_interval": 12,
+        "retention_rate": 0.74,
+        "fsrs_due": true,
+        "days_since_learned": 32
+      },
+      {
+        "word": "hospital",
+        "definition": "hospital的定义",
+        "part_of_speech": "noun",
+        "review_day": 33,
+        "last_reviewed": "2025-09-22",
+        "review_interval": 4,
+        "retention_rate": 0.81,
+        "fsrs_due": true,
+        "days_since_learned": 32
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "形容词 (Adjective)_6",
+        "name": "形容词 (Adjective)",
+        "category": "词性",
+        "description": "修饰名词，说明事物的性质、状态。",
+        "examples": [
+          "学习常见形容词（如：big, small, tall, nice, good, happy）。",
+          "形容词一般放在名词前。",
+          "初步接触形容词的比较级和最高级（如 big-bigger-biggest）。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 33
+      },
+      {
+        "id": "副词 (Adverb)_8",
+        "name": "副词 (Adverb)",
+        "category": "词性",
+        "description": "修饰动词、形容词或其他副词。",
+        "examples": [
+          "学习常见副词（如：very, quickly - 初步）。",
+          "许多副词由形容词加-ly构成。",
+          "表示时间、地点、方式等（初步）。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 33
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "主谓宾状结构 (Subject-Verb-Object-Adverbial)_4",
+        "name": "主谓宾状结构 (Subject-Verb-Object-Adverbial)",
+        "category": "句法结构",
+        "description": "在 SVO 基础上增加状语。",
+        "examples": [
+          "She reads a book in the library.",
+          "He came home yesterday."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 33
+      },
+      {
+        "id": "This is... / That is..._13",
+        "name": "This is... / That is...",
+        "category": "句型模式",
+        "description": "陈述句 (Declarative Sentence) - 指示和介绍事物。",
+        "examples": [
+          "This is my cat."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 33
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "The smart cat jumped over the wall quickly.",
+          "translation": "聪明的猫快速地跳过了墙。",
+          "morphology_rule": "使用了形容词 'smart' 来修饰名词 'cat'，以及副词 'quickly' 来修饰动词 'jumped'。",
+          "syntactic_structure": "主谓宾状结构 (Subject-Verb-Object-Adverbial)",
+          "difficulty": 2.5,
+          "explanation": "句子运用了形容词和副词，符合主谓宾状结构。"
+        },
+        {
+          "sentence": "This is my piano, and I play it every Mon.",
+          "translation": "这是我的钢琴，我每周一弹它。",
+          "morphology_rule": "使用了形容词性物主代词 'my' 来修饰名词 'piano'。",
+          "syntactic_structure": "This is... 结构和主谓宾状结构。",
+          "difficulty": 2.5,
+          "explanation": "使用了 'This is...' 句型介绍事物，并结合复习单词 'piano' 和 'play'。"
+        },
+        {
+          "sentence": "The shark swam straight towards the shore.",
+          "translation": "鲨鱼直接游向岸边。",
+          "morphology_rule": "使用了副词 'straight' 来修饰动词 'swam'。",
+          "syntactic_structure": "主谓宾状结构 (Subject-Verb-Object-Adverbial)",
+          "difficulty": 2.5,
+          "explanation": "句子中 'straight' 的使用展示了副词的用法。"
+        },
+        {
+          "sentence": "He must water the flowers in front of the hospital.",
+          "translation": "他必须在医院前面浇花。",
+          "morphology_rule": "使用了情态动词 'must'。",
+          "syntactic_structure": "主谓宾状结构 (Subject-Verb-Object-Adverbial)",
+          "difficulty": 2.5,
+          "explanation": "句子中包含了复习短语 'water the flowers' 和新学短语 'in front of'。"
+        },
+        {
+          "sentence": "My assistant is younger than my older brother.",
+          "translation": "我的助手比我哥哥年轻。",
+          "morphology_rule": "使用形容词比较级 'younger' 和 'older'。",
+          "syntactic_structure": "主谓宾结构 (Subject-Verb-Object)",
+          "difficulty": 3,
+          "explanation": "运用了形容词比较级来比较年龄。"
+        },
+        {
+          "sentence": "That is a cheap pork sandwich.",
+          "translation": "那是一个便宜的猪肉三明治。",
+          "morphology_rule": "使用形容词 'cheap' 来修饰名词 'sandwich'。",
+          "syntactic_structure": "That is... 结构",
+          "difficulty": 2,
+          "explanation": "使用 'That is...' 句型介绍事物，并结合复习单词 'pork'。"
+        },
+        {
+          "sentence": "Just do it a little faster, please.",
+          "translation": "请稍微快一点做。",
+          "morphology_rule": "使用副词 'faster' 和短语 'a little'。",
+          "syntactic_structure": "祈使句 (Imperative Sentence)",
+          "difficulty": 2.5,
+          "explanation": "结合了副词和常用短语以表达请求。"
+        },
+        {
+          "sentence": "The smart dog does tricks very well.",
+          "translation": "聪明的狗表演得很好。",
+          "morphology_rule": "使用形容词 'smart' 和副词 'very'。",
+          "syntactic_structure": "主谓宾状结构 (Subject-Verb-Object-Adverbial)",
+          "difficulty": 2.5,
+          "explanation": "展示了形容词和程度副词的用法。"
+        },
+        {
+          "sentence": "He walked straight into the hospital.",
+          "translation": "他直接走进了医院。",
+          "morphology_rule": "使用副词 'straight'。",
+          "syntactic_structure": "主谓宾状结构 (Subject-Verb-Object-Adverbial)",
+          "difficulty": 2,
+          "explanation": "句子展示了副词修饰动词的用法。"
+        },
+        {
+          "sentence": "Cats are curious things.",
+          "translation": "猫是好奇的生物。",
+          "morphology_rule": "使用名词 'things' 来指代事物。",
+          "syntactic_structure": "主系表结构 (Subject-Linking Verb-Complement)",
+          "difficulty": 2,
+          "explanation": "展示了名词在句子中的应用。"
+        }
+      ]
+    },
+    "practice_exercises": {
+      "practice_exercises": []
+    },
+    "generated_at": "2025-10-01T15:03:17.967418",
+    "generation_attempt": 1
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T15:03:17.967468",
+  "generation_attempt": 1
+}

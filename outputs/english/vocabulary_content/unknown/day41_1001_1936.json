@@ -1,0 +1,412 @@
+{
+  "day": 41,
+  "date": "2025-11-10",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [],
+      "connectors_relational": [],
+      "auxiliary_supplemental": []
+    },
+    "review_words": [
+      {
+        "word": "thin",
+        "definition": "thin的定义",
+        "part_of_speech": "noun",
+        "review_day": 41,
+        "last_reviewed": "2025-09-09",
+        "review_interval": 3,
+        "retention_rate": 0.88,
+        "fsrs_due": true,
+        "days_since_learned": 35
+      },
+      {
+        "word": "a little",
+        "definition": "a little的定义",
+        "part_of_speech": "noun",
+        "review_day": 41,
+        "last_reviewed": "2025-09-01",
+        "review_interval": 7,
+        "retention_rate": 0.82,
+        "fsrs_due": true,
+        "days_since_learned": 1
+      },
+      {
+        "word": "say",
+        "definition": "say的定义",
+        "part_of_speech": "noun",
+        "review_day": 41,
+        "last_reviewed": "2025-09-20",
+        "review_interval": 2,
+        "retention_rate": 0.88,
+        "fsrs_due": true,
+        "days_since_learned": 40
+      },
+      {
+        "word": "cabbage",
+        "definition": "cabbage的定义",
+        "part_of_speech": "noun",
+        "review_day": 41,
+        "last_reviewed": "2025-09-19",
+        "review_interval": 5,
+        "retention_rate": 0.87,
+        "fsrs_due": true,
+        "days_since_learned": 37
+      },
+      {
+        "word": "play sports",
+        "definition": "play sports的定义",
+        "part_of_speech": "noun",
+        "review_day": 41,
+        "last_reviewed": "2025-09-04",
+        "review_interval": 14,
+        "retention_rate": 0.82,
+        "fsrs_due": true,
+        "days_since_learned": 33
+      },
+      {
+        "word": "old",
+        "definition": "old的定义",
+        "part_of_speech": "noun",
+        "review_day": 41,
+        "last_reviewed": "2025-09-03",
+        "review_interval": 15,
+        "retention_rate": 0.78,
+        "fsrs_due": true,
+        "days_since_learned": 22
+      },
+      {
+        "word": "Wed.",
+        "definition": "Wed.的定义",
+        "part_of_speech": "noun",
+        "review_day": 41,
+        "last_reviewed": "2025-09-02",
+        "review_interval": 2,
+        "retention_rate": 0.83,
+        "fsrs_due": true,
+        "days_since_learned": 26
+      },
+      {
+        "word": "find",
+        "definition": "find的定义",
+        "part_of_speech": "noun",
+        "review_day": 41,
+        "last_reviewed": "2025-09-30",
+        "review_interval": 13,
+        "retention_rate": 0.85,
+        "fsrs_due": true,
+        "days_since_learned": 37
+      },
+      {
+        "word": "classroom",
+        "definition": "classroom的定义",
+        "part_of_speech": "noun",
+        "review_day": 41,
+        "last_reviewed": "2025-09-26",
+        "review_interval": 4,
+        "retention_rate": 0.77,
+        "fsrs_due": true,
+        "days_since_learned": 32
+      },
+      {
+        "word": "nice",
+        "definition": "nice的定义",
+        "part_of_speech": "noun",
+        "review_day": 41,
+        "last_reviewed": "2025-09-02",
+        "review_interval": 6,
+        "retention_rate": 0.81,
+        "fsrs_due": true,
+        "days_since_learned": 8
+      }
+    ],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "name": "名词 (Noun)",
+        "type": "词性",
+        "description": "表示人、事物、地点、概念等。",
+        "rules": "识别常见名词",
+        "examples": [
+          "apple",
+          "book",
+          "cat"
+        ]
+      },
+      {
+        "name": "动词 (Verb)",
+        "type": "词性",
+        "description": "表示动作或状态。",
+        "rules": "学习动词原形",
+        "examples": [
+          "run",
+          "eat",
+          "sleep"
+        ]
+      }
+    ],
+    "total_points": 2,
+    "difficulty": "elementary",
+    "learning_day": 41
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "name": "否定句 (Negation)",
+        "type": "句法结构",
+        "structure": "Subject + don't/doesn't + Verb",
+        "description": "否定句结构",
+        "examples": [
+          "I don't like it.",
+          "She doesn't know."
+        ]
+      },
+      {
+        "name": "基本语序 (Basic Word Order)",
+        "type": "句法结构",
+        "structure": "SVO",
+        "description": "主语-谓语-宾语",
+        "examples": [
+          "I eat apples.",
+          "She reads books."
+        ]
+      }
+    ],
+    "total_points": 2,
+    "difficulty": "elementary",
+    "learning_day": 41
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "I don't play sports.",
+          "translation": "我不做运动。",
+          "morphology_rule": "动词 (Verb)",
+          "syntactic_structure": "否定句 (Negation)",
+          "difficulty": 2.5,
+          "explanation": "句子使用否定句结构，表示不进行某个动作。"
+        },
+        {
+          "sentence": "The old book is thin.",
+          "translation": "这本旧书很薄。",
+          "morphology_rule": "名词 (Noun)",
+          "syntactic_structure": "基本语序 (Basic Word Order)",
+          "difficulty": 2.5,
+          "explanation": "名词'book'和形容词'old'描述一个事物，附加形容词'thin'。"
+        },
+        {
+          "sentence": "Wed. is a nice day.",
+          "translation": "星期三是个好日子。",
+          "morphology_rule": "名词 (Noun)",
+          "syntactic_structure": "基本语序 (Basic Word Order)",
+          "difficulty": 2.5,
+          "explanation": "名词'Wed.'作为主语，描述星期三。"
+        },
+        {
+          "sentence": "I find a little cabbage.",
+          "translation": "我找到了一个小白菜。",
+          "morphology_rule": "动词 (Verb)",
+          "syntactic_structure": "基本语序 (Basic Word Order)",
+          "difficulty": 2.5,
+          "explanation": "动词'find'表示动作，名词'cabbage'为宾语。"
+        },
+        {
+          "sentence": "She doesn't say anything.",
+          "translation": "她什么都没说。",
+          "morphology_rule": "动词 (Verb)",
+          "syntactic_structure": "否定句 (Negation)",
+          "difficulty": 2.5,
+          "explanation": "使用否定句表示没有进行说话的动作。"
+        },
+        {
+          "sentence": "The classroom is nice.",
+          "translation": "教室很漂亮。",
+          "morphology_rule": "名词 (Noun)",
+          "syntactic_structure": "基本语序 (Basic Word Order)",
+          "difficulty": 2.5,
+          "explanation": "名词'classroom'作为主语，形容词'nice'描述教室。"
+        },
+        {
+          "sentence": "He finds the old classroom.",
+          "translation": "他找到了旧教室。",
+          "morphology_rule": "动词 (Verb)",
+          "syntactic_structure": "基本语序 (Basic Word Order)",
+          "difficulty": 2.5,
+          "explanation": "动词'finds'表示动作，形容词'old'描述教室。"
+        },
+        {
+          "sentence": "I say that the book is thin.",
+          "translation": "我说这本书很薄。",
+          "morphology_rule": "动词 (Verb)",
+          "syntactic_structure": "基本语序 (Basic Word Order)",
+          "difficulty": 2.5,
+          "explanation": "动词'say'表示动作，名词'book'为宾语。"
+        },
+        {
+          "sentence": "Wednesday is a little old.",
+          "translation": "星期三有点旧。",
+          "morphology_rule": "名词 (Noun)",
+          "syntactic_structure": "基本语序 (Basic Word Order)",
+          "difficulty": 2.5,
+          "explanation": "名词'Wednesday'作为主语，形容词'old'描述时间。"
+        },
+        {
+          "sentence": "She doesn't play sports.",
+          "translation": "她不做运动。",
+          "morphology_rule": "动词 (Verb)",
+          "syntactic_structure": "否定句 (Negation)",
+          "difficulty": 2.5,
+          "explanation": "使用否定句表示没有进行运动的动作。"
+        }
+      ],
+      "generated_at": "2025-10-01T19:36:07.854738",
+      "generation_method": "openai_gpt4o_100_coverage"
+    },
+    "practice_exercises": {
+      "practice_exercises": [
+        {
+          "id": 1,
+          "type": "choice",
+          "question": "Which sentence is correct?",
+          "options": [
+            "I doesn't play sports.",
+            "I don't plays sports.",
+            "I don't play sports.",
+            "I not play sports."
+          ],
+          "correct_answer": "I don't play sports.",
+          "morphology_rule": "主语+助动词+动词原形",
+          "syntactic_structure": "否定句结构",
+          "difficulty": 2.5,
+          "explanation": "注意助动词和动词的搭配使用。"
+        },
+        {
+          "id": 2,
+          "type": "choice",
+          "question": "What is the correct description for the book?",
+          "options": [
+            "The old book is thick.",
+            "The book is nice.",
+            "The old book is thin.",
+            "The book is old."
+          ],
+          "correct_answer": "The old book is thin.",
+          "morphology_rule": "形容词修饰名词",
+          "syntactic_structure": "主语+系动词+形容词",
+          "difficulty": 2.5,
+          "explanation": "形容词用来描述名词的特征。"
+        },
+        {
+          "id": 3,
+          "type": "choice",
+          "question": "Which day is mentioned in the sentences?",
+          "options": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "correct_answer": "Wednesday",
+          "morphology_rule": "专有名词的使用",
+          "syntactic_structure": "名词用作主语",
+          "difficulty": 2.5,
+          "explanation": "注意区分专有名词和普通名词。"
+        },
+        {
+          "id": 4,
+          "type": "choice",
+          "question": "What does she not do?",
+          "options": [
+            "She doesn't say anything.",
+            "She doesn't find a book.",
+            "She doesn't play sports.",
+            "She doesn't go to school."
+          ],
+          "correct_answer": "She doesn't play sports.",
+          "morphology_rule": "否定句的构成",
+          "syntactic_structure": "主语+助动词+动词原形",
+          "difficulty": 2.5,
+          "explanation": "理解否定句中助动词和动词的搭配。"
+        },
+        {
+          "id": 5,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "我不做运动。",
+          "english_text": "I don't play sports.",
+          "morphology_rule": "否定句的结构",
+          "syntactic_structure": "主语+助动词+动词原形",
+          "difficulty": 2.5,
+          "explanation": "否定句中需要使用助动词'do not'。"
+        },
+        {
+          "id": 6,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "她什么都没说。",
+          "english_text": "She doesn't say anything.",
+          "morphology_rule": "否定句的构成",
+          "syntactic_structure": "主语+助动词+动词原形+宾语",
+          "difficulty": 2.5,
+          "explanation": "注意否定句中'anything'的使用。"
+        },
+        {
+          "id": 7,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "旧书很薄。",
+          "english_text": "The old book is thin.",
+          "morphology_rule": "形容词修饰名词",
+          "syntactic_structure": "主语+系动词+形容词",
+          "difficulty": 2.5,
+          "explanation": "形容词'old'和'thin'用于描述名词'book'。"
+        },
+        {
+          "id": 8,
+          "type": "translation",
+          "question": "请将以下中文翻译成英文",
+          "chinese_text": "教室很不错。",
+          "english_text": "The classroom is nice.",
+          "morphology_rule": "形容词修饰名词",
+          "syntactic_structure": "主语+系动词+形容词",
+          "difficulty": 2.5,
+          "explanation": "形容词'nice'用于描述名词'classroom'。"
+        },
+        {
+          "id": 9,
+          "type": "fill_blank",
+          "question": "请填入适当的单词",
+          "sentence": "He finds the ___ classroom.",
+          "answer": "old",
+          "morphology_rule": "形容词修饰名词",
+          "syntactic_structure": "主语+动词+定冠词+形容词+名词",
+          "difficulty": 2.5,
+          "explanation": "形容词'old'用于描述名词'classroom'。"
+        },
+        {
+          "id": 10,
+          "type": "fill_blank",
+          "question": "请填入适当的单词",
+          "sentence": "I say that the book is ___.",
+          "answer": "thin",
+          "morphology_rule": "形容词修饰名词",
+          "syntactic_structure": "主语+动词+从句",
+          "difficulty": 2.5,
+          "explanation": "形容词'thin'用于描述名词'book'。"
+        }
+      ],
+      "generated_at": "2025-10-01T19:36:19.614637",
+      "generation_method": "openai_gpt4o_from_sentences"
+    },
+    "generated_at": "2025-10-01T19:36:19.614660",
+    "generation_strategy": "sentences_first_exercises_follow"
+  },
+  "study_time_estimate": "20分钟",
+  "generated_at": "2025-10-01T19:36:19.614698",
+  "generation_attempt": 1,
+  "plan_id": "unknown"
+}

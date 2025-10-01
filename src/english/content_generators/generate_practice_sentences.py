@@ -15,10 +15,10 @@ project_root = Path(__file__).parent.parent.parent.parent
 sys.path.append(str(project_root))
 
 from src.english.content_generators.coordinate_learning_content import LearningContentGenerator
-from src.english.services.fsrs_learning_generator import FSRSLearningGenerator
-from src.english.generate_morphology_content import MorphologyContentGenerator
-from src.english.generate_syntax_content import SyntaxContentGenerator
-from src.english.english_prompt_generator import EnglishLearningPromptGenerator
+from src.english.services.fsrs_learning_service import FSRSLearningGenerator
+from src.english.services.word_morphology_service import MorphologyService
+from src.english.services.sentence_syntax_service import SyntaxService
+from src.english.utils.ai_prompt_builder import EnglishLearningPromptGenerator
 from src.shared.ai_framework.unified_ai_client import UnifiedAIClient, AIModel
 
 
@@ -27,27 +27,87 @@ class PracticeSentencesGenerator:
     
     def __init__(self):
         self.plan_reader = LearningContentGenerator()
-        self.fsrs_generator = FSRSLearningGenerator()
-        self.morphology_generator = MorphologyContentGenerator()
-        self.syntax_generator = SyntaxContentGenerator()
+        self.fsrs_service = FSRSLearningGenerator()
+        self.morphology_service = MorphologyService()
+        self.syntax_service = SyntaxService()
         self.prompt_generator = EnglishLearningPromptGenerator()
         self.ai_client = UnifiedAIClient(default_model=AIModel.GLM_45)
     
-    def generate_daily_sentences(self, learning_plan: Dict, target_date: str = None) -> Dict:
+    def generate_daily_sentences(self, learning_plan: Dict, target_date: str = None, vocabulary_content: Dict = None) -> Dict:
         """生成指定日期的练习句子"""
         if target_date is None:
             target_date = datetime.now().strftime("%Y-%m-%d")
         
         stage = learning_plan.get("metadata", {}).get("stage", "")
         
-        # 获取当天的学习内容
-        daily_words = self.fsrs_generator.generate_daily_learning_content(learning_plan, target_date)
-        daily_morphology = self.morphology_generator.generate_daily_morphology(learning_plan, target_date)
-        daily_syntax = self.syntax_generator.generate_daily_syntax(learning_plan, target_date)
+        # 从词汇内容中提取新学词汇和复习词汇
+        new_words_data = {}
+        review_words = []
+        
+        if vocabulary_content and 'vocabulary' in vocabulary_content:
+            vocab = vocabulary_content['vocabulary']
+            
+            # 提取新学词汇
+            new_words_categories = vocab.get('new_words', {})
+            all_new_words = []
+            
+            for category, words_list in new_words_categories.items():
+                for word_data in words_list:
+                    all_new_words.append({
+                        'word': word_data.get('word', ''),
+                        'translation': word_data.get('definition', ''),
+                        'pos': word_data.get('part_of_speech', 'unknown'),
+                        'difficulty': word_data.get('difficulty_level', 'medium'),
+                        'category': category
+                    })
+            
+            # 按词性分组新学词汇
+            pos_content = {}
+            for word in all_new_words:
+                pos = word['pos']
+                if pos not in pos_content:
+                    pos_content[pos] = []
+                pos_content[pos].append(word)
+            
+            new_words_data = {
+                "pos_content": pos_content
+            }
+            
+            # 提取复习词汇
+            review_words = vocab.get('review_words', [])
+        
+        # 获取词法和句法内容
+        morphology_points = self.morphology_service.get_morphology_points(stage)
+        syntax_points = self.syntax_service.get_syntax_points(stage)
+        
+        # 转换为所需格式
+        daily_morphology = {
+            "morphology_items": [
+                {
+                    "name": point.name,
+                    "type": point.category,
+                    "description": point.description,
+                    "rules": point.examples[:3] if point.examples else []
+                }
+                for point in morphology_points[:2]  # 只取前2个
+            ]
+        }
+        
+        daily_syntax = {
+            "syntax_items": [
+                {
+                    "name": point.name,
+                    "type": point.category,
+                    "structure": f"{point.name} - {point.description}",
+                    "examples": point.examples[:2] if point.examples else []
+                }
+                for point in syntax_points[:2]  # 只取前2个
+            ]
+        }
         
         # 生成AI提示词
         prompt = self.prompt_generator.generate_practice_sentences_prompt(
-            daily_words, daily_morphology, daily_syntax, stage
+            new_words_data, daily_morphology, daily_syntax, stage, review_words
         )
         
         # 调用AI生成练习句子

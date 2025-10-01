@@ -1,0 +1,515 @@
+{
+  "day": 1,
+  "date": "2025-10-01",
+  "plan_id": "20250930_214712",
+  "stage": "第一阶段：基础巩固 (小学中高年级)",
+  "daily_target": {
+    "new_words": 10,
+    "review_words": 10,
+    "morphology_units": 1,
+    "syntax_units": 1
+  },
+  "vocabulary": {
+    "new_words": {
+      "core_functional": [
+        {
+          "word": "sure",
+          "definition": "确定地",
+          "part_of_speech": "adjective/adverb",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "write",
+          "definition": "写",
+          "part_of_speech": "verb",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "mountain",
+          "definition": "山；山脉",
+          "part_of_speech": "noun",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "policeman",
+          "definition": "警察",
+          "part_of_speech": "noun",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "bank",
+          "definition": "银行",
+          "part_of_speech": "noun",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "duck",
+          "definition": "鸭子",
+          "part_of_speech": "noun",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "make",
+          "definition": "制作",
+          "part_of_speech": "verb",
+          "learning_day": 1,
+          "category": "core_functional",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "connectors_relational": [
+        {
+          "word": "thirty",
+          "definition": "三十",
+          "part_of_speech": "numeral",
+          "learning_day": 1,
+          "category": "connectors_relational",
+          "difficulty_level": "medium",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ],
+      "auxiliary_supplemental": [
+        {
+          "word": "go skiing",
+          "definition": "去滑雪",
+          "part_of_speech": "phrase",
+          "learning_day": 1,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        },
+        {
+          "word": "next week",
+          "definition": "下周",
+          "part_of_speech": "phrase",
+          "learning_day": 1,
+          "category": "auxiliary_supplemental",
+          "difficulty_level": "hard",
+          "estimated_learning_time": 1.0,
+          "fsrs_initial_interval": 1,
+          "stage": "小学"
+        }
+      ]
+    },
+    "review_words": [],
+    "total_new": 10,
+    "total_review": 10
+  },
+  "morphology": {
+    "learning_points": [
+      {
+        "id": "名词 (Noun)_0",
+        "name": "名词 (Noun)",
+        "category": "词性",
+        "description": "表示人、事物、地点、概念等。",
+        "examples": [
+          "识别常见名词（如：apple, book, cat, school, teacher）。",
+          "区分可数名词与不可数名词（初步）。",
+          "学习名词的单数形式。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 1
+      },
+      {
+        "id": "动词 (Verb)_3",
+        "name": "动词 (Verb)",
+        "category": "词性",
+        "description": "表示动作或状态。",
+        "examples": [
+          "学习一般现在时（Present Simple）的动词原形和第三人称单数形式（加-s）。",
+          "识别常见情态动词（can, may - 初步）。",
+          "识别 be 动词（am, is, are）的不同形式。",
+          "识别常见动词词组（如: play, eat, go, have, like）。"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 1
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "syntax": {
+    "learning_points": [
+      {
+        "id": "Is/Am/Are...?_11",
+        "name": "Is/Am/Are...?",
+        "category": "句型模式",
+        "description": "一般疑问句 (Yes/No Question) - 询问状态/身份（be 动词）。",
+        "examples": [
+          "Is she your friend?"
+        ],
+        "difficulty": "elementary",
+        "learning_day": 1
+      },
+      {
+        "id": "主谓双宾结构 (Subject-Verb-Indirect Object-Direct Object)_5",
+        "name": "主谓双宾结构 (Subject-Verb-Indirect Object-Direct Object)",
+        "category": "句法结构",
+        "description": "动词后跟两个宾语。",
+        "examples": [
+          "He gave me a pen.",
+          "He gave a pen to me."
+        ],
+        "difficulty": "elementary",
+        "learning_day": 1
+      }
+    ],
+    "review_points": [],
+    "total_points": 2
+  },
+  "practice": {
+    "practice_sentences": {
+      "practice_sentences": [
+        {
+          "sentence": "Is the policeman sure about the bank?",
+          "translation": "警察对银行确定吗？",
+          "target_words": [
+            "policeman",
+            "sure",
+            "bank"
+          ],
+          "new_words": [
+            "policeman",
+            "sure",
+            "bank"
+          ],
+          "review_words": [],
+          "morphology_rule": "一般疑问句",
+          "syntactic_structure": "Is/Am/Are...?",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "询问警察是否对银行的信息确定。"
+        },
+        {
+          "sentence": "He will make thirty ducks next week.",
+          "translation": "他下周将制作三十只鸭子。",
+          "target_words": [
+            "make",
+            "thirty",
+            "duck",
+            "next week"
+          ],
+          "new_words": [
+            "make",
+            "thirty",
+            "duck",
+            "next week"
+          ],
+          "review_words": [],
+          "morphology_rule": "动词原形",
+          "syntactic_structure": "主谓宾结构",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "描述一个未来的计划，制作鸭子。"
+        },
+        {
+          "sentence": "Can she write about the mountain?",
+          "translation": "她能写关于山的文章吗？",
+          "target_words": [
+            "write",
+            "mountain"
+          ],
+          "new_words": [
+            "write",
+            "mountain"
+          ],
+          "review_words": [],
+          "morphology_rule": "情态动词can",
+          "syntactic_structure": "一般疑问句",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "询问她是否有能力写关于山的内容。"
+        },
+        {
+          "sentence": "Are you sure to go skiing next week?",
+          "translation": "你确定下周去滑雪吗？",
+          "target_words": [
+            "sure",
+            "go skiing",
+            "next week"
+          ],
+          "new_words": [
+            "sure",
+            "go skiing",
+            "next week"
+          ],
+          "review_words": [],
+          "morphology_rule": "一般疑问句",
+          "syntactic_structure": "Is/Am/Are...?",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "询问对下周滑雪计划的确定性。"
+        },
+        {
+          "sentence": "He gave the policeman a duck.",
+          "translation": "他给了警察一只鸭子。",
+          "target_words": [
+            "gave",
+            "policeman",
+            "duck"
+          ],
+          "new_words": [
+            "policeman",
+            "duck"
+          ],
+          "review_words": [
+            "gave"
+          ],
+          "morphology_rule": "动词过去式",
+          "syntactic_structure": "主谓双宾结构",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "描述给警察一只鸭子的动作。"
+        },
+        {
+          "sentence": "Is there a bank near the mountain?",
+          "translation": "山附近有银行吗？",
+          "target_words": [
+            "bank",
+            "mountain"
+          ],
+          "new_words": [
+            "bank",
+            "mountain"
+          ],
+          "review_words": [],
+          "morphology_rule": "一般疑问句",
+          "syntactic_structure": "Is/Am/Are...?",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "询问山的附近是否有银行。"
+        },
+        {
+          "sentence": "She made thirty sure ducks.",
+          "translation": "她制作了三十只确定的鸭子。",
+          "target_words": [
+            "made",
+            "thirty",
+            "sure",
+            "duck"
+          ],
+          "new_words": [
+            "thirty",
+            "sure",
+            "duck"
+          ],
+          "review_words": [
+            "made"
+          ],
+          "morphology_rule": "动词过去式",
+          "syntactic_structure": "主谓宾结构",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "描述制作三十只确定的鸭子的动作。"
+        },
+        {
+          "sentence": "Can the policeman go skiing?",
+          "translation": "警察能去滑雪吗？",
+          "target_words": [
+            "policeman",
+            "go skiing"
+          ],
+          "new_words": [
+            "policeman",
+            "go skiing"
+          ],
+          "review_words": [],
+          "morphology_rule": "情态动词can",
+          "syntactic_structure": "一般疑问句",
+          "difficulty": 3.0,
+          "exercise_type": "translation",
+          "explanation": "询问警察是否能去滑雪。"
+        }
+      ]
+    },
+    "practice_exercises": {
+      "practice_exercises": [
+        {
+          "id": 1,
+          "type": "choice",
+          "question": "Which word is a noun?",
+          "options": [
+            "sure",
+            "write",
+            "mountain",
+            "make"
+          ],
+          "correct_answer": "C",
+          "explanation": "A noun is a word that represents a person, place, thing, or concept. 'Mountain' is a noun because it represents a thing.",
+          "target_words": [
+            "mountain"
+          ],
+          "morphology_points": [
+            "Noun: Represents people, things, places, concepts"
+          ],
+          "syntax_structure": null,
+          "difficulty": 3.0
+        },
+        {
+          "id": 2,
+          "type": "choice",
+          "question": "What is the third-person singular form of 'write'?",
+          "options": [
+            "writes",
+            "writing",
+            "wrote",
+            "write"
+          ],
+          "correct_answer": "A",
+          "explanation": "In the present simple tense, the third-person singular form of a verb typically adds an -s. Therefore, 'write' becomes 'writes'.",
+          "target_words": [
+            "write"
+          ],
+          "morphology_points": [
+            "Verb: Learn the base form and third-person singular form (adding -s)"
+          ],
+          "syntax_structure": null,
+          "difficulty": 3.0
+        },
+        {
+          "id": 3,
+          "type": "translation",
+          "question": "Please translate the following Chinese into English:",
+          "chinese_text": "他下周去滑雪。",
+          "english_text": "He will go skiing next week.",
+          "explanation": "The phrase '下周' translates to 'next week', and '去滑雪' translates to 'go skiing'.",
+          "target_words": [
+            "go skiing",
+            "next week"
+          ],
+          "morphology_points": [],
+          "syntax_structure": null,
+          "difficulty": 3.0
+        },
+        {
+          "id": 4,
+          "type": "translation",
+          "question": "Please translate the following English into Chinese:",
+          "chinese_text": "这座山很高。",
+          "english_text": "The mountain is very tall.",
+          "explanation": "The word 'mountain' translates to '山', and 'very tall' translates to '很高'.",
+          "target_words": [
+            "mountain"
+          ],
+          "morphology_points": [],
+          "syntax_structure": null,
+          "difficulty": 3.0
+        },
+        {
+          "id": 5,
+          "type": "fill_blank",
+          "question": "Please fill in the appropriate word:",
+          "sentence": "The ___ helped the children cross the street.",
+          "answer": "policeman",
+          "explanation": "The context suggests that the person assisting the children is likely a 'policeman', a noun representing a person.",
+          "target_words": [
+            "policeman"
+          ],
+          "morphology_points": [
+            "Noun: Represents people, things, places, concepts"
+          ],
+          "syntax_structure": null,
+          "difficulty": 3.0
+        },
+        {
+          "id": 6,
+          "type": "fill_blank",
+          "question": "Please fill in the appropriate number:",
+          "sentence": "There are ___ days in a month.",
+          "answer": "thirty",
+          "explanation": "The sentence refers to a typical number of days in a month. 'Thirty' is a numeral representing this quantity.",
+          "target_words": [
+            "thirty"
+          ],
+          "morphology_points": [
+            "Noun: Represents people, things, places, concepts"
+          ],
+          "syntax_structure": null,
+          "difficulty": 3.0
+        },
+        {
+          "id": 7,
+          "type": "choice",
+          "question": "Is this sentence correct? 'He make a cake.'",
+          "options": [
+            "Yes",
+            "No, it should be 'makes'",
+            "No, it should be 'maked'",
+            "No, it should be 'making'"
+          ],
+          "correct_answer": "B",
+          "explanation": "In the present simple tense, the third-person singular form of 'make' is 'makes'.",
+          "target_words": [
+            "make"
+          ],
+          "morphology_points": [
+            "Verb: Learn the base form and third-person singular form (adding -s)"
+          ],
+          "syntax_structure": null,
+          "difficulty": 3.0
+        },
+        {
+          "id": 8,
+          "type": "choice",
+          "question": "Which of these is a place where you can save money?",
+          "options": [
+            "mountain",
+            "bank",
+            "duck",
+            "write"
+          ],
+          "correct_answer": "B",
+          "explanation": "A 'bank' is a place, and in this context, it refers to a financial institution where money is saved.",
+          "target_words": [
+            "bank"
+          ],
+          "morphology_points": [
+            "Noun: Represents people, things, places, concepts"
+          ],
+          "syntax_structure": null,
+          "difficulty": 3.0
+        }
+      ]
+    },
+    "generated_at": "2025-10-01T09:27:15.811306"
+  },
+  "study_time_estimate": "15分钟",
+  "generated_at": "2025-10-01T09:27:15.811731"
+}
